@@ -4,6 +4,11 @@ on:
   schedule:
     # 毎日 UTC 0:00 (日本時間 9:00) に実行
     - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - manus_input.md
   workflow_dispatch: # 手動でテスト実行するためのボタンを表示
 
 permissions:
