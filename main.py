@@ -1,5 +1,6 @@
 import feedparser
 import datetime
+from urllib.parse import quote_plus
 
 # --- 設定 ---
 # 取得したいキーワード
@@ -11,7 +12,8 @@ def get_latest_trends():
     """Google News RSSからキーワードに関連する最新記事を取得"""
     combined_entries = []
     for kw in KEYWORDS:
-        rss_url = f"https://news.google.com/rss/search?q={kw}&hl=ja&gl=JP&ceid=JP:ja"
+        encoded_kw = quote_plus(kw)
+        rss_url = f"https://news.google.com/rss/search?q={encoded_kw}&hl=ja&gl=JP&ceid=JP:ja"
         feed = feedparser.parse(rss_url)
         # 各キーワードから上位2件をピックアップ
         combined_entries.extend(feed.entries[:2])
