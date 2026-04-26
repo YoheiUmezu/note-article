@@ -22,10 +22,10 @@
 - タイトル: 組織文化と問い・編集力・仕組みが事業変革を導く ―日本型DXの本質と展望 - NEC wisdom
   URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE51Q3BTSEdlOVFqeHVrdXhUMkRHamRVeUFuazZfUEVGeGF0SEtWZzVvTHdOdUVCLWpUNlhOS0h1NUZ4amRxZ2hlWWUyUUdoMnpRc3Z2cFVLSWd1WENiaU1MVVZLVnk0R2pvVnJDVmU5VjZwXzFoTXU4?oc=5
 
-- タイトル: DX推進で企業文化に亀裂が生じるワケ - Forbes JAPAN
-  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wRlUtczg3dnFpNVIzS1ZqWmhlX0k5Y0tsQlZaZ0dxeW94ODh1YkZPcGhlY3hmRmxxRjE5aVhGeHVNYXA4YlF2VGhYYkF2ZlJFQm5jRDlUWnM?oc=5
+- タイトル: 45％が直面する「DX人材の壁」……いつまでも育たない企業に欠けている“2つの視点” - ビジネス+IT
+  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WbXlNMU1JY2tHQm11S3JtT0RfdzdDekhLLUs4SmtERFZvODlDaWotUW5jRUtSY0hUSXpnNHl3aDFoQ2ttNmpCMVFfWC1SeFk?oc=5
 
 
 # Manusへの追加指示
 上記のトピックから1つ以上を引用し、日本のEX/従業員エンゲージメント業界を盛り上げる記事を書いてください。
-セールスエンジニアの視点で、現場の泥臭い課題（稟議の通りにくさ、ITリテラシーの壁など）を具体的に含めてください。
+SEとしての「現場のリアル」と「ウィット」の注入- 各記事の締めくくりに、**【SEの独り言：現場の解像度】**というセクションを必ず設けてください。ここでは、AIが書いたような教科書的な結論ではなく、以下のトーンで「現場の生々しい本音」を2〜3行で表現してください。-視点: 30代の現役シニアSE。外資の合理性と日本の商習慣の板挟みを楽しんでいる。-トーン:冷静だが少し皮肉（witty）が含まれている。-ポイント:「制度」や「ツール」ではなく、「人の感情や組織の力学」にフォーカスする。
