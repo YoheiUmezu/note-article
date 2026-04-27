@@ -1,31 +1,31 @@
 # 本日の執筆テーマ: 経営戦略
 
-- 生成日時 (JST): 2026-04-27 15:17:27
+- 生成日時 (JST): 2026-04-27 15:17:31
 
 ## 収集された最新トピック
-- タイトル: 従業員エンゲージメント ソフトウェア市場規模とシェア [2034 年] - Fortune Business Insights
-  URL: https://news.google.com/rss/articles/CBMiwwJBVV95cUxQVmUzUm0wdDh4Z2NYR2l1T241VzJaZmdHX0ctcldta2luaGJpYlJDYktZQ2NXT05pclY5OENndERiQlA3RnVxaEp5eUNFMkdJZ09sVUYwazdhbm1LZ0FNT25pdmpOMmFiVE9rMUFHd3pIWUo2SndrWXF0cElFZ3ZXaDhQNXozSGdQSC1IU1JJTWFtTGItOXhydlRaTmFzQ1dIZkVQZEgxazZkU0E1bThCYWg0clhwbFQtdUV2ZDZFbDduSXlTNjhkWEFVakN1Q0YwMk1DbVo3T215ZkRIRE12blQzT1F2LUVPTmhjMEQ4NWM5QWtQSXFERkRlVnRhdHJ5WVVXV0NJaDhuZHpLcXBUZXozVko1S2JvLWxRbUQ1ekdOeFJxZVVORk9kMTREZThGdmNrYmpNN3F3NjJIWXZRQktrWQ?oc=5
+- タイトル: ギフティ×宣伝会議「従業員エンゲージメント研究会」を発足 従業員体験の可視化や自分事化に必要なこととは？ 実務家が徹底討論 - AdverTimes.（アドタイ） by 宣伝会議
+  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0YmVQa1JGZm5LMUJQSnJNcWVoeXlobXMxYm1CdEVobXpLbWJPNFgzQWxJbnFJbG9VWmVVd0Y1S0UwUE95SnpIb0VkX1l3WFpoUmNjSGJmc0N2UWpEcHg0?oc=5
 
-- タイトル: デロイト トーマツ、従業員エンゲージメント向上支援ツール「Engagement Agent」の提供を開始 - Deloitte
-  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFA2em9scWJUUi1uNEhMU0dUQmdMMVpCekhYT1JhR3FkUW1xV2c2NVFxVEVCQ3QtdFhpYnNwSEJwRFhJYVoxckZkNlFqTVd0UFItWnBqYkQxUWg5Qkh4emlBYld6c1lXV01UOHBESXhUXzE?oc=5
+- タイトル: 従業員エンゲージメントスコア、世界優良基準を継続達成！MVV浸透が強固な基盤を確立 - 共同通信PRワイヤー
+  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE9URjdLVl80ZTF5YVUwU2lzVGdTcmVWQWw0WklJOHBBMzRoZkVSc05OUkJWQVhZSGx5NTc5VkFsckhaandpTTNFbWJBMHpZZzVnZGtDLVg5QkN2d1E?oc=5
 
-- タイトル: CX・EX向上を実現したさくらインターネット Zoomが営業にもたらすAI・データ活用の未来とは - SalesZine
-  URL: https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tVkNKY1ZEOHRPWWExSjZ1SkN0QnBQV3RUYTJmS204aHVGMTBCbmNuZlM5YXI5cnJaUFlJSTl0UnZhM2Z1VzVNd3FaUlFwNWI4T3c?oc=5
+- タイトル: Carbon EX、東京都カーボンクレジットマーケットとのAPI連携で利便性向上を実現 - ニュースメディアVOIX
+  URL: https://news.google.com/rss/articles/CBMibkFVX3lxTFA5cTZuNVlwMUxkSGtZUW5nLWpMbXpqU09PSUVGYWVuSk9YSFIzYXk4VVhUb3lFckY0THZ5Q3UxemZsRFQ0eFFOQjlFV1NtSDEwMlRBUmktN28zUjVqa2h2VUxRU2xvR1gyR2pheTJB?oc=5
 
-- タイトル: 丸亀製麺の感動体験はAIで加速 「うどーなつ」2000万食の裏に従業員改革 - 日経クロストレンド
-  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JOXRPSkd2eWtmY2I2UjAxUUFzV09oQjVpMGN4dzZodUhOWVlvVlZBWTZpU0hHVjd4a1M2UkRXYXF4VlRUNjYtYkVHRWdPRDBqRnhhYWNrTHE0UnoxZXBiSzNmdmtJQQ?oc=5
+- タイトル: バニッシュ・スタンダード、「SCビジネスフェア2026」に初出展。SCの「人材定着率」や「売上」を向上させるソリューションを提案。 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9jYWs4M0RNT0RFN0RwZHlud3dpS24yYWpFUzZFbDdXeDd0cFBWQXpLbkFvZlFsaWFxX0pXcVc2NzZiTjA5QVhQQmJMcGp4T1MyT0J5dWtXYThYYUhJTFJmMm11T2ZWZG5xS2c?oc=5
 
-- タイトル: 広報×メタバースはどうなる？広報施策に取り入れる4つの方法【事例紹介】 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mY0JFRlVIcVBBQ2tsT0dlMVdWdmt4M3ZNWlJscXEyVTB5cUJxdDRFN0w0VVpvRHF5MkwyNWo3TmdfZTVOTHhHTUZUZ3hjbzg?oc=5
+- タイトル: 新任広報担当者必見！メディアの人に会ったとき「最初の1分」で伝えるべきこと｜笹木郁乃 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BQ1pNR3I5UzVwSE4wT09iTW1JLWpCZ0pYNFJ6TUJqRGhtMEdxNG8xVE0xY0NlczZINmkxRjAzelpndnVIclFjbWVjb2R0YnlIM2xiRkRPQ0Qwdw?oc=5
 
-- タイトル: 自治体が今やっておきたい広報活動｜住民に伝わる広報誌とメディアにひびくプレスリリース - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE8zbmM0SG9BSW1iVlJ3WDItS0RqdFg5aThERGhPaHA1U1Jfa3g0RExYcFhDYzR5N1hVaHNSb3NLTUxkY3RHUWpGQ1JUcm54OWtVeXI3ZXBkeVB2eHZYQUFQSkZNa0pQNDVpOUE?oc=5
+- タイトル: 海外向け広報「グローバル・パブリックリレーションズ（PR）」の基礎知識と成功のポイントを解説 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE9acFREeFpZdXZTLWkwVkowdTU1TlJZSGJCM1Y5NHpTem1ESGtxVHFRNlBDUGYzWlV2d1lFVUJtb0VBdnZfY2s1MmVHcE1HVl9ERmhWSXVMVGRxclJka28yWFVB?oc=5
 
-- タイトル: アダストリアの海外事業を成長させたDX戦略 組織文化の変革には何が必要なのか●6/5（水）13時〆切 - MarkeZine
-  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4MlZTLU9vR3FZZ3Vyd2VYQzNPNUZZdUFvVk1xWDFnN1dhT2IxNG1XM3VFVHYzZ2ZiTnpaNU5vSDJ5VTJvcGl1NlJQZ0ZxeUE?oc=5
+- タイトル: 第4回：知見活用の当たり前化と文化醸成（展望編）--製造業DXを持続させるカギとは - ZDNET Japan
+  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XTGhWZ1kwdHhDSlYwUFYyXzliM2tldDc1VWxTZTJxcGpxcXBkQU12UDVnS0phRVVnempvUW9JWkxyS2xSTHFTWDhzNzdqcTQ0cTFz?oc=5
 
-- タイトル: 「デジタル化」のその先へ！ 長野の中小企業がDXで挑む市場変化という魔物：DXにはアナログな部分がとても大事（1/3 ページ） - ITmedia
-  URL: https://news.google.com/rss/articles/CBMickFVX3lxTE5BcGRSLXZyMkFIZmFTTWQxUUowNFhycTdNTGZnM1lGa3dUYmhEODZUWHp2bFMwY0MzQWE2WGFqOV92dWNqY0RMZVhvU1JURzA5X3hQcEV0bWlVcWh2VlR3VUZ0V2pjSld4aVNrMTg2YktCUQ?oc=5
+- タイトル: スタンレー電気が挑む人事 DX とグローバル変革 - システム刷新を超えた組織文化の統一へ - - SAP News Center
+  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XRFIweTFvSkZ6RG05N1dsQ19hMGYxWmhnVDJpenN1d2lkWXJLYlFoVC1KdGpVN3NFTnFRNXoyNksxclREUlFjcDFCOHFfZ3dxQTln?oc=5
 
 
 # Manusへの追加指示
