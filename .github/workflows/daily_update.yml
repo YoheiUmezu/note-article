@@ -42,4 +42,18 @@ jobs:
             exit 0
           fi
           git commit -m "chore: update daily manus input"
+          if git push origin HEAD:main; then
+            exit 0
+          fi
+
+          echo "Push failed due to concurrent update; retrying once..."
+          git fetch origin main
+          git reset --hard origin/main
+          python main.py
+          git add manus_input.md used_links.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit after refresh"
+            exit 0
+          fi
+          git commit -m "chore: update daily manus input (retry)"
           git push origin HEAD:main
