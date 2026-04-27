@@ -1,31 +1,31 @@
 # 本日の執筆テーマ: 経営戦略
 
-- 生成日時 (JST): 2026-04-27 15:14:22
+- 生成日時 (JST): 2026-04-27 15:14:44
 
 ## 収集された最新トピック
-- タイトル: 従業員エンゲージメント市場に関する調査を実施（2025年） - yano.co.jp
-  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yX0hEazNKWXptU0xidUlreTJGelRtRkQ0TVlJRGppZ0o5cTV1ZEZhMXdGbzAzSENvenZaSlZXMkhNS2xPYzVRRzdjenBybnRtSEdqSzFCT2N6QUdjVF9ZU3BMMTZVdw?oc=5
+- タイトル: 従業員エンゲージメントは最低水準の20％、背景にAI: ギャラップ社 - alterna.co.jp
+  URL: https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sNG9ia2RTQWZOODgya0QzdnFUR20zTl9qcWluTjRSMVlOLWtNUVBDRTM3b0g1clhQYjgwVjB4MmlhZnd4WmNHLQ?oc=5
 
-- タイトル: 「従業員エンゲージメントとキャリア充足度」に関する研究結果を公開 - lmi.ne.jp
-  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOc2lSUDJhZjVVVjh4aUtJNEI2Njh1TVlHYUEyMU1VUEplSk13S2JKUjBDYzJwbEZ0LUI5M3lYN3RNTmJ1Y3hkRktIWk5WUFVjZG9ydVFhQ3lJRkthMVp2eEpuWHhTQQ?oc=5
+- タイトル: 【従業員エンゲージメント】日本は世界最下位、米国は第2位、意外な第1位は？ - ダイヤモンド・オンライン
+  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uenpWN3BXMzd0dUdwU0VvQXFBNno3czdkOUVOLW94UVVaRHR0Xzg5V3dUdlRSWE1NVUhXRGEyWURpZUZYa1I2bTBRTGTSAU9BVV95cUxQUnJuV0ZlLXFLY0Z4TEIxWHR1NE15bE5faFVQT1k5SktuVFVvQWIzZGRLWDBuYnJJTk9YZ3RnQm9NZnJJeWF4N0kzLVg1TVJ3?oc=5
 
-- タイトル: AIの力で企業の事業成長・生産性向上を実現する新コミュニケーションサービス ｢docomo business ANCAR™｣を12月から提供開始 - NTTドコモビジネス
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Hb1VSU0V6elVoZndWdm1jSWw3NV9RNVJwcFd1ano2TzhNaTNQQXN6QlhDb1ZEVFR5U1NxNW8yRE9VOTJWVzRvZVlHbjRDY2dDUl9XTzBHTWpLd3hlLWlB?oc=5
+- タイトル: 「今すぐ相談」がCXを変え、 従業員体験（EX）に繋がる。 - ビジネス+IT
+  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YaF9pcGhXLTVNem9ERUJPY2dfS0xHMGF5b01NRFlJWXFNeWVqTXgyTlBEWUFJZUF5QklRd21TWXNMMFdUU01mRWJmMlg?oc=5
 
-- タイトル: 丸亀製麺などを運営するトリドールHDがEX向上に「Commune for Work」導入—コミューン - HRzine
-  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BM2FQclVGa0czdmFFRHdGWUJhYjlIZkNQZ014djJYSFkwV0RseDlhUXdkel8yeGRjYmtJblVkWkM5WUhVbDlOdFVR?oc=5
+- タイトル: CX領域におけるAIによるプロセス変革を支援する『CX AI STUDIO™』を提供開始―“AIのチームメイト”とともに従業員体験と顧客体験を同時に変革し、ブランド成長を支援―｜ニュースリリース｜博報堂 HAKUHODO Inc. - hakuhodo.co.jp
+  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwdzcxWHQ1b1h1MFBkbmhZZlByNXNtOXlZMGlHdEtCemphSDZWTGR6c0lQNll2ei1kOElrakVWNmtNMU50cng0OHlvckxQWEVoMTlobzNab0N1ZHZWR3MyRg?oc=5
 
-- タイトル: アプリの公開を広く届けるPR施策｜効果的なプレスリリースの書き方・配信事例5選 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsbC0zbV9ERzdSODlWd0xwdENzWkdFUEI5NEdnRlBHVVJZWFJ0VU9BanpFWV9WcWJQb3NoMjdMbm9ySFBHM010WXNtTmoteTN2aWxXS29nZ0NiaXZVVHM4?oc=5
+- タイトル: 働き方改革の具体例32選｜企業の取り組み事例と広報PR戦略・ポイントを解説 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLQVZ3Q1U0VmtTQnV1MWk0ZGsyeC0yZFQwLXZIOXlzbFJYSTM0OTU0X21iWjJrN3VYVzhud0NOUF9YMnZaalk5RXJkUm85NG44Yjl3YkRkRC1oZw?oc=5
 
-- タイトル: 広報PRの仕事のやりがい・魅力とは？現役広報担当者が語るやりがいと、魅力を実感するための5つの行動 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiVEFVX3lxTE10TXpkVk9oZjZZUldqY3NoY0VWTlljMjRtb2NnZm5rOGxXbTlkZTJDd0h5UDVQM0xnYmthbm82SDhoU255YmdKT0tIVXFtWkl6UGFzVQ?oc=5
+- タイトル: 地方のスタートアップ企業こそ広報で差がつく。自社ならではの優位性を活かした広報戦略を解説｜高岡慧 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNdS1PQkwybml6WHlqaGxwRVBnV01YbWM2QVBzUnREVjNJbmxWRVBLSkFveWhzU0phM1I4aGF0Szl5T2xMaHVvWWZaX1pQWWJXWXpleC12OUNxdw?oc=5
 
-- タイトル: DXを停滞させる深刻な「組織風土」問題、3つの変化で土台から改革マインドを醸成 - 日経クロステック
-  URL: https://news.google.com/rss/articles/CBMibEFVX3lxTFBQUEp6VmVlQ3l6QzViMXdXcXhwX0d2OTdzM01qOWd3clZDYTFHWHQyb0EzTmg0VDRSY3cwazdOYTQtU0Z1YkZEeHA4dHhKVVpEUWwyRUYzSVdKN1NLSnAyWkpNQ0NyVzJIal8xbw?oc=5
+- タイトル: IIJ、DX推進の実態と成功要因を独自アセスメントデータから分析したレポートを公開 - インターネットイニシアティブ-IIJ
+  URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9taFF1RzFsRWZlSW9tSzFBcEJ3WjhITG1YUWg2a2pxQ0xwZVFYM0hYejBVR2xHSW5jaVlGUmJBTDRQUU1Tc25Xb1FZRmROVzJmc2tmeHVGU0pqaV9JZUpKLWdIV1BWc0U?oc=5
 
-- タイトル: エクサウィザーズ、関西電力送配電DX戦略2026の取り組みを包括的に支援 ～組織文化の醸成、デジタル人財の育成、AIエージェント環境構築の3つの領域で事業変革に伴走～ - 株式会社エクサウィザーズ
-  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5dDZtNXZqSFh2Zjg5bV9ibHJqMktGaTJBOHRpdm42RDFGWTd6N3NYUDZyZVk5V1dlbERVN25tR05yVGdLNlFJVW5rVmlwT1k?oc=5
+- タイトル: 「日本のDXはなぜ進まないのか」──制度・文化・経営の壁を関口和一氏が斬る - cio.com
+  URL: https://news.google.com/rss/articles/CBMi3gJBVV95cUxNdjlEeGJ2V1JLM0NRbjVfckJTOERBS2ZGOTdQM00tWlZmZTUta1dZV2xvUmVMUkxNeDBvbnBTNThEVEcteTZwcmxoOFZoMjhCYURiQW03SkVyYTZSS0oyTjljVzJGZ3h1YmEtSjNYVFljTXNJNFZadGN2TGtjdUxNa1J4UW1wZVFST3E1N24wLW9oWEpUeXRjT1ZWbzFITF9tRXcwWmlFblV5ZHFsM0o5RUdWc2hQZ2hFZDFNcUJJSEVUdHFMakRWcGRZTTR4U3lUeDUyLVhyeW4yVnpLc05QaVZYQzA3eE8xMUhFV0ptTWRLRVVCeTU0SjByVTBVM1VOcEcxdXIxNjNBVENXWko5cTJaUmllR3RpVEk3WlFjS0pVbmxoQVJIam03TEZ6RmwxQndSckhSWXdYR2gxbkNpS0xpa0lOOWdtbTE2dVpaM2lmMUVoc2NsVkR0QXcyZw?oc=5
 
 
 # Manusへの追加指示
