@@ -22,13 +22,15 @@ def get_latest_trends():
 def generate_instruction():
     """Manus向けの指示書を作成"""
     entries = get_latest_trends()
-    now = datetime.datetime.now()
+    jst = datetime.timezone(datetime.timedelta(hours=9))
+    now = datetime.datetime.now(jst)
     
     # 曜日ごとの切り口
     themes = ["経営戦略", "現場の運用課題", "システム連携", "RFP/選定基準", "トレンド解説", "キャリア", "海外事例"]
     today_theme = themes[now.weekday()]
 
     md_content = f"# 本日の執筆テーマ: {today_theme}\n\n"
+    md_content += f"- 生成日時 (JST): {now.strftime('%Y-%m-%d %H:%M:%S')}\n\n"
     md_content += "## 収集された最新トピック\n"
     for entry in entries:
         md_content += f"- タイトル: {entry.title}\n"
