@@ -9,6 +9,7 @@ on:
       - main
     paths-ignore:
       - manus_input.md
+      - used_links.json
   workflow_dispatch: # 手動でテスト実行するためのボタンを表示
 
 permissions:
@@ -36,7 +37,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add manus_input.md
+          git add manus_input.md used_links.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0

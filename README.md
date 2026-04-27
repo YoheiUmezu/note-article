@@ -21,7 +21,7 @@ python main.py
 
 - スケジュール: 毎日 UTC 6:00 (日本時間 15:00)
 - 手動実行: Actions 画面の `Daily Content Update` から `Run workflow`
-- 更新内容: `manus_input.md` をコミットして `main` に push（生成日時も更新されるため raw URL の内容も反映）
+- 更新内容: `manus_input.md` と `used_links.json` をコミットして `main` に push（生成日時も更新されるため raw URL の内容も反映）
 
 ## Raw URL
 
