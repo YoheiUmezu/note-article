@@ -1,31 +1,31 @@
 # 本日の執筆テーマ: 経営戦略
 
-- 生成日時 (JST): 2026-04-27 15:14:44
+- 生成日時 (JST): 2026-04-27 15:16:12
 
 ## 収集された最新トピック
-- タイトル: 従業員エンゲージメントは最低水準の20％、背景にAI: ギャラップ社 - alterna.co.jp
-  URL: https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sNG9ia2RTQWZOODgya0QzdnFUR20zTl9qcWluTjRSMVlOLWtNUVBDRTM3b0g1clhQYjgwVjB4MmlhZnd4WmNHLQ?oc=5
+- タイトル: 大企業における従業員エンゲージメントと離職意向の 関係性に関する実態調査 - jri.co.jp
+  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWZWRMelpJME9YZXBIUjEzSV9iVG5nV1liTXR4cnZhbkxVbHFsVlRtajdXMGhsNmJWUDZ5enVxTWVDS04wQVdHY3RLZVJ1WVJjY2RzRUxoQnhmVjgybDh3?oc=5
 
-- タイトル: 【従業員エンゲージメント】日本は世界最下位、米国は第2位、意外な第1位は？ - ダイヤモンド・オンライン
-  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uenpWN3BXMzd0dUdwU0VvQXFBNno3czdkOUVOLW94UVVaRHR0Xzg5V3dUdlRSWE1NVUhXRGEyWURpZUZYa1I2bTBRTGTSAU9BVV95cUxQUnJuV0ZlLXFLY0Z4TEIxWHR1NE15bE5faFVQT1k5SktuVFVvQWIzZGRLWDBuYnJJTk9YZ3RnQm9NZnJJeWF4N0kzLVg1TVJ3?oc=5
+- タイトル: 矢野経済研究所、従業員エンゲージメント市場に関する調査結果を発表 - 日本経済新聞
+  URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE9paUN6bzNRcUVocEpNTmlMSlgtYUhjR2R5ME91Z29zRkpGQzVGdWk0RFo5aTR5Y0R3eWhINE5JTE85Tmpjby1OVUJQQzdhb08yaWdNQWMwbWVFVTVrWXhlX3lTb3V2WFJTWjhtbw?oc=5
 
-- タイトル: 「今すぐ相談」がCXを変え、 従業員体験（EX）に繋がる。 - ビジネス+IT
-  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YaF9pcGhXLTVNem9ERUJPY2dfS0xHMGF5b01NRFlJWXFNeWVqTXgyTlBEWUFJZUF5QklRd21TWXNMMFdUU01mRWJmMlg?oc=5
+- タイトル: 【オンラインセミナー】小売DXを着実に成功させるAI・データ活用とCX・EX改善 - ダイヤモンド・チェーンストアオンライン
+  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hdFlpb0w0ZkYtUkRNMmZERmlKd0txYjFvSFpQZWhkaEpqTHFBMVd4MUM5ZzBmRmZKd1JVNS0tcXktUE5KVWZTUW54SUJoUnM?oc=5
 
-- タイトル: CX領域におけるAIによるプロセス変革を支援する『CX AI STUDIO™』を提供開始―“AIのチームメイト”とともに従業員体験と顧客体験を同時に変革し、ブランド成長を支援―｜ニュースリリース｜博報堂 HAKUHODO Inc. - hakuhodo.co.jp
-  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwdzcxWHQ1b1h1MFBkbmhZZlByNXNtOXlZMGlHdEtCemphSDZWTGR6c0lQNll2ei1kOElrakVWNmtNMU50cng0OHlvckxQWEVoMTlobzNab0N1ZHZWR3MyRg?oc=5
+- タイトル: CX・EX向上推進のエクレクト、デジタルコンテンツ企画・制作などのゆるりとを買収 - marr.jp
+  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tYS1FSnhCYkd2SVJRR2JyQTdPbmtXV3FlR1haUmUtWXZYZjFTR1ZXTG92eklLbExzUUN5VzRfVEUtUGFVTEN2NXdEZll6SmxWRGZYWUcxbG13NzQ?oc=5
 
-- タイトル: 働き方改革の具体例32選｜企業の取り組み事例と広報PR戦略・ポイントを解説 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLQVZ3Q1U0VmtTQnV1MWk0ZGsyeC0yZFQwLXZIOXlzbFJYSTM0OTU0X21iWjJrN3VYVzhud0NOUF9YMnZaalk5RXJkUm85NG44Yjl3YkRkRC1oZw?oc=5
+- タイトル: 自らがつくり出す「攻め」を意識した広報PRの役割｜Sansan×SmartHR対談 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wOGh0RjR1TDlKU1M4S1ZXOXFIejZpZUs3UzctWFFLUGU3NnNfeXdlb1VtQ21wRlY4OU02MHRGUWQteHVTYUZuMnlRVjUzQnoybFptYXgyREw3eUMyaWExNEdNd2o?oc=5
 
-- タイトル: 地方のスタートアップ企業こそ広報で差がつく。自社ならではの優位性を活かした広報戦略を解説｜高岡慧 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNdS1PQkwybml6WHlqaGxwRVBnV01YbWM2QVBzUnREVjNJbmxWRVBLSkFveWhzU0phM1I4aGF0Szl5T2xMaHVvWWZaX1pQWWJXWXpleC12OUNxdw?oc=5
+- タイトル: 企業活動のすべてが採用広報につながる【プレスリリース事例を徹底解説10選】｜前田梨沙 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VODJPTGtTR1B0NWhPU1BhX1FZTVVkbmtUdGdHZ3RtWmtSU2F5NUpLX1htVWhneGZlUHc3Y0hkaVpUVFJxdno4bDU0bkk0V0pvWkMwbEVsMzl3QQ?oc=5
 
-- タイトル: IIJ、DX推進の実態と成功要因を独自アセスメントデータから分析したレポートを公開 - インターネットイニシアティブ-IIJ
-  URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9taFF1RzFsRWZlSW9tSzFBcEJ3WjhITG1YUWg2a2pxQ0xwZVFYM0hYejBVR2xHSW5jaVlGUmJBTDRQUU1Tc25Xb1FZRmROVzJmc2tmeHVGU0pqaV9JZUpKLWdIV1BWc0U?oc=5
+- タイトル: 「全社員をDX人材へ」 一橋大名誉教授・神岡太郎氏が持続的なDX推進のために組織文化の醸成が必要だと語るワケ - JBpress
+  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE94LWVjRWVnM2VBSFF4TGdFenR1clRXcjBBMTlfSTlVXzVDT3NTdEFQUkFFcVlEYzd2QmdWQTRIYjNsYXJhTGgtdkJPVTM0VUM4S3lBWjRn?oc=5
 
-- タイトル: 「日本のDXはなぜ進まないのか」──制度・文化・経営の壁を関口和一氏が斬る - cio.com
-  URL: https://news.google.com/rss/articles/CBMi3gJBVV95cUxNdjlEeGJ2V1JLM0NRbjVfckJTOERBS2ZGOTdQM00tWlZmZTUta1dZV2xvUmVMUkxNeDBvbnBTNThEVEcteTZwcmxoOFZoMjhCYURiQW03SkVyYTZSS0oyTjljVzJGZ3h1YmEtSjNYVFljTXNJNFZadGN2TGtjdUxNa1J4UW1wZVFST3E1N24wLW9oWEpUeXRjT1ZWbzFITF9tRXcwWmlFblV5ZHFsM0o5RUdWc2hQZ2hFZDFNcUJJSEVUdHFMakRWcGRZTTR4U3lUeDUyLVhyeW4yVnpLc05QaVZYQzA3eE8xMUhFV0ptTWRLRVVCeTU0SjByVTBVM1VOcEcxdXIxNjNBVENXWko5cTJaUmllR3RpVEk3WlFjS0pVbmxoQVJIam03TEZ6RmwxQndSckhSWXdYR2gxbkNpS0xpa0lOOWdtbTE2dVpaM2lmMUVoc2NsVkR0QXcyZw?oc=5
+- タイトル: “DXしなくなる企業”が生き残る？ IIJのレポートが示す「デジタルが日常に根づく組織の条件」 - IT Leaders
+  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DOHpFa1hhTHJKQU9KZEgxNlpwc0U4czlCRjRCcEhDWHhtRjBpQjNDVHVMc3AwSjY4TktfaHcwc2MwTHpzaWNUNklDWGdsbXRodlNn?oc=5
 
 
 # Manusへの追加指示
