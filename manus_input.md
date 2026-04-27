@@ -1,31 +1,31 @@
 # 本日の執筆テーマ: 経営戦略
 
-- 生成日時 (JST): 2026-04-27 15:17:31
+- 生成日時 (JST): 2026-04-27 17:22:11
 
 ## 収集された最新トピック
-- タイトル: ギフティ×宣伝会議「従業員エンゲージメント研究会」を発足 従業員体験の可視化や自分事化に必要なこととは？ 実務家が徹底討論 - AdverTimes.（アドタイ） by 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0YmVQa1JGZm5LMUJQSnJNcWVoeXlobXMxYm1CdEVobXpLbWJPNFgzQWxJbnFJbG9VWmVVd0Y1S0UwUE95SnpIb0VkX1l3WFpoUmNjSGJmc0N2UWpEcHg0?oc=5
+- タイトル: CASE: 従業員エンゲージメントを最大化する社内コミュニケーション活性化サービス「aerukamo」｜WORKS｜DESIGN｜富士通 - Fujitsu Global
+  URL: https://news.google.com/rss/articles/CBMic0FVX3lxTE5HV1ZmN2JfVWxwR05BT0c1d2lmMmZzeldTVkE0Ml9KVUkwN1ozR3V3NVVyalZ3UFA3QjBKUnMzQkxlY0RpdUF3aE5DbDZDX3p6M1hlSjh5V3RzNXowaFhmOF9lNXpULU1rQmk1NFN0Snpfc2M?oc=5
 
-- タイトル: 従業員エンゲージメントスコア、世界優良基準を継続達成！MVV浸透が強固な基盤を確立 - 共同通信PRワイヤー
-  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE9URjdLVl80ZTF5YVUwU2lzVGdTcmVWQWw0WklJOHBBMzRoZkVSc05OUkJWQVhZSGx5NTc5VkFsckhaandpTTNFbWJBMHpZZzVnZGtDLVg5QkN2d1E?oc=5
+- タイトル: 競争を本質的に勝ち抜く、従業員エンゲージメントの高い組織のつくり方 - ダイヤモンド・チェーンストアオンライン
+  URL: https://news.google.com/rss/articles/CBMibkFVX3lxTE0wdXhRNzNYOUVJa2N6WXZsLUhUak5fbjdUSzhBWUQ3c0VzLXEwX3kzZVdmR3o0cTdOM1dYU2syUjYyUUhlTjE5cHVjY0xZakc0dm93QnJYWXBsdlNjakpPX29rMHdJQnBmbHB1Skp30gFzQVVfeXFMT0FHM2laZGdRUTlEQTFhS3BtMExPNDBTbmhmdVlpOUNtU0Y5X1lqck1PQVp5ci1ZQXk2SUVIOFM1aGg4R1I2cC1oNFQ5OVNsYnBzWFBtQ3F4NUc4QlZEbE8tY050MzRpRFRpVmNMTjd6bTVlNA?oc=5
 
-- タイトル: Carbon EX、東京都カーボンクレジットマーケットとのAPI連携で利便性向上を実現 - ニュースメディアVOIX
-  URL: https://news.google.com/rss/articles/CBMibkFVX3lxTFA5cTZuNVlwMUxkSGtZUW5nLWpMbXpqU09PSUVGYWVuSk9YSFIzYXk4VVhUb3lFckY0THZ5Q3UxemZsRFQ0eFFOQjlFV1NtSDEwMlRBUmktN28zUjVqa2h2VUxRU2xvR1gyR2pheTJB?oc=5
+- タイトル: CX・EX向上推進のエクレクト、デジタルコンテンツ企画・制作などのゆるりとを買収 - marr.jp
+  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UcnRzbDBrV3M5QjVPd2Ywek5rQjJmTkZoRnJQRy1BVGdSZmtSUkYwMGF1SEVTNk8zS1c0Zm1qNjNLSkpQV0ZqdEpRS3pPQXp5QnJxQlVoTHNBR2RuWGx1Vg?oc=5
 
-- タイトル: バニッシュ・スタンダード、「SCビジネスフェア2026」に初出展。SCの「人材定着率」や「売上」を向上させるソリューションを提案。 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9jYWs4M0RNT0RFN0RwZHlud3dpS24yYWpFUzZFbDdXeDd0cFBWQXpLbkFvZlFsaWFxX0pXcVc2NzZiTjA5QVhQQmJMcGp4T1MyT0J5dWtXYThYYUhJTFJmMm11T2ZWZG5xS2c?oc=5
+- タイトル: AIで顧客接点を進化させる 新コミュニケーションサービス「docomo business ANCAR(TM)」を提供開始 - newscast.jp
+  URL: https://news.google.com/rss/articles/CBMiR0FVX3lxTE05eEdWbmd5X0taVWZxcWhkRUdZVE9uSmxZbFBxMWUweV9WSkM5d1NncXdQbFl1M1dPOTZ1UW8tOTYzeDF4MXlF?oc=5
 
-- タイトル: 新任広報担当者必見！メディアの人に会ったとき「最初の1分」で伝えるべきこと｜笹木郁乃 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BQ1pNR3I5UzVwSE4wT09iTW1JLWpCZ0pYNFJ6TUJqRGhtMEdxNG8xVE0xY0NlczZINmkxRjAzelpndnVIclFjbWVjb2R0YnlIM2xiRkRPQ0Qwdw?oc=5
+- タイトル: 広報PRとは成果だけでなく文脈や過程、想いを伝えていくこと。ー新生パイオニアのブランディング - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTE9INGcwSXJqZG9QZlFDaWJBQWpGQ1dZLXo3THFaVkdUM19oeVJMSmtvdTlONE5JUTVEX05NcF82N05qeG4tM19jXzRUclNFUW90SjRTcDg2bm4wdHJKQmdGWQ?oc=5
 
-- タイトル: 海外向け広報「グローバル・パブリックリレーションズ（PR）」の基礎知識と成功のポイントを解説 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE9acFREeFpZdXZTLWkwVkowdTU1TlJZSGJCM1Y5NHpTem1ESGtxVHFRNlBDUGYzWlV2d1lFVUJtb0VBdnZfY2s1MmVHcE1HVl9ERmhWSXVMVGRxclJka28yWFVB?oc=5
+- タイトル: アジアNo1(*1)のPR会社が伝授する、“人事採用×広報PR” 戦略「採用戦略サミット2022 令和の新常識 produced byベクトル」開催 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9SYU1yRHFrU1pXZ3liazlTVHhJTFRybkFNZG5lYlZXaTNBeGI5MUlZXzhEbFRNbmVNbi1YRTluRzRabTk3a29nSklJTVNUdU5xSGh3ZDN1SWtjOTVfc3QwZjZJcW5sNldPelE?oc=5
 
-- タイトル: 第4回：知見活用の当たり前化と文化醸成（展望編）--製造業DXを持続させるカギとは - ZDNET Japan
-  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XTGhWZ1kwdHhDSlYwUFYyXzliM2tldDc1VWxTZTJxcGpxcXBkQU12UDVnS0phRVVnempvUW9JWkxyS2xSTHFTWDhzNzdqcTQ0cTFz?oc=5
+- タイトル: 医療DXが失敗する理由：技術ではなく組織文化が鍵を握る - Forbes JAPAN
+  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE56NmRvQmNuWHlGaldvZ0VtZmFOeEdNa1JYaWhlNUU5VWxYSUctMHhnWHUwaC1vQUUyZXRGX3AxUmhVbmZhNWljaVRGLVBmNnYwT1I2bEk4Rmk?oc=5
 
-- タイトル: スタンレー電気が挑む人事 DX とグローバル変革 - システム刷新を超えた組織文化の統一へ - - SAP News Center
-  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XRFIweTFvSkZ6RG05N1dsQ19hMGYxWmhnVDJpenN1d2lkWXJLYlFoVC1KdGpVN3NFTnFRNXoyNksxclREUlFjcDFCOHFfZ3dxQTln?oc=5
+- タイトル: 人材不足時代のDX推進戦略～人材育成と組織文化変革の第一歩～ - ビジネス+IT
+  URL: https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ETWI0UWQxdTlFSEVoZVJ4Y2pnYWduZ2FUN29VbjRkSU1MQjF5Y2kxR1NDWGEtXzhmYU1JNmVEWWVobWNjRE9wUEllRQ?oc=5
 
 
 # Manusへの追加指示
