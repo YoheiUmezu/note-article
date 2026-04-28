@@ -1,31 +1,31 @@
 # 本日の執筆テーマ: 現場の運用課題
 
-- 生成日時 (JST): 2026-04-28 16:54:22
+- 生成日時 (JST): 2026-04-28 16:56:37
 
 ## 収集された最新トピック
-- タイトル: エンゲージメント調査は無意味？ 従業員が「離職を決める瞬間」とそれが見逃されてしまう理由 - Forbes JAPAN
-  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ROWhneVdEVU5IOUM5WEk3V09idThrUkdVZmswaGI5dEZSa3d3bTdabV9FRzBxbVI2VVUxRkZlZnNOTl9CR0h4S3FmZU5tcDhqcmRUeGoxVE8?oc=5
+- タイトル: なぜ、従業員を大切にしているはずの日本企業のエンゲージメントが世界最下位で、米国のほうが高いのですか？ - ダイヤモンド・オンライン
+  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rYkVoNTVjcXM3MGhFejJ2LXZNOVFLZEhYaXRnWXl2cndrX0hLQ3FhVUNCaE9HZDZ2VFJXYmxMeDJnNHJMNm93VDhacGXSAU9BVV95cUxQWWpvNDZ4dVhkU1FBekVsbnBDcTJGT0h2RWNaZmRCX1R4cFFsZTI3QjlmNkFxN3RFbDNNSWdTYmZVNFBoZnNZWUJqRC1uYmlR?oc=5
 
-- タイトル: 賃上げを従業員の活躍につなげるカギとしてのエンゲージメント 1万人調査に基づく賃上げ効果の定量分析 第3回 - mri.co.jp
-  URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kbDJRdmRCUkttRTg4NEgxZDkyZVY0d3AzWnNHNlZDR1VBQVIwVzQ2dVUxNUNoTnBBRENPZDRVSmc3WF9ic0RfOTZQaExOR2VTN1JITF9HRmlSN3htdDBIUXZLZE4?oc=5
+- タイトル: 【調査報告】人材投資に積極的な会社ほど従業員エンゲージメントは高い - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9xLXBVME82RXZ5a0prZTNWbVJPY2lZZ0RxNHRQMk5jUl9mbXBlLVhjTmYwMDBHa1hIRWZIUEFpcTROZmoyZkVFaC16S3d3M1BrQWJjbU5Dd3hacU5hXzVEUTJIeTRnZnVXTHc?oc=5
 
-- タイトル: キンドリルとPKSHA、ヘルプデスク業務の最適化とEX向上を協業で支援へ 環境構築から運用支援まで - EnterpriseZine
-  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wenNzLWxYTlV3TmJtUnNYVGJKNGFpa1EybWR3TThBTmxnLUthMGdkTGVxejNPZFAxQk1Rc1RBd0NwZVdYVElmLW9MT21RQ1pvUWp0LWNn?oc=5
+- タイトル: 【申込受付中】Contact Center AI Summit 〜20社のAI活用事例から見えるCX・EXの新戦略〜｜無料オンラインカンファレンス開催のお知らせ - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5XeGZibGkwVm5LbU5IMkswRXY1LWwwOVNWS2pMdlVZMWlTR2xvTWdhYkVpWDRFRWlFY1E4VTc2RV9vdXhtbEFXN0JTMTFrQktKSFhMLTZJbFg1RGU1YXNqNXp1TkVIaHI1cnc?oc=5
 
-- タイトル: エンプロイーエクスペリエンスサーベイ2025調査結果（速報版） - PwC
-  URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxNc3I5Y2czZ2ZDbFpRNDI0NEl5YVVSMVh5NEJDU0l0a2kwMUJHRzBwSWZNZmtDTHpkdDdOVVQ4eG8zMC1HM3BUb3JRQTRGckJTR1Z4VDdhd21ncEQycVlHa3RvOGxSQXBrT25jMjJWRUczT1JqUTM3bDlzLUdmeXFCdVNHZXhQTUlTS3ByZFJR?oc=5
+- タイトル: JR4社のネット予約サービス間の連携による利便性向上に向けた取組み～「えきねっと」「EXサービス」「e5489」「JR九州インターネット列車予約サービス」をより便利にお使いいただけます！～ | 東日本旅客鉄道株式会社のプレスリリース - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5WSWpXTlhXcWVPMXctTzZwTGNrWWpSbDMxUVUyRzlUNTZlRW5KWktoY0J0Zl95cDd0OVNfMmdnRmxBNUFfNXJkbWdOVURlQ0MyQVc2NmhaejdZZXNjTWZtdmRzTXRqVlBNQVE?oc=5
 
-- タイトル: 広報担当者の悩みを解決するノウハウやツールを紹介—コーポレート・コミュニケーション カンファレンス - AdverTimes.（アドタイ） by 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iMXFKUDJsUWZzbmMycmJTNTUtMGNwLXcwd3Y3RlAwZkRwQVRqSkFSY0M0SkUwUm9MWEpEbGtXcThiZTk1dGl6M0JDZzltUkczeU9nbU9penpoUmIwOHhF?oc=5
+- タイトル: メディアがプレスリリースに求める画像は？3社の事例と合わせて担当者が解説｜PR TIMES勉強会 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE5YbjB0QkRYcVM3TEdkTWtubkJTemgweWlZclhpcFZhcGFaY3Zfb0h3elFUVWUzU3NZbmdVYS1IUGhPaHdLRVpnbWFmZlNhVENteFphUUp5YWF2Y1NQX2dBUjZzbk10M1JoTWxQVw?oc=5
 
-- タイトル: 広報紙は住民へのラブレター。町への愛と意思が「自治体広報日本一」にもつながったー自治体広報アドバイザー・佐久間智之 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTE90b3FNZlhLZzc4WkkwM2VRWWJHcmcwSWF1OWxwQzExaTFBUmZXRmI4ZTFldUlBV2xYM1VwajY3VVY3RHF5M3dza09PRDg2aXpwZndLbzBvVkNZaTh3Vm9uZg?oc=5
+- タイトル: すべての人に「美しい人生」を。BtoB企業がパーパスを伝える方法｜タカラベルモント株式会社 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMickFVX3lxTE5PUzlOLXFDYU1ubGFZM2FPQWhDSGRDMVh2R2x2QnVtVW8zcWRteFJfNG1iWGhhaDVyTGU3SWY2UmhYUlNZR0pZdmw2eXRnRnMwU2ZCUjFQeWRZZE9vaGU0bEJHN2NYdGxxRFlGamNaUE5SUQ?oc=5
 
-- タイトル: DX-Behavioral Change Management実行支援 - KPMG
-  URL: https://news.google.com/rss/articles/CBMisAFBVV95cUxPU3REdXc1TzdQZVNkdkJPd2h1M0NlOXdvNnVsSUFxSTc2eEJvbDFiNjdRdXNudFdwTXZDMF9yV0lISzhyV2UxMF81V3NFanFMUjdiRC1KYkU4RTBsYkdheVkxRXEySFF3MVdOOFBFZmVVeG5rczNGWkw1NEdVUE44M2NwU3E5c25RN0Q2c1BCQldhNzBMZWc5ZlpwZG84Yk5aUE9pbHM5WF9VeHdhWEJSbA?oc=5
+- タイトル: 88％の社員が自ら動き出した トップダウン型だった丸井が、組織文化の改革で「捨てたもの」と「残したもの」は？ - JBpress
+  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMaGlFOTZqOHFZZWVTZHFQTXkyUV90SDdQZE1MSUJPMDZCTEY1V3RKdlZkNFpxbTRfQnZaX1hCamFNN1UybTdLZkhNWEJhVFNsaUdGREtB?oc=5
 
-- タイトル: 進まない組織カルチャーの変革--DX成熟度に見る組織カルチャー変革の実態 - ZDNET Japan
-  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qSFJDUkZ6VkdIR09rRUhVQy1IMlV6V1V6SFpDRXBvX2ZoZlpZUndMcHowLThZdkRnMF9SRmZtNjFTVzVIVnNCV3laZUxNQmVmd25j?oc=5
+- タイトル: IIJ、DXの文化定着を支援する「IIJデジタルカルチャー可視化ソリューション」を提供 - クラウド Watch
+  URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XWVN2SnFlYjN5Y0pmNmVWNHFYRmw1bEVrQW1Gb0VNbmhRZnBDOGJIdWcyYW40cENXUDI1TmtycUhTV040ckR0U1pqVFhOUU95cTVITlZpTVlrZ1RNeGN4em1DOTRRUlU?oc=5
 
 
 # Manusへの追加指示
