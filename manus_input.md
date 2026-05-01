@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: RFP/選定基準
+# 本日の執筆テーマ: トレンド解説
 
-- 生成日時 (JST): 2026-04-30 12:33:54
+- 生成日時 (JST): 2026-05-01 12:44:06
 
 ## 収集された最新トピック
-- タイトル: U-ZERO、従業員の声を可視化し組織改善を加速する「U-ZERO エンゲージメントサーベイ」を提供開始 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE10QmtoX3dRNFRsQ3VfRHNjeVB5bnZZcXREOXo1WnRsUU92MEI5TEhKQ0cwSGU1cjZRVTlOeVpscEF2ZjVzR1YzODltVUtCdVphUmY3cWlMbXBfR0xMemdMR1FlU0pfeDFCdlE?oc=5
+- タイトル: AI導入で従業員エンゲージメントが低下する5つの要因とその対処法 - Yahoo!ニュース
+  URL: https://news.google.com/rss/articles/CBMif0FVX3lxTE1Vb3p6dmVOb0VtWVE1ZGZjZUV5UzdVUXFnUm9IbTEyYXhydVJ1UlFnbmxkZjZ0ZDdnQ3ZWeEkzTVRDSVBLX3N6VDgtX2F6VHgyeXV5b21HV2g3Tko1dk5aVWZ2cEZnaWFFdG5LRmFyZzIzaW81eEVKZlc2bjJVbUE?oc=5
 
-- タイトル: エンゲージメントサーベイツールのシェア・市場規模！高評価ツールランキング - BOXIL
-  URL: https://news.google.com/rss/articles/CBMiQEFVX3lxTFBNcG5xb3JSQkd6S0F6Z2loeFNQY1h2OUpGT0VOUWN6RGpQbGNiZDhLbWNHaWxaSjQ5N25iU0k2VkM?oc=5
+- タイトル: 【調査報告】DXの恩恵を感じている会社ほど従業員エンゲージメントは高い | 株式会社アジャイルHRのプレスリリース - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5JY2NPcU9na2cyNURDdzF2S2syUHZzWk5uT09XWVN3ODRnai1MM2FkaEJWT3ZqS3BwZWpCT0h0b3ZDX0p3NmFneFFiamtIcS1oLXF5eU5YckI4QnAwZERLSDQ0cllYcDlrdEE?oc=5
 
-- タイトル: 1348 Ex Voto 開発者は今後のアップデートでパフォーマンスの向上と洗練を約束しています - gamereactor.jp
-  URL: https://news.google.com/rss/articles/CBMiugFBVV95cUxPS0FFRGVxYU8tYm1zc1lkeFhnTC1rMEk1aDhjaTY3V1FKMFVXd0lMMzJKb0tuam9ZWHpYSUVSY25kTUVvZnNKWDg5dEVJZ1JmQU15RDJhdzNJLTZrdmdDdUhLOVdQWHNac19jTHBlMkI1Q25wOUhrdGFvUnNDTi1lZFNiRTBNSFlLY1dKTmxCZ0RkYWFrZ1NoTmlXOFVWQVBfTXQtS2k4d0E4bm9HM2xhc2VzR0cteGcwYXc?oc=5
+- タイトル: 【元ニトリHD人事責任者 永島 寛之氏 登壇セミナー】ATD-ICE - ニコニコニュース
+  URL: https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EY1FWVUl3cEwzVU9CbGRFOTU5Zkw4dnBZQVlJLXRnSy1hNEtLWDRZWVJ0VHpSWS1QT1UwZ3ZHWlYtOUprSmljM3BiU2hoV3g0bVhsaQ?oc=5
 
-- タイトル: ジェネシスクラウドサービス、コンタクトセンターにAI新機能 省力化とCX・EX向上を両立 - 週刊BCN＋
-  URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE9hYlR6N2xCYkhiclF3UV9xeERfRzBSQU9rRmFPbEtvM19TOVQyY3FtSWxGSnRyZWx0THgyWmJpT0VXNFF2Y29vcEZvaUtJOHVIU0xPQ0l5V0dZa1hTdXpPcm55SGlXdHRmZlhneUFYSWhJTDFE?oc=5
+- タイトル: NEC、CXとEXを向上するAIソリューション「NEC Communication Agent」提供開始 - マイナビニュース
+  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1bzU2SU9oQmtUTE5Wc0ZLbWVSN1pYYWFsb0FzMDNHY0wxNklOR2xGOXZIZng3SHFPS1VRWmdMdktjUXJHamhXTnJlQW00TzdrTVVkQkEyejBQY08wMmlOck5pV196aWdJ?oc=5
 
-- タイトル: 神戸新聞経済部記者が"取材したいと思われるポイント"を解説7/10(木)広報担当者必見の無料セミナー開催 - 繊研新聞
-  URL: https://news.google.com/rss/articles/CBMirgFBVV95cUxOY2pUVVJJamtoY1dKRzFEU2ZicmYyTlpqc0p1cGNLTk1NdnM1a0M1TEVYU1gxZm5TeGp3UEhGNTVsUmtPZUp4T2E5VXhVZFREb2NuSVFvbkYwUUEzdlV2MUZENktQeE9PY3pxVlRReUV4Q0tXX3VxTVVZVlNXTkVoZzJ2UzRyVXl5YlNPU3ZuTVdCbzVDMThYVDJRUGppRjI1Zk5obEZDYkN6anktbmc?oc=5
+- タイトル: ニュースリリースにとどまらないストーリーを届ける。社内外で共感を呼び起こす広報活動｜ＴＯＴＯ株式会社 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JaURoTk1tRk9xS3RUYUJOT1ZfYWNrWXBCZHBIVUJCbTE5WWNtaG1EekQ1X0wwOHUtdm9pelp4dWl4YzZxbUpYXzR2Zi1ablhZcVd3cFhmbmhiSFVxeHlhVm1nYlJwdw?oc=5
 
-- タイトル: PR道を極めるために決断した、広報11年目の転職―新生銀行広報 マネージャー・風間聡 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uRzVsLUNlZ2MwUmFrMm5QRDdpUmxoN2E1ZzlBLVQ0aklRM3d1cmxRWjRNZDlWY2t0NG9UYlRGQTl4T0pNaC1lNTZsOUtJVVhOU0MyRUo1NUh6Y3NkRTdj?oc=5
+- タイトル: 実務経験を積んだ広報PR担当者におすすめの、実務につながる本10選【上級編】 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jR3lDOThHN0JORVVIcncxRDdBNUlQa3A3LXdGbHhyVWNfWHZjd2pDNEZCaHJqNlAxVHpBZWQ3cUVjSUFDdEx3VnFKa3V2SGVEZXEzWjl2MVlRUW5SaVYwcGdzaw?oc=5
 
-- タイトル: 「DXで企業風土を変える」──南海電鉄が挑む“140年目の新規事業” - ITmedia エグゼクティブ
-  URL: https://news.google.com/rss/articles/CBMigAFBVV95cUxPMkRXZ0Z6cE4xZFJMcnl0eGNTOVVMZ2c3bTlKMGVjRG5tbXpLWTdtQ2V5TVNac1NrM2xBSnFWMWtZYTYzQk9pWm1kMGxPM2w1N1FtTlJqS2FGUGlRMThLMmlfcm9XVXdDbG1wQW5ENEVseTd5RzNnSTJjMnQ0YXJNaA?oc=5
+- タイトル: 組織体制を変革してDXを強力に推進。フロンティアに踏み出したスギ薬局の挑戦 - DIAMOND ハーバード・ビジネス・レビュー
+  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE15eG5FOW15dUFtd2FxM3hCUXpmSTBCRUhjVjE5aFg5R0VBYkltOGxURHo4Um9uVEw5NF9RYUxOeVEzYUxpWXpaY0FqTkdLRENxelFPQllQRjVobE0?oc=5
 
-- タイトル: 【連載 3/4】世界が試し、マクニカが磨き上げた「組織を変える日本流製造業DXとは」〜マクニカしかできない「変革」を移植する伴走とマインドの正体〜 - スマートマニュファクチャリング - macnica.co.jp
-  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE54dGZ1emlGZDFEX0ZfSnFCM0V0Qk9GWEhMNFkyX1F6N0hySHk2YUxObzNTb0FvcHUyVGhUQ01KUEtKeHkwR0NWRW9LeHVjeWFCQlVwV3g1X0N6WlVzc3hXRFNMM0w1SHJh?oc=5
+- タイトル: LTSと日本アクションラーニング協会が共催するオンラインセミナーを開催します - 日本人材ニュースONLINE
+  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uX0JqREVUb1d4MnBmRzQwb0J6S2FyNzhHR183SldIZEJFa3JtOGlWUGp1NUozVUp1UHBxS25xZTdNclJvX3ZURUxKUGhac1JJRGVWblBta3FpLTg?oc=5
 
 
 # Manusへの追加指示
