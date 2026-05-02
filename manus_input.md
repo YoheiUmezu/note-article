@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: トレンド解説
+# 本日の執筆テーマ: キャリア
 
-- 生成日時 (JST): 2026-05-01 12:44:06
+- 生成日時 (JST): 2026-05-02 12:19:54
 
 ## 収集された最新トピック
-- タイトル: AI導入で従業員エンゲージメントが低下する5つの要因とその対処法 - Yahoo!ニュース
-  URL: https://news.google.com/rss/articles/CBMif0FVX3lxTE1Vb3p6dmVOb0VtWVE1ZGZjZUV5UzdVUXFnUm9IbTEyYXhydVJ1UlFnbmxkZjZ0ZDdnQ3ZWeEkzTVRDSVBLX3N6VDgtX2F6VHgyeXV5b21HV2g3Tko1dk5aVWZ2cEZnaWFFdG5LRmFyZzIzaW81eEVKZlc2bjJVbUE?oc=5
+- タイトル: 従業員エンゲージメントは最低水準の20%に低下、AIが背景：ギャラップ社公表（オルタナ） - Yahoo!ニュース
+  URL: https://news.google.com/rss/articles/CBMif0FVX3lxTFBYV29uZlFObHdZYWhFZ0NiWUgzb3g3dEtGUmxVX3FtUTVTTDI2UllfNDJWSEFUd0hlM1pGNUg5RzZLaHUxRVhxMlhQT2ZNMlhqOWlPNnNMeDE2YVc4eHV6eWFxRXRadGtBNXhaVVA3ekN1U1NRZ0RkWHBEbFJBWlE?oc=5
 
-- タイトル: 【調査報告】DXの恩恵を感じている会社ほど従業員エンゲージメントは高い | 株式会社アジャイルHRのプレスリリース - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5JY2NPcU9na2cyNURDdzF2S2syUHZzWk5uT09XWVN3ODRnai1MM2FkaEJWT3ZqS3BwZWpCT0h0b3ZDX0p3NmFneFFiamtIcS1oLXF5eU5YckI4QnAwZERLSDQ0cllYcDlrdEE?oc=5
+- タイトル: 世界の従業員エンゲージメント、2020年以来最低水準に低下 | GALLUP, INCのプレスリリース - 共同通信PRワイヤー
+  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yZU9iYjR2VGowT0NyczJRdlNQdUhDTWw2RmxjT1JieEVGQ0RUalA0MmJvZ3ZLRzE3Zkw4Qkpma1NvN2JzZkhsaXN0b3N2ZDRlWVNteTZmanZldXM?oc=5
 
-- タイトル: 【元ニトリHD人事責任者 永島 寛之氏 登壇セミナー】ATD-ICE - ニコニコニュース
-  URL: https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EY1FWVUl3cEwzVU9CbGRFOTU5Zkw4dnBZQVlJLXRnSy1hNEtLWDRZWVJ0VHpSWS1QT1UwZ3ZHWlYtOUprSmljM3BiU2hoV3g0bVhsaQ?oc=5
+- タイトル: 全国信用金庫協会とHRBrainがタッグ 信用金庫のエンゲージメントを可視化・改善離職防止と生産性向上へ - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFByak5NdXBmNjdBTG1sZHJuLWRlM2l5RU5xeXJ0dS1sWEd1UnNwYmN1azMzb2RoYTc3NUhQLWNKd1pabFJFR1pMdDZpUzljb1dXaE1jMElialJBTTFYTTc4Tmo1VkV6R19nQ0E?oc=5
 
-- タイトル: NEC、CXとEXを向上するAIソリューション「NEC Communication Agent」提供開始 - マイナビニュース
-  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1bzU2SU9oQmtUTE5Wc0ZLbWVSN1pYYWFsb0FzMDNHY0wxNklOR2xGOXZIZng3SHFPS1VRWmdMdktjUXJHamhXTnJlQW00TzdrTVVkQkEyejBQY08wMmlOck5pV196aWdJ?oc=5
+- タイトル: EX（従業員エクスペリエンス）サーベイ2022-23 ～従業員エンゲージメント向上の処方箋とは～ - PwC
+  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE41QWhTWEpYR0lQcXBPaDhBUm9Pb29sZDFOVWJHX0dBZWVwQlc1ZXpMd2ZqalRjWWs3OFZFTUhWbnRadTJvZ3lwYXNYeHV6bS1ZVjVUQXZJdkVMM09wQUNNSzYxcUtVcG1HeWpOZEJSOU4?oc=5
 
-- タイトル: ニュースリリースにとどまらないストーリーを届ける。社内外で共感を呼び起こす広報活動｜ＴＯＴＯ株式会社 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JaURoTk1tRk9xS3RUYUJOT1ZfYWNrWXBCZHBIVUJCbTE5WWNtaG1EekQ1X0wwOHUtdm9pelp4dWl4YzZxbUpYXzR2Zi1ablhZcVd3cFhmbmhiSFVxeHlhVm1nYlJwdw?oc=5
+- タイトル: オンワードコーポレートデザインが「攻めの広報PR機能」立ち上げに成功、サービス導入事例の積極的発信で記事掲載数が1年で約2倍へ - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE43U002c28xT2VZUXdvZEZ3T3NyQTE5dmhIc3lVR2JXNG1DRzNFbkFBSnV5ZktRU29EdTJOV0NJY3NleWhwclFwSnFqQ01oMnNDRmxXRGpyRHZnV1FqdzZXSDg2Nnd6OWtmZnc?oc=5
 
-- タイトル: 実務経験を積んだ広報PR担当者におすすめの、実務につながる本10選【上級編】 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jR3lDOThHN0JORVVIcncxRDdBNUlQa3A3LXdGbHhyVWNfWHZjd2pDNEZCaHJqNlAxVHpBZWQ3cUVjSUFDdEx3VnFKa3V2SGVEZXEzWjl2MVlRUW5SaVYwcGdzaw?oc=5
+- タイトル: 金融機関が本気で目指したファンづくり。PRの観点から見直したSNS運用｜株式会社セブン銀行 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE83VDRlZ1U3VGpYS2dBTmFJLTVTSkwzWFd0YjF1MnhfS2oweldoQjlpRzE0Rmc3dHFweU1jdVBDMTNCQUpUb2I2WWNHZDRseDhNR1JTaEMtcjNoamJuLWdrbWZB?oc=5
 
-- タイトル: 組織体制を変革してDXを強力に推進。フロンティアに踏み出したスギ薬局の挑戦 - DIAMOND ハーバード・ビジネス・レビュー
-  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE15eG5FOW15dUFtd2FxM3hCUXpmSTBCRUhjVjE5aFg5R0VBYkltOGxURHo4Um9uVEw5NF9RYUxOeVEzYUxpWXpaY0FqTkdLRENxelFPQllQRjVobE0?oc=5
+- タイトル: 沖縄のかりゆしが築く「チムグクル」を基盤としたDX人材育成の新モデル - ニュースメディアVOIX
+  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE1IRWNJNm8zRWM2aHJUTWJkYThSZTBMejNvcmxkQVoydTdIVEZWY2FFVjFxcHQwdXFiRmd1THU0TFhjQlotaEt5czR4T3FvTm1FMTR6cDJndlNlak55QTkyRnd2TkxxcnNkUWhwbU1LZW51aGVteXc?oc=5
 
-- タイトル: LTSと日本アクションラーニング協会が共催するオンラインセミナーを開催します - 日本人材ニュースONLINE
-  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uX0JqREVUb1d4MnBmRzQwb0J6S2FyNzhHR183SldIZEJFa3JtOGlWUGp1NUozVUp1UHBxS25xZTdNclJvX3ZURUxKUGhac1JJRGVWblBta3FpLTg?oc=5
+- タイトル: 「企業文化は戦略に勝る」-DXやイノベーションが求められる時代だからこそカルチャー変革が大事となる - EY
+  URL: https://news.google.com/rss/articles/CBMiekFVX3lxTE44VUdwZTg3a19TQm9ETThpYTR5eXZCZ3dLTTNJelRqY2l3b2k3TGROMXE4QXFyTmROeU1kbndXSV95Mk1GdHZiQXZUZzNndXZHVXB2RnVhOWJqS092bERYYmV1SHdLY3BjdTNYeXVFWnJ0TVJ2ajNrdkR3?oc=5
 
 
 # Manusへの追加指示
