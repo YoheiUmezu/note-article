@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: キャリア
+# 本日の執筆テーマ: 海外事例
 
-- 生成日時 (JST): 2026-05-02 12:19:54
+- 生成日時 (JST): 2026-05-03 12:37:19
 
 ## 収集された最新トピック
-- タイトル: 従業員エンゲージメントは最低水準の20%に低下、AIが背景：ギャラップ社公表（オルタナ） - Yahoo!ニュース
-  URL: https://news.google.com/rss/articles/CBMif0FVX3lxTFBYV29uZlFObHdZYWhFZ0NiWUgzb3g3dEtGUmxVX3FtUTVTTDI2UllfNDJWSEFUd0hlM1pGNUg5RzZLaHUxRVhxMlhQT2ZNMlhqOWlPNnNMeDE2YVc4eHV6eWFxRXRadGtBNXhaVVA3ekN1U1NRZ0RkWHBEbFJBWlE?oc=5
+- タイトル: 新人事制度の導入で、従業員エンゲージメント向上へ【クミアイ化学】 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1hcnMyNzhxT3JseUdvOElCUng4SmxnMEI2eXBYRXh1emRHVGluMlpSa3NmendQX2FKSnpsSnpmVjUwNkh6VUJGUUp1TEYwdXpsbXlBNGZxb2tZa0lfdWQtT253VmNTWnFoVGc?oc=5
 
-- タイトル: 世界の従業員エンゲージメント、2020年以来最低水準に低下 | GALLUP, INCのプレスリリース - 共同通信PRワイヤー
-  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yZU9iYjR2VGowT0NyczJRdlNQdUhDTWw2RmxjT1JieEVGQ0RUalA0MmJvZ3ZLRzE3Zkw4Qkpma1NvN2JzZkhsaXN0b3N2ZDRlWVNteTZmanZldXM?oc=5
+- タイトル: 従業員エンゲージメント向上に取り組む企業を表彰する「BEST ENGAGEMENT AWARD2026」を2026年3月9日（月）に開催決定。 | 株式会社Take Actionのプレスリリース - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1pY0NtTXBZYy1GSW85WGo5ZUk4RU1FNEtXZkpMQmw4a3NUMnVCTFQtaFJQT29nQWxaSXVBdWFkSXRaNVJzZFJaZjRYTzg2NmFIemQxUHJ4VENiRGYzaDdWWEQ0eC1fOHg5cmc?oc=5
 
-- タイトル: 全国信用金庫協会とHRBrainがタッグ 信用金庫のエンゲージメントを可視化・改善離職防止と生産性向上へ - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFByak5NdXBmNjdBTG1sZHJuLWRlM2l5RU5xeXJ0dS1sWEd1UnNwYmN1azMzb2RoYTc3NUhQLWNKd1pabFJFR1pMdDZpUzljb1dXaE1jMElialJBTTFYTTc4Tmo1VkV6R19nQ0E?oc=5
+- タイトル: EX向上がCX向上を招く！ 従業員の主体的な姿勢が顧客に良い影響をもたらす - DXマガジン
+  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RS0M0ZGJvRTVId0xZdi14T2VtTjN3V0dDLUlveXR6UU1Fb1hDRG1jTExaYWlhcjBZNURSV3hxSXhDaGhpR3BHSXRUSmxUZGxYZlVleG1nbGc2YkVsMTczcw?oc=5
 
-- タイトル: EX（従業員エクスペリエンス）サーベイ2022-23 ～従業員エンゲージメント向上の処方箋とは～ - PwC
-  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE41QWhTWEpYR0lQcXBPaDhBUm9Pb29sZDFOVWJHX0dBZWVwQlc1ZXpMd2ZqalRjWWs3OFZFTUhWbnRadTJvZ3lwYXNYeHV6bS1ZVjVUQXZJdkVMM09wQUNNSzYxcUtVcG1HeWpOZEJSOU4?oc=5
+- タイトル: 全国行脚で社員の悩みに寄り添うマイナビ流IT×EX向上術 ボトムアップで“デジタル成功体験”を広げる (1/3) - EnterpriseZine
+  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE84Z2JyRVlrYmJoT1RMUWxYczhPQ3o2OXR2Yjh6ZFJ0RGlONkFld1ZZd3lsTC1YUWpEQUFqTndzeWVEdGlRU0JkMDJhUWFJaGNJWl9HTnQtV0lOQQ?oc=5
 
-- タイトル: オンワードコーポレートデザインが「攻めの広報PR機能」立ち上げに成功、サービス導入事例の積極的発信で記事掲載数が1年で約2倍へ - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE43U002c28xT2VZUXdvZEZ3T3NyQTE5dmhIc3lVR2JXNG1DRzNFbkFBSnV5ZktRU29EdTJOV0NJY3NleWhwclFwSnFqQ01oMnNDRmxXRGpyRHZnV1FqdzZXSDg2Nnd6OWtmZnc?oc=5
+- タイトル: 広報が「動画」を活用するメリットは？ 考えるべきコストと効果 - 宣伝会議
+  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE9LV1JNcTNfZVEycjRvd3oyUG1Idmk3cHI0dXJGeDJRYmFEdmJ6OTcxSTBwUHpDR2JlY1lWQWFvSlNnaklOb0hsSTZXT3hzYmhfUVFEb0NFVU55VlQ5UWJaWjRyeHluUkRoeFFQUmZsM2c?oc=5
 
-- タイトル: 金融機関が本気で目指したファンづくり。PRの観点から見直したSNS運用｜株式会社セブン銀行 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE83VDRlZ1U3VGpYS2dBTmFJLTVTSkwzWFd0YjF1MnhfS2oweldoQjlpRzE0Rmc3dHFweU1jdVBDMTNCQUpUb2I2WWNHZDRseDhNR1JTaEMtcjNoamJuLWdrbWZB?oc=5
+- タイトル: 1人ではじめた広報活動。現在はメンバーと共に「等身大の姿」を伝える発信へ。TimeTree代表に聞く、自らも発信する理由 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmNXd3ZzQtVDVTLXFLazFnSDRZSHhwUkpxd0xJVmxfc0doWlN2cC1vNU5PMTFVTFpXNktWblBsdnAzTUJWVEwtT3U1SlZBNmFZQTUwQmd0eEtWYmlYQVM1eWxn?oc=5
 
-- タイトル: 沖縄のかりゆしが築く「チムグクル」を基盤としたDX人材育成の新モデル - ニュースメディアVOIX
-  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE1IRWNJNm8zRWM2aHJUTWJkYThSZTBMejNvcmxkQVoydTdIVEZWY2FFVjFxcHQwdXFiRmd1THU0TFhjQlotaEt5czR4T3FvTm1FMTR6cDJndlNlak55QTkyRnd2TkxxcnNkUWhwbU1LZW51aGVteXc?oc=5
+- タイトル: “DXしなくなる企業”が生き残る！デジタル活用に成功している企業に共通する特徴はこの3つ - DXマガジン
+  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jbVNiNnoxVnl5SkxLVnJESUduaUdlcFRwNC1XU2dhM185WXJOc2NPblcwV05SaVdIdDhJRnNGOUU1M1NuaVVwUWNjUEo?oc=5
 
-- タイトル: 「企業文化は戦略に勝る」-DXやイノベーションが求められる時代だからこそカルチャー変革が大事となる - EY
-  URL: https://news.google.com/rss/articles/CBMiekFVX3lxTE44VUdwZTg3a19TQm9ETThpYTR5eXZCZ3dLTTNJelRqY2l3b2k3TGROMXE4QXFyTmROeU1kbndXSV95Mk1GdHZiQXZUZzNndXZHVXB2RnVhOWJqS092bERYYmV1SHdLY3BjdTNYeXVFWnJ0TVJ2ajNrdkR3?oc=5
+- タイトル: トレノケート株式会社のDX人材育成：「挑戦」と「学び合い」の企業文化 - MoreJob株式会社
+  URL: https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uQ1I0REZNYXRLMU1MV0h1Q2NSODNSQ0pVeXlSTDFQbExEQVUxbV9kNlJLbFRlQV93Ym9jQUpfSjZnRDNSUWF1ZVpRUXhRUWtL?oc=5
 
 
 # Manusへの追加指示
