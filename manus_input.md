@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 経営戦略
+# 本日の執筆テーマ: 現場の運用課題
 
-- 生成日時 (JST): 2026-05-04 12:35:09
+- 生成日時 (JST): 2026-05-05 12:22:01
 
 ## 収集された最新トピック
-- タイトル: マネーフォワードが「従業員エンゲージメント」領域に本格参入。エンゲージメント可視化で離職防止を支援、その狙いとは - HRプロ
-  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTE83eERmZUxCUl96a0sxM3ZWa2ppeUphUUlSWHpkLXZ1TDBKSW5pVVNSUEtZRzNfWDZwRG13MTdmay1qcHVTcWdjUlZuOHhHcDd3WE95dzhMdWVwR0tQazY4dQ?oc=5
+- タイトル: 従業員エンゲージメント製品市場が人的資本開示義務化で活性化、2年連続で20％超の成長へ─矢野経済研究所 - IT Leaders
+  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE16Z2dSRHRaaVNHYm1UUi1MMTc5NWZaQ3ZpQlRERzIzUXg4OTRzdUNtcjNaVzQ2aDlZWmVXYzMzTWR2U1NvaU02RGd2YmtaNU1WRElV?oc=5
 
-- タイトル: 無料で使えるエンゲージメントサーベイツール8選！無料版と有料版の違いは？ - BOXIL
-  URL: https://news.google.com/rss/articles/CBMiQEFVX3lxTE95NUZWTjFUQXo1OFRUSEk4eEFzdkJKTEtMUy1Ic25ER0JVQlJkRnlNVVdyZE1mcFo5UFNJd1VWRFM?oc=5
+- タイトル: コロナ禍における従業員エンゲージメント向上のポイントを提言―リンクアンドモチベーション - HRzine
+  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTFBRTlRFWEhLclNtQWYyZzBPSjV0akYyMG50T0dKRmEyN1BWZkhmYXdhMnhlOUV6WHFOWEdCMGxKQXZtWFhNZ3lRNkZn?oc=5
 
-- タイトル: 株式会社HRBrain、「The EX DAY〜従業員体験の向上に迫る１日〜」開催 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1qVDc2OHFwSlpHa3otRzhPS0l4UTZBOGtPMGp0X2JoSnYwWWxaR3IwM3Jyc3dGdDdzX0hFclNHcHlmRHBSWGEtU0UzcHllemZaYzdGUnRfTTNRN0Q4WFR2SFg5blhUYnRseWc?oc=5
+- タイトル: 最新調査結果でわかった、従業員エンゲージメント向上に必要な「従業員エクスペリエンス」の４つのポイント - HRプロ
+  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLN21qOENtNndJVG5lNlJrMmtwNTF4Sk83MU5FQWt5QkdsZm85MWNldzRSVzJzSmF1MS1hN2JzUEd6UGo1ZXZpNS1NSEM1WWJKMmUtVjhIbHZURk5TLVRaQQ?oc=5
 
-- タイトル: ヤマハYFR330の操船機能を向上する「バウスラスター・ヘルムマスターEX連携キット」が発売 - kazi-online.com
-  URL: https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKMnJrY0ZBQXJsU2h3U0tEWnhqOWJNT2RaMXktYVdnWWpxVGRZS0JzSzRDU0RQcTE5OEhaWnBLRDBVYjZLcTB6ZVNoVE96NUlfVzZyMllobl92bjV5?oc=5
+- タイトル: 「効果的な採用戦略とEXの設計」ガイドを無料公開！〜2024年8月最新版 企業の成長における採用戦略から従業員EX向上に向けた施策をご紹介〜 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFA1UXpYOWZkel9TVWhxYldVREJmSDNqX2lfSmFuSW8wNmViMTdYNHBldkNmTk9iLXJwRmJydE1vdElrcndaZTlWVXVoU1R1RmhlV3hGanBqdkQxekNady13QU1SbG1UY0tVYUE?oc=5
 
-- タイトル: 不祥事発生、そのとき危機管理広報は何をするべきか - BUSINESS LAWYERS
-  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CUnI2QnZuOWprZFBBaWxCRXIzeDV5TU5aMVFuclB4YjVWN1RYbWlpYndlcjBWVC1XQXpfY0tnUnh4Q2lVVkJCUzM2WWtVR3ZFdnJ6NldB?oc=5
+- タイトル: 【2020年2月版】広報PRトレンドウォッチ！コロナウイルスの時事情報はどう扱う？ - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE94ekMxeHBWeml4cFFNMDEtWkxTMS1ZMmlRZk4yY1JjeGY4dTNfclhzc0QzQXJRTWNhY25aU3UwR0g3ZDlHV2lGLW9ZOWJGMDluQjVMZHhzMnhqWnl2SVlJUjNHUUdNdw?oc=5
 
-- タイトル: 【有識者コメントまとめ】新型コロナウイルスに対する企業の情報発信はどう対応する？ - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5Icm9vUEVBbjlreUc2LVozQUtCQURBYkdFZDRXak4xUEdkT2ZleWY2WWVkNF9qNWlzQzI0UHppZVlQQzFuRTRFTFl5S1JVSjF0Y19ZQUFLUGk0RHhnUUlNNlJIbnNqeTdMM1E?oc=5
+- タイトル: ホテルや旅館の集客アイデア10選｜戦略や成功させる5つのポイントなどを徹底解説 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XdkFaRVRwaFZTekNHRmxrZEdiWmxGVEcwcFR0YXEwOUZRSGZIdFQ3OGd3RHVYaXA4dVpBQjNZZ0U0U2hZMjYxeXVxdTdHNnlaeFBITGM4M1NlY3hURGtXdHBn?oc=5
 
-- タイトル: ヤマハ発動機が取り組む「経営と現場をつなぐビジネス変革」。DX を通じて「挑戦と称賛が共存する組織」をどのように育てるか。 - SAP News Center
-  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE13bHg4VGR4UWU0QnpJLVdRSGtzMlNyS3VxSzJjN1BoWGVETzNkeUtuX1pnSFU4S2c2a21HUThhTHgtcVQ4Tlh4T01WSDFQMjgwWVYwaVdJT2RIUQ?oc=5
+- タイトル: 【連載 4/4】世界が試し、マクニカが磨き上げた「組織を変える日本流製造業DXとは」〜今がラストチャンス。ゲームチェンジが起こる製造業DXで、日本が世界に返り咲くその日まで〜 - macnica.co.jp
+  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ibS1Ma05QWEZLTWJjYVVlV0ZRRmsyQ0lMZm82c25CM21nUUxNVExyWHFzdzVrclk5clJqTE5vOWFHakpzN1VFTjk0QUJzM2RaNURqdkl0TnNSNGtXM1JPTFlJUUNITW1D?oc=5
 
-- タイトル: ［セミナー報告］働き方改革からタレントマネジメントへ | Generalist - global.toshiba
-  URL: https://news.google.com/rss/articles/CBMipgFBVV95cUxNR3JuT2ZPaWJCeS1nWGp0bm9YOGF3LTRWaXhJWjZwSmtrYmM4bllHUWw2WHAtb19ZNFo1R2FVYS1jcFV1cW5GMzdDZXNvZUQ4cEt5SFk1SGhZVkxYQzBFS3k1azNGcmdlb05VUFhaNGdfenVYcFZlc2xWNE52blZRTkkyeTIzam1iRmFrVnZnQUNnRmdMSEp3M1lSSmJoRWp5TmN1ZERR?oc=5
+- タイトル: 後編：エージェントAIが変える組織と仕事のかたち―行政に迫るパラダイムシフト - PwC
+  URL: https://news.google.com/rss/articles/CBMikgFBVV95cUxOU1VpSlNWRFMyYkY5bFRubFVWVzFOZVRUejlLOG9ibzZwb1psa0MzTlBoX25PTEpBVjZfdTRjX1NDRlJBQVh0bkl3WWpVYXI4X0I0NWtjdWFiV0dEZWk3TDJoSXMwaFFfMUpaZlh6T0RELTMwMUVYemVEaFhGelNkRUswNWtfaE4tbXV6cXNPTEhQUQ?oc=5
 
 
 # Manusへの追加指示
