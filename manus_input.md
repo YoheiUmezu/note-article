@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 現場の運用課題
+# 本日の執筆テーマ: システム連携
 
-- 生成日時 (JST): 2026-05-05 12:22:01
+- 生成日時 (JST): 2026-05-06 12:32:30
 
 ## 収集された最新トピック
-- タイトル: 従業員エンゲージメント製品市場が人的資本開示義務化で活性化、2年連続で20％超の成長へ─矢野経済研究所 - IT Leaders
-  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE16Z2dSRHRaaVNHYm1UUi1MMTc5NWZaQ3ZpQlRERzIzUXg4OTRzdUNtcjNaVzQ2aDlZWmVXYzMzTWR2U1NvaU02RGd2YmtaNU1WRElV?oc=5
+- タイトル: 日本の従業員エンゲージメント率はわずか7％ギャラップ・ジャパンと英国経営者協会による共同実施調査結果で明らかとなった、日本の労働力の現状と改革への道筋 | Ｇａｌｌｕｐ Ｊａｐａｎ株式会社のプレスリリース - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5lU0dZLTcxQkFUS28tMDk1NTJMMEJPTUo4YVljLTVEZjUzZU9zTWdRVUZEU0xRelpPM2hOV0xrM3AxaGstT0pCRkJlWEdnaFRSb21ZM2dsNnhGRVhVQXBWOVRNTUU1cXRpZ3c?oc=5
 
-- タイトル: コロナ禍における従業員エンゲージメント向上のポイントを提言―リンクアンドモチベーション - HRzine
-  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTFBRTlRFWEhLclNtQWYyZzBPSjV0akYyMG50T0dKRmEyN1BWZkhmYXdhMnhlOUV6WHFOWEdCMGxKQXZtWFhNZ3lRNkZn?oc=5
+- タイトル: HR戦略と従業員体験を議論する、「従業員エンゲージメント研究会」を発足 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5UY1NmSF9iTEVsckJCd2t2T19YQjZMVHJ6NW1VR1hYVGxxRDBURE9VRTNiN3lGQUl4SGUxM2lWZnhFZlFEVGQwcGxwcU13SW10RG1XQUNYMGluUkZzMlhiOFJEdnl6NmRHZUE?oc=5
 
-- タイトル: 最新調査結果でわかった、従業員エンゲージメント向上に必要な「従業員エクスペリエンス」の４つのポイント - HRプロ
-  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLN21qOENtNndJVG5lNlJrMmtwNTF4Sk83MU5FQWt5QkdsZm85MWNldzRSVzJzSmF1MS1hN2JzUEd6UGo1ZXZpNS1NSEM1WWJKMmUtVjhIbHZURk5TLVRaQQ?oc=5
+- タイトル: ビジネスの成長にはEX向上が不可欠に――みずほの挑戦から学ぶ (1/2) - MarkeZine
+  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE02R2ZGMzBZMUs0eWNidWUtcVZEdERfTWJMUzYyRGxBR2lWdnJib214d2ExdVpIclJicFBpRTBRU0NWeXF3ZmQxQXJlY1NpS1o0cHZr?oc=5
 
-- タイトル: 「効果的な採用戦略とEXの設計」ガイドを無料公開！〜2024年8月最新版 企業の成長における採用戦略から従業員EX向上に向けた施策をご紹介〜 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFA1UXpYOWZkel9TVWhxYldVREJmSDNqX2lfSmFuSW8wNmViMTdYNHBldkNmTk9iLXJwRmJydE1vdElrcndaZTlWVXVoU1R1RmhlV3hGanBqdkQxekNady13QU1SbG1UY0tVYUE?oc=5
+- タイトル: EX（従業員体験価値）が鍵となる次世代エクスペリエンス戦略 - nri.com
+  URL: https://news.google.com/rss/articles/CBMifkFVX3lxTE8wLVRSTXpwSkFEeDJ3TzBDYjZrUWFmMjd2OHByeXo0bkhWazFYMkdJb0hCSlJCUFNPQ0FLS211OFI0VGY0OEh3YzV5Rjh4ZmI5a25KclkyNVZkTHd0RVZwblpSZ0VrVGxOYXZWaXNyZzBlMURmS3Roc2I4bjVBUQ?oc=5
 
-- タイトル: 【2020年2月版】広報PRトレンドウォッチ！コロナウイルスの時事情報はどう扱う？ - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE94ekMxeHBWeml4cFFNMDEtWkxTMS1ZMmlRZk4yY1JjeGY4dTNfclhzc0QzQXJRTWNhY25aU3UwR0g3ZDlHV2lGLW9ZOWJGMDluQjVMZHhzMnhqWnl2SVlJUjNHUUdNdw?oc=5
+- タイトル: 【新発売】広報部門向け提案型AIサービス“ネタココ”提供開始 - ニコニコニュース
+  URL: https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zOVE0b0JHVlIyZW1KNlNtM0RsSUlBa25OSmpjMmtnaFBqMzhBLWpHYjRSRjBxMk83NEhjRFQzS240QTEzQ3FSWFBxSkYyVDh2SUcyTg?oc=5
 
-- タイトル: ホテルや旅館の集客アイデア10選｜戦略や成功させる5つのポイントなどを徹底解説 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XdkFaRVRwaFZTekNHRmxrZEdiWmxGVEcwcFR0YXEwOUZRSGZIdFQ3OGd3RHVYaXA4dVpBQjNZZ0U0U2hZMjYxeXVxdTdHNnlaeFBITGM4M1NlY3hURGtXdHBn?oc=5
+- タイトル: イベントレポート＜NBPC BRAND DAY 2025【第2部】＞ エビデンスに基づくブランドコミュニケーションで成果を上げる | CCL. - 日経BPコンサルティング
+  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtM2E3dkdvY0tmOWtTNmNjVjFBVkpJTVo0bkZNNXNaSjhVel9tZzkxdk9sWVpwRzlvSExPU2cyaVBFQnJaOEc1VllMUWxiZHhHbzI4cUxfYTcyanpJdTYyZQ?oc=5
 
-- タイトル: 【連載 4/4】世界が試し、マクニカが磨き上げた「組織を変える日本流製造業DXとは」〜今がラストチャンス。ゲームチェンジが起こる製造業DXで、日本が世界に返り咲くその日まで〜 - macnica.co.jp
-  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ibS1Ma05QWEZLTWJjYVVlV0ZRRmsyQ0lMZm82c25CM21nUUxNVExyWHFzdzVrclk5clJqTE5vOWFHakpzN1VFTjk0QUJzM2RaNURqdkl0TnNSNGtXM1JPTFlJUUNITW1D?oc=5
+- タイトル: 組織診断サービス「IIJデジタルカルチャー可視化ソリューション」提供開始 - マイナビニュース
+  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE85SmZiS285a2ttcm13YklwbkV4eVpLOHJDU1Y2bThhOEotdElMaGJLdGxLc202ZmFJS3c3ZFl0aXJ5YndOeFhrRHdVbkpCbTRISEp0bm1PZUx1NVFrOGdFZ0lTeFQ1SUs3?oc=5
 
-- タイトル: 後編：エージェントAIが変える組織と仕事のかたち―行政に迫るパラダイムシフト - PwC
-  URL: https://news.google.com/rss/articles/CBMikgFBVV95cUxOU1VpSlNWRFMyYkY5bFRubFVWVzFOZVRUejlLOG9ibzZwb1psa0MzTlBoX25PTEpBVjZfdTRjX1NDRlJBQVh0bkl3WWpVYXI4X0I0NWtjdWFiV0dEZWk3TDJoSXMwaFFfMUpaZlh6T0RELTMwMUVYemVEaFhGelNkRUswNWtfaE4tbXV6cXNPTEhQUQ?oc=5
+- タイトル: DX（デジタルトランスフォーメーション）とは？ 推進するメリットと取り組み事例を紹介 - NEC wisdom
+  URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE9kT21kbVpack1sTFA5anBQWWhsSjlMT2h5MHNCWmR0Q3l3MmxwYllUUmtHcndzQ2tGbjAwMzktb2dtbGFKZk1fa1JyNXI1N3kzVkhzc05CTkpzanpjSFBDb2Q3Zk51bFI2el8tYUZWcFpNUEZJeEJz?oc=5
 
 
 # Manusへの追加指示
