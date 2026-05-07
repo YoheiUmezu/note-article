@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: システム連携
+# 本日の執筆テーマ: RFP/選定基準
 
-- 生成日時 (JST): 2026-05-06 12:32:30
+- 生成日時 (JST): 2026-05-07 12:32:25
 
 ## 収集された最新トピック
-- タイトル: 日本の従業員エンゲージメント率はわずか7％ギャラップ・ジャパンと英国経営者協会による共同実施調査結果で明らかとなった、日本の労働力の現状と改革への道筋 | Ｇａｌｌｕｐ Ｊａｐａｎ株式会社のプレスリリース - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5lU0dZLTcxQkFUS28tMDk1NTJMMEJPTUo4YVljLTVEZjUzZU9zTWdRVUZEU0xRelpPM2hOV0xrM3AxaGstT0pCRkJlWEdnaFRSb21ZM2dsNnhGRVhVQXBWOVRNTUU1cXRpZ3c?oc=5
+- タイトル: エンゲージメント調査は無意味？ 従業員が「離職を決める瞬間」とそれが見逃されてしまう理由（Forbes JAPAN） - Yahoo!ニュース
+  URL: https://news.google.com/rss/articles/CBMif0FVX3lxTFBnUEdmcnY1UzkwZnVTcWZpQm9vcHI2MEdaaXpaU2ZfbUsyZFIwTnhtY2NFWkU0ZWN6ZjNnc2lRbHJrSldxN055ZFhJQWtySnVzdkh5eGJUT3BMdUExb25zdG9VOUpIWXNLaGJoTURMaVJwS1FPMFMzYnFjN1BlZ28?oc=5
 
-- タイトル: HR戦略と従業員体験を議論する、「従業員エンゲージメント研究会」を発足 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5UY1NmSF9iTEVsckJCd2t2T19YQjZMVHJ6NW1VR1hYVGxxRDBURE9VRTNiN3lGQUl4SGUxM2lWZnhFZlFEVGQwcGxwcU13SW10RG1XQUNYMGluUkZzMlhiOFJEdnl6NmRHZUE?oc=5
+- タイトル: 英語対応のおすすめ従業員満足度調査ツール10選！英語以外の対応言語も紹介 - BOXIL
+  URL: https://news.google.com/rss/articles/CBMiQEFVX3lxTE1jbk5zdmY3UVBycmt6Z1lhcDFodmVsSE5NSGNRT0FUS2M1MVRJZ211T2lRWTlMdlRYQkQ5bS1WVzM?oc=5
 
-- タイトル: ビジネスの成長にはEX向上が不可欠に――みずほの挑戦から学ぶ (1/2) - MarkeZine
-  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE02R2ZGMzBZMUs0eWNidWUtcVZEdERfTWJMUzYyRGxBR2lWdnJib214d2ExdVpIclJicFBpRTBRU0NWeXF3ZmQxQXJlY1NpS1o0cHZr?oc=5
+- タイトル: 「残ってもらいたい社員に限って、すぐに辞めてしまう」という事態を食い止める。EX向上のための三つの意識改革と対策 - ダイヤモンド・オンライン
+  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oaG1VaWtwX0VZdnlhM0J3TVdRSExCbU5henNOMDlJRk5zWEk3N29vRVc1X3d6dDBudnNocVd2eWlUTkdrbXJPbEdiNno2MGFkaGswSXJ3?oc=5
 
-- タイトル: EX（従業員体験価値）が鍵となる次世代エクスペリエンス戦略 - nri.com
-  URL: https://news.google.com/rss/articles/CBMifkFVX3lxTE8wLVRSTXpwSkFEeDJ3TzBDYjZrUWFmMjd2OHByeXo0bkhWazFYMkdJb0hCSlJCUFNPQ0FLS211OFI0VGY0OEh3YzV5Rjh4ZmI5a25KclkyNVZkTHd0RVZwblpSZ0VrVGxOYXZWaXNyZzBlMURmS3Roc2I4bjVBUQ?oc=5
+- タイトル: 『ホンダ・ステップワゴン』に新グレード登場。快適性向上のAIR EXと個性強調のSPADA BLACK EDITION - autosport web
+  URL: https://news.google.com/rss/articles/CBMic0FVX3lxTFBvYzVlR3FQYzdEWEpSVUJ1VTlnTGFvU0dhdFhBRkNmSTdMQmxHQVFKRDBwb2ZCSnZVZFJNaEF2MEFzWldIV1hVcERJYUJVdXpWQm1qUjl3aUlUUmtuSHJ4aDA1V28talRITEJ1X19rUWw0SzQ?oc=5
 
-- タイトル: 【新発売】広報部門向け提案型AIサービス“ネタココ”提供開始 - ニコニコニュース
-  URL: https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zOVE0b0JHVlIyZW1KNlNtM0RsSUlBa25OSmpjMmtnaFBqMzhBLWpHYjRSRjBxMk83NEhjRFQzS240QTEzQ3FSWFBxSkYyVDh2SUcyTg?oc=5
+- タイトル: 紙、ウェブ、リアル — 社内広報のツールをフル活用 - AdverTimes.（アドタイ） by 宣伝会議
+  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE92VjZGWktUMlMweHhGZnhBVEkzWnNHTlZmSE1NalpHTG5iU2lFQVMzaDdZeVpHQWRPdzBJdXU1aDJnSlpqb0lGQmg0eDZzTklhNUo2eU5Eb0hIVmVMdl9F?oc=5
 
-- タイトル: イベントレポート＜NBPC BRAND DAY 2025【第2部】＞ エビデンスに基づくブランドコミュニケーションで成果を上げる | CCL. - 日経BPコンサルティング
-  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtM2E3dkdvY0tmOWtTNmNjVjFBVkpJTVo0bkZNNXNaSjhVel9tZzkxdk9sWVpwRzlvSExPU2cyaVBFQnJaOEc1VllMUWxiZHhHbzI4cUxfYTcyanpJdTYyZQ?oc=5
+- タイトル: BtoB製造業の成功事例から学ぶ。広報PR起点の価値の見いだし方・伝え方｜太陽工業×堀場製作所×プラススターHR - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE42ejJDaWc4Vk9WWDZNTGE3cE9LWHoyeUdzREJuQ3JuZUFWVTNPQnV2azNGdTJKa2RvTk9xNGV4dUFvZW4zMjFrYm5wTEtoSnlvLWRfb2k5VllHdFlqM2JpS0Z3?oc=5
 
-- タイトル: 組織診断サービス「IIJデジタルカルチャー可視化ソリューション」提供開始 - マイナビニュース
-  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE85SmZiS285a2ttcm13YklwbkV4eVpLOHJDU1Y2bThhOEotdElMaGJLdGxLc202ZmFJS3c3ZFl0aXJ5YndOeFhrRHdVbkpCbTRISEp0bm1PZUx1NVFrOGdFZ0lTeFQ1SUs3?oc=5
+- タイトル: 【連載 1/4】世界が試し、マクニカが磨き上げた「組織を変える日本流製造業DXとは」〜12年の試行錯誤から見えた製造業DXの律速〜 - スマートマニュファクチャリング - macnica.co.jp
+  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CVlo4eVZoMXhGaGxHN1B2RVBxYm9NNkdZYVZaMkRsaFFVVzl3bkU0MVBWRzZUODNqMDhTU1Utejl1azg1RU5jdVRaQ1UxUV9pOEVQQkhSRXVJTnhiLVBWTWtXNlk5dF9I?oc=5
 
-- タイトル: DX（デジタルトランスフォーメーション）とは？ 推進するメリットと取り組み事例を紹介 - NEC wisdom
-  URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE9kT21kbVpack1sTFA5anBQWWhsSjlMT2h5MHNCWmR0Q3l3MmxwYllUUmtHcndzQ2tGbjAwMzktb2dtbGFKZk1fa1JyNXI1N3kzVkhzc05CTkpzanpjSFBDb2Q3Zk51bFI2el8tYUZWcFpNUEZJeEJz?oc=5
+- タイトル: 失敗しないDX組織の作り方 リスク許容度など「企業文化」を考慮 - 日経クロストレンド
+  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzcEZveG9xWFRHdnplOWQ0dWI2V2FSTWdRSzZfdGFFRUNMX2h5ZDZzZGl4MFdvNUs5UWp2RFVnOEUxd3B5V3J2U3ZGMGU4TUhPVm85RGlBdi1kd0pjQ0xra29sLW9MQQ?oc=5
 
 
 # Manusへの追加指示
