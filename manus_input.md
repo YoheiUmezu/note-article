@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: RFP/選定基準
+# 本日の執筆テーマ: トレンド解説
 
-- 生成日時 (JST): 2026-05-07 12:32:25
+- 生成日時 (JST): 2026-05-08 12:28:30
 
 ## 収集された最新トピック
-- タイトル: エンゲージメント調査は無意味？ 従業員が「離職を決める瞬間」とそれが見逃されてしまう理由（Forbes JAPAN） - Yahoo!ニュース
-  URL: https://news.google.com/rss/articles/CBMif0FVX3lxTFBnUEdmcnY1UzkwZnVTcWZpQm9vcHI2MEdaaXpaU2ZfbUsyZFIwTnhtY2NFWkU0ZWN6ZjNnc2lRbHJrSldxN055ZFhJQWtySnVzdkh5eGJUT3BMdUExb25zdG9VOUpIWXNLaGJoTURMaVJwS1FPMFMzYnFjN1BlZ28?oc=5
+- タイトル: 「ヘッドハンティング」と「従業員のエンゲージメント」｜遠山えり子 - mbp-japan.com
+  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE45VVd6ckxmN0Q4eDk4Z0FvTGdjM19DUHRSSFJuRllCcTVWUGgwSnJ4Mk96d3NhMnpGWjhkeGRVQUJhQ2RmM0t4aHhtSUdzLWViU3BNZFJwbHRRNERlamRKR1RyS01KUERT?oc=5
 
-- タイトル: 英語対応のおすすめ従業員満足度調査ツール10選！英語以外の対応言語も紹介 - BOXIL
-  URL: https://news.google.com/rss/articles/CBMiQEFVX3lxTE1jbk5zdmY3UVBycmt6Z1lhcDFodmVsSE5NSGNRT0FUS2M1MVRJZ211T2lRWTlMdlRYQkQ5bS1WVzM?oc=5
-
-- タイトル: 「残ってもらいたい社員に限って、すぐに辞めてしまう」という事態を食い止める。EX向上のための三つの意識改革と対策 - ダイヤモンド・オンライン
-  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oaG1VaWtwX0VZdnlhM0J3TVdRSExCbU5henNOMDlJRk5zWEk3N29vRVc1X3d6dDBudnNocVd2eWlUTkdrbXJPbEdiNno2MGFkaGswSXJ3?oc=5
+- タイトル: 約7割の企業が従業員エンゲージメントを重視するも、成果を実感しているのは3割未満—NTT ExC調べ - HRzine
+  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE5seDUzY1dGWDNqdUJMb3dEUmdkVV9pcVRJNUtZaC0yMXgyVWN4UFl1R2lBbHZTUVhvQWNNRGVWMEVRQjV6TnV1TmZR?oc=5
 
 - タイトル: 『ホンダ・ステップワゴン』に新グレード登場。快適性向上のAIR EXと個性強調のSPADA BLACK EDITION - autosport web
-  URL: https://news.google.com/rss/articles/CBMic0FVX3lxTFBvYzVlR3FQYzdEWEpSVUJ1VTlnTGFvU0dhdFhBRkNmSTdMQmxHQVFKRDBwb2ZCSnZVZFJNaEF2MEFzWldIV1hVcERJYUJVdXpWQm1qUjl3aUlUUmtuSHJ4aDA1V28talRITEJ1X19rUWw0SzQ?oc=5
+  URL: https://news.google.com/rss/articles/CBMiSEFVX3lxTE9UeWlEckFaVk1Val9wV2Fud21YcEpMUW1Tay12SDVaYVV4T3c2b3FQNDYyY2NJUC1zWnJJcWZscjF4TGl2aXdUSw?oc=5
 
-- タイトル: 紙、ウェブ、リアル — 社内広報のツールをフル活用 - AdverTimes.（アドタイ） by 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE92VjZGWktUMlMweHhGZnhBVEkzWnNHTlZmSE1NalpHTG5iU2lFQVMzaDdZeVpHQWRPdzBJdXU1aDJnSlpqb0lGQmg0eDZzTklhNUo2eU5Eb0hIVmVMdl9F?oc=5
+- タイトル: 『ホンダ・ステップワゴン』に新グレード登場。快適性向上のAIR EXと個性強調のSPADA BLACK EDITION - autosport web
+  URL: https://news.google.com/rss/articles/CBMic0FVX3lxTE4weXdyZmNlWmZGallZWWdieTZ1ektOaVVHTEgwR2hGN1dUVGpJbEcyZTZyQ2RWeTRGbDU1RkVvSXVyVXNDRGE0eFZ4bXdiNUZSeS1aSE0ySWVyQTFiSjhLdlNTLUx0NXpTbkdRNUxpRVloTVk?oc=5
 
-- タイトル: BtoB製造業の成功事例から学ぶ。広報PR起点の価値の見いだし方・伝え方｜太陽工業×堀場製作所×プラススターHR - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE42ejJDaWc4Vk9WWDZNTGE3cE9LWHoyeUdzREJuQ3JuZUFWVTNPQnV2azNGdTJKa2RvTk9xNGV4dUFvZW4zMjFrYm5wTEtoSnlvLWRfb2k5VllHdFlqM2JpS0Z3?oc=5
+- タイトル: 有力な地方紙の開拓目指し、各拠点と連携。成功事例を社内共有したことで連携が進み、掲載拡大の後押しに - 株式会社PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0N0RjbWx4ZDBsdDJlVnl1TXF5YkYxUE53Ymhval9ncE1oOHFqLW9GLUhqVjJEQWJzNGlYcjJ6di01VkRkY3ZOUg?oc=5
 
-- タイトル: 【連載 1/4】世界が試し、マクニカが磨き上げた「組織を変える日本流製造業DXとは」〜12年の試行錯誤から見えた製造業DXの律速〜 - スマートマニュファクチャリング - macnica.co.jp
-  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CVlo4eVZoMXhGaGxHN1B2RVBxYm9NNkdZYVZaMkRsaFFVVzl3bkU0MVBWRzZUODNqMDhTU1Utejl1azg1RU5jdVRaQ1UxUV9pOEVQQkhSRXVJTnhiLVBWTWtXNlk5dF9I?oc=5
+- タイトル: 仕組み化した総力戦で取材が途切れない会社へ。医療VRスタートアップ、ジョリーグッドのPR戦略 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ISXVEWFdOZE1QZVFlaV80S1hjQXdFSUlrakNuZTFkV18wT1d1VzlFbHkwVngxTEJaemtmOWs3dGRWQldONzlpRUNlcFQ2SkNSRkU3M3VtMEctcjJoUW9uUG5KVQ?oc=5
 
-- タイトル: 失敗しないDX組織の作り方 リスク許容度など「企業文化」を考慮 - 日経クロストレンド
-  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzcEZveG9xWFRHdnplOWQ0dWI2V2FSTWdRSzZfdGFFRUNMX2h5ZDZzZGl4MFdvNUs5UWp2RFVnOEUxd3B5V3J2U3ZGMGU4TUhPVm85RGlBdi1kd0pjQ0xra29sLW9MQQ?oc=5
+- タイトル: 【PR TIMES】【共同発表】沖縄発、「チムグクル」を軸にした組織変革型DX人材育成モデルを確立 - 琉球新報デジタル
+  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWX0s4cDVOV1pDRkRqSEkzekZLQVI3ZjZELUw4TXRKQ09Tdm9RWThWVDFEOXJBdWxTVW5wejVONkpTYlQ5TWVwQXZtYkhBenhIQTVDXzY4WENSV2lFb1ZB?oc=5
+
+- タイトル: 鉄道業界向け組織人事DXラウンドテーブル 2025 “鉄道業界の人事DXを加速するAI活用の可能性” - SAP News Center
+  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kdXliTmw2YWF3dGVJbEJKZ1B5ZEQ2YlR2dTMxeUFRWHJ5Z21zUDJ0UXJfd1J1cXlYdmtKaWx6S1VSUUc4Y2JPTWZNVEdZTDdRbTdv?oc=5
 
 
 # Manusへの追加指示
