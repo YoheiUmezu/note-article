@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: トレンド解説
+# 本日の執筆テーマ: キャリア
 
-- 生成日時 (JST): 2026-05-08 12:28:30
+- 生成日時 (JST): 2026-05-09 12:27:29
 
 ## 収集された最新トピック
-- タイトル: 「ヘッドハンティング」と「従業員のエンゲージメント」｜遠山えり子 - mbp-japan.com
-  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE45VVd6ckxmN0Q4eDk4Z0FvTGdjM19DUHRSSFJuRllCcTVWUGgwSnJ4Mk96d3NhMnpGWjhkeGRVQUJhQ2RmM0t4aHhtSUdzLWViU3BNZFJwbHRRNERlamRKR1RyS01KUERT?oc=5
+- タイトル: 「情緒的価値」へのアプローチが、人材定着とパフォーマンスの向上に寄与!? | 株式会社セガ エックスディーのプレスリリース - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1abkljak1kcDNBR0tfc3I4OGJQWnhGdll6S1FpRXpWM3A4X1BPRmlaejVtaGU2aFFfTTIybTMtTFVtSURsWXE5dUtKYzBnRjBmLVdJaElsVlI0c2Z4cTdTa3hIQTFMQjR5MlE?oc=5
 
-- タイトル: 約7割の企業が従業員エンゲージメントを重視するも、成果を実感しているのは3割未満—NTT ExC調べ - HRzine
-  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE5seDUzY1dGWDNqdUJMb3dEUmdkVV9pcVRJNUtZaC0yMXgyVWN4UFl1R2lBbHZTUVhvQWNNRGVWMEVRQjV6TnV1TmZR?oc=5
+- タイトル: 従業員エンゲージメントの未来を拓く、 VoE（従業員の声）とフィードバック - 日本の人事部
+  URL: https://news.google.com/rss/articles/CBMidEFVX3lxTFB5bzNvSHpFbHluY3RQOU1abXZEVkFBRVh0NHF4ZmdzVlZMNWs1aFZpLUJDbXFkcmhFaHU1MXQ3VVExN0pKMDNpeG9Wd3dyQ2hVNEhvN3pYck92SWdTSWR1b2NXS2s3MzVhamg0ZWpqR2lnRmU4?oc=5
 
-- タイトル: 『ホンダ・ステップワゴン』に新グレード登場。快適性向上のAIR EXと個性強調のSPADA BLACK EDITION - autosport web
-  URL: https://news.google.com/rss/articles/CBMiSEFVX3lxTE9UeWlEckFaVk1Val9wV2Fud21YcEpMUW1Tay12SDVaYVV4T3c2b3FQNDYyY2NJUC1zWnJJcWZscjF4TGl2aXdUSw?oc=5
+- タイトル: 良質なEX（従業員体験）こそ最良のCX（顧客体験）を生む。コミューンが考える「組織とひとが融け合う未来」の理想像 - DIGIDAY［日本版］
+  URL: https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYUYtdE5ETU1tbVo0bzcyYURudmgzSE5mbVRCVldPcXJUUVhkNFd3bWJzSE1MaWJzWG9fLXBlazdKNno2b0VSS1BnVUJtWWZWR1k1dTE3NldIWHZlak42S0dacW80ZDI0TDRxTTJPQldsTV9nN09QVEJ6V0ZLSHZIclRMRXYtNUQwSU1wOVF6ZjNwdUdkY3FzNkl2MmFib050T0VMNWtHUU1tcGNlOW10VjNtRVBVa185RWN3NDc2bVQ3X3RtV01qNERuWTVLUHhVdGJoVHNLNA?oc=5
 
-- タイトル: 『ホンダ・ステップワゴン』に新グレード登場。快適性向上のAIR EXと個性強調のSPADA BLACK EDITION - autosport web
-  URL: https://news.google.com/rss/articles/CBMic0FVX3lxTE4weXdyZmNlWmZGallZWWdieTZ1ektOaVVHTEgwR2hGN1dUVGpJbEcyZTZyQ2RWeTRGbDU1RkVvSXVyVXNDRGE0eFZ4bXdiNUZSeS1aSE0ySWVyQTFiSjhLdlNTLUx0NXpTbkdRNUxpRVloTVk?oc=5
+- タイトル: エンプロイーエクスペリエンスサーベイ 2021-2022調査結果（速報版） - PwC
+  URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxQd3RVU0ZjdGdscXpZeG54Y0swQlVlUWxmcFVrUlM0MGFkd2dUMnB2QTBFM2RUMGpBSXhwMzd1Z25QMEJBVFRPa1lzeXRHTTNjckhlSWN4VVlvWlJza0x5ajdIMVc1VUVQMFlTQlpjRzdXWXpIVHM3RHd6UTNKaFdVZDdNeE1tRHJuY1poWGtYRWdZMzdq?oc=5
 
-- タイトル: 有力な地方紙の開拓目指し、各拠点と連携。成功事例を社内共有したことで連携が進み、掲載拡大の後押しに - 株式会社PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0N0RjbWx4ZDBsdDJlVnl1TXF5YkYxUE53Ymhval9ncE1oOHFqLW9GLUhqVjJEQWJzNGlYcjJ6di01VkRkY3ZOUg?oc=5
+- タイトル: 12/19(火)先進事例から学ぶ、インターナル起点で考える『新・広報戦略』【好評につき再配信】 - ValuePress!
+  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vTFdDS2pqai10VlM4b25HSUVxRnZ5dE5mc2xiaEltUFR1ZHUwTkF3elEzaHFheXNIeTlMZ0FmMFhnSVF6UnhWQXhlUmdxS09YZnJsNFRZYklVazA?oc=5
 
-- タイトル: 仕組み化した総力戦で取材が途切れない会社へ。医療VRスタートアップ、ジョリーグッドのPR戦略 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ISXVEWFdOZE1QZVFlaV80S1hjQXdFSUlrakNuZTFkV18wT1d1VzlFbHkwVngxTEJaemtmOWs3dGRWQldONzlpRUNlcFQ2SkNSRkU3M3VtMEctcjJoUW9uUG5KVQ?oc=5
+- タイトル: 【2019年4月版】月間PR TIMESプレスリリースウォッチ総評！情報多数の4月にどう動く？ - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TTnFac3F3YjRMTzd4YW12c1RXTm5ZbUhsWFJ1RVVMS01EcXpqYXpDTjV6YWI4b2RIMjFCTml4NVd6UUZjWkZTczczZ095bzJqMGNQaGJZQ3NUM2NmR0pEMkV3?oc=5
 
-- タイトル: 【PR TIMES】【共同発表】沖縄発、「チムグクル」を軸にした組織変革型DX人材育成モデルを確立 - 琉球新報デジタル
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWX0s4cDVOV1pDRkRqSEkzekZLQVI3ZjZELUw4TXRKQ09Tdm9RWThWVDFEOXJBdWxTVW5wejVONkpTYlQ5TWVwQXZtYkhBenhIQTVDXzY4WENSV2lFb1ZB?oc=5
+- タイトル: DX人材育成サービス「DX人財プランニング」を提供開始、人材像・要件レベルを可視化―STANDARD - HRzine
+  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE9VbXN3N1lyeHFCQ1EzbjREMFd4ZUE2bS1zMHljNkxnOURCZ205ZTljX2hmbUVoRjRDWE04ay1WNXNoY09Fd2p3TzJR?oc=5
 
-- タイトル: 鉄道業界向け組織人事DXラウンドテーブル 2025 “鉄道業界の人事DXを加速するAI活用の可能性” - SAP News Center
-  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kdXliTmw2YWF3dGVJbEJKZ1B5ZEQ2YlR2dTMxeUFRWHJ5Z21zUDJ0UXJfd1J1cXlYdmtKaWx6S1VSUUc4Y2JPTWZNVEdZTDdRbTdv?oc=5
+- タイトル: DX推進人材を育成する「DX人材創出プログラム」を提供―伊藤忠テクノソリューションズ - HRzine
+  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YaTNKRU5RNmN4T3VJWkMzb1QxWl84cDdqa3F6OXdKRy1YRlQ0dVhIeGZNVzNSU0N1bzFCQkZhb1Jib1otazJoZVlR?oc=5
 
 
 # Manusへの追加指示
