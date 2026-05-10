@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: キャリア
+# 本日の執筆テーマ: 海外事例
 
-- 生成日時 (JST): 2026-05-09 12:27:29
+- 生成日時 (JST): 2026-05-10 12:39:46
 
 ## 収集された最新トピック
-- タイトル: 「情緒的価値」へのアプローチが、人材定着とパフォーマンスの向上に寄与!? | 株式会社セガ エックスディーのプレスリリース - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1abkljak1kcDNBR0tfc3I4OGJQWnhGdll6S1FpRXpWM3A4X1BPRmlaejVtaGU2aFFfTTIybTMtTFVtSURsWXE5dUtKYzBnRjBmLVdJaElsVlI0c2Z4cTdTa3hIQTFMQjR5MlE?oc=5
+- タイトル: 従業員エンゲージメント向上支援ツール「Engagement Agent」の提供を開始 - 日本の人事部
+  URL: https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kUGk0emlyckVPZ1FqTGU2cjJ5Tlo1RU8tRHZiWGd4T2gzUVgtMThEclBnSjRvVTNuZ0lFZUtha083d2NEcHlvM245Yw?oc=5
 
-- タイトル: 従業員エンゲージメントの未来を拓く、 VoE（従業員の声）とフィードバック - 日本の人事部
-  URL: https://news.google.com/rss/articles/CBMidEFVX3lxTFB5bzNvSHpFbHluY3RQOU1abXZEVkFBRVh0NHF4ZmdzVlZMNWs1aFZpLUJDbXFkcmhFaHU1MXQ3VVExN0pKMDNpeG9Wd3dyQ2hVNEhvN3pYck92SWdTSWR1b2NXS2s3MzVhamg0ZWpqR2lnRmU4?oc=5
+- タイトル: エンゲージメント分析機能を搭載する人事評価システムおすすめ8選 - BOXIL
+  URL: https://news.google.com/rss/articles/CBMiQEFVX3lxTE9yaFZhYkRkMmtNMWwyNWxIV0VieF9jQ3lJaVlmd1dCbFhfN2ZmeVdQVEhmcE1JcFBtOVBkSnlXSHg?oc=5
 
-- タイトル: 良質なEX（従業員体験）こそ最良のCX（顧客体験）を生む。コミューンが考える「組織とひとが融け合う未来」の理想像 - DIGIDAY［日本版］
-  URL: https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYUYtdE5ETU1tbVo0bzcyYURudmgzSE5mbVRCVldPcXJUUVhkNFd3bWJzSE1MaWJzWG9fLXBlazdKNno2b0VSS1BnVUJtWWZWR1k1dTE3NldIWHZlak42S0dacW80ZDI0TDRxTTJPQldsTV9nN09QVEJ6V0ZLSHZIclRMRXYtNUQwSU1wOVF6ZjNwdUdkY3FzNkl2MmFib050T0VMNWtHUU1tcGNlOW10VjNtRVBVa185RWN3NDc2bVQ3X3RtV01qNERuWTVLUHhVdGJoVHNLNA?oc=5
+- タイトル: HRBrain、エンゲージメント向上につながる従業員エクスペリエンスの最新トレンドを取り上げるセミナーを開催 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9rU3dRTS1va0F1R2RLYVhXakhRUFZRNXhMbXYxQVhLUi1nbnFEREZOSjF0MFlTcEY0SnRWbEdjdUFUMUlHcE1fNmhKSFJfT2hGVTh5TWM4Umt5LWV3b1VjdXBsVWlkYVZSR3c?oc=5
 
-- タイトル: エンプロイーエクスペリエンスサーベイ 2021-2022調査結果（速報版） - PwC
-  URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxQd3RVU0ZjdGdscXpZeG54Y0swQlVlUWxmcFVrUlM0MGFkd2dUMnB2QTBFM2RUMGpBSXhwMzd1Z25QMEJBVFRPa1lzeXRHTTNjckhlSWN4VVlvWlJza0x5ajdIMVc1VUVQMFlTQlpjRzdXWXpIVHM3RHd6UTNKaFdVZDdNeE1tRHJuY1poWGtYRWdZMzdq?oc=5
+- タイトル: 成長企業が実践している、従業員エクスペリエンスを向上させる組織づくりとは - 日本の人事部
+  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTFBsbkg5WGNyNGFHUkVuOC1FNFFXdFA4ZFg0VWZkTW5sSnZtVTBMRjRaejI1S3FUaHlBMkIwcU1lQk02TDgyUy15VS1ZNG00R1A4V3l2eFpqR2phaTFRN2RqMms3aXhCanNGaTRMa0ZCUy12c0Jadnc?oc=5
 
-- タイトル: 12/19(火)先進事例から学ぶ、インターナル起点で考える『新・広報戦略』【好評につき再配信】 - ValuePress!
-  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vTFdDS2pqai10VlM4b25HSUVxRnZ5dE5mc2xiaEltUFR1ZHUwTkF3elEzaHFheXNIeTlMZ0FmMFhnSVF6UnhWQXhlUmdxS09YZnJsNFRZYklVazA?oc=5
+- タイトル: キャンペーンから社内報、組織活性化まで。国内外PRアワード一覧 - 宣伝会議
+  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE0zS3JsREMtVjhiT2JubU1rTFd4ZDlrVzFjV1gwNkhKbm1NV2VTeFptcHRtRTFXRWNWbW9KYWZRaGtSLTRuQXFVT1g5a1hNTFFNZDY0dHd6Sl9hdm1DbXRoT0Fvdmh3dmNVeFJrTlhWa1E?oc=5
 
-- タイトル: 【2019年4月版】月間PR TIMESプレスリリースウォッチ総評！情報多数の4月にどう動く？ - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TTnFac3F3YjRMTzd4YW12c1RXTm5ZbUhsWFJ1RVVMS01EcXpqYXpDTjV6YWI4b2RIMjFCTml4NVd6UUZjWkZTczczZ095bzJqMGNQaGJZQ3NUM2NmR0pEMkV3?oc=5
+- タイトル: “マイナビだからできる”採用広報とは？ 「プラスト」企画責任者にインタビュー - サポネット
+  URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxQMTRpX3h3QkJVWmxaWDAyTkRGX0M5TXV5ZlFXd3g1LXQ5czRzOUZVeEJuNENzaWJWaUU2NTV4M0Z1WDZnQ2ZySVJjN0VLYU1yN21PeEtBNmlxVU5aWEhIakFsUndBdHd1V181YkJIUlpxb0xnX181d25Rb2V5MHd2clAxSQ?oc=5
 
-- タイトル: DX人材育成サービス「DX人財プランニング」を提供開始、人材像・要件レベルを可視化―STANDARD - HRzine
-  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE9VbXN3N1lyeHFCQ1EzbjREMFd4ZUE2bS1zMHljNkxnOURCZ205ZTljX2hmbUVoRjRDWE04ay1WNXNoY09Fd2p3TzJR?oc=5
+- タイトル: DX推進による業務時間の削減は月12時間以上が約6割―駅すぱあと調べ - HRzine
+  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE1lb2Z0SWNjcUlKR3J4blRyZmVSX21JeWRreHNoM1dPZGVSeThjNU5yTmFHZHhtMDZNM0cyRnQzNF8wcVZ3ZGU1Y2ln?oc=5
 
-- タイトル: DX推進人材を育成する「DX人材創出プログラム」を提供―伊藤忠テクノソリューションズ - HRzine
-  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YaTNKRU5RNmN4T3VJWkMzb1QxWl84cDdqa3F6OXdKRy1YRlQ0dVhIeGZNVzNSU0N1bzFCQkZhb1Jib1otazJoZVlR?oc=5
+- タイトル: DX推進に向けた人事戦略・人材開発を支援する「タレントトランスフォーメーションサービス」強化―Modis - HRzine
+  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE5sMndmZ1drZzNOb29SbVZKSmszUkFPcW5nNDBfdUdFR1NKUm1WLTF6eGpvTWZhZG1tbFJtX01kV3Noc3FnQUd4Vmd3?oc=5
 
 
 # Manusへの追加指示
