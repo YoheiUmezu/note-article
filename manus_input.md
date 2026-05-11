@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 海外事例
+# 本日の執筆テーマ: 経営戦略
 
-- 生成日時 (JST): 2026-05-10 12:39:46
+- 生成日時 (JST): 2026-05-11 12:53:19
 
 ## 収集された最新トピック
-- タイトル: 従業員エンゲージメント向上支援ツール「Engagement Agent」の提供を開始 - 日本の人事部
-  URL: https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kUGk0emlyckVPZ1FqTGU2cjJ5Tlo1RU8tRHZiWGd4T2gzUVgtMThEclBnSjRvVTNuZ0lFZUtha083d2NEcHlvM245Yw?oc=5
+- タイトル: 一般社団法人幸せな人と組織づくりサポート協会が2026年7月開講『CHO養成講座』で企業のウェルビーイング経営を推進 - ニュースメディアVOIX
+  URL: https://news.google.com/rss/articles/CBMiRkFVX3lxTE9mQ2QxWlNGMnpSNWxUVTY0LXlJbFRaQ0sxYVhxN3dwcXM4Y1NzNVJfTlJxUjJzeTZEc0wwblQwME4wZnZQN1E?oc=5
 
-- タイトル: エンゲージメント分析機能を搭載する人事評価システムおすすめ8選 - BOXIL
-  URL: https://news.google.com/rss/articles/CBMiQEFVX3lxTE9yaFZhYkRkMmtNMWwyNWxIV0VieF9jQ3lJaVlmd1dCbFhfN2ZmeVdQVEhmcE1JcFBtOVBkSnlXSHg?oc=5
+- タイトル: 「人的資本経営の浸透・ 従業員認知に関する調査 ～ワーク・エンゲージメント、生産性、心理的安全性を高めるには～」 - jpc-net.jp
+  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GclB0bUlUbHVfSzFBNV9vVWw2Yk9hb0xsSjN2UVFxdkZvTjBPNUl6RzliWGVaakppa0RwU2VqeEt3UTJTdHBSLXFoalViS09TdzRKYzNEZHZkYU5PdTNN?oc=5
 
-- タイトル: HRBrain、エンゲージメント向上につながる従業員エクスペリエンスの最新トレンドを取り上げるセミナーを開催 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9rU3dRTS1va0F1R2RLYVhXakhRUFZRNXhMbXYxQVhLUi1nbnFEREZOSjF0MFlTcEY0SnRWbEdjdUFUMUlHcE1fNmhKSFJfT2hGVTh5TWM4Umt5LWV3b1VjdXBsVWlkYVZSR3c?oc=5
+- タイトル: 顧客体験（CX）を高めるカギは従業員体験（EX）にあった！企業価値を高める“人中心”のソリューションとは？ - ダイヤモンド・オンライン
+  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rZmpYNjJlU0pBenZoUzJiZ3VHTkNUZkhkeFNIenNoODlDdzRyWHJ3dmF6YV9wdFFFMVZyck1XT3Rwa3lZUWV2SWNsRk8?oc=5
 
-- タイトル: 成長企業が実践している、従業員エクスペリエンスを向上させる組織づくりとは - 日本の人事部
-  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTFBsbkg5WGNyNGFHUkVuOC1FNFFXdFA4ZFg0VWZkTW5sSnZtVTBMRjRaejI1S3FUaHlBMkIwcU1lQk02TDgyUy15VS1ZNG00R1A4V3l2eFpqR2phaTFRN2RqMms3aXhCanNGaTRMa0ZCUy12c0Jadnc?oc=5
+- タイトル: 「働きやすさ」から「働きがい」へ ～当社が進めるＥＸ向上の取り組み～ - 日本の人事部
+  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTFBIcjJWM0FwcC1wQ1VrVGRiNVNYZVZ1VlpXSERxUUZIWkNiSXlQQVhUczA2UjlubFRwbXQzd3FQQm1YV0pNZDFyYVBCekIyOTNLXzVLdjNaMXhVR2l3Qi15VDZvQXVDWExjWjZnU2diWGtHU1RzOEE?oc=5
 
-- タイトル: キャンペーンから社内報、組織活性化まで。国内外PRアワード一覧 - 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE0zS3JsREMtVjhiT2JubU1rTFd4ZDlrVzFjV1gwNkhKbm1NV2VTeFptcHRtRTFXRWNWbW9KYWZRaGtSLTRuQXFVT1g5a1hNTFFNZDY0dHd6Sl9hdm1DbXRoT0Fvdmh3dmNVeFJrTlhWa1E?oc=5
+- タイトル: 無料オフラインカンファレンスのお知らせ 異業種からの挑戦を成功に導く！化粧品業界 新規参入セミナー～勝ち抜くためのブランド戦略とマーケティング～ - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE96QjRVTUJyZ25YcUpRd2FVSnAwZGhsX1F4Y0NQNnVJTUhmV3dISmxNdHFkU1VVZExWTmpPMWtmZTM4amZuSkw0d3ZoU3pSMlN6TEgtYnZmTmxVQkJXcE9jU2p5RjUxaGhUU0E?oc=5
 
-- タイトル: “マイナビだからできる”採用広報とは？ 「プラスト」企画責任者にインタビュー - サポネット
-  URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxQMTRpX3h3QkJVWmxaWDAyTkRGX0M5TXV5ZlFXd3g1LXQ5czRzOUZVeEJuNENzaWJWaUU2NTV4M0Z1WDZnQ2ZySVJjN0VLYU1yN21PeEtBNmlxVU5aWEhIakFsUndBdHd1V181YkJIUlpxb0xnX181d25Rb2V5MHd2clAxSQ?oc=5
+- タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
+  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
 
-- タイトル: DX推進による業務時間の削減は月12時間以上が約6割―駅すぱあと調べ - HRzine
-  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE1lb2Z0SWNjcUlKR3J4blRyZmVSX21JeWRreHNoM1dPZGVSeThjNU5yTmFHZHhtMDZNM0cyRnQzNF8wcVZ3ZGU1Y2ln?oc=5
+- タイトル: 【DX＝IT化だと思っていませんか】 - komei.or.jp
+  URL: https://news.google.com/rss/articles/CBMingJBVV95cUxNRmNQcTN1RTJuOVZoQTh1SERkSUoxZjgwUmRfY2c1RVlfdnptRFhMQ3diY0dVcXlXSm1FUm0yX1BEX3gtWFNoOWxBby16eWJ5T1lndDVZMEgxcE5FRWU1SlFWQ2Jkd2diSzlLOE9BQW5RNnhDLV9XdmhhUXNKMld5RTNWU0VVZ1N1VkRsTGFyb3RZYW9ncmRkeHVvMi1jdUNUb2NPcThxQUF6aFpUSzRTMkcxeHFkUzNSSzA5azd1NEFCUGcxSDlTRmpFX0prVGg4SVQtMU9pemNlVEx0dUFGMllMcjhwQlI1cjctQm5TeUZ6bzktSy1qREFuVnluUFVJb3FmS3B5Y1NUVERTLVg3QzRyUUNrYlQ0TElqdl9B?oc=5
 
-- タイトル: DX推進に向けた人事戦略・人材開発を支援する「タレントトランスフォーメーションサービス」強化―Modis - HRzine
-  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE5sMndmZ1drZzNOb29SbVZKSmszUkFPcW5nNDBfdUdFR1NKUm1WLTF6eGpvTWZhZG1tbFJtX01kV3Noc3FnQUd4Vmd3?oc=5
+- タイトル: ニューズピックスがDX人材育成プログラム「DX Academia」を共同開発 - HRzine
+  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE9iNklGZjVXWGZ0OFNOVHJHTF94a1RlMlA5M25nbTRJMFhSMEhjdnE3YUtqOXJzc3FZdGNwNk1xdmdLV3FFbjYtbFhR?oc=5
 
 
 # Manusへの追加指示
