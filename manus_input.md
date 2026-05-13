@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 現場の運用課題
+# 本日の執筆テーマ: システム連携
 
-- 生成日時 (JST): 2026-05-12 12:36:46
+- 生成日時 (JST): 2026-05-13 12:45:17
 
 ## 収集された最新トピック
-- タイトル: 日本の従業員エンゲージメントは世界132位 ウェルビーイング経営を担う『CHO』人材育成講座を7月開講 一般社団法人幸せな人と組織づくりサポート協会 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9HLWRaWG1MZTlfcXJhYUVmQkVrODlxTEJZb2NOWkNjek9BaGxQS05PLUU3dFc0bklVRXNVRGxTbDY5SG1ETDM5ajFfd081cGtDT2tRaHRYeFlicWE1eUk2c09SZ2RrVG4tR1E?oc=5
+- タイトル: 【業界初※】エコロシティ、生産性と従業員エンゲージメントの向上を目指し2026年4月より「月イチ週休3日制」を含む3つの新制度を正式導入 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9xVjF4RXA2SGx3SVd1bzNqZ1NibDBBbVF0ZVI3SkZKa0prM2xzYUl1ZFRCTlUtd2ZkbUZudHp4OEJYRjlVMlIyNUJjeVg5bWVwcW9fQ2Z0TEl5RUhsVndQOHhsYm1YU0Q5M0E?oc=5
 
-- タイトル: 東京大学と従業員エンゲージメントに関する共同研究を実施、データ分析アルゴリズム構築―アジャイルHR - HRzine
-  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTFBUcUNwSFBaRzhSUFBaZUhGUWVXRGVRVDVIMXFLaS1FOFR0UVRrU2x0aFluQXozNzhlX2tJaXFJcjVwMnM3Mk1KZmVB?oc=5
+- タイトル: 多角的なアプローチで組織変革を加速させる - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBfbVE1RDU4cHhPdTY3eGdYdFd0UXljUEQ0cC1pYlVuUldhdUc3ZHpJcXlRbjJqZHA5RDFKOEdnc282N0docmZVZGdRc2d5WU5BT2RfM2tTT181RE5QVUtnN0pxcXB3dTAzMUE?oc=5
 
-- タイトル: 「信頼」を業績向上につなげる。EX/CX投資で過去最高売上を達成した、トリドールの心的資本経営 - Biz/Zine
-  URL: https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GZTNYOE4wQU1BXzNZdzFIN3JoeExwdk4wSWNnRTJTLTlzT2tFUjFOelNhVzMtWlQyandBUUFPUXFURWtVa2VfV0hzOUVaNnJZ?oc=5
+- タイトル: インテージ、「従業員の行動が、売上を動かす」をデータで証明・実装する新ソリューションを提供開始 - ニコニコニュース
+  URL: https://news.google.com/rss/articles/CBMie0FVX3lxTE9fTEJnMDlXZW1YbkMtS3Zid3lnSmNXbllMQTlvd3E2d3FFYXJmYVJ1S2k5ZGlDZHVSN0RPQjNxSDBJSnZqZ1F5dFlBSE1ObW1KNHZ6LUhqZjdidmxDSUc5bGRwdWJ6NnViNXJMRzRJM0M4S1BEZmRfcW5RQQ?oc=5
 
-- タイトル: AI活用コンタクトセンターから始まるEX・CX向上と満足度Upへ - bp-Affairs
-  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uTUNmQ1RUQVhBbTA4Nmc0VXhCby00RmgzRENOcFV3Tk1EVHQwanZVUW03WHVRZ05tQkUzVkNvcUoyQl9hcmhqTTMtaWZVZXJZeURtYkxUaWFEWlppQkg0OG93U0c4dw?oc=5
+- タイトル: CX・EX向上を実現したさくらインターネット Zoomが営業にもたらすAI・データ活用の未来とは - SalesZine
+  URL: https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DV214RnR4RUY5aVpqQWxlM24yc1hfOFdkTjZTbHVyUDlyTVlBbnBMV2lmcXBGRHdaak9sMTNFak5uSzZfMEdjTnJfUG82QkRCeHdUVFZSWQ?oc=5
 
-- タイトル: “社内広報活動”で、社員のコミュニケーションを活性化させるには… - ダイヤモンド・オンライン
-  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KcnZXR05PUGY2Ny1FS2pOWkNNS1BmanF0Q3F0UFhDTGdHd3g2d3hSV21kdkd4b2lvZGhTWVpUaTF6cjUtdzhCLUZOY1RVWkFESmFsRG5n0gFPQVVfeXFMT2xlZ2NHNTFMUW5mZFdETXd0MzhmWWFhdnBzTnFodDBxZVhKcTNBQU14WjhsUXRpQ1VpREZMaVROaHhuUU1iSHo4aWVEa0lFOA?oc=5
+- タイトル: 来店予約率が160％改善：アートネイチャーの成功事例に学ぶITサービス導入に必要な視点とは？ - Web担当者Forum
+  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxMVR3ektyMjVUMHpLdExQX2NCQ25KX1o5aTByNFNXLXozMmt6N0ZHUXc4MFhpb18tU0Z3dEFDNUZwWDZDVWZUR2lvZ1gyOUZKeEd6cmVyZkRLN0k?oc=5
 
-- タイトル: ＜プレマガ広報インタビュー＞株式会社OKUTA 安藤 小百合さん｜プレスリリースマガジン - ドリームニュース
-  URL: https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tYjZjZkltUkUyYjg3OV9lOG12VTIyemkwOFIwS1VlSm5CMUJXc1RkQXJnMjFJYWxVbVJXNjV2ZnBhUnFtWGtCVTRfYjNZMGMy?oc=5
+- タイトル: 【無料セミナー】スタートアップがメディア露出で成功する秘訣とは - 週刊アスキー
+  URL: https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xS1FUM3BLNFNyODVyb1JackdLVklfcVhEYS1YQkFlNnpXaEo3QTlrdGFlYUJuTWNvNU56XzZ2NFZ5M2hoclJ4dHJPNUsxOVhkRGVfYWgxcGRJUzBoTlE?oc=5
 
-- タイトル: デジタルを前提とした企業変革に求められる組織カルチャーの6つの要件 - ZDNET Japan
-  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PVU9rRmlZajhsZE5DdUF3YmRhRHFqUVNXdnp0YWhWQ3NRVnA5RThLRFl5anRqenhvaXotSWt4UndJYXFJTzVGdDMzZFZTZGRFelJz?oc=5
+- タイトル: 企業のDXを支援するオンライン研修「デジタル人材育成サービス」を提供開始―KPMGコンサルティング - HRzine
+  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE5SdEE2X0xuTGZCZkRDaldaRWJCT2ZtcEtkT2FhS0Z3YnA4Smc2bl9ibDFER3RscjlXLWd6Yk5YNVVZeHJrTFdIckhn?oc=5
 
-- タイトル: DXできる企業が持つ6つの組織カルチャーとは？ITR 内山悟志会長が詳解 - ビジネス+IT
-  URL: https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IanRfRzQ3TVJPaHZZZk1CUW1UdVByR1dhbTJJUVdkYmVNbndsTU5yWkdrODMxMVo4U3dxUjBEa20tekdaak5vc3ROSEVtbkJvS2c?oc=5
+- タイトル: DX人材育成を目的とする法人向け「リスキリングプラン」を提供開始、人材調達も支援―TechBowl - HRzine
+  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE1Fa1g5QXpvLXZMN3AzUUxYZzFPenNpNm0xODR5eC1IRUJUZlY1bzk5LVNtUEVLU0NGUjRmSDB1SHIzN08xNkEtUUdB?oc=5
 
 
 # Manusへの追加指示
