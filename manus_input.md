@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: システム連携
+# 本日の執筆テーマ: RFP/選定基準
 
-- 生成日時 (JST): 2026-05-13 12:45:17
+- 生成日時 (JST): 2026-05-14 12:43:50
 
 ## 収集された最新トピック
-- タイトル: 【業界初※】エコロシティ、生産性と従業員エンゲージメントの向上を目指し2026年4月より「月イチ週休3日制」を含む3つの新制度を正式導入 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9xVjF4RXA2SGx3SVd1bzNqZ1NibDBBbVF0ZVI3SkZKa0prM2xzYUl1ZFRCTlUtd2ZkbUZudHp4OEJYRjlVMlIyNUJjeVg5bWVwcW9fQ2Z0TEl5RUhsVndQOHhsYm1YU0Q5M0E?oc=5
+- タイトル: ユナイテッドアローズが挑み続ける「人的資本経営」のこれまでとこれから――従業員エンゲージメントを起点に「財務価値」や「企業価値」に繋げていく - HRプロ
+  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BMnpySWtKTHQzZ2VFWWpiWHdTcTRGMlNza094amZIZ2dEbWhUWVZlT193bFl2SFFKMDR5R0V2QXQwU2pnUGc3b0d4TWVuOEI5enRxLUo1UTFBVEwzbXRFMg?oc=5
 
-- タイトル: 多角的なアプローチで組織変革を加速させる - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBfbVE1RDU4cHhPdTY3eGdYdFd0UXljUEQ0cC1pYlVuUldhdUc3ZHpJcXlRbjJqZHA5RDFKOEdnc282N0docmZVZGdRc2d5WU5BT2RfM2tTT181RE5QVUtnN0pxcXB3dTAzMUE?oc=5
+- タイトル: 【速報！】2026年版第４回全国１万人従業員エンゲージメント調査結果速報 ～「30代の孤立」と「インフラ産業の活力急落」に警鐘。1万人調査で見えた日本組織の歪み ～ | 株式会社アジャイルHRのプレスリリース - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5CbUFyazI0RG10R2szcTdpVWhpWFhsNlkwT0tnYmwxdzlJZ0N2cVVPTDYxRWZMWTlTRlByYkpBM1gzM0swd0ptQnQtQUhhVGk0RFY1WE1sS2g5bVVoeWtETXUtazdzZVhORWc?oc=5
 
-- タイトル: インテージ、「従業員の行動が、売上を動かす」をデータで証明・実装する新ソリューションを提供開始 - ニコニコニュース
-  URL: https://news.google.com/rss/articles/CBMie0FVX3lxTE9fTEJnMDlXZW1YbkMtS3Zid3lnSmNXbllMQTlvd3E2d3FFYXJmYVJ1S2k5ZGlDZHVSN0RPQjNxSDBJSnZqZ1F5dFlBSE1ObW1KNHZ6LUhqZjdidmxDSUc5bGRwdWJ6NnViNXJMRzRJM0M4S1BEZmRfcW5RQQ?oc=5
+- タイトル: EX※の仕組みの構築（新しい働き方・職場づくり） | IR資料室 | 株主通信『NTTis』 | 株主通信 NTTis 2022.12 | 株主・投資家情報 - NTT
+  URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE9leVdLQUI3MFRrbjQzeHhUaWM4ZDdBSE1XUmR6S2JadmpSbzJoWlJsWl9DWjNsUTZHcWFvRi1VZzNRcDlqQnRjeENhTHUya2NPSUI4cHdfQmI0ZzFzUEw0MDZB?oc=5
 
-- タイトル: CX・EX向上を実現したさくらインターネット Zoomが営業にもたらすAI・データ活用の未来とは - SalesZine
-  URL: https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DV214RnR4RUY5aVpqQWxlM24yc1hfOFdkTjZTbHVyUDlyTVlBbnBMV2lmcXBGRHdaak9sMTNFak5uSzZfMEdjTnJfUG82QkRCeHdUVFZSWQ?oc=5
+- タイトル: 従業員エンゲージメント向上を実現するために必要なEX（従業員エクスペリエンス）とは | HRサミット2023 - HRプロ
+  URL: https://news.google.com/rss/articles/CBMidEFVX3lxTFBqcEQ1VXhYY09LbmRjQ0oxQ1gzUjlGRmpqVFNib3M0cVM3NFk5Tmp2M2YtME9qWDZhNDZtT05VNU05S1M5dzgzTmZxZ2lXMHZEd05zSDdWQ2FwZDdxTjF3ckdHYzk0SkFFaFhlZVZnZ3VNYVpL?oc=5
 
-- タイトル: 来店予約率が160％改善：アートネイチャーの成功事例に学ぶITサービス導入に必要な視点とは？ - Web担当者Forum
-  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxMVR3ektyMjVUMHpLdExQX2NCQ25KX1o5aTByNFNXLXozMmt6N0ZHUXc4MFhpb18tU0Z3dEFDNUZwWDZDVWZUR2lvZ1gyOUZKeEd6cmVyZkRLN0k?oc=5
+- タイトル: ロート製薬広報 地方2拠点・町おこし副業でスキル向上 - 日本経済新聞
+  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE1SS0w5Uk84VGpLU1dBSGFRYXpZSlNsV1dHOXFmeGlQN0YwbnI1NjMtOENnSXZCdk5XZzZWRnFrRGZKVVdYUG9qcUU0R1JxLWlKRGxuUEU5TVYwMTJqX1R3TEM0bHgzU3phczBrQWF6bWpRcXQ1U3c?oc=5
 
-- タイトル: 【無料セミナー】スタートアップがメディア露出で成功する秘訣とは - 週刊アスキー
-  URL: https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xS1FUM3BLNFNyODVyb1JackdLVklfcVhEYS1YQkFlNnpXaEo3QTlrdGFlYUJuTWNvNU56XzZ2NFZ5M2hoclJ4dHJPNUsxOVhkRGVfYWgxcGRJUzBoTlE?oc=5
+- タイトル: SHOWROOM、社外取締役としてナレッジワーク 麻野耕司氏とハートネーション 中俣博之氏の就任を発表 - 音楽業界総合情報サイト
+  URL: https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUSU81M3Vjbk9IZlZFUHBuY0lRWHpYWnNEakd0dlVodG54bGZHQlJSa0I0MFB1N00xd3M4VTYtZC1YLVpkWXkyZXBjaU9iX3BObUxUeQ?oc=5
 
-- タイトル: 企業のDXを支援するオンライン研修「デジタル人材育成サービス」を提供開始―KPMGコンサルティング - HRzine
-  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE5SdEE2X0xuTGZCZkRDaldaRWJCT2ZtcEtkT2FhS0Z3YnA4Smc2bl9ibDFER3RscjlXLWd6Yk5YNVVZeHJrTFdIckhn?oc=5
+- タイトル: 【連載 2/4】世界が試し、マクニカが磨き上げた「組織を変える日本流製造業DXとは」〜分断・対立・不動を超え、DXをカルチャーにする仕組み〜 - macnica.co.jp
+  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE94TmZJNTNrZm14SHV4Q2RkbEZLQURsd2wxaldPUS1jSjBqY1FKREgwLTVwc0hUVHNTMjR6ajloa1BtVklreDRIamh1R2Nwa3hnd25PYWQzcDh2LXo2ZWw1ZW1sT0NQTWJS?oc=5
 
-- タイトル: DX人材育成を目的とする法人向け「リスキリングプラン」を提供開始、人材調達も支援―TechBowl - HRzine
-  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE1Fa1g5QXpvLXZMN3AzUUxYZzFPenNpNm0xODR5eC1IRUJUZlY1bzk5LVNtUEVLU0NGUjRmSDB1SHIzN08xNkEtUUdB?oc=5
+- タイトル: スタンレー電気が挑む人事 DX とグローバル変革 - システム刷新を超えた組織文化の統一へ - - SAP News Center
+  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XRFIweTFvSkZ6RG05N1dsQ19hMGYxWmhnVDJpenN1d2lkWXJLYlFoVC1KdGpVN3NFTnFRNXoyNksxclREUlFjcDFCOHFfZ3dxQTln?oc=5
 
 
 # Manusへの追加指示
