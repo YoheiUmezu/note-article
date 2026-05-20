@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 現場の運用課題
+# 本日の執筆テーマ: システム連携
 
-- 生成日時 (JST): 2026-05-19 12:55:27
+- 生成日時 (JST): 2026-05-20 12:56:03
 
 ## 収集された最新トピック
-- タイトル: ユナイテッドアローズが挑み続ける「人的資本経営」のこれまでとこれから――従業員エンゲージメントを起点に「財務価値」や「企業価値」に繋げていく - HRプロ
-  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BMnpySWtKTHQzZ2VFWWpiWHdTcTRGMlNza094amZIZ2dEbWhUWVZlT193bFl2SFFKMDR5R0V2QXQwU2pnUGc3b0d4TWVuOEI5enRxLUo1UTFBVEwzbXRFMg?oc=5
+- タイトル: 手厚い福利厚生で従業員のエンゲージメント向上 人材確保、企業価値向上をもたらす - innovations-i.com
+  URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DVVgweVZvbnlGWE11VW5OUHBBMVRRR2RzQVh5bTBHSnJaUmc1dWdSUkN0SXR0bUg1NVdvbXdnajlBR3NFZC1reVVtejlVd3FkaFRXZTh2c0RlY3F5ZUhfSDFCaTdzZEU?oc=5
 
-- タイトル: 「月イチ週休3日制」など3制度を導入したエコロシティ。“より短い時間で高い成果”を目指す新働き方制度を開始 - HRプロ
-  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxVmNZRkFoWThlVDlxV0ZhcE5jR19WQkVJZjBOTFpiazlQbmNhT3hTSGdUMGdkb3Z5UENYWEVaaUFFSXJveXVjczg2azZPRVFQNVpKajRmVHJCU2xXa0VyYw?oc=5
+- タイトル: コミュニティオとEQIQが業務連携 従業員エンゲージメントの「可視化」と「向上」を一貫サービスに - SalesZine
+  URL: https://news.google.com/rss/articles/CBMilwFBVV95cUxQT3ZoWkpfMnJGZzAyS0Z4U0xCYzNtV2FtbG1XcDdRNFZqZU8yRzBJRU5uOHplZ2kxTUdUOFFjTzZfVElRUTE2V3BIZTFWWlRJLVpycFBEV1RGVHpPS09BSzI2TXMxYVlOWXdJN1ZrZzNlVGJzVEZRem9UZkRKTmZDZWNaMkxuUEplTHdKQmVLeUFsUS1YNkZ3?oc=5
 
-- タイトル: EX※の仕組みの構築（新しい働き方・職場づくり） | IR資料室 | 株主通信『NTTis』 | 株主通信 NTTis 2022.12 | 株主・投資家情報 - NTT
-  URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE9leVdLQUI3MFRrbjQzeHhUaWM4ZDdBSE1XUmR6S2JadmpSbzJoWlJsWl9DWjNsUTZHcWFvRi1VZzNRcDlqQnRjeENhTHUya2NPSUI4cHdfQmI0ZzFzUEw0MDZB?oc=5
+- タイトル: EX向上の取り組みのなかでジェンダーギャップを考える - 日本の人事部
+  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE43YWdXR0R4RWgzMUMtYmQyb19sR3BLTHl5SlVOWWU4Z3QyZ1BrM0hJZHdRSjRMZWJITnE0NjJmR3lJM0dMcExvbFcyWmJqTWNsNG96dVNsaF9JZVBXQU1DbWdrZFRKbW5PeHd2MW5QMDZFcVhVQmc?oc=5
 
-- タイトル: HRBrainが国内初の従業員エクスペリエンスクラウド「EX Intelligence」の提供を開始 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBDNDAyU21LYkpoRHZFYnZhSjVFOWVLbTZxRnRTLUxRT2tuNEN6b2J6T25BY1pkZENGdEk3U2tWTFl4Rm5ZOVlUbXA5eDlIMWpTamJ0QWRWZFNHV1hUMU1Gcnh6UDZob2tTYnc?oc=5
+- タイトル: 社員の多様な想いを叶える自律的なキャリア形成 ～EX向上施策として社内異動を活性化した事例を紹介～ - 日本の人事部
+  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE0yc19uUDd6VllCeHZNWUJBZ3pmQXdnaWJITm1TUEs3SV9OalFubi04TzNiZGp2d1ZMZ0VldXgtUXBNd3hrMkZnXzRSYnlQZnJDQ1J3eW9kTWJXRkZrX0V2MlNJN0hiSkF5c3h3NWQ1TlpwYkFOenc?oc=5
 
-- タイトル: 不動産テック企業ロードスターキャピタル株式会社の社外取締役に代表 舩木真由美が内定 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9mczFjdlBvUklQVWVDb3ZxRGI5QkxrdGQxV2hFcGxYc1V6YmQzY1NWU2tVMWZMREFBOHQ4V1RiOG1jWExJQVVlWlFsZWg4SmdaeS1TelVCTUV0eHFsUFA5VUdlcHFWWXhtUVE?oc=5
+- タイトル: シャープミュージアムにみるドラマとガイドの神髄 - 電通報
+  URL: https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FNFJzN1NOVld1dHliVUZPOUtRc1JTY3ZRT2hyS3BfYWVhTzBBUGN5RzdDeGpoSXI4NGhXNElKRW15enZLLU84bDY0SQ?oc=5
 
 - タイトル: 第1回「三菱重工グループ事業会社 広報会議」を開催 - Mitsubishi Heavy Industries, Ltd.
   URL: https://news.google.com/rss/articles/CBMib0FVX3lxTE01anEtVkVCdFNHeWZNdjZJWGpvOGZHQ3FaUmxqMHBDcVAwTG1BcEpiUW14eVc3RkdtcElEUVdfY05BYlh5bFI2V3lZa0wxSmxSWWplcG44NjJ3TlJ5c1k3NzlGaWpUMjkyUzFYNG9zSQ?oc=5
 
-- タイトル: SAMURAIが提供する「Google活用推進室」が中小企業のDXを根本から変革する支援 - ニュースメディアVOIX
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBKV2xKZkRSMGwxWTZyLTUtQ1FmNDUycFhsMW1fR3RyOUN2MGNTVUFvRkI2YV91WW1mLUJraUxqVDlaaXVqY1VKWTJnMWJyQjU4QjhsWkRUaXNndzNpOEhuQU91ZEZpR0poYXc?oc=5
+- タイトル: スタンレー電気が挑む人事 DX とグローバル変革 - システム刷新を超えた組織文化の統一へ - - SAP News Center
+  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XRFIweTFvSkZ6RG05N1dsQ19hMGYxWmhnVDJpenN1d2lkWXJLYlFoVC1KdGpVN3NFTnFRNXoyNksxclREUlFjcDFCOHFfZ3dxQTln?oc=5
 
-- タイトル: 企業のDXを支援するオンライン研修「デジタル人材育成サービス」を提供開始―KPMGコンサルティング - HRzine
-  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE5SdEE2X0xuTGZCZkRDaldaRWJCT2ZtcEtkT2FhS0Z3YnA4Smc2bl9ibDFER3RscjlXLWd6Yk5YNVVZeHJrTFdIckhn?oc=5
+- タイトル: 【連載 3/4】世界が試し、マクニカが磨き上げた「組織を変える日本流製造業DXとは」〜マクニカしかできない「変革」を移植する伴走とマインドの正体〜 - スマートマニュファクチャリング - macnica.co.jp
+  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE54dGZ1emlGZDFEX0ZfSnFCM0V0Qk9GWEhMNFkyX1F6N0hySHk2YUxObzNTb0FvcHUyVGhUQ01KUEtKeHkwR0NWRW9LeHVjeWFCQlVwV3g1X0N6WlVzc3hXRFNMM0w1SHJh?oc=5
 
 
 # Manusへの追加指示
