@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 海外事例
+# 本日の執筆テーマ: 経営戦略
 
-- 生成日時 (JST): 2026-05-24 12:58:45
+- 生成日時 (JST): 2026-05-25 13:09:58
 
 ## 収集された最新トピック
-- タイトル: 【速報！第2弾】2026年版第4回全国１万人従業員エンゲージメント調査 追加分析レポート ～「AI・人材投資」だけではエンゲージメントは上がらない？16業種のクラスター分析で見えた真の課題～ - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBOUVpiNDRQbF9ncV9lb2pRX2xyR1Fzd0dBX3VlZUJPeW1yaHdTYU9COXE4ZmRRdG5iOWI1RVlPLXRXZTEtUGxRa2ZtQnkyYk1KQk0wV2g1dUJfRzF4QThtUFBjQ05nbG9qd2c?oc=5
+- タイトル: コミュニティオとEQIQが業務連携 従業員エンゲージメントの「可視化」と「向上」を一貫サービスに - SalesZine
+  URL: https://news.google.com/rss/articles/CBMilwFBVV95cUxQT3ZoWkpfMnJGZzAyS0Z4U0xCYzNtV2FtbG1XcDdRNFZqZU8yRzBJRU5uOHplZ2kxTUdUOFFjTzZfVElRUTE2V3BIZTFWWlRJLVpycFBEV1RGVHpPS09BSzI2TXMxYVlOWXdJN1ZrZzNlVGJzVEZRem9UZkRKTmZDZWNaMkxuUEplTHdKQmVLeUFsUS1YNkZ3?oc=5
 
-- タイトル: 【調査報告】人材投資に積極的な会社ほど従業員エンゲージメントは高い - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9xLXBVME82RXZ5a0prZTNWbVJPY2lZZ0RxNHRQMk5jUl9mbXBlLVhjTmYwMDBHa1hIRWZIUEFpcTROZmoyZkVFaC16S3d3M1BrQWJjbU5Dd3hacU5hXzVEUTJIeTRnZnVXTHc?oc=5
+- タイトル: AI導入で従業員エンゲージメントが低下する5つの要因とその対処法 - Yahoo!ニュース
+  URL: https://news.google.com/rss/articles/CBMif0FVX3lxTE1Vb3p6dmVOb0VtWVE1ZGZjZUV5UzdVUXFnUm9IbTEyYXhydVJ1UlFnbmxkZjZ0ZDdnQ3ZWeEkzTVRDSVBLX3N6VDgtX2F6VHgyeXV5b21HV2g3Tko1dk5aVWZ2cEZnaWFFdG5LRmFyZzIzaW81eEVKZlc2bjJVbUE?oc=5
 
-- タイトル: 成長企業が実践している、従業員エクスペリエンスを向上させる組織づくりとは - 日本の人事部
-  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTFBsbkg5WGNyNGFHUkVuOC1FNFFXdFA4ZFg0VWZkTW5sSnZtVTBMRjRaejI1S3FUaHlBMkIwcU1lQk02TDgyUy15VS1ZNG00R1A4V3l2eFpqR2phaTFRN2RqMms3aXhCanNGaTRMa0ZCUy12c0Jadnc?oc=5
+- タイトル: バニッシュ・スタンダード、「SCビジネスフェア2026」に初出展。SCの「人材定着率」や「売上」を向上させるソリューションを提案。 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9jYWs4M0RNT0RFN0RwZHlud3dpS24yYWpFUzZFbDdXeDd0cFBWQXpLbkFvZlFsaWFxX0pXcVc2NzZiTjA5QVhQQmJMcGp4T1MyT0J5dWtXYThYYUhJTFJmMm11T2ZWZG5xS2c?oc=5
 
-- タイトル: 【登壇レポート】SAP Concur Fusion Exchange 2022 JAPAN - EX向上とガバナンス確保を両立させる承認レス設計の実践知 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9PdV8wTjNPaFZRbnR1WE1MWFdzTXFZTnFGeVdXODEtVDE3d0VvalNhWDJhdmZFTmxtQ0ZWZW1Vd0Q2ejN5VGw5d1dlYTJKeHhRcFZ4Y1E2UmJTUmUxZVpXSjZLSVhiSVNKQUE?oc=5
+- タイトル: 1348 Ex Voto 開発者は今後のアップデートでパフォーマンスの向上と洗練を約束しています - gamereactor.jp
+  URL: https://news.google.com/rss/articles/CBMiugFBVV95cUxPS0FFRGVxYU8tYm1zc1lkeFhnTC1rMEk1aDhjaTY3V1FKMFVXd0lMMzJKb0tuam9ZWHpYSUVSY25kTUVvZnNKWDg5dEVJZ1JmQU15RDJhdzNJLTZrdmdDdUhLOVdQWHNac19jTHBlMkI1Q25wOUhrdGFvUnNDTi1lZFNiRTBNSFlLY1dKTmxCZ0RkYWFrZ1NoTmlXOFVWQVBfTXQtS2k4d0E4bm9HM2xhc2VzR0cteGcwYXc?oc=5
 
-- タイトル: 社内調整と著作権・版権がポイント、PR動画制作のノウハウと注意点 - AdverTimes.（アドタイ） by 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE02U2plaUJQM3RUUmpJQkJNalBfTnBZbV8yYk9fWHh0TlZIQU5oMF9yVnItbVBNTnZHS2wtMGM3VnNQRkU3TzFlZ1daYTNzVkE5Y1J2SUNZWHZOUWxPTkl3?oc=5
+- タイトル: 来店予約率が160％改善：アートネイチャーの成功事例に学ぶITサービス導入に必要な視点とは？ - Web担当者Forum
+  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxMVR3ektyMjVUMHpLdExQX2NCQ25KX1o5aTByNFNXLXozMmt6N0ZHUXc4MFhpb18tU0Z3dEFDNUZwWDZDVWZUR2lvZ1gyOUZKeEd6cmVyZkRLN0k?oc=5
 
 - タイトル: 第1回「三菱重工グループ事業会社 広報会議」を開催 - Mitsubishi Heavy Industries, Ltd.
   URL: https://news.google.com/rss/articles/CBMib0FVX3lxTE01anEtVkVCdFNHeWZNdjZJWGpvOGZHQ3FaUmxqMHBDcVAwTG1BcEpiUW14eVc3RkdtcElEUVdfY05BYlh5bFI2V3lZa0wxSmxSWWplcG44NjJ3TlJ5c1k3NzlGaWpUMjkyUzFYNG9zSQ?oc=5
 
-- タイトル: 3代目社長がコロナ禍で見出したDXという活路 長崎の教習所はどのようにしてIT企業へと変貌を遂げたのか - クラウドサイン
-  URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE15SGtpLWtwYzRsZkdXU1dvdWVHU3hPYWhMLVFQZVFGMHVyeldqWnk3TmlJVFpQNjBiVWw1cWdpNmdKQXg1VnJLX2tTX0tkNWphNU9xMHZhclVIYV9Nb0t0TnVEcFo?oc=5
+- タイトル: 令和3年版 情報通信白書｜デジタル・トランスフォーメーションの定義 - soumu.go.jp
+  URL: https://news.google.com/rss/articles/CBMiggFBVV95cUxNeHFWTFdPM0w5djZzUVM4cDdyNEN1X2xNVE9DWFBHbW9QcUJZMXVuU29QdmY1VFBsS3FweG5ocVVjMXQ3VDhEcmVlQURVQ0xtVU9VWlctcjhoUXppVnBpaHkzWHlDYUNrVlRxT1B0UVZpOHp6RDVweWU3RFgwRV9qc0JR?oc=5
 
-- タイトル: 88％の社員が自ら動き出した トップダウン型だった丸井が、組織文化の改革で「捨てたもの」と「残したもの」は？ - JBpress
-  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMaGlFOTZqOHFZZWVTZHFQTXkyUV90SDdQZE1MSUJPMDZCTEY1V3RKdlZkNFpxbTRfQnZaX1hCamFNN1UybTdLZkhNWEJhVFNsaUdGREtB?oc=5
+- タイトル: 自己破壊なくしてDXなし。デジタル変革を加速させる企業組織のあり方 - DIAMOND ハーバード・ビジネス・レビュー
+  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KZm8xQWRaTXZ0V1B2UGdzdkk3SEJVdG1vY0NuaDZhaWdzY0d6M091eFFobkNjM0txb0NHZklIdW0zaFNNS3hEQnpaeU91MF9Cc1htV3d2ZDdzdw?oc=5
 
 
 # Manusへの追加指示
