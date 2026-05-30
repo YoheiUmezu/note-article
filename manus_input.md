@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: トレンド解説
+# 本日の執筆テーマ: キャリア
 
-- 生成日時 (JST): 2026-05-29 12:59:26
+- 生成日時 (JST): 2026-05-30 12:45:30
 
 ## 収集された最新トピック
-- タイトル: 従業員エンゲージメント市場に関する調査を実施（2025年） - yano.co.jp
-  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yX0hEazNKWXptU0xidUlreTJGelRtRkQ0TVlJRGppZ0o5cTV1ZEZhMXdGbzAzSENvenZaSlZXMkhNS2xPYzVRRzdjenBybnRtSEdqSzFCT2N6QUdjVF9ZU3BMMTZVdw?oc=5
+- タイトル: 大企業における従業員エンゲージメントと離職意向の 関係性に関する実態調査 - jri.co.jp
+  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWZWRMelpJME9YZXBIUjEzSV9iVG5nV1liTXR4cnZhbkxVbHFsVlRtajdXMGhsNmJWUDZ5enVxTWVDS04wQVdHY3RLZVJ1WVJjY2RzRUxoQnhmVjgybDh3?oc=5
 
-- タイトル: ユナイテッドアローズが挑み続ける「人的資本経営」のこれまでとこれから――従業員エンゲージメントを起点に「財務価値」や「企業価値」に繋げていく - HRプロ
-  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BMnpySWtKTHQzZ2VFWWpiWHdTcTRGMlNza094amZIZ2dEbWhUWVZlT193bFl2SFFKMDR5R0V2QXQwU2pnUGc3b0d4TWVuOEI5enRxLUo1UTFBVEwzbXRFMg?oc=5
+- タイトル: 東南アジア圏の従業員エンゲージメントに関する調査結果を公開 - lmi.ne.jp
+  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLOV93ZnFwNElWWUlmQzFiZXJ6N2doMTZpVDZiVGdpblVPTVdwYkd5NXJLUlNBY1JHSnFKVHBKcWItekJTU1Q1NkRxR1Bpak9USUdXSjhJemxiTUJTOFpkOVRCbjlrUQ?oc=5
 
-- タイトル: エンゲージメントと生産性を向上させる新潮流 EX（従業員体験）とコミュニケーションをデザインする - 日本の人事部
-  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE52c0VzeVFHQlhLem9faGQtMGh4UkFZbWVpZUVTSWRHV1NlNDFnbXJWaHI3TGNwdDhHVUt6X05rclAzcXBlTXNRbHhYNVpGRm9DVUdrY3oxemhONFFsc0xZOTBWaGxCWV9Ud0VrbkxxazJGUV9KM0E?oc=5
+- タイトル: CX領域におけるAIによるプロセス変革を支援する『CX AI STUDIO™』を提供開始―“AIのチームメイト”とともに従業員体験と顧客体験を同時に変革し、ブランド成長を支援―｜ニュースリリース｜博報堂 HAKUHODO Inc. - hakuhodo.co.jp
+  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwdzcxWHQ1b1h1MFBkbmhZZlByNXNtOXlZMGlHdEtCemphSDZWTGR6c0lQNll2ei1kOElrakVWNmtNMU50cng0OHlvckxQWEVoMTlobzNab0N1ZHZWR3MyRg?oc=5
 
-- タイトル: NTTアドとNTT ExCパートナー、“顧客体験（CX）”と“従業員体験（EX）”向上に繋がるエンゲージメント最大化ソリューションの提供に向けた業務提携を開始 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1rVERsNldQdnRYcVlkbzFac25MVy1DR1cwOS03QVJBZlJtV281cWs3VEtSOXhMWTZJYmF6c1ltUlRhZXRPdmxFWnhJczA1RTVlM2ZZeG9GMEV3cWRvNjI3UmxiMEk2d3YtS0E?oc=5
+- タイトル: バニッシュ・スタンダード、「SCビジネスフェア2026」に初出展。SCの「人材定着率」や「売上」を向上させるソリューションを提案。 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9jYWs4M0RNT0RFN0RwZHlud3dpS24yYWpFUzZFbDdXeDd0cFBWQXpLbkFvZlFsaWFxX0pXcVc2NzZiTjA5QVhQQmJMcGp4T1MyT0J5dWtXYThYYUhJTFJmMm11T2ZWZG5xS2c?oc=5
 
-- タイトル: イベントレポート＜NBPC BRAND DAY 2025【第2部】＞ エビデンスに基づくブランドコミュニケーションで成果を上げる | CCL. - 日経BPコンサルティング
-  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtM2E3dkdvY0tmOWtTNmNjVjFBVkpJTVo0bkZNNXNaSjhVel9tZzkxdk9sWVpwRzlvSExPU2cyaVBFQnJaOEc1VllMUWxiZHhHbzI4cUxfYTcyanpJdTYyZQ?oc=5
+- タイトル: 第1回「三菱重工グループ事業会社 広報会議」を開催 - Mitsubishi Heavy Industries, Ltd.
+  URL: https://news.google.com/rss/articles/CBMib0FVX3lxTE01anEtVkVCdFNHeWZNdjZJWGpvOGZHQ3FaUmxqMHBDcVAwTG1BcEpiUW14eVc3RkdtcElEUVdfY05BYlh5bFI2V3lZa0wxSmxSWWplcG44NjJ3TlJ5c1k3NzlGaWpUMjkyUzFYNG9zSQ?oc=5
 
-- タイトル: 【2/20(木) 開催｜無料 食品ECのグロースハック】＼レッドオーシャン市場での“勝ち筋”はこれだ！／食品ECのグロースハック戦略2025～成功事例に学ぶ最先端のマーケティング手法～ - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5yc3NvT2ZWNkJ3Z1hMQjVJRVJ4dklXd0JsSngtSEJFNlB3VUtNaDl4RlVjT21SbFlfZWl6MGJ6Y0x5SUc2dXE2Q2NqdDRTaU9Edm9pRFViZFhKRUctVmxHRzNpaXJ1TUN3blE?oc=5
+- タイトル: 無料オフラインカンファレンスのお知らせ 異業種からの挑戦を成功に導く！化粧品業界 新規参入セミナー～勝ち抜くためのブランド戦略とマーケティング～ - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE96QjRVTUJyZ25YcUpRd2FVSnAwZGhsX1F4Y0NQNnVJTUhmV3dISmxNdHFkU1VVZExWTmpPMWtmZTM4amZuSkw0d3ZoU3pSMlN6TEgtYnZmTmxVQkJXcE9jU2p5RjUxaGhUU0E?oc=5
 
-- タイトル: 日本の DX、変革を阻む「カベ」をいかにして乗り越えるか？DXリーダー、若手起業家が語る未来への展望 - SAP News Center
-  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVMURiTDVndk1uRk5kRVRZMWk3NldLMFRyYTVSN0xNaHlnYmJ4c0dtWEduNFVQM0FGMXdEdEJiRzdHY2NtbXZoS2IyLWRqd3IyRmJXX2N1R1lGdw?oc=5
+- タイトル: AKKODiS、「令和８年度 大分県及び市町村のDX人材育成支援業務」を受託 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFB0VnZEaUItV1JQNWpSb1JnX3pfcTVQdDVscWJLM211ZXZLRlUzRFdSaUtkUUE2cmZBTEE4blF0YlJTUFR6YkdGWm40WTBxT05xTTZvMFhnb2VqTEVSb182aG5Ud0wzdEd2S0E?oc=5
 
-- タイトル: 「日本のDXはなぜ進まないのか」──制度・文化・経営の壁を関口和一氏が斬る - cio.com
-  URL: https://news.google.com/rss/articles/CBMi3gJBVV95cUxNdjlEeGJ2V1JLM0NRbjVfckJTOERBS2ZGOTdQM00tWlZmZTUta1dZV2xvUmVMUkxNeDBvbnBTNThEVEcteTZwcmxoOFZoMjhCYURiQW03SkVyYTZSS0oyTjljVzJGZ3h1YmEtSjNYVFljTXNJNFZadGN2TGtjdUxNa1J4UW1wZVFST3E1N24wLW9oWEpUeXRjT1ZWbzFITF9tRXcwWmlFblV5ZHFsM0o5RUdWc2hQZ2hFZDFNcUJJSEVUdHFMakRWcGRZTTR4U3lUeDUyLVhyeW4yVnpLc05QaVZYQzA3eE8xMUhFV0ptTWRLRVVCeTU0SjByVTBVM1VOcEcxdXIxNjNBVENXWko5cTJaUmllR3RpVEk3WlFjS0pVbmxoQVJIam03TEZ6RmwxQndSckhSWXdYR2gxbkNpS0xpa0lOOWdtbTE2dVpaM2lmMUVoc2NsVkR0QXcyZw?oc=5
+- タイトル: 【連載 2/4】世界が試し、マクニカが磨き上げた「組織を変える日本流製造業DXとは」〜分断・対立・不動を超え、DXをカルチャーにする仕組み〜 - macnica.co.jp
+  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE94TmZJNTNrZm14SHV4Q2RkbEZLQURsd2wxaldPUS1jSjBqY1FKREgwLTVwc0hUVHNTMjR6ajloa1BtVklreDRIamh1R2Nwa3hnd25PYWQzcDh2LXo2ZWw1ZW1sT0NQTWJS?oc=5
 
 
 # Manusへの追加指示
