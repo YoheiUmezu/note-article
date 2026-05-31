@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: キャリア
+# 本日の執筆テーマ: 海外事例
 
-- 生成日時 (JST): 2026-05-30 12:45:30
+- 生成日時 (JST): 2026-05-31 13:12:12
 
 ## 収集された最新トピック
-- タイトル: 大企業における従業員エンゲージメントと離職意向の 関係性に関する実態調査 - jri.co.jp
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWZWRMelpJME9YZXBIUjEzSV9iVG5nV1liTXR4cnZhbkxVbHFsVlRtajdXMGhsNmJWUDZ5enVxTWVDS04wQVdHY3RLZVJ1WVJjY2RzRUxoQnhmVjgybDh3?oc=5
+- タイトル: 矢野経済研究所、従業員エンゲージメント市場に関する調査結果を発表 - nikkei.com
+  URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE9paUN6bzNRcUVocEpNTmlMSlgtYUhjR2R5ME91Z29zRkpGQzVGdWk0RFo5aTR5Y0R3eWhINE5JTE85Tmpjby1OVUJQQzdhb08yaWdNQWMwbWVFVTVrWXhlX3lTb3V2WFJTWjhtbw?oc=5
 
-- タイトル: 東南アジア圏の従業員エンゲージメントに関する調査結果を公開 - lmi.ne.jp
-  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLOV93ZnFwNElWWUlmQzFiZXJ6N2doMTZpVDZiVGdpblVPTVdwYkd5NXJLUlNBY1JHSnFKVHBKcWItekJTU1Q1NkRxR1Bpak9USUdXSjhJemxiTUJTOFpkOVRCbjlrUQ?oc=5
+- タイトル: 従業員エンゲージメントの「7割はマネジャー次第」、ギャラップ社トップ研究員の結論 - Forbes JAPAN
+  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lMEVKZEU0S0ZHMFpFb2k4NmdKSHlnWDR6UGp2ekwyNDZicEdya0pfMG5BdTZWcTJNLVdsbm5iY1lrUWVIUmR2ckRMdE1jT2luRmVVZ0x3TFc?oc=5
 
-- タイトル: CX領域におけるAIによるプロセス変革を支援する『CX AI STUDIO™』を提供開始―“AIのチームメイト”とともに従業員体験と顧客体験を同時に変革し、ブランド成長を支援―｜ニュースリリース｜博報堂 HAKUHODO Inc. - hakuhodo.co.jp
-  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwdzcxWHQ1b1h1MFBkbmhZZlByNXNtOXlZMGlHdEtCemphSDZWTGR6c0lQNll2ei1kOElrakVWNmtNMU50cng0OHlvckxQWEVoMTlobzNab0N1ZHZWR3MyRg?oc=5
+- タイトル: 全国信用金庫協会とHRBrainがタッグ 信用金庫のエンゲージメントを可視化・改善離職防止と生産性向上へ - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFByak5NdXBmNjdBTG1sZHJuLWRlM2l5RU5xeXJ0dS1sWEd1UnNwYmN1azMzb2RoYTc3NUhQLWNKd1pabFJFR1pMdDZpUzljb1dXaE1jMElialJBTTFYTTc4Tmo1VkV6R19nQ0E?oc=5
 
-- タイトル: バニッシュ・スタンダード、「SCビジネスフェア2026」に初出展。SCの「人材定着率」や「売上」を向上させるソリューションを提案。 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9jYWs4M0RNT0RFN0RwZHlud3dpS24yYWpFUzZFbDdXeDd0cFBWQXpLbkFvZlFsaWFxX0pXcVc2NzZiTjA5QVhQQmJMcGp4T1MyT0J5dWtXYThYYUhJTFJmMm11T2ZWZG5xS2c?oc=5
+- タイトル: 電通デジタル、企業の業務システム活用において、従業員体験の向上を支援する「Employee eXperience（EX）ReDesignプログラム」提供開始 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9SWWo0V3U0QzB4bUdSMC05MWJnd2RJQzhCVjZLclFZUzhQTEVsQzRodWp4aHh2UmFCUDM3dElVVFhQVG1PQUV0eWlKUHhkR2JDdVFZWVpyX2t2UjBOZGl4dFhHWjJ5V2c5aUE?oc=5
+
+- タイトル: 来店予約率が160％改善：アートネイチャーの成功事例に学ぶITサービス導入に必要な視点とは？ - Web担当者Forum
+  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxMVR3ektyMjVUMHpLdExQX2NCQ25KX1o5aTByNFNXLXozMmt6N0ZHUXc4MFhpb18tU0Z3dEFDNUZwWDZDVWZUR2lvZ1gyOUZKeEd6cmVyZkRLN0k?oc=5
 
 - タイトル: 第1回「三菱重工グループ事業会社 広報会議」を開催 - Mitsubishi Heavy Industries, Ltd.
   URL: https://news.google.com/rss/articles/CBMib0FVX3lxTE01anEtVkVCdFNHeWZNdjZJWGpvOGZHQ3FaUmxqMHBDcVAwTG1BcEpiUW14eVc3RkdtcElEUVdfY05BYlh5bFI2V3lZa0wxSmxSWWplcG44NjJ3TlJ5c1k3NzlGaWpUMjkyUzFYNG9zSQ?oc=5
 
-- タイトル: 無料オフラインカンファレンスのお知らせ 異業種からの挑戦を成功に導く！化粧品業界 新規参入セミナー～勝ち抜くためのブランド戦略とマーケティング～ - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE96QjRVTUJyZ25YcUpRd2FVSnAwZGhsX1F4Y0NQNnVJTUhmV3dISmxNdHFkU1VVZExWTmpPMWtmZTM4amZuSkw0d3ZoU3pSMlN6TEgtYnZmTmxVQkJXcE9jU2p5RjUxaGhUU0E?oc=5
+- タイトル: 花王は現場主導と高速回転を軸にDXを推進する - DIAMOND ハーバード・ビジネス・レビュー
+  URL: https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tS19tRjVQbGczOEJBdGtpdWJ3TDR6OXRxRjE2YXBwNmZ0ejg4RTdZUFRJZXppZ0drZmZvX3p6SWk2eElqeTV6UHBMdnZsQS1jU0E?oc=5
 
-- タイトル: AKKODiS、「令和８年度 大分県及び市町村のDX人材育成支援業務」を受託 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFB0VnZEaUItV1JQNWpSb1JnX3pfcTVQdDVscWJLM211ZXZLRlUzRFdSaUtkUUE2cmZBTEE4blF0YlJTUFR6YkdGWm40WTBxT05xTTZvMFhnb2VqTEVSb182aG5Ud0wzdEd2S0E?oc=5
-
-- タイトル: 【連載 2/4】世界が試し、マクニカが磨き上げた「組織を変える日本流製造業DXとは」〜分断・対立・不動を超え、DXをカルチャーにする仕組み〜 - macnica.co.jp
-  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE94TmZJNTNrZm14SHV4Q2RkbEZLQURsd2wxaldPUS1jSjBqY1FKREgwLTVwc0hUVHNTMjR6ajloa1BtVklreDRIamh1R2Nwa3hnd25PYWQzcDh2LXo2ZWw1ZW1sT0NQTWJS?oc=5
+- タイトル: 専門家に聞く「DX推進に向けた人材・組織の課題や取り組み」 - 日本人材ニュースONLINE
+  URL: https://news.google.com/rss/articles/CBMiR0FVX3lxTFBBRElBVHJHUHhWYXRJbjB2ZzU1elhLVUlLTndfUXRndE55MnAzQWlJbXVxY1JqRXFnVEd4bU1JYlg3MkQ3NWUw?oc=5
 
 
 # Manusへの追加指示
