@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 経営戦略
+# 本日の執筆テーマ: 現場の運用課題
 
-- 生成日時 (JST): 2026-06-01 13:25:36
+- 生成日時 (JST): 2026-06-02 13:18:57
 
 ## 収集された最新トピック
-- タイトル: 「『従業員』『組織』『顧客』視点の課題解決で企業の成長を支える――従業員エンゲージメント向上ソリューション」6/1～6/12ウェビナー再放送 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBIVHV0bFpHc3BjN0xaUndnRDdLWkhGWU5iZHZrMUg4djhESC1OVjBXR011b3VBUkdTUjBNbXRNbE9Ia0NxdEZEVVpmYXhYRzd6X0RfRXhtSFVpWHc3NGpCOHJuR1VMUDZRSVE?oc=5
+- タイトル: クレオ／「従業員・組織・顧客視点の課題解決で企業の成長を支える―従業員エンゲージメント向上ソリューション」6月1日～12日再配信 - 流通ニュース
+  URL: https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BR2ljMEJXUGYtMXg2aUNrSEtuZzBVemxuLUNfNS1tUEtWeXFoRXlXMTgzV1FkMndKTVRrMWtEVF9EUExvUFVKZW9mUEJPZ1RYWXNMWThPQQ?oc=5
 
-- タイトル: エンゲージメント調査は無意味？ 従業員が「離職を決める瞬間」とそれが見逃されてしまう理由 - Forbes JAPAN
-  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ROWhneVdEVU5IOUM5WEk3V09idThrUkdVZmswaGI5dEZSa3d3bTdabV9FRzBxbVI2VVUxRkZlZnNOTl9CR0h4S3FmZU5tcDhqcmRUeGoxVE8?oc=5
+- タイトル: 「『従業員』『組織』『顧客』視点の課題解決で企業の成長を支える――従業員エンゲージメント向上ソリューション」6/1～6/12ウェビナー再放送 - kreo.jp
+  URL: https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JOUpidzFHOU44aXV6Z3dZMGo1S3J6bTctSlRPbnE1WW5uZXMtTFdEaWNmUGo1U2tHNGlrNmxYZXlOLTU2ZmFncllkZTZZSWduNmc?oc=5
 
-- タイトル: 【申込受付中】Contact Center AI Summit 〜20社のAI活用事例から見えるCX・EXの新戦略〜｜無料オンラインカンファレンス開催のお知らせ - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5XeGZibGkwVm5LbU5IMkswRXY1LWwwOVNWS2pMdlVZMWlTR2xvTWdhYkVpWDRFRWlFY1E4VTc2RV9vdXhtbEFXN0JTMTFrQktKSFhMLTZJbFg1RGU1YXNqNXp1TkVIaHI1cnc?oc=5
+- タイトル: MSI、新型ポータブルゲーミングPC「Claw 8 EX AI+」発表！ グラフィックス性能が大幅向上 - GAME Watch
+  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE00SkdXaEpKRmZzUTRCd09hZ1luQWcwenFCMWU4TjRpY3d0WktGMzFGVmFtbEhLeERSMWx2c1BkdGVrb0ZBMkdqNWw4MjVBUnpCc0gzU1UwS0JrZnBMbE1xdXlmQnNpUQ?oc=5
 
-- タイトル: 【参加無料】6月26日開催「人事業務のDX活用がもたらすEX向上と企業価値創造」 | セミナーインフォ - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1RYW9MU2lhcUtYOEN5bGRURERPb0xTaUJqMkRfeFJVNFh3RjNrcS1OYjRzZzZ6MnBMcFJNZmlGZGRIbnplR3hxM1pIbzNnV281ekxhclN1eE1MT1lRY3VOMFA0LTlyd3Jfd1E?oc=5
+- タイトル: EX向上がCX向上を招く！ 従業員の主体的な姿勢が顧客に良い影響をもたらす - DXマガジン
+  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RS0M0ZGJvRTVId0xZdi14T2VtTjN3V0dDLUlveXR6UU1Fb1hDRG1jTExaYWlhcjBZNURSV3hxSXhDaGhpR3BHSXRUSmxUZGxYZlVleG1nbGc2YkVsMTczcw?oc=5
 
-- タイトル: 【新発売】広報部門向け提案型AIサービス“ネタココ”提供開始 - ニコニコニュース
-  URL: https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zOVE0b0JHVlIyZW1KNlNtM0RsSUlBa25OSmpjMmtnaFBqMzhBLWpHYjRSRjBxMk83NEhjRFQzS240QTEzQ3FSWFBxSkYyVDh2SUcyTg?oc=5
+- タイトル: 来店予約率が160％改善：アートネイチャーの成功事例に学ぶITサービス導入に必要な視点とは？ - Web担当者Forum
+  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxMVR3ektyMjVUMHpLdExQX2NCQ25KX1o5aTByNFNXLXozMmt6N0ZHUXc4MFhpb18tU0Z3dEFDNUZwWDZDVWZUR2lvZ1gyOUZKeEd6cmVyZkRLN0k?oc=5
 
-- タイトル: “マイナビだからできる”採用広報とは？ 「プラスト」企画責任者にインタビュー - サポネット
-  URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxQMTRpX3h3QkJVWmxaWDAyTkRGX0M5TXV5ZlFXd3g1LXQ5czRzOUZVeEJuNENzaWJWaUU2NTV4M0Z1WDZnQ2ZySVJjN0VLYU1yN21PeEtBNmlxVU5aWEhIakFsUndBdHd1V181YkJIUlpxb0xnX181d25Rb2V5MHd2clAxSQ?oc=5
+- タイトル: 第1回「三菱重工グループ事業会社 広報会議」を開催 - Mitsubishi Heavy Industries, Ltd.
+  URL: https://news.google.com/rss/articles/CBMib0FVX3lxTE01anEtVkVCdFNHeWZNdjZJWGpvOGZHQ3FaUmxqMHBDcVAwTG1BcEpiUW14eVc3RkdtcElEUVdfY05BYlh5bFI2V3lZa0wxSmxSWWplcG44NjJ3TlJ5c1k3NzlGaWpUMjkyUzFYNG9zSQ?oc=5
 
-- タイトル: 45％が直面する「DX人材の壁」……いつまでも育たない企業に欠けている“2つの視点” - ビジネス+IT
-  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WbXlNMU1JY2tHQm11S3JtT0RfdzdDekhLLUs4SmtERFZvODlDaWotUW5jRUtSY0hUSXpnNHl3aDFoQ2ttNmpCMVFfWC1SeFk?oc=5
+- タイトル: 「デジタル化」のその先へ！ 長野の中小企業がDXで挑む市場変化という魔物：DXにはアナログな部分がとても大事（1/3 ページ） - ITmedia
+  URL: https://news.google.com/rss/articles/CBMickFVX3lxTE5BcGRSLXZyMkFIZmFTTWQxUUowNFhycTdNTGZnM1lGa3dUYmhEODZUWHp2bFMwY0MzQWE2WGFqOV92dWNqY0RMZVhvU1JURzA5X3hQcEV0bWlVcWh2VlR3VUZ0V2pjSld4aVNrMTg2YktCUQ?oc=5
 
-- タイトル: 株式会社NTT DXパートナーのエンジニア：新技術をすぐ試せる挑戦文化あり ｜ミライのお仕事 - MoreJob株式会社
-  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE5zcE56WHZhamJfNTdKR1phbC1CY1UwQUZNMmtEd1BFeGVIb3RqQ0lZYTFtdkxjbm1fRnllNTZqcjV5NURXUS1rX2ExcUU?oc=5
+- タイトル: クニエ、サプライチェーン領域の業務変革を支援する「サプライチェーン・DXイノベーションワークショップソリューション」を提供 - クラウド Watch
+  URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VeVFVUU1SemVTUGNCa2NYTXQ5ZlRRRFNLcHhkTDhBMEJEUGF6VFdaTlZLMlFBTVZ5elRJZ2JkSkVGNF9aM05ESThtQ2VPNDFqY2JpZlhsWGJhazMzZmpWazdZSGhTNEU?oc=5
 
 
 # Manusへの追加指示
