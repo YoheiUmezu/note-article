@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 現場の運用課題
+# 本日の執筆テーマ: システム連携
 
-- 生成日時 (JST): 2026-06-02 13:18:57
+- 生成日時 (JST): 2026-06-03 13:28:29
 
 ## 収集された最新トピック
-- タイトル: クレオ／「従業員・組織・顧客視点の課題解決で企業の成長を支える―従業員エンゲージメント向上ソリューション」6月1日～12日再配信 - 流通ニュース
-  URL: https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BR2ljMEJXUGYtMXg2aUNrSEtuZzBVemxuLUNfNS1tUEtWeXFoRXlXMTgzV1FkMndKTVRrMWtEVF9EUExvUFVKZW9mUEJPZ1RYWXNMWThPQQ?oc=5
+- タイトル: 従業員エンゲージメントが過去最低水準に──職場を再び活性化する3つの方法 - Forbes JAPAN
+  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtV1JEcnF1Zl9va3dYSExidVJhVV9pbVRnMFRRYWt6Z3pxYnhidjBnRGpaZk1vS2RyS0hmTnljMFJYVmR6Z1p2eXRmTzQ1RDcyWTdhVEJ3Yno?oc=5
 
-- タイトル: 「『従業員』『組織』『顧客』視点の課題解決で企業の成長を支える――従業員エンゲージメント向上ソリューション」6/1～6/12ウェビナー再放送 - kreo.jp
-  URL: https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JOUpidzFHOU44aXV6Z3dZMGo1S3J6bTctSlRPbnE1WW5uZXMtTFdEaWNmUGo1U2tHNGlrNmxYZXlOLTU2ZmFncllkZTZZSWduNmc?oc=5
+- タイトル: 経営主導で組織エンゲージメント向上、新書6月発売 - Koubo
+  URL: https://news.google.com/rss/articles/CBMiREFVX3lxTE5nWGVQcF9FUU5uNTZTY3BEa3NPUmhmSTRkWXNxQ3RUMlFqZGpwMzhYSU00dG5uREJxSnRPNTY0SmcxQ3Zo?oc=5
 
-- タイトル: MSI、新型ポータブルゲーミングPC「Claw 8 EX AI+」発表！ グラフィックス性能が大幅向上 - GAME Watch
-  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE00SkdXaEpKRmZzUTRCd09hZ1luQWcwenFCMWU4TjRpY3d0WktGMzFGVmFtbEhLeERSMWx2c1BkdGVrb0ZBMkdqNWw4MjVBUnpCc0gzU1UwS0JrZnBMbE1xdXlmQnNpUQ?oc=5
+- タイトル: 最新調査結果でわかった、従業員エンゲージメント向上に必要な「従業員エクスペリエンス」の４つのポイント - HRプロ
+  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLN21qOENtNndJVG5lNlJrMmtwNTF4Sk83MU5FQWt5QkdsZm85MWNldzRSVzJzSmF1MS1hN2JzUEd6UGo1ZXZpNS1NSEM1WWJKMmUtVjhIbHZURk5TLVRaQQ?oc=5
 
-- タイトル: EX向上がCX向上を招く！ 従業員の主体的な姿勢が顧客に良い影響をもたらす - DXマガジン
-  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RS0M0ZGJvRTVId0xZdi14T2VtTjN3V0dDLUlveXR6UU1Fb1hDRG1jTExaYWlhcjBZNURSV3hxSXhDaGhpR3BHSXRUSmxUZGxYZlVleG1nbGc2YkVsMTczcw?oc=5
+- タイトル: 良質なEX（従業員体験）こそ最良のCX（顧客体験）を生む。コミューンが考える「組織とひとが融け合う未来」の理想像 - DIGIDAY［日本版］
+  URL: https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYUYtdE5ETU1tbVo0bzcyYURudmgzSE5mbVRCVldPcXJUUVhkNFd3bWJzSE1MaWJzWG9fLXBlazdKNno2b0VSS1BnVUJtWWZWR1k1dTE3NldIWHZlak42S0dacW80ZDI0TDRxTTJPQldsTV9nN09QVEJ6V0ZLSHZIclRMRXYtNUQwSU1wOVF6ZjNwdUdkY3FzNkl2MmFib050T0VMNWtHUU1tcGNlOW10VjNtRVBVa185RWN3NDc2bVQ3X3RtV01qNERuWTVLUHhVdGJoVHNLNA?oc=5
 
-- タイトル: 来店予約率が160％改善：アートネイチャーの成功事例に学ぶITサービス導入に必要な視点とは？ - Web担当者Forum
-  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxMVR3ektyMjVUMHpLdExQX2NCQ25KX1o5aTByNFNXLXozMmt6N0ZHUXc4MFhpb18tU0Z3dEFDNUZwWDZDVWZUR2lvZ1gyOUZKeEd6cmVyZkRLN0k?oc=5
+- タイトル: アジアNo1(*1)のPR会社が伝授する、“人事採用×広報PR” 戦略「採用戦略サミット2022 令和の新常識 produced byベクトル」開催 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9SYU1yRHFrU1pXZ3liazlTVHhJTFRybkFNZG5lYlZXaTNBeGI5MUlZXzhEbFRNbmVNbi1YRTluRzRabTk3a29nSklJTVNUdU5xSGh3ZDN1SWtjOTVfc3QwZjZJcW5sNldPelE?oc=5
 
-- タイトル: 第1回「三菱重工グループ事業会社 広報会議」を開催 - Mitsubishi Heavy Industries, Ltd.
-  URL: https://news.google.com/rss/articles/CBMib0FVX3lxTE01anEtVkVCdFNHeWZNdjZJWGpvOGZHQ3FaUmxqMHBDcVAwTG1BcEpiUW14eVc3RkdtcElEUVdfY05BYlh5bFI2V3lZa0wxSmxSWWplcG44NjJ3TlJ5c1k3NzlGaWpUMjkyUzFYNG9zSQ?oc=5
+- タイトル: 【レポーティング】統合報告による企業情報開示の変革　〜武田薬品工業社の成功事例〜 | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs - Sustainable Japan
+  URL: https://news.google.com/rss/articles/CBMic0FVX3lxTE1SSklkdHZYeGw2TXBLM2RTZDhvQVE0UTVZZl9PeVlWVjhuYk55cmpUR1dNbUYxa2MxU2EwbzdGLXRWdVpja0pqN1J2LTlUSW5jUGlvRWVUV19LOTRoeHVvX0J0UVpsRDJGS1Y5S0RmUUJHaVnSAXhBVV95cUxNYnl1bGo0aGRaUVhSTDI5OXpKazRjTGNYUDktQVRrdGFJOW5fR1RncXN1VGhBN3BYMExrSFl2T01oWVdGY0F1RExPemVUbGo1N0YtaVozdmNMTjN6cjIxdUNUbU9rT3QxQVAzSkVsTDFrdzJkaUpfUWI?oc=5
 
-- タイトル: 「デジタル化」のその先へ！ 長野の中小企業がDXで挑む市場変化という魔物：DXにはアナログな部分がとても大事（1/3 ページ） - ITmedia
-  URL: https://news.google.com/rss/articles/CBMickFVX3lxTE5BcGRSLXZyMkFIZmFTTWQxUUowNFhycTdNTGZnM1lGa3dUYmhEODZUWHp2bFMwY0MzQWE2WGFqOV92dWNqY0RMZVhvU1JURzA5X3hQcEV0bWlVcWh2VlR3VUZ0V2pjSld4aVNrMTg2YktCUQ?oc=5
+- タイトル: “DXしなくなる企業”が生き残る？ IIJのレポートが示す「デジタルが日常に根づく組織の条件」 - IT Leaders
+  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DOHpFa1hhTHJKQU9KZEgxNlpwc0U4czlCRjRCcEhDWHhtRjBpQjNDVHVMc3AwSjY4TktfaHcwc2MwTHpzaWNUNklDWGdsbXRodlNn?oc=5
 
-- タイトル: クニエ、サプライチェーン領域の業務変革を支援する「サプライチェーン・DXイノベーションワークショップソリューション」を提供 - クラウド Watch
-  URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VeVFVUU1SemVTUGNCa2NYTXQ5ZlRRRFNLcHhkTDhBMEJEUGF6VFdaTlZLMlFBTVZ5elRJZ2JkSkVGNF9aM05ESThtQ2VPNDFqY2JpZlhsWGJhazMzZmpWazdZSGhTNEU?oc=5
+- タイトル: 【PR TIMES】【共同発表】沖縄発、「チムグクル」を軸にした組織変革型DX人材育成モデルを確立 - 琉球新報デジタル
+  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWX0s4cDVOV1pDRkRqSEkzekZLQVI3ZjZELUw4TXRKQ09Tdm9RWThWVDFEOXJBdWxTVW5wejVONkpTYlQ5TWVwQXZtYkhBenhIQTVDXzY4WENSV2lFb1ZB?oc=5
 
 
 # Manusへの追加指示
