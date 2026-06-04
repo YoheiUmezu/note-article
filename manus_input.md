@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: システム連携
+# 本日の執筆テーマ: RFP/選定基準
 
-- 生成日時 (JST): 2026-06-03 13:28:29
+- 生成日時 (JST): 2026-06-04 13:23:25
 
 ## 収集された最新トピック
-- タイトル: 従業員エンゲージメントが過去最低水準に──職場を再び活性化する3つの方法 - Forbes JAPAN
-  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtV1JEcnF1Zl9va3dYSExidVJhVV9pbVRnMFRRYWt6Z3pxYnhidjBnRGpaZk1vS2RyS0hmTnljMFJYVmR6Z1p2eXRmTzQ1RDcyWTdhVEJ3Yno?oc=5
+- タイトル: 従業員エンゲージメントは最低水準の20％、背景にAI: ギャラップ社 - alterna.co.jp
+  URL: https://news.google.com/rss/articles/CBMiSEFVX3lxTE1sNG9ia2RTQWZOODgya0QzdnFUR20zTl9qcWluTjRSMVlOLWtNUVBDRTM3b0g1clhQYjgwVjB4MmlhZnd4WmNHLQ?oc=5
 
-- タイトル: 経営主導で組織エンゲージメント向上、新書6月発売 - Koubo
-  URL: https://news.google.com/rss/articles/CBMiREFVX3lxTE5nWGVQcF9FUU5uNTZTY3BEa3NPUmhmSTRkWXNxQ3RUMlFqZGpwMzhYSU00dG5uREJxSnRPNTY0SmcxQ3Zo?oc=5
+- タイトル: 書籍『「働きやすさ」を超える組織と人のエンゲージメント 経営主導で実行力を高める』6月1日（月）発売 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1VdllwQm12Y1VIWElVT0hLby1OYVpvNkxtUWNjSHptQW8xUVdNS0FJeUo1Z2F3Ri00ZWRlSG5UVlV6ejFhRmZCcHdEV1dBUHZwQ0QxQnBjX3RKa1JjV2VXaXNVXzFQbmY5NUE?oc=5
 
-- タイトル: 最新調査結果でわかった、従業員エンゲージメント向上に必要な「従業員エクスペリエンス」の４つのポイント - HRプロ
-  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLN21qOENtNndJVG5lNlJrMmtwNTF4Sk83MU5FQWt5QkdsZm85MWNldzRSVzJzSmF1MS1hN2JzUEd6UGo1ZXZpNS1NSEM1WWJKMmUtVjhIbHZURk5TLVRaQQ?oc=5
+- タイトル: 【申込受付中】Contact Center AI Summit 〜20社のAI活用事例から見えるCX・EXの新戦略〜｜無料オンラインカンファレンス開催のお知らせ - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5XeGZibGkwVm5LbU5IMkswRXY1LWwwOVNWS2pMdlVZMWlTR2xvTWdhYkVpWDRFRWlFY1E4VTc2RV9vdXhtbEFXN0JTMTFrQktKSFhMLTZJbFg1RGU1YXNqNXp1TkVIaHI1cnc?oc=5
 
-- タイトル: 良質なEX（従業員体験）こそ最良のCX（顧客体験）を生む。コミューンが考える「組織とひとが融け合う未来」の理想像 - DIGIDAY［日本版］
-  URL: https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYUYtdE5ETU1tbVo0bzcyYURudmgzSE5mbVRCVldPcXJUUVhkNFd3bWJzSE1MaWJzWG9fLXBlazdKNno2b0VSS1BnVUJtWWZWR1k1dTE3NldIWHZlak42S0dacW80ZDI0TDRxTTJPQldsTV9nN09QVEJ6V0ZLSHZIclRMRXYtNUQwSU1wOVF6ZjNwdUdkY3FzNkl2MmFib050T0VMNWtHUU1tcGNlOW10VjNtRVBVa185RWN3NDc2bVQ3X3RtV01qNERuWTVLUHhVdGJoVHNLNA?oc=5
+- タイトル: 国内企業の「人的資本開示の取り組み」は初期段階 ～IDC Japanが「国内従業員エクスペリエンス（EX）」調査を発表 - アイマガジン
+  URL: https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fSThwakVyN3dQQUVENDdIX3VCUFVXLXBPQnFuUXlyTWd5XzhLcjNOR25KanFqRzhoMWFSeHFUU3lqQ0JfX1dQV0ZMYVF5SDl0bTBJZDlDV1VIamVJR2c?oc=5
 
-- タイトル: アジアNo1(*1)のPR会社が伝授する、“人事採用×広報PR” 戦略「採用戦略サミット2022 令和の新常識 produced byベクトル」開催 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9SYU1yRHFrU1pXZ3liazlTVHhJTFRybkFNZG5lYlZXaTNBeGI5MUlZXzhEbFRNbmVNbi1YRTluRzRabTk3a29nSklJTVNUdU5xSGh3ZDN1SWtjOTVfc3QwZjZJcW5sNldPelE?oc=5
+- タイトル: 第1回「三菱重工グループ事業会社 広報会議」を開催 - Mitsubishi Heavy Industries, Ltd.
+  URL: https://news.google.com/rss/articles/CBMib0FVX3lxTE01anEtVkVCdFNHeWZNdjZJWGpvOGZHQ3FaUmxqMHBDcVAwTG1BcEpiUW14eVc3RkdtcElEUVdfY05BYlh5bFI2V3lZa0wxSmxSWWplcG44NjJ3TlJ5c1k3NzlGaWpUMjkyUzFYNG9zSQ?oc=5
 
-- タイトル: 【レポーティング】統合報告による企業情報開示の変革　〜武田薬品工業社の成功事例〜 | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs - Sustainable Japan
-  URL: https://news.google.com/rss/articles/CBMic0FVX3lxTE1SSklkdHZYeGw2TXBLM2RTZDhvQVE0UTVZZl9PeVlWVjhuYk55cmpUR1dNbUYxa2MxU2EwbzdGLXRWdVpja0pqN1J2LTlUSW5jUGlvRWVUV19LOTRoeHVvX0J0UVpsRDJGS1Y5S0RmUUJHaVnSAXhBVV95cUxNYnl1bGo0aGRaUVhSTDI5OXpKazRjTGNYUDktQVRrdGFJOW5fR1RncXN1VGhBN3BYMExrSFl2T01oWVdGY0F1RExPemVUbGo1N0YtaVozdmNMTjN6cjIxdUNUbU9rT3QxQVAzSkVsTDFrdzJkaUpfUWI?oc=5
+- タイトル: 無料オフラインカンファレンスのお知らせ 異業種からの挑戦を成功に導く！化粧品業界 新規参入セミナー～勝ち抜くためのブランド戦略とマーケティング～ - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE96QjRVTUJyZ25YcUpRd2FVSnAwZGhsX1F4Y0NQNnVJTUhmV3dISmxNdHFkU1VVZExWTmpPMWtmZTM4amZuSkw0d3ZoU3pSMlN6TEgtYnZmTmxVQkJXcE9jU2p5RjUxaGhUU0E?oc=5
 
-- タイトル: “DXしなくなる企業”が生き残る？ IIJのレポートが示す「デジタルが日常に根づく組織の条件」 - IT Leaders
-  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DOHpFa1hhTHJKQU9KZEgxNlpwc0U4czlCRjRCcEhDWHhtRjBpQjNDVHVMc3AwSjY4TktfaHcwc2MwTHpzaWNUNklDWGdsbXRodlNn?oc=5
+- タイトル: 【連載 2/4】世界が試し、マクニカが磨き上げた「組織を変える日本流製造業DXとは」〜分断・対立・不動を超え、DXをカルチャーにする仕組み〜 - macnica.co.jp
+  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE94TmZJNTNrZm14SHV4Q2RkbEZLQURsd2wxaldPUS1jSjBqY1FKREgwLTVwc0hUVHNTMjR6ajloa1BtVklreDRIamh1R2Nwa3hnd25PYWQzcDh2LXo2ZWw1ZW1sT0NQTWJS?oc=5
 
-- タイトル: 【PR TIMES】【共同発表】沖縄発、「チムグクル」を軸にした組織変革型DX人材育成モデルを確立 - 琉球新報デジタル
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWX0s4cDVOV1pDRkRqSEkzekZLQVI3ZjZELUw4TXRKQ09Tdm9RWThWVDFEOXJBdWxTVW5wejVONkpTYlQ5TWVwQXZtYkhBenhIQTVDXzY4WENSV2lFb1ZB?oc=5
+- タイトル: DX（デジタルトランスフォーメーション）とは - scsk.jp
+  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTFBvZTU4Z2k4YWstTGdJTWR1MHByRHY2eGQwa21PVTl3X18ySTJCNXI2dlVOaGQ0THBQUzhmX1FxRDFEcDRIOWlJcU1mUGE4dkJNNGtJSTYybzAxSnVXaC1MRGl6cnJQOWkyLXd0clpETUdTYXBiVGc?oc=5
 
 
 # Manusへの追加指示
