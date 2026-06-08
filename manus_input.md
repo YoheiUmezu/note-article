@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 海外事例
+# 本日の執筆テーマ: 経営戦略
 
-- 生成日時 (JST): 2026-06-07 13:16:42
+- 生成日時 (JST): 2026-06-08 13:21:16
 
 ## 収集された最新トピック
-- タイトル: なぜ、従業員を大切にしているはずの日本企業のエンゲージメントが世界最下位で、米国のほうが高いのですか？ - ダイヤモンド・オンライン
-  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rYkVoNTVjcXM3MGhFejJ2LXZNOVFLZEhYaXRnWXl2cndrX0hLQ3FhVUNCaE9HZDZ2VFJXYmxMeDJnNHJMNm93VDhacGXSAU9BVV95cUxQWWpvNDZ4dVhkU1FBekVsbnBDcTJGT0h2RWNaZmRCX1R4cFFsZTI3QjlmNkFxN3RFbDNNSWdTYmZVNFBoZnNZWUJqRC1uYmlR?oc=5
+- タイトル: 発売前に重版決定、『フィードバック経営』を6月8日上梓「働きがいのある会社」連続1位日本最長記録を実現した 三村真宗の新著 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBadkRrOXVsQlJsVzNwR29zc2Frc1dzOWhldlRZMzBWRVRZb1A5MFpmUHhNdzRuNWF1SUduZ3owZXd0T3JsT3VteEo1MGxpSmo4dlNCdi1Nck4zaDB4VGdfdV94aGFQZzY5MWc?oc=5
 
-- タイトル: ギフティ×宣伝会議「従業員エンゲージメント研究会」を発足 従業員体験の可視化や自分事化に必要なこととは？ 実務家が徹底討論 - AdverTimes.（アドタイ） by 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0YmVQa1JGZm5LMUJQSnJNcWVoeXlobXMxYm1CdEVobXpLbWJPNFgzQWxJbnFJbG9VWmVVd0Y1S0UwUE95SnpIb0VkX1l3WFpoUmNjSGJmc0N2UWpEcHg0?oc=5
+- タイトル: 株式会社アンジェラックスが【中部地域 第1位】に輝く！2026年版「働きがいのある会社」地域別ランキングが発表 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZRkRHOUpMLUx6UjdnSHkyNjlUb2ktTkxnazR6ZUlIQWJieFBFbjRSb1I2RTN4YUxnYUlKN2swM0Z4OHp4aUV2R2xwMHJaU1VsRjd6SEhGbXM0MTQ4TENJZXZmTnlNWUc1enc?oc=5
 
-- タイトル: 店舗スタッフの報酬増加に取り組むSTAFF STARTが、販売員の価値を向上する『STAFF EX PROJECT』を開始 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFB3ay16c01JTTQyY3k5V1J5TWYtSGY2OFFfZ0JZS1lETDJlMWZXYmVMQTRraFZUdVFSNzhLWmt6OERNb0JsQzRlMDY5QWJ3dWtOSXdRWU56MXk0WlBmbzJESmJBUERHLWs1RkE?oc=5
+- タイトル: 「今すぐ相談」がCXを変え、 従業員体験（EX）に繋がる。 - ビジネス+IT
+  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YaF9pcGhXLTVNem9ERUJPY2dfS0xHMGF5b01NRFlJWXFNeWVqTXgyTlBEWUFJZUF5QklRd21TWXNMMFdUU01mRWJmMlg?oc=5
 
-- タイトル: オリックス銀行は、なぜCX、EXの向上を進められるのか？ - JBpress
-  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBISEVfRFNRYnpoV3F6bXVWcjZFSkU5RThQeTlHQUlyanpnNGc5ZkF6QVQ0WUttbkU4ZEJadElXMzJ0ajdtdWxHczZKNVZSaW4xelYxVjlB?oc=5
+- タイトル: 凸版印刷がトッパングループ23社でHRBrainの『EX Intelligence』を導入、従業員エクスペリエンスの向上・人的資本開示への取り組み強化へ - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9tdVk2N0x3WnVFNFl5aHhxcFlWVW9tZWNLYmFadU5icU11bEJ4X1J1WVhlaW9QSzZha2pIb202SzVOeDU5eXo3OXJiNWNONEhOTzh2OTZWME1RTHBFajBGOGxNbmcxM3owUFE?oc=5
 
-- タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
+- タイトル: イベントレポート＜NBPC BRAND DAY 2025【第2部】＞ エビデンスに基づくブランドコミュニケーションで成果を上げる | CCL. - 日経BPコンサルティング
+  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtM2E3dkdvY0tmOWtTNmNjVjFBVkpJTVo0bkZNNXNaSjhVel9tZzkxdk9sWVpwRzlvSExPU2cyaVBFQnJaOEc1VllMUWxiZHhHbzI4cUxfYTcyanpJdTYyZQ?oc=5
 
-- タイトル: 広報担当者の悩みを解決するノウハウやツールを紹介—コーポレート・コミュニケーション カンファレンス - AdverTimes.（アドタイ） by 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iMXFKUDJsUWZzbmMycmJTNTUtMGNwLXcwd3Y3RlAwZkRwQVRqSkFSY0M0SkUwUm9MWEpEbGtXcThiZTk1dGl6M0JDZzltUkczeU9nbU9penpoUmIwOHhF?oc=5
+- タイトル: 短期退職は「悪」だと感じていた25歳が転職した理由 - 日本経済新聞
+  URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE9HR1dBQ0NGMnNobDZQdEJDRF9DZkZZWmh3UWVtV3BHOUVhZ1VDZlg4eGQxSWVSRk1XME9SUWxkSGhMY010aERaTnEtaXZZejU1TkhzOFJTQ3RTM1dvU3F1SlJuSV9HWkJ4WEw1Tm1POXJvOVlj?oc=5
 
-- タイトル: 「デジタル化」のその先へ！ 長野の中小企業がDXで挑む市場変化という魔物：DXにはアナログな部分がとても大事（1/3 ページ） - ITmedia
-  URL: https://news.google.com/rss/articles/CBMickFVX3lxTE5BcGRSLXZyMkFIZmFTTWQxUUowNFhycTdNTGZnM1lGa3dUYmhEODZUWHp2bFMwY0MzQWE2WGFqOV92dWNqY0RMZVhvU1JURzA5X3hQcEV0bWlVcWh2VlR3VUZ0V2pjSld4aVNrMTg2YktCUQ?oc=5
+- タイトル: 【オンライン】DXリーダーズ・カンファレンス2025 ～内製実行力こそが競争優位を生む：先進企業の事例から - ビジネス+IT
+  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSZnVKMl9kTVg3N0hLLXhXeGZValZMSmdXenpiTWlMVnBhSEQwalhua2xMTDl1NnJ2SjRUQTZFZjV0SW04c3daOXdrV0E?oc=5
 
-- タイトル: IPAの「DX推進指標」に準拠したDX成熟度などの診断サービス、IIJが開始 - デジタルクロス
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MLTBLUnhBMnhGamJDZTg4NWFVUnhWZ1o1aVowR2Z5SGV5R2F6dDdxbDJHUVhBMHp6aXFNeGV6QzJUMDBrNTlTOHd2OFVod0wwd3dET0NOVzhfVlhEUGlJ?oc=5
+- タイトル: 現場でのデータ活用で組織のWhy文化を育む - 電通デジタル
+  URL: https://news.google.com/rss/articles/CBMie0FVX3lxTE1tTUxTQ3VIM1JWeklhVllaZ201a1ZGTVMxMldzMDBtVkg2V3JTeTZhSG1FeGFYTEpncmFOaHd0ajE5eEN4TlRSZ1dYQ1owQU9obVFCb0FWZ2pmY0hiUGV3TEVzUlg3X0R4aVVlN25kSXJ5dGtka19qQ2luOA?oc=5
 
 
 # Manusへの追加指示
