@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: キャリア
+# 本日の執筆テーマ: 海外事例
 
-- 生成日時 (JST): 2026-06-13 13:08:17
+- 生成日時 (JST): 2026-06-14 13:25:11
 
 ## 収集された最新トピック
-- タイトル: 従業員エンゲージメントが過去最低水準に──職場を再び活性化する3つの方法 - Forbes JAPAN
-  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtV1JEcnF1Zl9va3dYSExidVJhVV9pbVRnMFRRYWt6Z3pxYnhidjBnRGpaZk1vS2RyS0hmTnljMFJYVmR6Z1p2eXRmTzQ1RDcyWTdhVEJ3Yno?oc=5
+- タイトル: なぜ、従業員を大切にしているはずの日本企業のエンゲージメントが世界最下位で、米国のほうが高いのですか？ - ダイヤモンド・オンライン
+  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rYkVoNTVjcXM3MGhFejJ2LXZNOVFLZEhYaXRnWXl2cndrX0hLQ3FhVUNCaE9HZDZ2VFJXYmxMeDJnNHJMNm93VDhacGXSAU9BVV95cUxQWWpvNDZ4dVhkU1FBekVsbnBDcTJGT0h2RWNaZmRCX1R4cFFsZTI3QjlmNkFxN3RFbDNNSWdTYmZVNFBoZnNZWUJqRC1uYmlR?oc=5
 
-- タイトル: ギフティ×宣伝会議「従業員エンゲージメント研究会」を発足 従業員体験の可視化や自分事化に必要なこととは？ 実務家が徹底討論 - AdverTimes.（アドタイ） by 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0YmVQa1JGZm5LMUJQSnJNcWVoeXlobXMxYm1CdEVobXpLbWJPNFgzQWxJbnFJbG9VWmVVd0Y1S0UwUE95SnpIb0VkX1l3WFpoUmNjSGJmc0N2UWpEcHg0?oc=5
+- タイトル: 従業員エンゲージメント製品市場が人的資本開示義務化で活性化、2年連続で20％超の成長へ─矢野経済研究所 - IT Leaders
+  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE16Z2dSRHRaaVNHYm1UUi1MMTc5NWZaQ3ZpQlRERzIzUXg4OTRzdUNtcjNaVzQ2aDlZWmVXYzMzTWR2U1NvaU02RGd2YmtaNU1WRElV?oc=5
 
-- タイトル: エンプロイーエクスペリエンスサーベイ2025調査結果（速報版） - PwC
-  URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxNc3I5Y2czZ2ZDbFpRNDI0NEl5YVVSMVh5NEJDU0l0a2kwMUJHRzBwSWZNZmtDTHpkdDdOVVQ4eG8zMC1HM3BUb3JRQTRGckJTR1Z4VDdhd21ncEQycVlHa3RvOGxSQXBrT25jMjJWRUczT1JqUTM3bDlzLUdmeXFCdVNHZXhQTUlTS3ByZFJR?oc=5
+- タイトル: 丸亀製麺などを運営するトリドールHDがEX向上に「Commune for Work」導入—コミューン - HRzine
+  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BM2FQclVGa0czdmFFRHdGWUJhYjlIZkNQZ014djJYSFkwV0RseDlhUXdkel8yeGRjYmtJblVkWkM5WUhVbDlOdFVR?oc=5
 
-- タイトル: NTTドコモビジネス、AI活用の新SaaS「ANCAR」発表 法人のCX・EX改善を狙う - PlusWeb3
-  URL: https://news.google.com/rss/articles/CBMiXkFVX3lxTE44VlBQdGZQSEVsWVZxckFCWnNUZjBmWExmYTNpODZ3T3ZvYjQzRzJzZWFWWTUteTJVOHZCRk1HUk5LemxILS1oZ0NGMFhYYnZSRmdYNE5SNmRNZkxDSFE?oc=5
+- タイトル: EX向上の取り組みのなかでジェンダーギャップを考える - 日本の人事部
+  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE43YWdXR0R4RWgzMUMtYmQyb19sR3BLTHl5SlVOWWU4Z3QyZ1BrM0hJZHdRSjRMZWJITnE0NjJmR3lJM0dMcExvbFcyWmJqTWNsNG96dVNsaF9JZVBXQU1DbWdrZFRKbW5PeHd2MW5QMDZFcVhVQmc?oc=5
 
-- タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
+- タイトル: インターナルブランディングがリファラル採用を加速する。エイチームの企業文化作りとは？【有識者の声】 - mytalent.jp
+  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmN09NYWp0Ul9CYktlV1VaZlppdzlRY09ZNDJseDBvR2VfX0xpc0xJcndaZUUwcldsNThSUXZMY1gtSlIzd1lnenRndTIxbHM?oc=5
 
-- タイトル: 広報担当者の悩みを解決するノウハウやツールを紹介—コーポレート・コミュニケーション カンファレンス - AdverTimes.（アドタイ） by 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iMXFKUDJsUWZzbmMycmJTNTUtMGNwLXcwd3Y3RlAwZkRwQVRqSkFSY0M0SkUwUm9MWEpEbGtXcThiZTk1dGl6M0JDZzltUkczeU9nbU9penpoUmIwOHhF?oc=5
+- タイトル: 不動産テック企業ロードスターキャピタル株式会社の社外取締役に代表 舩木真由美が内定 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9mczFjdlBvUklQVWVDb3ZxRGI5QkxrdGQxV2hFcGxYc1V6YmQzY1NWU2tVMWZMREFBOHQ4V1RiOG1jWExJQVVlWlFsZWg4SmdaeS1TelVCTUV0eHFsUFA5VUdlcHFWWXhtUVE?oc=5
 
-- タイトル: 組織文化と問い・編集力・仕組みが事業変革を導く ―日本型DXの本質と展望 - NEC wisdom
-  URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE51Q3BTSEdlOVFqeHVrdXhUMkRHamRVeUFuazZfUEVGeGF0SEtWZzVvTHdOdUVCLWpUNlhOS0h1NUZ4amRxZ2hlWWUyUUdoMnpRc3Z2cFVLSWd1WENiaU1MVVZLVnk0R2pvVnJDVmU5VjZwXzFoTXU4?oc=5
+- タイトル: 医療DXが失敗する理由：技術ではなく組織文化が鍵を握る - Forbes JAPAN
+  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE56NmRvQmNuWHlGaldvZ0VtZmFOeEdNa1JYaWhlNUU5VWxYSUctMHhnWHUwaC1vQUUyZXRGX3AxUmhVbmZhNWljaVRGLVBmNnYwT1I2bEk4Rmk?oc=5
 
-- タイトル: DXとは？定義と基本的な考え方 - 日本の人事部
-  URL: https://news.google.com/rss/articles/CBMiTkFVX3lxTE9uNTZ4RVI4c3A1ZFhTVEdDVUs0TEZvNU0wMGRDZ1JEc3dZdFZoelZYY2QyWHFEQ0pxeGhubVlpTG11UUY4TXYtdWFIZUdSdw?oc=5
+- タイトル: DX実現に欠かせない「組織のデジタルリテラシー」を高める方法 - DIAMOND ハーバード・ビジネス・レビュー
+  URL: https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiWFM1UzVFRXotd2JaU25YeE8xMUxuckNnUW5jeW4wenBqaVdIeG5Idm5mT0RQSmxuQUJodjNRS0liRWJ1XzdBcER0RU4zaG1N?oc=5
 
 
 # Manusへの追加指示
