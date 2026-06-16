@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 経営戦略
+# 本日の執筆テーマ: 現場の運用課題
 
-- 生成日時 (JST): 2026-06-15 13:48:48
+- 生成日時 (JST): 2026-06-16 13:45:57
 
 ## 収集された最新トピック
-- タイトル: 従業員エンゲージメントは最低水準の20%に低下、AIが背景：ギャラップ社公表（オルタナ） - Yahoo!ニュース
-  URL: https://news.google.com/rss/articles/CBMif0FVX3lxTFBYV29uZlFObHdZYWhFZ0NiWUgzb3g3dEtGUmxVX3FtUTVTTDI2UllfNDJWSEFUd0hlM1pGNUg5RzZLaHUxRVhxMlhQT2ZNMlhqOWlPNnNMeDE2YVc4eHV6eWFxRXRadGtBNXhaVVA3ekN1U1NRZ0RkWHBEbFJBWlE?oc=5
+- タイトル: 賃上げを従業員の活躍につなげるカギとしてのエンゲージメント 1万人調査に基づく賃上げ効果の定量分析 第3回 - mri.co.jp
+  URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kbDJRdmRCUkttRTg4NEgxZDkyZVY0d3AzWnNHNlZDR1VBQVIwVzQ2dVUxNUNoTnBBRENPZDRVSmc3WF9ic0RfOTZQaExOR2VTN1JITF9HRmlSN3htdDBIUXZLZE4?oc=5
 
-- タイトル: なぜリーダーへの信頼が従業員エンゲージメントを高めるのか 成果を分ける4つの行動 | ビジネススキル - DIAMOND ハーバード・ビジネス・レビュー
-  URL: https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tSnJ1MktxemFzM1ZmdjQ3T2NmWHRUUDlyblAxSUNFWTRNa1UzaWhlSGxpZUdybWR4RThQNzJHQXItZWhZc3VCX0p5ZURDQ2s0Ync?oc=5
+- タイトル: 従業員エンゲージメントの未来を拓く、 VoE（従業員の声）とフィードバック - 日本の人事部
+  URL: https://news.google.com/rss/articles/CBMidEFVX3lxTFBXV0lhV1FkdUpTMTNTT0J6RHZvX0dCakZGQlZIU3hqNFVfQUh5YlZnVVV6OUI1Qm1adUxRVXljcVY0Y2tmam01VzVYbWNOd2RaVGFITDl1U3FTZS1TOW05aDRKSnVaczB4RjhydkJPekJfcWZN?oc=5
 
-- タイトル: 社員の多様な想いを叶える自律的なキャリア形成 ～EX向上施策として社内異動を活性化した事例を紹介～ - 日本の人事部
-  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE0yc19uUDd6VllCeHZNWUJBZ3pmQXdnaWJITm1TUEs3SV9OalFubi04TzNiZGp2d1ZMZ0VldXgtUXBNd3hrMkZnXzRSYnlQZnJDQ1J3eW9kTWJXRkZrX0V2MlNJN0hiSkF5c3h3NWQ1TlpwYkFOenc?oc=5
+- タイトル: AIの力で企業の事業成長・生産性向上を実現する新コミュニケーションサービス ｢docomo business ANCAR™｣を12月から提供開始 - NTTドコモビジネス
+  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Hb1VSU0V6elVoZndWdm1jSWw3NV9RNVJwcFd1ano2TzhNaTNQQXN6QlhDb1ZEVFR5U1NxNW8yRE9VOTJWVzRvZVlHbjRDY2dDUl9XTzBHTWpLd3hlLWlB?oc=5
 
-- タイトル: VUCA時代のタレントマネジメントはポテンシャルの可視化がカギに - 日本の人事部
-  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rQXVEV1RwQWxONzJuS3dqTjNlN2xTQ054SDUwRGZsQ1dtVll0dTIwdm5pYUZjTFlRNWJNNTVnNWxoYXZkcXNySXdGMF96NTIzMUpadEh3?oc=5
+- タイトル: NTTドコモビジネス、AI活用の新SaaS「ANCAR」発表 法人のCX・EX改善を狙う - PlusWeb3
+  URL: https://news.google.com/rss/articles/CBMiXkFVX3lxTE44VlBQdGZQSEVsWVZxckFCWnNUZjBmWExmYTNpODZ3T3ZvYjQzRzJzZWFWWTUteTJVOHZCRk1HUk5LemxILS1oZ0NGMFhYYnZSRmdYNE5SNmRNZkxDSFE?oc=5
 
-- タイトル: リファラル採用の成功事例集『IT・SI業界編』 - mytalent.jp
-  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xazZRbW9OWG5pM01qRUN1ZVdkVFRFZVc0eWcxQjRma2ZHMnBCWG5KY0J1UEdycklRalhER3JsZEZBODFlNzdRRlZRT3k?oc=5
+- タイトル: 有力な地方紙の開拓目指し、各拠点と連携。成功事例を社内共有したことで連携が進み、掲載拡大の後押しに - 株式会社PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0N0RjbWx4ZDBsdDJlVnl1TXF5YkYxUE53Ymhval9ncE1oOHFqLW9GLUhqVjJEQWJzNGlYcjJ6di01VkRkY3ZOUg?oc=5
 
-- タイトル: 職人や開発者ら“プロ”の話はおもしろい。カルビーが企業イメージの変革を狙ったオウンドメディア (1/3) - MarkeZine
-  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4ZExUaURsNzZwYmlLREJ1QlpRb0xtZzRIdWJXc1RtX1FNMFpYT1g4MTFKcDF5eHlVRjdGbXlfbXNOUEI3TWNZU0NCS3oxT29oa1JB?oc=5
+- タイトル: “マイナビだからできる”採用広報とは？ 「プラスト」企画責任者にインタビュー - サポネット
+  URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxQMTRpX3h3QkJVWmxaWDAyTkRGX0M5TXV5ZlFXd3g1LXQ5czRzOUZVeEJuNENzaWJWaUU2NTV4M0Z1WDZnQ2ZySVJjN0VLYU1yN21PeEtBNmlxVU5aWEhIakFsUndBdHd1V181YkJIUlpxb0xnX181d25Rb2V5MHd2clAxSQ?oc=5
 
-- タイトル: 【DX＝IT化だと思っていませんか】 - komei.or.jp
-  URL: https://news.google.com/rss/articles/CBMingJBVV95cUxNRmNQcTN1RTJuOVZoQTh1SERkSUoxZjgwUmRfY2c1RVlfdnptRFhMQ3diY0dVcXlXSm1FUm0yX1BEX3gtWFNoOWxBby16eWJ5T1lndDVZMEgxcE5FRWU1SlFWQ2Jkd2diSzlLOE9BQW5RNnhDLV9XdmhhUXNKMld5RTNWU0VVZ1N1VkRsTGFyb3RZYW9ncmRkeHVvMi1jdUNUb2NPcThxQUF6aFpUSzRTMkcxeHFkUzNSSzA5azd1NEFCUGcxSDlTRmpFX0prVGg4SVQtMU9pemNlVEx0dUFGMllMcjhwQlI1cjctQm5TeUZ6bzktSy1qREFuVnluUFVJb3FmS3B5Y1NUVERTLVg3QzRyUUNrYlQ0TElqdl9B?oc=5
+- タイトル: エクサウィザーズ、関西電力送配電DX戦略2026の取り組みを包括的に支援 ～組織文化の醸成、デジタル人財の育成、AIエージェント環境構築の3つの領域で事業変革に伴走～ - 株式会社エクサウィザーズ
+  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5dDZtNXZqSFh2Zjg5bV9ibHJqMktGaTJBOHRpdm42RDFGWTd6N3NYUDZyZVk5V1dlbERVN25tR05yVGdLNlFJVW5rVmlwT1k?oc=5
 
-- タイトル: 学校法人神奈川大学が挑むDX人材育成 ～全事務局職員を変革の主役にする組織改革のこれから～ - NEC wisdom
-  URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE9ULUZuelVpc2RMa2JyUTVaUTRzVmhHXzIxdGdDWUwydlU4SzY5WkxWU3BrMjhVUTZ6TkJUa25pM3F0dmZSWVlvQzFEalZBSG9HRVNYenNHNlA3Zl82UUJJQkFQRDdDeXFLei1GUGpISkJIczltaGNJ?oc=5
+- タイトル: 【オンライン】DXリーダーズ・カンファレンス2025 ～内製実行力こそが競争優位を生む：先進企業の事例から - ビジネス+IT
+  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSZnVKMl9kTVg3N0hLLXhXeGZValZMSmdXenpiTWlMVnBhSEQwalhua2xMTDl1NnJ2SjRUQTZFZjV0SW04c3daOXdrV0E?oc=5
 
 
 # Manusへの追加指示
