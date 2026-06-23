@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 経営戦略
+# 本日の執筆テーマ: 現場の運用課題
 
-- 生成日時 (JST): 2026-06-22 13:48:54
+- 生成日時 (JST): 2026-06-23 12:53:35
 
 ## 収集された最新トピック
-- タイトル: 「ヘッドハンティング」と「従業員のエンゲージメント」｜遠山えり子 - mbp-japan.com
-  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE45VVd6ckxmN0Q4eDk4Z0FvTGdjM19DUHRSSFJuRllCcTVWUGgwSnJ4Mk96d3NhMnpGWjhkeGRVQUJhQ2RmM0t4aHhtSUdzLWViU3BNZFJwbHRRNERlamRKR1RyS01KUERT?oc=5
+- タイトル: 人事はエンゲージメントを高める従業員体験の設計者になれ！ その効果を最大化する施策としてのギフト (1/3) - HRzine
+  URL: https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmYUFMdEdOQWgzeE5FSXQ3SnczcjgwOXFhSHdkV3FqaGlwU1p2S296YUhIWndZZzB6cWlDcEh5RFlTUW16NThFTlp5NFVoQQ?oc=5
 
-- タイトル: ユナイテッドアローズが挑み続ける「人的資本経営」のこれまでとこれから――従業員エンゲージメントを起点に「財務価値」や「企業価値」に繋げていく - HRプロ
-  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BMnpySWtKTHQzZ2VFWWpiWHdTcTRGMlNza094amZIZ2dEbWhUWVZlT193bFl2SFFKMDR5R0V2QXQwU2pnUGc3b0d4TWVuOEI5enRxLUo1UTFBVEwzbXRFMg?oc=5
+- タイトル: なぜ電気機器業界は「若手の従業員エンゲージメントが低い」のか データで見える“階層間の断絶”と解決策 (1/2) - HRzine
+  URL: https://news.google.com/rss/articles/CBMiTkFVX3lxTE92Y0NCc0J0ZnJKSzdNd3ljcDRVZGRSd2gwb2tHakRXWXRpd0hZeHFteThXMmtCeFlnWWJhcktxV0YxZHU2Ul95anFVTktIUQ?oc=5
 
-- タイトル: 「働きやすさ」から「働きがい」へ ～当社が進めるＥＸ向上の取り組み～ - 日本の人事部
-  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTFBIcjJWM0FwcC1wQ1VrVGRiNVNYZVZ1VlpXSERxUUZIWkNiSXlQQVhUczA2UjlubFRwbXQzd3FQQm1YV0pNZDFyYVBCekIyOTNLXzVLdjNaMXhVR2l3Qi15VDZvQXVDWExjWjZnU2diWGtHU1RzOEE?oc=5
+- タイトル: インテージ、「従業員の行動が、売上を動かす」をデータで証明・実装する新ソリューションを提供開始 - intage.co.jp
+  URL: https://news.google.com/rss/articles/CBMiS0FVX3lxTE1NOVJ1WFQ0dmZoTnBiQUhUcDBpUldkejJXcmNvLVdLN2ZmdUM3Q0ZXU1lGZHZiMTNWcXppcnc0ZWoxai1jWXctVmxMZw?oc=5
 
-- タイトル: 成長企業が実践している、従業員エクスペリエンスを向上させる組織づくりとは - 日本の人事部
-  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTFBsbkg5WGNyNGFHUkVuOC1FNFFXdFA4ZFg0VWZkTW5sSnZtVTBMRjRaejI1S3FUaHlBMkIwcU1lQk02TDgyUy15VS1ZNG00R1A4V3l2eFpqR2phaTFRN2RqMms3aXhCanNGaTRMa0ZCUy12c0Jadnc?oc=5
+- タイトル: JR4社のネット予約サービス間の連携による利便性向上に向けた取組み～「えきねっと」「EXサービス」「e5489」「JR九州インターネット列車予約サービス」をより便利にお使いいただけます！～ | 東日本旅客鉄道株式会社のプレスリリース - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5WSWpXTlhXcWVPMXctTzZwTGNrWWpSbDMxUVUyRzlUNTZlRW5KWktoY0J0Zl95cDd0OVNfMmdnRmxBNUFfNXJkbWdOVURlQ0MyQVc2NmhaejdZZXNjTWZtdmRzTXRqVlBNQVE?oc=5
+
+- タイトル: 【ウェビナー開催】旭化成・コクヨ・住友生命保険・東レが登壇！インナーブランディングの成功事例を語る - AdverTimes.（アドタイ） by 宣伝会議
+  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE15S2lEQnQ5elliaHNTdkJHbjBlWDlNQnVVNjRRNDUtUlRjQjJnUFYzMTQzQ0pQOVV2N2JKUVZodXphWU5nbU9EdExfUUZNQzRfc1IwUnJZX1RaLWdiMC1R?oc=5
 
 - タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
   URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
 
-- タイトル: アイス待ち受け画像が大人気！ブルーシールのSNS戦略 - AdverTimes.（アドタイ） by 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJOWNwc3h4UlNHYjBtdFk5NjQ0VVhuOFQtODVZelVGY19Ka0tnVmd3anBBN1RoR1N5UTAyMnJ5c3JJelk4NDF6aDh6R3UxbzNKbl9ZYmxJbHBxbG9CVGVR?oc=5
+- タイトル: 45％が直面する「DX人材の壁」……いつまでも育たない企業に欠けている“2つの視点” - ビジネス+IT
+  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WbXlNMU1JY2tHQm11S3JtT0RfdzdDekhLLUs4SmtERFZvODlDaWotUW5jRUtSY0hUSXpnNHl3aDFoQ2ttNmpCMVFfWC1SeFk?oc=5
 
-- タイトル: なぜシステムは使われないのか？効率化がDXを阻む逆説──サイロ化の罠とセカンドペンギンを増やす組織文化変革 - EnterpriseZine
-  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YTG5RSkNyR05LX1FyMzh2UDEtYVpOdXdWcTk2YUdxX05UMVVWUnZQRkFnMHJTbHhrbGlvcFljenRsRmp0U3JFeExZa1AtSDFvMDVJcnpuZXVSQQ?oc=5
-
-- タイトル: 大企業社員500人への独自調査で浮き彫り DXはなぜ人ごとか？ - 日経ビジネス電子版
-  URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkdngwVG1iWFYwZ0xWN0E3WkRjdHJJMTctei1XX3gtejNWUFdJa3h6cGpUc1JTTXpmSzJkVzRDMTlSdGU3OHZsblJ6c1RXYTF4TDdMT3BuN3BXRW9zZXlpbUktWWljVTA?oc=5
+- タイトル: ファミリーマートが取り組むDX組織の強化──新規ビジネス拡大を促すDX人材の採用と評価制度 - Biz/Zine
+  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLYXdrZkRNbjFfUEFTbF9vYzFVSXpZWWVXcGtHVmJQNWlVQ21sd2VScjBiY2pqZ3YweXJBdjB3SzluMzRPbkF5XzhZYTFSc28?oc=5
 
 
 # Manusへの追加指示
