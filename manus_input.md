@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 現場の運用課題
+# 本日の執筆テーマ: システム連携
 
-- 生成日時 (JST): 2026-06-23 12:53:35
+- 生成日時 (JST): 2026-06-24 12:55:00
 
 ## 収集された最新トピック
-- タイトル: 人事はエンゲージメントを高める従業員体験の設計者になれ！ その効果を最大化する施策としてのギフト (1/3) - HRzine
-  URL: https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmYUFMdEdOQWgzeE5FSXQ3SnczcjgwOXFhSHdkV3FqaGlwU1p2S296YUhIWndZZzB6cWlDcEh5RFlTUW16NThFTlp5NFVoQQ?oc=5
+- タイトル: 広告業界は“30代の停滞”が課題 現場に「挑戦と納得感」を取り戻す従業員エンゲージメント向上のヒント (1/2) - HRzine
+  URL: https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkdnlrbmVRd3ZldVBwdWZid012d09hVDFablQ4UHAwdmdLT3BCTWlfSVBvT2dNR0YtNVlPREpoaDJMOWo4dVB0a2RMTDhuZw?oc=5
 
-- タイトル: なぜ電気機器業界は「若手の従業員エンゲージメントが低い」のか データで見える“階層間の断絶”と解決策 (1/2) - HRzine
-  URL: https://news.google.com/rss/articles/CBMiTkFVX3lxTE92Y0NCc0J0ZnJKSzdNd3ljcDRVZGRSd2gwb2tHakRXWXRpd0hZeHFteThXMmtCeFlnWWJhcktxV0YxZHU2Ul95anFVTktIUQ?oc=5
+- タイトル: 従業員エンゲージメント市場に関する調査を実施（2025年） - yano.co.jp
+  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yX0hEazNKWXptU0xidUlreTJGelRtRkQ0TVlJRGppZ0o5cTV1ZEZhMXdGbzAzSENvenZaSlZXMkhNS2xPYzVRRzdjenBybnRtSEdqSzFCT2N6QUdjVF9ZU3BMMTZVdw?oc=5
 
-- タイトル: インテージ、「従業員の行動が、売上を動かす」をデータで証明・実装する新ソリューションを提供開始 - intage.co.jp
-  URL: https://news.google.com/rss/articles/CBMiS0FVX3lxTE1NOVJ1WFQ0dmZoTnBiQUhUcDBpUldkejJXcmNvLVdLN2ZmdUM3Q0ZXU1lGZHZiMTNWcXppcnc0ZWoxai1jWXctVmxMZw?oc=5
+- タイトル: 「残ってもらいたい社員に限って、すぐに辞めてしまう」という事態を食い止める。EX向上のための三つの意識改革と対策 - ダイヤモンド・オンライン
+  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oaG1VaWtwX0VZdnlhM0J3TVdRSExCbU5henNOMDlJRk5zWEk3N29vRVc1X3d6dDBudnNocVd2eWlUTkdrbXJPbEdiNno2MGFkaGswSXJ3?oc=5
 
-- タイトル: JR4社のネット予約サービス間の連携による利便性向上に向けた取組み～「えきねっと」「EXサービス」「e5489」「JR九州インターネット列車予約サービス」をより便利にお使いいただけます！～ | 東日本旅客鉄道株式会社のプレスリリース - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5WSWpXTlhXcWVPMXctTzZwTGNrWWpSbDMxUVUyRzlUNTZlRW5KWktoY0J0Zl95cDd0OVNfMmdnRmxBNUFfNXJkbWdOVURlQ0MyQVc2NmhaejdZZXNjTWZtdmRzTXRqVlBNQVE?oc=5
+- タイトル: PrimeTiaas×FastHelp5連携による生成AI時代の新たな価値と可能性～自動要約やVOC分析によるCX/EX向上～ - scsk.jp
+  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYUENFYVZuZThhSEhrNWZDNmswOS1DaUZpN09FTmxvcjZyMDhLX204YXpQT21iYXg5YmJRcG9EenNyNkFQeTVncGpISmRIR2xCOUR5T25YQ0VJZw?oc=5
 
-- タイトル: 【ウェビナー開催】旭化成・コクヨ・住友生命保険・東レが登壇！インナーブランディングの成功事例を語る - AdverTimes.（アドタイ） by 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE15S2lEQnQ5elliaHNTdkJHbjBlWDlNQnVVNjRRNDUtUlRjQjJnUFYzMTQzQ0pQOVV2N2JKUVZodXphWU5nbU9EdExfUUZNQzRfc1IwUnJZX1RaLWdiMC1R?oc=5
+- タイトル: 効果の高い広報事例が分かる「プレスリリースアワード」受賞作発表 - AdverTimes.（アドタイ） by 宣伝会議
+  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ea2xHMUJYaXpTUXR3SC04SWpSdUlYYXl1N0o5MlFsV3pBUkJPQXhfaUlJVFhoRDNNTjVPazlMYnZiakM1SXpGcG9Jc19wa0gtOXpJSG9MRTNPazZINTdJ?oc=5
 
 - タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
   URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
 
-- タイトル: 45％が直面する「DX人材の壁」……いつまでも育たない企業に欠けている“2つの視点” - ビジネス+IT
-  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WbXlNMU1JY2tHQm11S3JtT0RfdzdDekhLLUs4SmtERFZvODlDaWotUW5jRUtSY0hUSXpnNHl3aDFoQ2ttNmpCMVFfWC1SeFk?oc=5
+- タイトル: AKKODiS、「令和８年度 大分県及び市町村のDX人材育成支援業務」を受託 - 朝日新聞
+  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lZHlRSWI1bzJiaXNmQWduVG9RM2J1cUFvNkxWbEhjNjY4Z3FBVnM3TElHQzE2REZQVXB6X3Z6SlpMakhfbC10QlhRamN5WXJybmh6aUZJRjJwQjQ?oc=5
 
-- タイトル: ファミリーマートが取り組むDX組織の強化──新規ビジネス拡大を促すDX人材の採用と評価制度 - Biz/Zine
-  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLYXdrZkRNbjFfUEFTbF9vYzFVSXpZWWVXcGtHVmJQNWlVQ21sd2VScjBiY2pqZ3YweXJBdjB3SzluMzRPbkF5XzhZYTFSc28?oc=5
+- タイトル: 【連載 1/4】世界が試し、マクニカが磨き上げた「組織を変える日本流製造業DXとは」〜12年の試行錯誤から見えた製造業DXの律速〜 - スマートマニュファクチャリング - macnica.co.jp
+  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CVlo4eVZoMXhGaGxHN1B2RVBxYm9NNkdZYVZaMkRsaFFVVzl3bkU0MVBWRzZUODNqMDhTU1Utejl1azg1RU5jdVRaQ1UxUV9pOEVQQkhSRXVJTnhiLVBWTWtXNlk5dF9I?oc=5
 
 
 # Manusへの追加指示
