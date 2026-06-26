@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: RFP/選定基準
+# 本日の執筆テーマ: トレンド解説
 
-- 生成日時 (JST): 2026-06-25 12:55:48
+- 生成日時 (JST): 2026-06-26 13:02:24
 
 ## 収集された最新トピック
-- タイトル: 2026年版第４回全国１万人従業員エンゲージメント調査結果速報 - 日本の人事部
-  URL: https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oSXQ3N012RmYwbXAtRkpJVHJlR25uVzNhWTJ1N3dWalV5MEZFaV9zWXhXSFZFdDNIY0J3TEJzWEZjUkVfVHpNWmZjaw?oc=5
+- タイトル: 人的資本経営時代に求められる「エンゲージメント人材」を育成心理的安全性・ウェルビーイング・離職防止を支援する『認定 - ニコニコニュース
+  URL: https://news.google.com/rss/articles/CBMie0FVX3lxTE5MZnpBTmhQbi1RN0ZCbjBFVTluRGRrZmU5SXJuRWJBUi11SF9TTV9xVzZYeDkxT1l3d3k2N3djblNuRjlBV0pVLU5OZ3hmcW9BX1hwMFlvUmFTV1hGdDNkSlYwOHlRSWY0bDV6TU43M2REQ0JMUjNITzJvMA?oc=5
 
-- タイトル: 従業員エンゲージメントスコア、世界優良基準を継続達成！MVV浸透が強固な基盤を確立 - 共同通信PRワイヤー
-  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE9URjdLVl80ZTF5YVUwU2lzVGdTcmVWQWw0WklJOHBBMzRoZkVSc05OUkJWQVhZSGx5NTc5VkFsckhaandpTTNFbWJBMHpZZzVnZGtDLVg5QkN2d1E?oc=5
+- タイトル: 日本の会社員で熱意をもって仕事をしている人は、たったの６％！？ 戦略人事のプロが教える『図解でわかる！社員エンゲージメントを高める７つの方法』が発売 | 株式会社ディスカヴァー・トゥエンティワンのプレスリリース - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9jVGVOMkJqaC01MDRjdnQ0aEpTN2RTZ3FXSXpEOG1rZEE2Uk5QMUl5d2otaWtBR0VJOEV5SjZJZVk4emNmU3JrNmhTMWZGa1Y3V3FjeXNGZ3ZXM3NWN1FkRXVZRTFZcDBIRkE?oc=5
 
 - タイトル: 「スポットバズーカEX」導入、整備工場の熱中症対策を強化…エムケイ自動車 - レスポンス（Response.jp）
   URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oNFJvbXQtUTN3bEpUcjlFWFU0ZHc3ZGhueWdOdXQzYXNvbGR2b0duZDBILVVsWFlrS1VkMXg1SnppcGxETXJjTWw2X0l1TUF6ejZWRy1ta1ZKUXZQSElF?oc=5
 
-- タイトル: 「残ってもらいたい社員に限って、すぐに辞めてしまう」という事態を食い止める。EX向上のための三つの意識改革と対策 - ダイヤモンド・オンライン
-  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oaG1VaWtwX0VZdnlhM0J3TVdRSExCbU5henNOMDlJRk5zWEk3N29vRVc1X3d6dDBudnNocVd2eWlUTkdrbXJPbEdiNno2MGFkaGswSXJ3?oc=5
+- タイトル: EX向上の取り組みのなかでジェンダーギャップを考える - 日本の人事部
+  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE43YWdXR0R4RWgzMUMtYmQyb19sR3BLTHl5SlVOWWU4Z3QyZ1BrM0hJZHdRSjRMZWJITnE0NjJmR3lJM0dMcExvbFcyWmJqTWNsNG96dVNsaF9JZVBXQU1DbWdrZFRKbW5PeHd2MW5QMDZFcVhVQmc?oc=5
 
-- タイトル: 地域から全国へPRを拡大する広報術とは？プレスリリースのプロとメディア企業がポイントを紹介 - AdverTimes.（アドタイ） by 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUalY4SVUzMVczR0xVXzMxNXpwbF9ubDEyUVJ2VDBLR0ZYQTNDUi1SakZhNlVWU2U5bzVPclFFT3Q4d3dLbFlEbUR4SzZvcFJORE9YUUNyUk9EQmJHUTRF?oc=5
+- タイトル: ＜プレマガ広報インタビュー＞株式会社OKUTA 安藤 小百合さん｜プレスリリースマガジン - ドリームニュース
+  URL: https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tYjZjZkltUkUyYjg3OV9lOG12VTIyemkwOFIwS1VlSm5CMUJXc1RkQXJnMjFJYWxVbVJXNjV2ZnBhUnFtWGtCVTRfYjNZMGMy?oc=5
 
-- タイトル: 広報は“人事と採用”の要に？ リンモチが「価値観の共有」に3億円払う理由 - ビジネス+IT
-  URL: https://news.google.com/rss/articles/CBMiUkFVX3lxTFBialY0d1hzVGlRUklqMk5PakRZRnZqTHU1aHZwRnpFZmQ5UlRPSDM4dzNEVW5WaDlpSHo3Yk9zZFFtTHdNU3A5Ym42QjhQTXJ6eXc?oc=5
+- タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
+  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
 
-- タイトル: 「DXを成功に導く組織のデジタルリテラシー」関連論文 DHBR2022年10月号 | 組織文化/組織開発 - DIAMOND ハーバード・ビジネス・レビュー
-  URL: https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uQVhWU09MMzFvR05CYS1zTHAtSHFtenNRUlpqR1dGSEVNMHFzOVc2Z3pWMjhJVlFsWmNPdWVFMEN6N0s2ekNFaUc3amJjTU1K?oc=5
+- タイトル: 株価連続下落で始めた「味の素DX」 “組織文化の変革”でどう生まれ変わったのか？ - ビジネス+IT
+  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yQWlYLW56dUVkcTNsRXEyd3BrMk5GR1NfMktBN09Tamh0V25FUTlGR0xaR2dJeXFWQjNnXzBjaWcycDlqTEJtMk1yakc1aVU?oc=5
 
-- タイトル: DXを成功に導くには 日本企業に変革を迫る組織の壁 - NIKKEIリスキリング
-  URL: https://news.google.com/rss/articles/CBMickFVX3lxTFBPMHowb0RIVG1fUFQyNlVRWVJLaEI0MndGY2MtdHBnQWtnV2JWWkVOTkhXbGF6MVZZaFM1bkpwb1BkMlAtRTkwQTFpdDBhOXdPcWMyUko2QnRFZHFScjZ1WjVJbVdsbFJ4WnN3MWN4ZjBnQQ?oc=5
+- タイトル: 生成AIを活用する経営者が急増 それがDX担当者を泣かせる - 日経ビジネス電子版
+  URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yd2NxQ25jOE0wYTBvMTdSZGk0WEdqNk4wMW9QaERUenhBYnJ0akRteTBYZ2xoOVNNclNqT28tOHJlZU5VNW5LUnpTWVU1NHh0MXZ4N050bm1pNkhXN3VzZEJvb0pQcHc?oc=5
 
 
 # Manusへの追加指示
