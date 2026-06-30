@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 経営戦略
+# 本日の執筆テーマ: 現場の運用課題
 
-- 生成日時 (JST): 2026-06-29 13:16:49
+- 生成日時 (JST): 2026-06-30 12:57:51
 
 ## 収集された最新トピック
-- タイトル: “会社への愛着度”が向上 〜健康経営×電子マネー活用で、離職防止・従業員エンゲージメント向上に寄与〜 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9IWjR4M3l1X0U4QmVzWmU5ZThvbEROUlgyeTR4cXRzTmpTcVNJR1g1d0dxNTRFY0FJcGxJTTNWdnFVbktBYmhfR0drd05wMk1qNW9hRTJ5UjRPVk1SQ0x6RWVEYUZnX2NQR1E?oc=5
+- タイトル: 「静かな退職」を防ぐ鍵は、デジタル体験にあり——社内ポータルと従業員エンゲージメントの深い相関を紐解く - マイナビニュース
+  URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDNFJUV0REaTB6SzZzeE9VX1ZHaG9vZWdNUm9kXzZ5YUJ2UkFBVHBXVF9mM05SdWxiZENCRnBrQkc1MFBDYnBiTUhLUWd2SmxIMVJnV2FjQWlZWXBlSnZzbzBhd25Pb0k?oc=5
 
-- タイトル: 東京大学と従業員エンゲージメントに関する共同研究を実施、データ分析アルゴリズム構築―アジャイルHR - HRzine
-  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTFBUcUNwSFBaRzhSUFBaZUhGUWVXRGVRVDVIMXFLaS1FOFR0UVRrU2x0aFluQXozNzhlX2tJaXFJcjVwMnM3Mk1KZmVB?oc=5
+- タイトル: 宮城県の令和８年度「宮城県職員エンゲージメント調査・改善支援業務」を受託 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5fX2FrVlg3bndMaENSdklJQ0N4NGJYMUNmRlNPaERNZ2RncW1Nd0FxUjAtYUk1U1lUUHo1VWFocFVGM2FWLXFZem40QkV1VWlIdm82NWZVbEZVZGFLVENFTVo1bVJPUHpRd1E?oc=5
 
-- タイトル: 丸亀製麺の感動体験はAIで加速 「うどーなつ」2000万食の裏に従業員改革 - 日経クロストレンド
-  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JOXRPSkd2eWtmY2I2UjAxUUFzV09oQjVpMGN4dzZodUhOWVlvVlZBWTZpU0hHVjd4a1M2UkRXYXF4VlRUNjYtYkVHRWdPRDBqRnhhYWNrTHE0UnoxZXBiSzNmdmtJQQ?oc=5
+- タイトル: 全国信用金庫協会とHRBrainがタッグ 信用金庫のエンゲージメントを可視化・改善離職防止と生産性向上へ - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFByak5NdXBmNjdBTG1sZHJuLWRlM2l5RU5xeXJ0dS1sWEd1UnNwYmN1azMzb2RoYTc3NUhQLWNKd1pabFJFR1pMdDZpUzljb1dXaE1jMElialJBTTFYTTc4Tmo1VkV6R19nQ0E?oc=5
 
-- タイトル: CX／EX向上で顧客満足度を高める！ - NTT Data
-  URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE9ORlU2TTIwSjVaTXdmSTdwUGtxSHdJQWZRRmVGSVl0bUlCVHRnUWV2NFFiUjNPSjY3YzJjZDVFRWVGalBxdXdvYUU3U0h6ejAzOWhFYjhvWjBqMU51amZFWDZfUkFEZ3YtRDY0bw?oc=5
+- タイトル: HRBrainが国内初の従業員エクスペリエンスクラウド「EX Intelligence」の提供を開始 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBDNDAyU21LYkpoRHZFYnZhSjVFOWVLbTZxRnRTLUxRT2tuNEN6b2J6T25BY1pkZENGdEk3U2tWTFl4Rm5ZOVlUbXA5eDlIMWpTamJ0QWRWZFNHV1hUMU1Gcnh6UDZob2tTYnc?oc=5
 
-- タイトル: “マイナビだからできる”採用広報とは？ 「プラスト」企画責任者にインタビュー - サポネット
-  URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxQMTRpX3h3QkJVWmxaWDAyTkRGX0M5TXV5ZlFXd3g1LXQ5czRzOUZVeEJuNENzaWJWaUU2NTV4M0Z1WDZnQ2ZySVJjN0VLYU1yN21PeEtBNmlxVU5aWEhIakFsUndBdHd1V181YkJIUlpxb0xnX181d25Rb2V5MHd2clAxSQ?oc=5
+- タイトル: 【レポーティング】統合報告による企業情報開示の変革　〜武田薬品工業社の成功事例〜 | Sustainable Japan | 世界のサステナビリティ・ESG投資・SDGs - Sustainable Japan
+  URL: https://news.google.com/rss/articles/CBMic0FVX3lxTE1SSklkdHZYeGw2TXBLM2RTZDhvQVE0UTVZZl9PeVlWVjhuYk55cmpUR1dNbUYxa2MxU2EwbzdGLXRWdVpja0pqN1J2LTlUSW5jUGlvRWVUV19LOTRoeHVvX0J0UVpsRDJGS1Y5S0RmUUJHaVnSAXhBVV95cUxNYnl1bGo0aGRaUVhSTDI5OXpKazRjTGNYUDktQVRrdGFJOW5fR1RncXN1VGhBN3BYMExrSFl2T01oWVdGY0F1RExPemVUbGo1N0YtaVozdmNMTjN6cjIxdUNUbU9rT3QxQVAzSkVsTDFrdzJkaUpfUWI?oc=5
 
-- タイトル: 社長が絶賛！社員は共感！担当者は感動！「オンライン社内イベント」成功実例 - AdverTimes.（アドタイ） by 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BaTRSWGlScVVKamwxOW0xUW1KbmxrRGl2ZFNEVnBSS3ZQdXVaM3ZhcTVXOHhLd0Y1NjdQa3Rpc1BoY3ZvN3lzMklTenNvX3RyTS1hQjY4N2dBVXBMc1Aw?oc=5
+- タイトル: 神奈川・湘南アイパークの成功例続く ｢研究者ファースト｣で成果 - 日本経済新聞
+  URL: https://news.google.com/rss/articles/CBMibEFVX3lxTFAzOUZFRVQ1SHJUX2JsNHQ1OGxWTU00UjJMbXhSRGJHZUdBZDF0aTQwZVl2Wk5EVzRvZ0VIVHZsZmdPcnhzOFFENnFtR1dqNE5KMWdDZko0MlVrQ3BiOUlZLUh3ZDZ3dThJZnRlVg?oc=5
 
-- タイトル: 情報システム部門を「DX部門」に変革するための処方箋 - IT Leaders
-  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nZ3RCX013YTNvekZQWDVCRlYxTkw4ZlZFaXAxZ1RZRUhCZlNWZUQxeUJHNjluQ3dRR3BOc3ppRDVXcmkxWlU5cHRnVDU4a3RvdzUw?oc=5
+- タイトル: 組織診断サービス「IIJデジタルカルチャー可視化ソリューション」提供開始 - マイナビニュース
+  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE85SmZiS285a2ttcm13YklwbkV4eVpLOHJDU1Y2bThhOEotdElMaGJLdGxLc202ZmFJS3c3ZFl0aXJ5YndOeFhrRHdVbkpCbTRISEp0bm1PZUx1NVFrOGdFZ0lTeFQ1SUs3?oc=5
 
-- タイトル: 自己破壊なくしてDXなし。デジタル変革を加速させる企業組織のあり方 - DIAMOND ハーバード・ビジネス・レビュー
-  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KZm8xQWRaTXZ0V1B2UGdzdkk3SEJVdG1vY0NuaDZhaWdzY0d6M091eFFobkNjM0txb0NHZklIdW0zaFNNS3hEQnpaeU91MF9Cc1htV3d2ZDdzdw?oc=5
+- タイトル: みずほフィナンシャルグループのDXの取り組み - 文化放送
+  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kT0dDTkhwbzlYTktzU1lCMHZMNDBrTWxBaVpJUDh5QlRWelpYSUVpVGwyVnJSUUJmVEtOWmV0RXowS0JiY0lVREdBN0Zvc00xSHFJ?oc=5
 
 
 # Manusへの追加指示
