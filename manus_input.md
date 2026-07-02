@@ -1,19 +1,19 @@
-# 本日の執筆テーマ: システム連携
+# 本日の執筆テーマ: RFP/選定基準
 
-- 生成日時 (JST): 2026-07-01 13:13:00
+- 生成日時 (JST): 2026-07-02 12:53:39
 
 ## 収集された最新トピック
-- タイトル: 大企業における従業員エンゲージメントと離職意向の 関係性に関する実態調査 - jri.co.jp
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWZWRMelpJME9YZXBIUjEzSV9iVG5nV1liTXR4cnZhbkxVbHFsVlRtajdXMGhsNmJWUDZ5enVxTWVDS04wQVdHY3RLZVJ1WVJjY2RzRUxoQnhmVjgybDh3?oc=5
+- タイトル: 「生産性」と「エンゲージメント」を向上させる、森永製菓の人事制度改正 | 『日本の人事部』 - 日本の人事部
+  URL: https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxVUZ4c0w5Vmptc040dkRuRGJOT1Z2Ulk5aUxwaWdIR1dBRlhiQk0wRFV1Skk4bDVaenFKSDNUVENabXF4OHlIbXlsUGRtamlpVW4wOU9YNA?oc=5
 
-- タイトル: “会社への愛着度”が向上 〜健康経営×電子マネー活用で、離職防止・従業員エンゲージメント向上に寄与〜 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9IWjR4M3l1X0U4QmVzWmU5ZThvbEROUlgyeTR4cXRzTmpTcVNJR1g1d0dxNTRFY0FJcGxJTTNWdnFVbktBYmhfR0drd05wMk1qNW9hRTJ5UjRPVk1SQ0x6RWVEYUZnX2NQR1E?oc=5
+- タイトル: 大成建設、モチベーションクラウド導入へ 従業員エンゲージメント向上による中長期ビジョン実現を目指す - MarkeZine
+  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2ckVGTWJJTkZIUkRrWGQ2MGk3ZzU0UUlGclkxTG5iMzBrVFhnczZpSzhNZ1V1aGJ3Ykpyc21ha3lab2pCS0Q2US12Yk1udTg?oc=5
 
-- タイトル: PwCコンサルティング×HR総研：エンプロイーエクスペリエンスサーベイ2021 速報版従業員エンゲージメントを高めるための鍵となる従業員体験（エンプロイーエクスペリエンス） - HRプロ
-  URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yWUJuYXR4d1BuNG1MUF9hNWVwOHFpOXNocU5ITHJQaU5Cc3J4ZzBOb052REpwaUdjd3dIUXo1U1N1U2tXeU0ySjRrNm1VVVh5UExodlRsbmJCZTJjWEFsR2dR?oc=5
+- タイトル: インテージ、「従業員の行動が、売上を動かす」をデータで証明・実装する新ソリューションを提供開始 - intage.co.jp
+  URL: https://news.google.com/rss/articles/CBMiS0FVX3lxTE1NOVJ1WFQ0dmZoTnBiQUhUcDBpUldkejJXcmNvLVdLN2ZmdUM3Q0ZXU1lGZHZiMTNWcXppcnc0ZWoxai1jWXctVmxMZw?oc=5
 
-- タイトル: これからはデータ活用でCXとEXを向上し、DXにつなげることが重要 - ITmedia エグゼクティブ
-  URL: https://news.google.com/rss/articles/CBMigAFBVV95cUxNQTdvS0NNeDdwU2txVXk4TkRENmRCSEhBUDU3bl81cTJhT0JMbDRyT25QNlBoVE91ZktXaVQyVE9rUG5VRDdnSTQtcFlJd0lMRThPcGtURWxibnFYWkJZNUtlMzBpLUhDY1dub0RyOGNRS0NldW1zZ250SjRFMUJzZQ?oc=5
+- タイトル: CX／EX向上で顧客満足度を高める！ - NTT Data
+  URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE9ORlU2TTIwSjVaTXdmSTdwUGtxSHdJQWZRRmVGSVl0bUlCVHRnUWV2NFFiUjNPSjY3YzJjZDVFRWVGalBxdXdvYUU3U0h6ejAzOWhFYjhvWjBqMU51amZFWDZfUkFEZ3YtRDY0bw?oc=5
 
 - タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
   URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
@@ -21,11 +21,11 @@
 - タイトル: アジアNo1(*1)のPR会社が伝授する、“人事採用×広報PR” 戦略「採用戦略サミット2022 令和の新常識 produced byベクトル」開催 - PR TIMES
   URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9SYU1yRHFrU1pXZ3liazlTVHhJTFRybkFNZG5lYlZXaTNBeGI5MUlZXzhEbFRNbmVNbi1YRTluRzRabTk3a29nSklJTVNUdU5xSGh3ZDN1SWtjOTVfc3QwZjZJcW5sNldPelE?oc=5
 
-- タイトル: 人が動き、組織が変わる。4X思考による全社変革の実践 経営の未来 Future Vision | 戦略 - DIAMOND ハーバード・ビジネス・レビュー
-  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OVG14aEc0eTU3VFZWYktDN0l2RTdNcjl0VXhTZUI2Q2plamFzYldBTVAtRHhZSGhOSTlmMzlsaDBXejBzY3JSMkJ5Qno2N3RHeF9FQkRHdzlERWs?oc=5
+- タイトル: 医療DXが失敗する理由：技術ではなく組織文化が鍵を握る - Forbes JAPAN
+  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE56NmRvQmNuWHlGaldvZ0VtZmFOeEdNa1JYaWhlNUU5VWxYSUctMHhnWHUwaC1vQUUyZXRGX3AxUmhVbmZhNWljaVRGLVBmNnYwT1I2bEk4Rmk?oc=5
 
-- タイトル: 88％の社員が自ら動き出した トップダウン型だった丸井が、組織文化の改革で「捨てたもの」と「残したもの」は？ - JBpress
-  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMaGlFOTZqOHFZZWVTZHFQTXkyUV90SDdQZE1MSUJPMDZCTEY1V3RKdlZkNFpxbTRfQnZaX1hCamFNN1UybTdLZkhNWEJhVFNsaUdGREtB?oc=5
+- タイトル: “DXしなくなる企業”が生き残る？ IIJのレポートが示す「デジタルが日常に根づく組織の条件」 - IT Leaders
+  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DOHpFa1hhTHJKQU9KZEgxNlpwc0U4czlCRjRCcEhDWHhtRjBpQjNDVHVMc3AwSjY4TktfaHcwc2MwTHpzaWNUNklDWGdsbXRodlNn?oc=5
 
 
 # Manusへの追加指示
