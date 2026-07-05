@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: キャリア
+# 本日の執筆テーマ: 海外事例
 
-- 生成日時 (JST): 2026-07-04 12:28:48
+- 生成日時 (JST): 2026-07-05 12:46:13
 
 ## 収集された最新トピック
-- タイトル: ワークエンゲージメントの高い人に共通する「上司のサポート」とは－「成長機会をくれる上司」がいる人ほど、働きがいを感じている－ - nli-research.co.jp
-  URL: https://news.google.com/rss/articles/CBMif0FVX3lxTE4yX0dsUVlIV0ZRVGl0aE54VkUxcHNxbFFJenpiTFRRQXkweFRLclAxRXFlR3NRTjlUV2RpVzQ1TzFEMU11dm1ON25lQzFRaXBqTW9GbXdEUG0xS0tZN0djYjM2c0Jyam1pa214VmFBcS1zZmNzRHRyWm5fWDh0UzTSAX9BVV95cUxOMl9HbFFZSFdGUVRpdGhOeFZFMXBzcWxRSXp6YkxUUUF5MHhUS3JQMUVxZUdzUU45VFdkaVc0NU8xRDFNdXZtTjduZUMxUWlwak1vRm13RFBtMUtLWTdHY2IzNnNCcmptaWtteFZhQXEtc2Zjc0R0clpuX1g4dFM0?oc=5
+- タイトル: 医療業界向けエンゲージメントサーベイツールおすすめ比較！解決できる課題 - BOXIL
+  URL: https://news.google.com/rss/articles/CBMiQEFVX3lxTFBoa1g5RU5VM2JtUW5saS1UalRDdkw3U3pJQnVCQVBGQ1RxclpRZjNhNC14R2xYbE13S0xIc1pueVk?oc=5
 
-- タイトル: アジャイルHR、【速報！第3弾】2026年版第４回全国１万人従業員エンゲージメント調査 業種別分析レポート～16業種に広がるエンゲージメント格差。全国1万人調査から読み解く16業種の「明暗」とその背景 - 日本人材ニュースONLINE
-  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GRmVMS2lyb0RIbTJtTzdrQWpOcXZVUzA3aVFwYXhlVFVNNEtZZ2xOU1l4dGRiTU1qaWVKZmh4LWlsSHo4aG9qc0RaUXFDM0tKNHVXX2RkX3RINkU?oc=5
+- タイトル: 従業員エンゲージメントの「7割はマネジャー次第」、ギャラップ社トップ研究員の結論 - Forbes JAPAN
+  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lMEVKZEU0S0ZHMFpFb2k4NmdKSHlnWDR6UGp2ekwyNDZicEdya0pfMG5BdTZWcTJNLVdsbm5iY1lrUWVIUmR2ckRMdE1jT2luRmVVZ0x3TFc?oc=5
 
-- タイトル: 「働きやすさ」から「働きがい」へ ～当社が進めるＥＸ向上の取り組み～ - 日本の人事部
-  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTFBIcjJWM0FwcC1wQ1VrVGRiNVNYZVZ1VlpXSERxUUZIWkNiSXlQQVhUczA2UjlubFRwbXQzd3FQQm1YV0pNZDFyYVBCekIyOTNLXzVLdjNaMXhVR2l3Qi15VDZvQXVDWExjWjZnU2diWGtHU1RzOEE?oc=5
+- タイトル: VUCA時代のタレントマネジメントはポテンシャルの可視化がカギに - 日本の人事部
+  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rQXVEV1RwQWxONzJuS3dqTjNlN2xTQ054SDUwRGZsQ1dtVll0dTIwdm5pYUZjTFlRNWJNNTVnNWxoYXZkcXNySXdGMF96NTIzMUpadEh3?oc=5
 
-- タイトル: エンゲージメントと生産性を向上させる新潮流 EX（従業員体験）とコミュニケーションをデザインする - 日本の人事部
-  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE52c0VzeVFHQlhLem9faGQtMGh4UkFZbWVpZUVTSWRHV1NlNDFnbXJWaHI3TGNwdDhHVUt6X05rclAzcXBlTXNRbHhYNVpGRm9DVUdrY3oxemhONFFsc0xZOTBWaGxCWV9Ud0VrbkxxazJGUV9KM0E?oc=5
+- タイトル: EX※の仕組みの構築（新しい働き方・職場づくり） | IR資料室 | 株主通信『NTTis』 | 株主通信 NTTis 2022.12 | 株主・投資家情報 - NTT
+  URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE9leVdLQUI3MFRrbjQzeHhUaWM4ZDdBSE1XUmR6S2JadmpSbzJoWlJsWl9DWjNsUTZHcWFvRi1VZzNRcDlqQnRjeENhTHUya2NPSUI4cHdfQmI0ZzFzUEw0MDZB?oc=5
 
-- タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
+- タイトル: リファラル採用の成功事例集『IT・SI業界編』 - mytalent.jp
+  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xazZRbW9OWG5pM01qRUN1ZVdkVFRFZVc0eWcxQjRma2ZHMnBCWG5KY0J1UEdycklRalhER3JsZEZBODFlNzdRRlZRT3k?oc=5
 
-- タイトル: アジアNo1(*1)のPR会社が伝授する、“人事採用×広報PR” 戦略「採用戦略サミット2022 令和の新常識 produced byベクトル」開催 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9SYU1yRHFrU1pXZ3liazlTVHhJTFRybkFNZG5lYlZXaTNBeGI5MUlZXzhEbFRNbmVNbi1YRTluRzRabTk3a29nSklJTVNUdU5xSGh3ZDN1SWtjOTVfc3QwZjZJcW5sNldPelE?oc=5
+- タイトル: 第1回「三菱重工グループ事業会社 広報会議」を開催 - Mitsubishi Heavy Industries, Ltd.
+  URL: https://news.google.com/rss/articles/CBMib0FVX3lxTE01anEtVkVCdFNHeWZNdjZJWGpvOGZHQ3FaUmxqMHBDcVAwTG1BcEpiUW14eVc3RkdtcElEUVdfY05BYlh5bFI2V3lZa0wxSmxSWWplcG44NjJ3TlJ5c1k3NzlGaWpUMjkyUzFYNG9zSQ?oc=5
 
-- タイトル: 【連載 2/4】世界が試し、マクニカが磨き上げた「組織を変える日本流製造業DXとは」〜分断・対立・不動を超え、DXをカルチャーにする仕組み〜 - macnica.co.jp
-  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE94TmZJNTNrZm14SHV4Q2RkbEZLQURsd2wxaldPUS1jSjBqY1FKREgwLTVwc0hUVHNTMjR6ajloa1BtVklreDRIamh1R2Nwa3hnd25PYWQzcDh2LXo2ZWw1ZW1sT0NQTWJS?oc=5
+- タイトル: 後編：エージェントAIが変える組織と仕事のかたち―行政に迫るパラダイムシフト - PwC
+  URL: https://news.google.com/rss/articles/CBMikgFBVV95cUxOU1VpSlNWRFMyYkY5bFRubFVWVzFOZVRUejlLOG9ibzZwb1psa0MzTlBoX25PTEpBVjZfdTRjX1NDRlJBQVh0bkl3WWpVYXI4X0I0NWtjdWFiV0dEZWk3TDJoSXMwaFFfMUpaZlh6T0RELTMwMUVYemVEaFhGelNkRUswNWtfaE4tbXV6cXNPTEhQUQ?oc=5
 
-- タイトル: DXに必要なカルチャーとマインドのシフト、「正しい違和感」を強制的に持たせよ - 日経クロステック
-  URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE1IQ3lObm1VdmFPU1lTNVhscWtkTlA4U3NxWl9vR2QxLVlyS0ZIbzhJblFhM19Xb3FwVkd5S3VOa1JfTmxmdDBsYUZyVDlzcWhvbEZYYUZzYllHUGpWZzlKa1dPak81c2paX0tvWg?oc=5
+- タイトル: 生成AIを活用する経営者が急増 それがDX担当者を泣かせる - 日経ビジネス電子版
+  URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yd2NxQ25jOE0wYTBvMTdSZGk0WEdqNk4wMW9QaERUenhBYnJ0akRteTBYZ2xoOVNNclNqT28tOHJlZU5VNW5LUnpTWVU1NHh0MXZ4N050bm1pNkhXN3VzZEJvb0pQcHc?oc=5
 
 
 # Manusへの追加指示
