@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 経営戦略
+# 本日の執筆テーマ: 現場の運用課題
 
-- 生成日時 (JST): 2026-07-06 12:53:58
+- 生成日時 (JST): 2026-07-07 12:43:38
 
 ## 収集された最新トピック
-- タイトル: 化学品商社特集 従業員エンゲージメント高め経営 - 化学工業日報 電子版
-  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhUll0Vkgtc0Rta1pxQjM0TkE0VHJUV1FYem42QmVuWVFVMkVWVG9RdnZLTXNJZHdMQTB5UUVvTE83emRDcjdBenM1UGZ3ZkFRNjdj?oc=5
+- タイトル: 北國FHD、EmotionTech EXを導入 従業員エンゲージメントスコアの開示でEX改善を推進：saleszine - MarkeZine
+  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTE9veW42N0dQcWFNTmdKTmUwdnN5RHJfOGxIX2N2Zkl0Tml5bzBQcWZjNmhlZk9qbmF0eDFNM2RCbnN2SXVJanlMSTVUNmZPbG8?oc=5
 
-- タイトル: 【速報！第3弾】2026年版第4回全国１万人従業員エンゲージメント調査 業種別分析レポート～16業種に広がるエンゲージメント格差～ | 株式会社アジャイルHRのプレスリリース - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9QS1M0dndtOU5ReThtRFZTUURTSHI5ZGdVY2xWa1BvRTRvdzNSSlFNc2tQZHIyaDZVdnJGVHR1MTAyVzFvdjFoYl9YMmlUMHdCa1RnR2gzMUtLOGtqaFdkcUNJNGg5bXgwMUE?oc=5
+- タイトル: 大企業における従業員エンゲージメントと離職意向の 関係性に関する実態調査 - jri.co.jp
+  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWZWRMelpJME9YZXBIUjEzSV9iVG5nV1liTXR4cnZhbkxVbHFsVlRtajdXMGhsNmJWUDZ5enVxTWVDS04wQVdHY3RLZVJ1WVJjY2RzRUxoQnhmVjgybDh3?oc=5
 
-- タイトル: エンプロイーエクスペリエンスサーベイ 2021-2022調査結果（速報版） - PwC
-  URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxQd3RVU0ZjdGdscXpZeG54Y0swQlVlUWxmcFVrUlM0MGFkd2dUMnB2QTBFM2RUMGpBSXhwMzd1Z25QMEJBVFRPa1lzeXRHTTNjckhlSWN4VVlvWlJza0x5ajdIMVc1VUVQMFlTQlpjRzdXWXpIVHM3RHd6UTNKaFdVZDdNeE1tRHJuY1poWGtYRWdZMzdq?oc=5
+- タイトル: 丸亀製麺、CX引き上げはEX向上から 社長が現場行脚 - 日本経済新聞
+  URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE9SXzc0WnJHWlpOaXliZGZDczhRXzZPX1FLYXZ2QXJrbnRyekYxdHlDVm8tNGo1aFN2Z1JPOTdBZEJNSG4tel94X25GMDZiMVlPakRUWU9DSkJraTBkRTNDV3FWM1NVS0ZSak9FcQ?oc=5
 
-- タイトル: 『アルバイトEX』が株式会社インターワークスの『工場ワークス』と2015年7月2日（木）より提携 - 株式会社じげん || ZIGExN Co., Ltd.
-  URL: https://news.google.com/rss/articles/CBMiP0FVX3lxTE10TUpfNTVnSzl4MmNoV0lkWG9NYzEzTjdhWUVaaGEzSzF4MERCUE1RNDNpNUV3WWE3STR4bWhlYw?oc=5
+- タイトル: コーン・フェリー、SAPと提携し、社員エンゲージメントと業績向上を促進する従業員エクスペリエンス（EX）ソリューションを提供開始 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5pWmVZZlZvSVRSVUxkY3o3MGIzMHRyVUF4RVdzTW9SLTR3cm1ic3d6dTc1RDJlWjQ5VEg2a2NJUTRxb25oZm04WTcxckxQN3VpRjdtb2M3SlJ1bXJpYW5QUzFVeTFYaWdtWHc?oc=5
 
 - タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
   URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
 
-- タイトル: 広報担当者の悩みを解決するノウハウやツールを紹介—コーポレート・コミュニケーション カンファレンス - AdverTimes.（アドタイ） by 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iMXFKUDJsUWZzbmMycmJTNTUtMGNwLXcwd3Y3RlAwZkRwQVRqSkFSY0M0SkUwUm9MWEpEbGtXcThiZTk1dGl6M0JDZzltUkczeU9nbU9penpoUmIwOHhF?oc=5
+- タイトル: アジアNo1(*1)のPR会社が伝授する、“人事採用×広報PR” 戦略「採用戦略サミット2022 令和の新常識 produced byベクトル」開催 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9SYU1yRHFrU1pXZ3liazlTVHhJTFRybkFNZG5lYlZXaTNBeGI5MUlZXzhEbFRNbmVNbi1YRTluRzRabTk3a29nSklJTVNUdU5xSGh3ZDN1SWtjOTVfc3QwZjZJcW5sNldPelE?oc=5
 
-- タイトル: 【連載 2/4】世界が試し、マクニカが磨き上げた「組織を変える日本流製造業DXとは」〜分断・対立・不動を超え、DXをカルチャーにする仕組み〜 - macnica.co.jp
-  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE94TmZJNTNrZm14SHV4Q2RkbEZLQURsd2wxaldPUS1jSjBqY1FKREgwLTVwc0hUVHNTMjR6ajloa1BtVklreDRIamh1R2Nwa3hnd25PYWQzcDh2LXo2ZWw1ZW1sT0NQTWJS?oc=5
+- タイトル: 地場コンの現場監督によるボトムアップ型DX、成功の第1歩は「仲間づくり」から：地場ゼネコンのDX（1/3 ページ） - ITmedia
+  URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE1xWGlMcGoxTktBdnJuZ0VxdFZyMElJNlQ3cGROaVpIY1FidzVwMkY5TjNqX3l5NXNXb01PTkhUZXd1VmpKWFdoQUtnSkxYcGVHQTl1NnM2S2x0Tnc1dVlVUjlBX2NmaHc3VXpKbQ?oc=5
 
-- タイトル: 鉄道業界向け組織人事DXラウンドテーブル 2025 “鉄道業界の人事DXを加速するAI活用の可能性” - SAP News Center
-  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kdXliTmw2YWF3dGVJbEJKZ1B5ZEQ2YlR2dTMxeUFRWHJ5Z21zUDJ0UXJfd1J1cXlYdmtKaWx6S1VSUUc4Y2JPTWZNVEdZTDdRbTdv?oc=5
+- タイトル: 【オンライン】DXリーダーズ・カンファレンス2025 ～内製実行力こそが競争優位を生む：先進企業の事例から - ビジネス+IT
+  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTFBSZnVKMl9kTVg3N0hLLXhXeGZValZMSmdXenpiTWlMVnBhSEQwalhua2xMTDl1NnJ2SjRUQTZFZjV0SW04c3daOXdrV0E?oc=5
 
 
 # Manusへの追加指示
