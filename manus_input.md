@@ -1,19 +1,19 @@
-# 本日の執筆テーマ: 経営戦略
+# 本日の執筆テーマ: 現場の運用課題
 
-- 生成日時 (JST): 2026-07-13 12:20:53
+- 生成日時 (JST): 2026-07-14 11:45:24
 
 ## 収集された最新トピック
-- タイトル: U-ZERO、日本の人事部「HRアワード2026」プロフェッショナル部門 組織変革・開発部門に入賞 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBzUnVrekJVYWhlT3NqWVd1ZmF2NzltVUlsalNOcVdYeWFZTHhybTR4MEd5OWUtNUxHY3lJM2tFUnRJd09DNmFrakVDOW5XaDhJNFphdlpFd1dpOXlSTVQ5RnJ4RF83SHF0X0E?oc=5
+- タイトル: AI導入で従業員エンゲージメントが低下する5つの要因とその対処法 - Forbes JAPAN
+  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NTGZuZTJHR0tlbkRXZjFhN1dnTlBJRzdzR1VKNDd0RlpFeEctYmtidThOemdidE51Q19STXl5WWhJVzdaUXN0VGJUMUtXdEZXcldJcnduT2w?oc=5
 
-- タイトル: 東南アジア圏の従業員エンゲージメントに関する調査結果（2025年データ分析）を公開 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1MdjVfSWVJVmxyUzRsNmthOEFHY2o1Q0FQWnM0QVFmX25FRXlVUk4zeHN1WklSa1piajhDeU9YSmJ1bmE3WmlmaGZUZWY0NTZ3ODhRdUhmekc4SGlrY3NEd3hLWUg4a3JEekE?oc=5
+- タイトル: U-ZERO、従業員エンゲージメント改革の実践知が集う国内最大級のイベント「U-ZERO DAY 2026」を7月15日開催 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9Oek5wNmNNVmpLZktjdjBLYnh6R3pSMzE3c0hKaVR0SDJTeDBrSUVMS0lEdFp5eTZsOG1vTEF1NU5HWTBKT2tfa0ZMeWJpbmJJVFFXZUxYempfR1B6bUtya21oaHVXT0tiWWc?oc=5
 
-- タイトル: 丸亀製麺の感動体験はAIで加速 「うどーなつ」2000万食の裏に従業員改革 - 日経クロストレンド
-  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JOXRPSkd2eWtmY2I2UjAxUUFzV09oQjVpMGN4dzZodUhOWVlvVlZBWTZpU0hHVjd4a1M2UkRXYXF4VlRUNjYtYkVHRWdPRDBqRnhhYWNrTHE0UnoxZXBiSzNmdmtJQQ?oc=5
+- タイトル: NTTアドとNTT ExCパートナー、“顧客体験（CX）”と“従業員体験（EX）”向上に繋がるエンゲージメント最大化ソリューションの提供に向けた業務提携を開始 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1rVERsNldQdnRYcVlkbzFac25MVy1DR1cwOS03QVJBZlJtV281cWs3VEtSOXhMWTZJYmF6c1ltUlRhZXRPdmxFWnhJczA1RTVlM2ZZeG9GMEV3cWRvNjI3UmxiMEk2d3YtS0E?oc=5
 
-- タイトル: JR4社のネット予約サービス間の連携による利便性向上に向けた取組み～「えきねっと」「EXサービス」「e5489」「JR九州インターネット列車予約サービス」をより便利にお使いいただけます！～ | 東日本旅客鉄道株式会社のプレスリリース - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5WSWpXTlhXcWVPMXctTzZwTGNrWWpSbDMxUVUyRzlUNTZlRW5KWktoY0J0Zl95cDd0OVNfMmdnRmxBNUFfNXJkbWdOVURlQ0MyQVc2NmhaejdZZXNjTWZtdmRzTXRqVlBNQVE?oc=5
+- タイトル: 成長企業が実践している、従業員エクスペリエンスを向上させる組織づくりとは - 日本の人事部
+  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTFBsbkg5WGNyNGFHUkVuOC1FNFFXdFA4ZFg0VWZkTW5sSnZtVTBMRjRaejI1S3FUaHlBMkIwcU1lQk02TDgyUy15VS1ZNG00R1A4V3l2eFpqR2phaTFRN2RqMms3aXhCanNGaTRMa0ZCUy12c0Jadnc?oc=5
 
 - タイトル: 広報業務のDX化を推進し、「人」と向き合う時間を増やしたい（ULSコンサルティング・浦路万智氏） - AdverTimes.（アドタイ） by 宣伝会議
   URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE8taS00MC13M096SHFfQXQ0dVFCeFRqUTU1MzYxVWcxTHpzZG1HZ3FTX09FSHlaRmJrNU55dzdDaTVOei1sSUZKYTc2UXcyZWNZcWRQTDNNeFRJeEFILWgw?oc=5
@@ -21,11 +21,11 @@
 - タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
   URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
 
-- タイトル: 縦割り組織を超えて加速するJR西日本のDX─TRAILBLAZERが明かす、データサイエンス組織創成の軌跡と攻めのITへの転換 - IT Leaders
-  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DNzhzZmprNmN3ejZWb2YxalBsRmxHZWZuNFpSbXFQM2N1UHY3R1NWd3B3a2tNdkZMcWcxcW5jR2VBZG9tRjFlVVVOb0tWMlVpM01N?oc=5
+- タイトル: 【連載 2/4】世界が試し、マクニカが磨き上げた「組織を変える日本流製造業DXとは」〜分断・対立・不動を超え、DXをカルチャーにする仕組み〜 - macnica.co.jp
+  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE94TmZJNTNrZm14SHV4Q2RkbEZLQURsd2wxaldPUS1jSjBqY1FKREgwLTVwc0hUVHNTMjR6ajloa1BtVklreDRIamh1R2Nwa3hnd25PYWQzcDh2LXo2ZWw1ZW1sT0NQTWJS?oc=5
 
-- タイトル: 対話から生まれるデジタル変革 ― JR東海が挑む“文化を変えるDX” ｜ビジネスブログ - ソフトバンク
-  URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxNampPVjRFOGU5V2JCSzRCYjQ0UnJrTk1RaFJ0eXo1TzQ3MjlWYlBFU3lBQXotdnZkZUU0d2ZkSUhxeTBMQjdHNUkycTdmaVloaEpnN2tZenVaZTJ2OFh6VWZZMGRLTDRiZHhLaUI5VFUzenA4czBjX2JIaVd6cXFrcTF2WQ?oc=5
+- タイトル: IPAの「DX推進指標」に準拠したDX成熟度などの診断サービス、IIJが開始 - デジタルクロス
+  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MLTBLUnhBMnhGamJDZTg4NWFVUnhWZ1o1aVowR2Z5SGV5R2F6dDdxbDJHUVhBMHp6aXFNeGV6QzJUMDBrNTlTOHd2OFVod0wwd3dET0NOVzhfVlhEUGlJ?oc=5
 
 
 # Manusへの追加指示
