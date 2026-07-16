@@ -1,19 +1,19 @@
-# 本日の執筆テーマ: システム連携
+# 本日の執筆テーマ: RFP/選定基準
 
-- 生成日時 (JST): 2026-07-15 11:43:35
+- 生成日時 (JST): 2026-07-16 11:50:19
 
 ## 収集された最新トピック
-- タイトル: イグニション・ポイント、工場特化型のエンゲージメント向上プログラムを提供開始 - ニコニコニュース
-  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Bb0ZQRFZXN3U3R216azhPdzM4U1Z5Z1Y3cDVrVmdaUl82alBsdWNXYk1DQWFRaUdlQndBbmR3SUt3eWRpdHUzZXNsdHM2N3lOckEtd1dzMmwwcGx4RExGLV9NaWlyRlQ3?oc=5
+- タイトル: 『傍観者が育つ組織 主人公が育つ組織 自ら動き出す人たちが圧倒的に強い理由』新島泰久也(著)（ディスカヴァー・トゥエンティワン） - HRプロ
+  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTE03eXNqM3pNME5XeWtBc3BPYUg5VHV5MmJ4NDN5Q20xblVMZlhSWHlRZG5Xa2xhS1NaVWpMVXBiMGs0Uk9jZVcwR1NqNUFKUVJsVTdMUktvbW1BWjZKTGFRRQ?oc=5
 
-- タイトル: 従業員エンゲージメントは最低水準の20%に低下、AIが背景：ギャラップ社公表（オルタナ） - Yahoo!ニュース
-  URL: https://news.google.com/rss/articles/CBMif0FVX3lxTFBYV29uZlFObHdZYWhFZ0NiWUgzb3g3dEtGUmxVX3FtUTVTTDI2UllfNDJWSEFUd0hlM1pGNUg5RzZLaHUxRVhxMlhQT2ZNMlhqOWlPNnNMeDE2YVc4eHV6eWFxRXRadGtBNXhaVVA3ekN1U1NRZ0RkWHBEbFJBWlE?oc=5
+- タイトル: 従業員の声をAIで可視化、従業員エンゲージメントプラットフォーム「U-ZERO Engagement Suite」シードラウンド9.5億円調達 - BRIDGE（ブリッジ）
+  URL: https://news.google.com/rss/articles/CBMilgFBVV95cUxPYlJnTGNEMGlfcVV6OGhnQmIxWGphMUlLemNVOWxnYlZSS3JoQUFxMlBGUG42RUpyMDhocVRnTm54WHZsNVVucjd4TnU3bVhFM3c4Wi1tb3NVV0pWYnJRRHhhV1VIRVRCQ2ZBbk9SWU4wX3JGU2lITmxRa3BSU3gyQ29JdkZ2dGZpb0hmRzhWUEgxeWNyQXc?oc=5
 
-- タイトル: ビジネスの成長にはEX向上が不可欠に――みずほの挑戦から学ぶ (1/2) - MarkeZine
-  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE02R2ZGMzBZMUs0eWNidWUtcVZEdERfTWJMUzYyRGxBR2lWdnJib214d2ExdVpIclJicFBpRTBRU0NWeXF3ZmQxQXJlY1NpS1o0cHZr?oc=5
+- タイトル: 第一生命/北國銀行 登壇！【参加無料】2026年8月27日開催「次世代コンタクトセンターが創る金融CXの未来」 ❘ セミナーインフォ - ニコニコニュース
+  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTFBITC1ERFAzRkRBMXN6Vmk3dEFaREl1TGQ0LWhUN2xXeVp6Sk1rWU82MDlwUjM4LUwwNzRVT2dpWDdydS1tOGM4OFBHa3EwdzhYVlJyTm1ULUdSaVROLU42bFV3UXc5akIw?oc=5
 
-- タイトル: 栄養バランスも向上！環境負荷の少ないユーグレナ配合代替肉を肉の日（2月9日）よりオンラインにて販売開始 - 株式会社ユーグレナ
-  URL: https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZV0k2UTFONlRsVVNxYzVqWUJHaDBMNWdXMXBpMjFLa2phWEZGVmt6UE1VTGg1bjY2MkNUT1VIY1ZNdUhqQl9pZXlUOHV0U3hF?oc=5
+- タイトル: 「信頼」を業績向上につなげる。EX/CX投資で過去最高売上を達成した、トリドールの心的資本経営 - Biz/Zine
+  URL: https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GZTNYOE4wQU1BXzNZdzFIN3JoeExwdk4wSWNnRTJTLTlzT2tFUjFOelNhVzMtWlQyandBUUFPUXFURWtVa2VfV0hzOUVaNnJZ?oc=5
 
 - タイトル: 広報業務のDX化を推進し、「人」と向き合う時間を増やしたい（ULSコンサルティング・浦路万智氏） - AdverTimes.（アドタイ） by 宣伝会議
   URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE8taS00MC13M096SHFfQXQ0dVFCeFRqUTU1MzYxVWcxTHpzZG1HZ3FTX09FSHlaRmJrNU55dzdDaTVOei1sSUZKYTc2UXcyZWNZcWRQTDNNeFRJeEFILWgw?oc=5
@@ -21,11 +21,11 @@
 - タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
   URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
 
-- タイトル: 花王は現場主導と高速回転を軸にDXを推進する - DIAMOND ハーバード・ビジネス・レビュー
-  URL: https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tS19tRjVQbGczOEJBdGtpdWJ3TDR6OXRxRjE2YXBwNmZ0ejg4RTdZUFRJZXppZ0drZmZvX3p6SWk2eElqeTV6UHBMdnZsQS1jU0E?oc=5
+- タイトル: JR東海・総務が挑む「夕飯のおかずをもう一品作る」を目指すDX 生成AIで始めた働き方改革（1/2 ページ） - ITmedia
+  URL: https://news.google.com/rss/articles/CBMickFVX3lxTE9STk5ISGVWZFhZdU04VEFjNThSdU8xMVVWV1Bza1pDVWNFVThLSUl1SHBFZjEzalVPM2ZsbGVYMHd6RlJvS1BQdmhSQmZmZVE5ZTJTYVhTOXkySEQ2X2x5QUFySzRkOHdNMHNfVWFrNVpVdw?oc=5
 
-- タイトル: 第一工業製薬[4461]：経済産業省「DX認定事業者」の認定を更新 2026年4月22日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE4xZkJtN0otLV8zNkk4NkVJWEZwdXJzVEk2blpJX21LVjNjSFFFQUtkVlA0V2xZMnE2VzJZbGpLTWttOTlHdnFJV2ZKRkdkOE83TXR1ODdBc0dKejNDNDJrOGJlalJ1ZlQ5eUE?oc=5
+- タイトル: DXを停滞させる深刻な「組織風土」問題、3つの変化で土台から改革マインドを醸成 - 日経クロステック
+  URL: https://news.google.com/rss/articles/CBMibEFVX3lxTFBQUEp6VmVlQ3l6QzViMXdXcXhwX0d2OTdzM01qOWd3clZDYTFHWHQyb0EzTmg0VDRSY3cwazdOYTQtU0Z1YkZEeHA4dHhKVVpEUWwyRUYzSVdKN1NLSnAyWkpNQ0NyVzJIal8xbw?oc=5
 
 
 # Manusへの追加指示
