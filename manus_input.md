@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 経営戦略
+# 本日の執筆テーマ: 現場の運用課題
 
-- 生成日時 (JST): 2026-07-20 12:29:12
+- 生成日時 (JST): 2026-07-21 11:55:26
 
 ## 収集された最新トピック
-- タイトル: 従業員エンゲージメントの「7割はマネジャー次第」、ギャラップ社トップ研究員の結論 - Forbes JAPAN
-  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lMEVKZEU0S0ZHMFpFb2k4NmdKSHlnWDR6UGp2ekwyNDZicEdya0pfMG5BdTZWcTJNLVdsbm5iY1lrUWVIUmR2ckRMdE1jT2luRmVVZ0x3TFc?oc=5
+- タイトル: 『田子重さま』 ×『E² Compass』活用企業インタビュー現場力を支える“従業員エンゲージメント”とは——「自発性」と「納得感」をどう育むかが最重要 - kreo.jp
+  URL: https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uRXU5ZWRQbWF0SzJpMVYwZjNLbFl4aERtZk1xbHFreVpkQl9GeUFONlVWWG5hbTN4eHgzWWhNaHhFNHltbFVaVmdNR1FoZFFpT0E?oc=5
 
-- タイトル: 【速報！第2弾】2026年版第4回全国１万人従業員エンゲージメント調査 追加分析レポート ～「AI・人材投資」だけではエンゲージメントは上がらない？16業種のクラスター分析で見えた真の課題～ - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBOUVpiNDRQbF9ncV9lb2pRX2xyR1Fzd0dBX3VlZUJPeW1yaHdTYU9COXE4ZmRRdG5iOWI1RVlPLXRXZTEtUGxRa2ZtQnkyYk1KQk0wV2g1dUJfRzF4QThtUFBjQ05nbG9qd2c?oc=5
+- タイトル: 【5/26～28開催】エンファクトリー、「従業員エンゲージメント向上カンファレンス2026」に登壇。オトバンクと対談し、社内浸透と社外への越境から描く「関係性の質を高める"つながり"の設計」を紐解く。 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE51Y1R3TVlpT2FIMEc5dDBGeldvWkpSR0RqRm1BTHJXeDJRRjV4Z3kxd0F1OV92eWNlTWctSDJleWNtS3FWdDh3VFZodTV3enM2ZFFOc3BsQXVPVjl4RU93U2o1dDdtMkF4bGc?oc=5
 
-- タイトル: EXサーベイから見るエンプロイーエクスペリエンスを高めるための視点 - PwC
-  URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxNcmltQk1rRVY5YWFMR2xxU3ZEWWRiX0Z1bjl5SkpBZHF6Qzl5Qm5Scnhya3JmS0I2cVYxak8tVVpUN3ZzaEtsN0R4cFNFc2NERDcydDJoMElUZnZtWER0bFRLNFZMZ0J2YWdEZWtaZkM2V08tc1lWdklNbi1LRV9uTl9tekY2X2ZLcEwyTUtn?oc=5
+- タイトル: 生成AI時代 加速する小売業DX～競争力強化を実現するCX・EX向上戦略～ - ダイヤモンド・チェーンストアオンライン
+  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0YnZXZHlRU3pFN2hRdEwzU095dHRPT0M0U094MFA0UFp3SXA5dGFCd1h0Ql85TWJvd0hoQThpSEwzTVRuc2QtRy03UmhidFU?oc=5
 
-- タイトル: ホームデポとカインズから学ぶ CX・EX向上による小売業成長戦略 - ダイヤモンド・チェーンストアオンライン
-  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqZGtVQ3Q5Y01mVGFXbXJ5c1NlcFdQb2YtUTBoT0hMX0xUTk00ME15dGZFY24zSUtWN240NUxtdmNnSmRNSWhrUnVIOHJWdVE?oc=5
+- タイトル: CXとEXの向上を支援する品質管理基盤『ONE CONTACT Quality Management』を活用した高品質なコンタクトセンターBPOの開始について - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBRQXBjVDRSakVpQmxmNkF4dEI2NEJoV0Q1UXFFa3lwU2l1eXl5dlRBbEhuWURGNnk2UHBDMlRFLV9pZ0E3RVVsVXVVa3JQekRFVEl2Z25qb001aC1aeUNrSGZsWDBmZVdvUlE?oc=5
+
+- タイトル: 【無料セミナー】スタートアップがメディア露出で成功する秘訣とは（アスキー） - LINE NEWS
+  URL: https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LTUt4RDRQbVlmVnk1SmhMdHZ6bTliR1lEWHVpdXlfRDh4Y2hjcmxRcXA2NC1tOUkxZzM0YVgxLXhFQkNNVW8wSFBPM0VDaVFveER6WWVMVERQdV81OGc?oc=5
 
 - タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
   URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
 
-- タイトル: アジアNo1(*1)のPR会社が伝授する、“人事採用×広報PR” 戦略「採用戦略サミット2022 令和の新常識 produced byベクトル」開催 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9SYU1yRHFrU1pXZ3liazlTVHhJTFRybkFNZG5lYlZXaTNBeGI5MUlZXzhEbFRNbmVNbi1YRTluRzRabTk3a29nSklJTVNUdU5xSGh3ZDN1SWtjOTVfc3QwZjZJcW5sNldPelE?oc=5
+- タイトル: 「ありがとう」がDXを加速する 140年企業が実践する“感謝体質経営”とは（MONOist） - Yahoo!ニュース
+  URL: https://news.google.com/rss/articles/CBMif0FVX3lxTFBmb2lobEVFaFlPRUdYM3lqMGU2ZVdWZUpwSEpRWG8tZFpja0R3Z0VnZWI2aTlwYkRuNmFEdWVGT3dBZEQ4dXhkVEJTTXFKU1NTMHVuSURjV21IMmpldUJtSVp0N0tJZTNDSEJSUWNEOVdMS1A1dXc3UzZxSHlNSFE?oc=5
 
-- タイトル: 140年企業はAIをどう組織改革に生かしたのか、組織スピード4倍の舞台裏：カクイチの組織文化DX（前編）（1/3 ページ） - MONOist
-  URL: https://news.google.com/rss/articles/CBMib0FVX3lxTFBLaTlUWWZrTVhBR3BQS0NZMXdIczVpZ3ZmaDNGT2p1Q2M0M050dFl0dW5RaUZhNk5SQ0J1c1ZTbmNBUVE0bFBJMzhLOXNvdXZ6c20yU3p3OFJwWVpSaHVFcndHR0x0eHo2MlZCNzJ0QQ?oc=5
-
-- タイトル: 「DXを成功に導く組織のデジタルリテラシー」関連論文 DHBR2022年10月号 | 組織文化/組織開発 - DIAMOND ハーバード・ビジネス・レビュー
-  URL: https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uQVhWU09MMzFvR05CYS1zTHAtSHFtenNRUlpqR1dGSEVNMHFzOVc2Z3pWMjhJVlFsWmNPdWVFMEN6N0s2ekNFaUc3amJjTU1K?oc=5
+- タイトル: 「全社員をDX人材へ」 一橋大名誉教授・神岡太郎氏が持続的なDX推進のために組織文化の醸成が必要だと語るワケ - JBpress
+  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE94LWVjRWVnM2VBSFF4TGdFenR1clRXcjBBMTlfSTlVXzVDT3NTdEFQUkFFcVlEYzd2QmdWQTRIYjNsYXJhTGgtdkJPVTM0VUM4S3lBWjRn?oc=5
 
 
 # Manusへの追加指示
