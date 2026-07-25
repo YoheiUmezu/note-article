@@ -1,19 +1,19 @@
-# 本日の執筆テーマ: トレンド解説
+# 本日の執筆テーマ: キャリア
 
-- 生成日時 (JST): 2026-07-24 11:53:59
+- 生成日時 (JST): 2026-07-25 11:53:31
 
 ## 収集された最新トピック
+- タイトル: 従業員エンゲージメントサービス企業トップが掲げた「フィードバック経営」とは - ZDNET Japan
+  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IUFpaM2NTU3hJZFk3aDFlRlp1SmQ3M25HLUI4Q1pHU1ZjRjNTcDdkSUl1dVRtYTdXOVJHMWpSVElRZ3dQUUctOWRDUWxaazZDVU1R?oc=5
+
 - タイトル: 従業員エンゲージメントサービス企業トップが掲げた「フィードバック経営」とは - Yahoo!ニュース
-  URL: https://news.google.com/rss/articles/CBMif0FVX3lxTE5WWUQ5M1VHVGNrUlNPbDE1TDFxWFpaWFBpb3JXLXgzSGp1ZFloS05zdGpBdW9RLVplT2ZaRnc2MEJ5RF9wRURuQ0tBVFl4REY5SVdhb3Vvd1Fady1KQmYwd1VtS2gxLXpTS3J5bDhKbXU0dU8wM3BFRzdaWjZQdnc?oc=5
+  URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxPM1BVSUxmRDJxT3Y1WERyXzc5aGdwWl85cFRZWXhGNHFBR1FnS214YnRiNS1YTTMzNFRoRUUwemRycW56TmZrcUZpNE52SFRZYV9aeXpzcVBLckJCTXl4SHlvNG00cGJ1U1NpaFA1Nk1EX1ZuZjRuU09VU3FEanRxTXBMN1hoMXBoMGVWVEp3?oc=5
 
-- タイトル: 従業員エンゲージメント向上を支援する法人向け健康経営プログラム「BODY PALETTE」の提供を開始しました - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE04YnJGOHc2NzdMQUZRSDR0SWszb2tXZ05LTWE3eXBWbGNXWFlIMmFEMDBiWHJpc1RCWEt3c1I2dndaTnVyc3FYSmNJajUxTHdnNnE4RnJRbVpQN3dHSUp4b0FQYVFPUXNGbFE?oc=5
+- タイトル: NTTアドとNTT ExCパートナー、“顧客体験（CX）”と“従業員体験（EX）”向上に繋がるエンゲージメント最大化ソリューションの提供に向けた業務提携を開始 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1rVERsNldQdnRYcVlkbzFac25MVy1DR1cwOS03QVJBZlJtV281cWs3VEtSOXhMWTZJYmF6c1ltUlRhZXRPdmxFWnhJczA1RTVlM2ZZeG9GMEV3cWRvNjI3UmxiMEk2d3YtS0E?oc=5
 
-- タイトル: インテージ、「従業員の行動が、売上を動かす」をデータで証明・実装する新ソリューションを提供開始 - intage.co.jp
-  URL: https://news.google.com/rss/articles/CBMiS0FVX3lxTE1NOVJ1WFQ0dmZoTnBiQUhUcDBpUldkejJXcmNvLVdLN2ZmdUM3Q0ZXU1lGZHZiMTNWcXppcnc0ZWoxai1jWXctVmxMZw?oc=5
-
-- タイトル: CX／EX向上で顧客満足度を高める！ - NTT Data
-  URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE9ORlU2TTIwSjVaTXdmSTdwUGtxSHdJQWZRRmVGSVl0bUlCVHRnUWV2NFFiUjNPSjY3YzJjZDVFRWVGalBxdXdvYUU3U0h6ejAzOWhFYjhvWjBqMU51amZFWDZfUkFEZ3YtRDY0bw?oc=5
+- タイトル: ニューノーマルの人財マネジメント――EXの向上とジョブ型マネジメントへの移行を支える仕組みとは (1/4) - HRzine
+  URL: https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DY3NTcU5hWUEwbDZ4akJKSTgtQ1AxM3hQcmR6Z1RUaXFxZ2trRUdmek15cXhsb2g1QTNyUGFXWVJVMS12NmxNY042d0U4Zw?oc=5
 
 - タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - sendenkaigi.com
   URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
@@ -21,11 +21,11 @@
 - タイトル: アジアNo1(*1)のPR会社が伝授する、“人事採用×広報PR” 戦略「採用戦略サミット2022 令和の新常識 produced byベクトル」開催 - PR TIMES
   URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9SYU1yRHFrU1pXZ3liazlTVHhJTFRybkFNZG5lYlZXaTNBeGI5MUlZXzhEbFRNbmVNbi1YRTluRzRabTk3a29nSklJTVNUdU5xSGh3ZDN1SWtjOTVfc3QwZjZJcW5sNldPelE?oc=5
 
-- タイトル: 【連載 4/4】世界が試し、マクニカが磨き上げた「組織を変える日本流製造業DXとは」〜今がラストチャンス。ゲームチェンジが起こる製造業DXで、日本が世界に返り咲くその日まで〜 - macnica.co.jp
-  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ibS1Ma05QWEZLTWJjYVVlV0ZRRmsyQ0lMZm82c25CM21nUUxNVExyWHFzdzVrclk5clJqTE5vOWFHakpzN1VFTjk0QUJzM2RaNURqdkl0TnNSNGtXM1JPTFlJUUNITW1D?oc=5
+- タイトル: 【連載】人と組織の治療家養成講座 その74 HR-DXとHRテクノロジー（三城雄児） - エキスパート - Yahoo!ニュース
+  URL: https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWXVULWFzMGlZSXNOYmhqY1RMQ00tSTlOMDFZOGpHbFFfTlJRQTVBUFZUYjJDTWF4ZDdldHdpTC1xdXBhVHZxOWlrMVdWMkdYS1pZM19tZnRGWjg0WUhocTg4c25XUDZJZ3Y5dnY1MUF3UkpJLS1NWk5Vd0hxRDZVblFFVHdqdFpO?oc=5
 
-- タイトル: DX実現に欠かせない「組織のデジタルリテラシー」を高める方法 - DIAMOND ハーバード・ビジネス・レビュー
-  URL: https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiWFM1UzVFRXotd2JaU25YeE8xMUxuckNnUW5jeW4wenBqaVdIeG5Idm5mT0RQSmxuQUJodjNRS0liRWJ1XzdBcER0RU4zaG1N?oc=5
+- タイトル: 大企業社員500人への独自調査で浮き彫り DXはなぜ人ごとか？ - 日経ビジネス電子版
+  URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkdngwVG1iWFYwZ0xWN0E3WkRjdHJJMTctei1XX3gtejNWUFdJa3h6cGpUc1JTTXpmSzJkVzRDMTlSdGU3OHZsblJ6c1RXYTF4TDdMT3BuN3BXRW9zZXlpbUktWWljVTA?oc=5
 
 
 # Manusへの追加指示
