@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: システム連携
+# 本日の執筆テーマ: RFP/選定基準
 
-- 生成日時 (JST): 2026-07-29 11:52:59
+- 生成日時 (JST): 2026-07-30 11:37:57
 
 ## 収集された最新トピック
-- タイトル: 健康経営を従業員エンゲージメント向上へ、健康状態の可視化と運動施策を組み合わせた法人向け支援を開始 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBvRDdjS3NSZTVSRHNGYzBJM2xvRXBfSzRLemhXcjdJSEpUTk9QRW1aNFJyd3VfVkZGS0VPejdpNmdLOGlFUjZrcVM2dHlrbWhyVlM1NVVjcVRuR0Rvbk5iSXVTVUlVd1JJdFE?oc=5
+- タイトル: 健康状態の可視化で従業員エンゲージメントを支援、不調傾向の把握から健康施策の改善へ - ニコニコニュース
+  URL: https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMSVR4eExWQ3FYWENTdmlSSWU2NWpMNXpoOENMeWpndDlQSC1IWF9FVlhaZnY5QVhZZVhGRnJYR3E2VHctOEwwWmY2WEdGdV9JU3NnTw?oc=5
 
-- タイトル: 従業員エンゲージメントサービス企業トップが掲げた「フィードバック経営」とは (ZDNET Japan) - newspicks.com
-  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hS3JNOFBaSkNoVzQzSXZPRFpWVlVfRGJGblVJT3Q0R1VhSVEyQnpvMmJuUnE1cmU4alprTUdVZWJ0S1VYb0lTQ3RKazdrZGtQNFVYSm82VFM?oc=5
+- タイトル: 『図解でわかる！ 社員エンゲージメントを高める7つの方法』山田 博之(著)（ディスカヴァー・トゥエンティワン） - HRプロ
+  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kZFJlTUxpUEdTZlRYUnBBZWhVbkxvR09NcXVBRzR6UWNONGhIMEZ4cWNILTdmQXdtRzh6ZmQ5QnVVRUtsSEVRTmxXM2dncGxTNTg3RmRnMlp1WndMbDNTSA?oc=5
 
-- タイトル: CX・EX向上推進のエクレクト、デジタルコンテンツ企画・制作などのゆるりとを買収 - marr.jp
-  URL: https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Wd2dJSndkQjVuVmF1QzFlYnJpXzdodzVaSUF4aXRuYVE1NHM2VmRCWTFoaERKcFZLUTBwVjRiaFRZT094cG80aUVBX1FpcGFjOWpWR0NnRzVscFQt?oc=5
+- タイトル: HRBrain、新機能「重要度分析」をリリース。決定木分析でEX向上に繋がる「影響要因」を可視化 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1EeXQ3RGUxMk14NU1YeDJ0VGd2azZ5X3pTTnZ5a1ZhVkFuY2llY0VpakhvRUlFWE9sdFhGYUl6ZndNbHBYa2RHc0xrRGZ3c0I0MWYxUGFjOHFESF91dnRxLUgtV2NxdXZNWEE?oc=5
 
-- タイトル: 全国行脚で社員の悩みに寄り添うマイナビ流IT×EX向上術 ボトムアップで“デジタル成功体験”を広げる - EnterpriseZine
-  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE84Z2JyRVlrYmJoT1RMUWxYczhPQ3o2OXR2Yjh6ZFJ0RGlONkFld1ZZd3lsTC1YUWpEQUFqTndzeWVEdGlRU0JkMDJhUWFJaGNJWl9HTnQtV0lOQQ?oc=5
-
-- タイトル: オンライン広報サービス「PRONE（プロネ）」が「note」公式アカウントを開設、広報ノウハウや最新トレンドを発信 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBHVlNnSE5LOGhTSnBwRm5UM3dIZ0NYMEJqVVB0WHFhcXdCcERxNWtkWjZsM215Ny1tOVpPN2ptb2xVdTktelFSdDhtUF8yMDh4SzV3R0pFREFINEVmNnJGNEowa2g0T3BNa0E?oc=5
+- タイトル: 最新調査結果でわかった、従業員エンゲージメント向上に必要な「従業員エクスペリエンス」の４つのポイント - HRプロ
+  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLN21qOENtNndJVG5lNlJrMmtwNTF4Sk83MU5FQWt5QkdsZm85MWNldzRSVzJzSmF1MS1hN2JzUEd6UGo1ZXZpNS1NSEM1WWJKMmUtVjhIbHZURk5TLVRaQQ?oc=5
 
 - タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
   URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
 
-- タイトル: 場所を選ばない働き方で、住民のもとへ赴く自治体に。 - ジチタイワークスWEB
-  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Ha2Y4a1Y4aE9pLUwzWUdEZlFGWDNYWjNVLW5yZDFXMmRadVpYMWUteFFSaTZmN2RHQW1vcEdreXBOQ3pEaHluT2ZiMFo?oc=5
+- タイトル: “マイナビだからできる”採用広報とは？ 「プラスト」企画責任者にインタビュー - サポネット
+  URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxQMTRpX3h3QkJVWmxaWDAyTkRGX0M5TXV5ZlFXd3g1LXQ5czRzOUZVeEJuNENzaWJWaUU2NTV4M0Z1WDZnQ2ZySVJjN0VLYU1yN21PeEtBNmlxVU5aWEhIakFsUndBdHd1V181YkJIUlpxb0xnX181d25Rb2V5MHd2clAxSQ?oc=5
 
-- タイトル: 【連載 4/4】世界が試し、マクニカが磨き上げた「組織を変える日本流製造業DXとは」〜今がラストチャンス。ゲームチェンジが起こる製造業DXで、日本が世界に返り咲くその日まで〜 - macnica.co.jp
-  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ibS1Ma05QWEZLTWJjYVVlV0ZRRmsyQ0lMZm82c25CM21nUUxNVExyWHFzdzVrclk5clJqTE5vOWFHakpzN1VFTjk0QUJzM2RaNURqdkl0TnNSNGtXM1JPTFlJUUNITW1D?oc=5
+- タイトル: 「文化の違い」をどう乗り越えるか？ 経営統合したアイシンが注力する「工場スタッフ向けDX教育」の進め方 - JBpress
+  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxdE9hUUFjWmhBUkRFeWlTWFNoSmtSSzJPYVM1YmNfSklfZ050Q2kwU0lEZEZrdXhMSkQtek5Ka3VXUjJLYW9Id3F0VGhGa0RTTmZIVkNB?oc=5
+
+- タイトル: DXに必要なカルチャーとマインドのシフト、「正しい違和感」を強制的に持たせよ - 日経クロステック
+  URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE1IQ3lObm1VdmFPU1lTNVhscWtkTlA4U3NxWl9vR2QxLVlyS0ZIbzhJblFhM19Xb3FwVkd5S3VOa1JfTmxmdDBsYUZyVDlzcWhvbEZYYUZzYllHUGpWZzlKa1dPak81c2paX0tvWg?oc=5
 
 
 # Manusへの追加指示
