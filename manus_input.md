@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: RFP/選定基準
+# 本日の執筆テーマ: トレンド解説
 
-- 生成日時 (JST): 2026-07-30 11:37:57
+- 生成日時 (JST): 2026-07-31 12:19:08
 
 ## 収集された最新トピック
-- タイトル: 健康状態の可視化で従業員エンゲージメントを支援、不調傾向の把握から健康施策の改善へ - ニコニコニュース
-  URL: https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMSVR4eExWQ3FYWENTdmlSSWU2NWpMNXpoOENMeWpndDlQSC1IWF9FVlhaZnY5QVhZZVhGRnJYR3E2VHctOEwwWmY2WEdGdV9JU3NnTw?oc=5
+- タイトル: 従業員エンゲージメント市場における世界トップ20企業 - Spherical Insights
+  URL: https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaEJfRUx1MzMtREpIMU8zQjRrMWh5SnZHdHRxSHNwd1E3SEhCalphWHY1U05mb3ZFVkFhMjB0THMyN1dtMTJGYVRaSWJFbG9WRWpPMjNPQU1yMlczNlBxOFNmbVVCQVpiTmFfTkdSRVlMbmo0cXJxUjVKTFo1N0Z6cENQWkNhODBqbG02X3dRNUlBcDVyZEZvZDctMGp2TW9nUUpEMVZ0R2pGQ1N3Tl96Z2hlQW9mUGtKRkpZTWgwYURJQkVQanIyLWswczgyUHNZTGp2QVJYNEhnOGtjUDc4c3lGQ2djaXdXOHVUZ1ZlTDF4TktLYXc?oc=5
 
 - タイトル: 『図解でわかる！ 社員エンゲージメントを高める7つの方法』山田 博之(著)（ディスカヴァー・トゥエンティワン） - HRプロ
   URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kZFJlTUxpUEdTZlRYUnBBZWhVbkxvR09NcXVBRzR6UWNONGhIMEZ4cWNILTdmQXdtRzh6ZmQ5QnVVRUtsSEVRTmxXM2dncGxTNTg3RmRnMlp1WndMbDNTSA?oc=5
 
-- タイトル: HRBrain、新機能「重要度分析」をリリース。決定木分析でEX向上に繋がる「影響要因」を可視化 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1EeXQ3RGUxMk14NU1YeDJ0VGd2azZ5X3pTTnZ5a1ZhVkFuY2llY0VpakhvRUlFWE9sdFhGYUl6ZndNbHBYa2RHc0xrRGZ3c0I0MWYxUGFjOHFESF91dnRxLUgtV2NxdXZNWEE?oc=5
+- タイトル: 第一生命/北國銀行 登壇！【参加無料】2026年8月27日開催「次世代コンタクトセンターが創る金融CXの未来」 ❘ セミナーインフォ - イザ！
+  URL: https://news.google.com/rss/articles/CBMiekFVX3lxTE9IZ3p3N0JaSGlWQW1wbktnSjdRdjh3TUZWLTNIQ2pKbFBYT3NLbS1RUjZFTjBaWDNhWko4UHUzUXV5bVlBVGsxQlBmZWF1MEUzNlVBVkkwWWZmaUtHMmdLcGJWdHVCalgtTlBuZVlEWjdpeElzSVhEaHVB?oc=5
 
-- タイトル: 最新調査結果でわかった、従業員エンゲージメント向上に必要な「従業員エクスペリエンス」の４つのポイント - HRプロ
-  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLN21qOENtNndJVG5lNlJrMmtwNTF4Sk83MU5FQWt5QkdsZm85MWNldzRSVzJzSmF1MS1hN2JzUEd6UGo1ZXZpNS1NSEM1WWJKMmUtVjhIbHZURk5TLVRaQQ?oc=5
+- タイトル: PwCコンサルティング×HR総研：エンプロイーエクスペリエンスサーベイ2021 速報版従業員エンゲージメントを高めるための鍵となる従業員体験（エンプロイーエクスペリエンス） - HRプロ
+  URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yWUJuYXR4d1BuNG1MUF9hNWVwOHFpOXNocU5ITHJQaU5Cc3J4ZzBOb052REpwaUdjd3dIUXo1U1N1U2tXeU0ySjRrNm1VVVh5UExodlRsbmJCZTJjWEFsR2dR?oc=5
 
 - タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
   URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
 
-- タイトル: “マイナビだからできる”採用広報とは？ 「プラスト」企画責任者にインタビュー - サポネット
-  URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxQMTRpX3h3QkJVWmxaWDAyTkRGX0M5TXV5ZlFXd3g1LXQ5czRzOUZVeEJuNENzaWJWaUU2NTV4M0Z1WDZnQ2ZySVJjN0VLYU1yN21PeEtBNmlxVU5aWEhIakFsUndBdHd1V181YkJIUlpxb0xnX181d25Rb2V5MHd2clAxSQ?oc=5
+- タイトル: アジアNo1(*1)のPR会社が伝授する、“人事採用×広報PR” 戦略「採用戦略サミット2022 令和の新常識 produced byベクトル」開催 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9SYU1yRHFrU1pXZ3liazlTVHhJTFRybkFNZG5lYlZXaTNBeGI5MUlZXzhEbFRNbmVNbi1YRTluRzRabTk3a29nSklJTVNUdU5xSGh3ZDN1SWtjOTVfc3QwZjZJcW5sNldPelE?oc=5
 
-- タイトル: 「文化の違い」をどう乗り越えるか？ 経営統合したアイシンが注力する「工場スタッフ向けDX教育」の進め方 - JBpress
-  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxdE9hUUFjWmhBUkRFeWlTWFNoSmtSSzJPYVM1YmNfSklfZ050Q2kwU0lEZEZrdXhMSkQtek5Ka3VXUjJLYW9Id3F0VGhGa0RTTmZIVkNB?oc=5
+- タイトル: 対話から生まれるデジタル変革 ― JR東海が挑む“文化を変えるDX” ｜ビジネスブログ - ソフトバンク
+  URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxNampPVjRFOGU5V2JCSzRCYjQ0UnJrTk1RaFJ0eXo1TzQ3MjlWYlBFU3lBQXotdnZkZUU0d2ZkSUhxeTBMQjdHNUkycTdmaVloaEpnN2tZenVaZTJ2OFh6VWZZMGRLTDRiZHhLaUI5VFUzenA4czBjX2JIaVd6cXFrcTF2WQ?oc=5
 
-- タイトル: DXに必要なカルチャーとマインドのシフト、「正しい違和感」を強制的に持たせよ - 日経クロステック
-  URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE1IQ3lObm1VdmFPU1lTNVhscWtkTlA4U3NxWl9vR2QxLVlyS0ZIbzhJblFhM19Xb3FwVkd5S3VOa1JfTmxmdDBsYUZyVDlzcWhvbEZYYUZzYllHUGpWZzlKa1dPak81c2paX0tvWg?oc=5
+- タイトル: 「組織文化が最重要」全社的マーケティング改革に取り組むパナソニック コネクトの狙い - JBpress
+  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZLVZTQTJWNk1tNzhWVEdpODlwZXRETlhkVFRwcDBwaUVURlFZcDhxbm11R1NfNDlOT3ZUNWlJaVdSNERUaGpMSUZrUFFKblZ3Y1BmQzNR?oc=5
 
 
 # Manusへの追加指示
