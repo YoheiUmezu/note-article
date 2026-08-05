@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 現場の運用課題
+# 本日の執筆テーマ: システム連携
 
-- 生成日時 (JST): 2026-08-04 11:48:41
+- 生成日時 (JST): 2026-08-05 11:46:01
 
 ## 収集された最新トピック
-- タイトル: なぜ企業は従業員に「ギフト」を贈るのか 単なる記念品に終わらない、エンゲージメント向上の新たなカギへ - Page 2 - AdverTimes.（アドタイ） by 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FZG9uSVhvUEFnUkswN3JNNFVMNGpHa09BZWVqZ1RuWWhLdXdBUVROMG1PVXpSeFpnOHUxTHAtcEhES2VBYVUzRnpfdmR5M3pIM1NUMUotWV8yNlBlM2lGLUtR?oc=5
+- タイトル: 生成AIを活用した管理職向け従業員エンゲージメント改善支援アプリを開発・本格導入 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE4wUm1Oc2RmYnNLamVxR1dHWXRIUjJRY0JXQWZMRHRWM1UzZHNjYXRxMkNDclBRTnRqWERyZ3RZOG5ueEF4LTViTF82eVQxUU4wWlRXbjItQ0hJTnphTkgtYjNJakJTblRxRFE?oc=5
 
-- タイトル: U-ZERO、従業員エンゲージメント改革の実践知が集う国内最大級のイベント「U-ZERO DAY 2026」を7月15日開催 - prtimes.jp
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9Oek5wNmNNVmpLZktjdjBLYnh6R3pSMzE3c0hKaVR0SDJTeDBrSUVMS0lEdFp5eTZsOG1vTEF1NU5HWTBKT2tfa0ZMeWJpbmJJVFFXZUxYempfR1B6bUtya21oaHVXT0tiWWc?oc=5
+- タイトル: プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル - sannichi.co.jp
+  URL: https://news.google.com/rss/articles/CBMiY0FVX3lxTE83TnBGcjE0em1vdHFsN2hyYThLVnhjME1Tdk5Pd2tZbm12ckNsU2hIcDB0dlFEUzlLUVAyYUlZUnZTcGpZTWdfUUMtN1hMMzdSZ05weEhRQXdCT2puNElkTDVnSQ?oc=5
 
-- タイトル: 第一生命/北國銀行 登壇！【参加無料】2026年8月27日開催「次世代コンタクトセンターが創る金融CXの未来」 ❘ セミナーインフォ - イザ！
-  URL: https://news.google.com/rss/articles/CBMiekFVX3lxTE9IZ3p3N0JaSGlWQW1wbktnSjdRdjh3TUZWLTNIQ2pKbFBYT3NLbS1RUjZFTjBaWDNhWko4UHUzUXV5bVlBVGsxQlBmZWF1MEUzNlVBVkkwWWZmaUtHMmdLcGJWdHVCalgtTlBuZVlEWjdpeElzSVhEaHVB?oc=5
+- タイトル: 118360 | 博報堂 Hakuhodo Inc. - hakuhodo.co.jp
+  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE85b3FWb2hMOEgxMHRwWk54ZXBqWkJnVXRraVVuNG5fS3VNX0licVJrUC1kMXlNeUQ4NGdTcmZkOTVodEphQ1VoVFFOblk1NUkzLW1PVDN3?oc=5
 
-- タイトル: 生成AI時代 加速する小売業DX～競争力強化を実現するCX・EX向上戦略～ - ダイヤモンド・チェーンストアオンライン
-  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0YnZXZHlRU3pFN2hRdEwzU095dHRPT0M0U094MFA0UFp3SXA5dGFCd1h0Ql85TWJvd0hoQThpSEwzTVRuc2QtRy03UmhidFU?oc=5
-
-- タイトル: 事例発信で目標突破、実績情報で信頼獲得目指す---テラスカイ田中氏（前） - 日経クロステック Active
-  URL: https://news.google.com/rss/articles/CBMid0FVX3lxTFA5R3N0RFdSXy1yTjU5STFMeFY2UzA0aVZGMDBscGYwajl6RHpsYnRsNkZlMGI1Rkk0M0t3Ny11cXFGQVBpNm5SMHBqTE56UExDQk9MU2Q3RUgxMTh0M2JTMUhwd3prRTZLb0xZaG51bS1qYTNzejFn?oc=5
+- タイトル: 企業成長を支える“人的資本経営”。特別ゲスト3名とトップコンサルタントが最新動向・人事の仕掛け・EX向上への取り組みなどについて講演！人事戦略フォーラム～人的資本経営でこれからの企業成長を支える～ - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1DNFNXSHhxYlVkckNGVVl5aEhxSklIVG5HdnZzT01hMlRiSmFYMVBVeVBiMkZWdk1ZSlZ1aGdFcmVJZXFYdFI3UW5ZQnFzYlYzTTBTeG5QaktwMUZudlBxSnUxQkhtWFVjSlE?oc=5
 
 - タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
   URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
 
-- タイトル: 「テキスト文化」が組織の生産性をむしばんでいる──“伝わらない”損失を利益に変える、経営戦略としての「動画DX」 - ダイヤモンド・オンライン
-  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE5meTU4NHNlOFl3ZnMxcVpQb3FUZ1JfYmZJbHNVb0hvd2daMUUxUlh3OWtBYjlLZ202REY4Q2NJU3NucGJEdDVNR2R3Wks?oc=5
+- タイトル: アジアNo1(*1)のPR会社が伝授する、“人事採用×広報PR” 戦略「採用戦略サミット2022 令和の新常識 produced byベクトル」開催 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9SYU1yRHFrU1pXZ3liazlTVHhJTFRybkFNZG5lYlZXaTNBeGI5MUlZXzhEbFRNbmVNbi1YRTluRzRabTk3a29nSklJTVNUdU5xSGh3ZDN1SWtjOTVfc3QwZjZJcW5sNldPelE?oc=5
 
-- タイトル: 3代目社長がコロナ禍で見出したDXという活路 長崎の教習所はどのようにしてIT企業へと変貌を遂げたのか - クラウドサイン
-  URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE15SGtpLWtwYzRsZkdXU1dvdWVHU3hPYWhMLVFQZVFGMHVyeldqWnk3TmlJVFpQNjBiVWw1cWdpNmdKQXg1VnJLX2tTX0tkNWphNU9xMHZhclVIYV9Nb0t0TnVEcFo?oc=5
+- タイトル: 組織体制を変革してDXを強力に推進。フロンティアに踏み出したスギ薬局の挑戦 - DIAMOND ハーバード・ビジネス・レビュー
+  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE15eG5FOW15dUFtd2FxM3hCUXpmSTBCRUhjVjE5aFg5R0VBYkltOGxURHo4Um9uVEw5NF9RYUxOeVEzYUxpWXpaY0FqTkdLRENxelFPQllQRjVobE0?oc=5
+
+- タイトル: 【連載 1/4】世界が試し、マクニカが磨き上げた「組織を変える日本流製造業DXとは」〜12年の試行錯誤から見えた製造業DXの律速〜 - スマートマニュファクチャリング - macnica.co.jp
+  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CVlo4eVZoMXhGaGxHN1B2RVBxYm9NNkdZYVZaMkRsaFFVVzl3bkU0MVBWRzZUODNqMDhTU1Utejl1azg1RU5jdVRaQ1UxUV9pOEVQQkhSRXVJTnhiLVBWTWtXNlk5dF9I?oc=5
 
 
 # Manusへの追加指示
