@@ -1,19 +1,19 @@
-# 本日の執筆テーマ: システム連携
+# 本日の執筆テーマ: RFP/選定基準
 
-- 生成日時 (JST): 2026-08-05 11:46:01
+- 生成日時 (JST): 2026-08-06 11:48:43
 
 ## 収集された最新トピック
-- タイトル: 生成AIを活用した管理職向け従業員エンゲージメント改善支援アプリを開発・本格導入 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE4wUm1Oc2RmYnNLamVxR1dHWXRIUjJRY0JXQWZMRHRWM1UzZHNjYXRxMkNDclBRTnRqWERyZ3RZOG5ueEF4LTViTF82eVQxUU4wWlRXbjItQ0hJTnphTkgtYjNJakJTblRxRFE?oc=5
+- タイトル: 生成AIを活用した管理職向け従業員エンゲージメント改善支援アプリを自社開発—レゾナック - HRzine
+  URL: https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YaDdyNmZ6ZnhFWHdVWEE0U2dOMU9mUWRKc0NyRG04Z1FDY1NOMGNFNUdBMG51SGtGd0pNbjZ2bERPSUdfckZxRUh5YVBzdw?oc=5
 
-- タイトル: プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル - sannichi.co.jp
-  URL: https://news.google.com/rss/articles/CBMiY0FVX3lxTE83TnBGcjE0em1vdHFsN2hyYThLVnhjME1Tdk5Pd2tZbm12ckNsU2hIcDB0dlFEUzlLUVAyYUlZUnZTcGpZTWdfUUMtN1hMMzdSZ05weEhRQXdCT2puNElkTDVnSQ?oc=5
+- タイトル: 徳島県の「令和8年度職員のエンゲージメント向上に関する調査・改善支援等業務」を受託 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1ESE1NM2N3V3owYTlxemtudndtb1pYaVc0dWlyX091SWZjYWtsYWQ3Z2hCZmxVamtPb3RFcUVuY2JNbHhOa0Rwd1NKTXVTaDcydEFPN1c3dUVYeTJzN0l5VEt5YzBrVmRqM2c?oc=5
 
-- タイトル: 118360 | 博報堂 Hakuhodo Inc. - hakuhodo.co.jp
-  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE85b3FWb2hMOEgxMHRwWk54ZXBqWkJnVXRraVVuNG5fS3VNX0licVJrUC1kMXlNeUQ4NGdTcmZkOTVodEphQ1VoVFFOblk1NUkzLW1PVDN3?oc=5
+- タイトル: HRBrain、新機能「重要度分析」をリリース。決定木分析でEX向上に繋がる「影響要因」を可視化 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1EeXQ3RGUxMk14NU1YeDJ0VGd2azZ5X3pTTnZ5a1ZhVkFuY2llY0VpakhvRUlFWE9sdFhGYUl6ZndNbHBYa2RHc0xrRGZ3c0I0MWYxUGFjOHFESF91dnRxLUgtV2NxdXZNWEE?oc=5
 
-- タイトル: 企業成長を支える“人的資本経営”。特別ゲスト3名とトップコンサルタントが最新動向・人事の仕掛け・EX向上への取り組みなどについて講演！人事戦略フォーラム～人的資本経営でこれからの企業成長を支える～ - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1DNFNXSHhxYlVkckNGVVl5aEhxSklIVG5HdnZzT01hMlRiSmFYMVBVeVBiMkZWdk1ZSlZ1aGdFcmVJZXFYdFI3UW5ZQnFzYlYzTTBTeG5QaktwMUZudlBxSnUxQkhtWFVjSlE?oc=5
+- タイトル: 【会場案内図 公開！】いよいよ来週 開催！ 健康経営、福利厚生、EX向上のための展示会『ウェルビーイング EXPO』 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1mZmIyV1M0Q1FQVDBYMWxrYzhUaTk1RnF6Szh2cERzWENOZmJWRURYMENIZV9neGNRUFE3ME9lNkwzYlVpTmV4LUQ3SUozNzZSN1VBNHJ5MXdOb3o1cFYtY2xzY1NDcTNsbHc?oc=5
 
 - タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
   URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
@@ -21,11 +21,11 @@
 - タイトル: アジアNo1(*1)のPR会社が伝授する、“人事採用×広報PR” 戦略「採用戦略サミット2022 令和の新常識 produced byベクトル」開催 - PR TIMES
   URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9SYU1yRHFrU1pXZ3liazlTVHhJTFRybkFNZG5lYlZXaTNBeGI5MUlZXzhEbFRNbmVNbi1YRTluRzRabTk3a29nSklJTVNUdU5xSGh3ZDN1SWtjOTVfc3QwZjZJcW5sNldPelE?oc=5
 
-- タイトル: 組織体制を変革してDXを強力に推進。フロンティアに踏み出したスギ薬局の挑戦 - DIAMOND ハーバード・ビジネス・レビュー
-  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE15eG5FOW15dUFtd2FxM3hCUXpmSTBCRUhjVjE5aFg5R0VBYkltOGxURHo4Um9uVEw5NF9RYUxOeVEzYUxpWXpaY0FqTkdLRENxelFPQllQRjVobE0?oc=5
+- タイトル: DX推進で企業文化に亀裂が生じるワケ - Forbes JAPAN
+  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wRlUtczg3dnFpNVIzS1ZqWmhlX0k5Y0tsQlZaZ0dxeW94ODh1YkZPcGhlY3hmRmxxRjE5aVhGeHVNYXA4YlF2VGhYYkF2ZlJFQm5jRDlUWnM?oc=5
 
-- タイトル: 【連載 1/4】世界が試し、マクニカが磨き上げた「組織を変える日本流製造業DXとは」〜12年の試行錯誤から見えた製造業DXの律速〜 - スマートマニュファクチャリング - macnica.co.jp
-  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CVlo4eVZoMXhGaGxHN1B2RVBxYm9NNkdZYVZaMkRsaFFVVzl3bkU0MVBWRzZUODNqMDhTU1Utejl1azg1RU5jdVRaQ1UxUV9pOEVQQkhSRXVJTnhiLVBWTWtXNlk5dF9I?oc=5
+- タイトル: 140年企業はAIをどう組織改革に生かしたのか、組織スピード4倍の舞台裏：カクイチの組織文化DX（前編）（2/3 ページ） - MONOist
+  URL: https://news.google.com/rss/articles/CBMickFVX3lxTFBURVNlb0tpY1VSUDJsS3dsSkFoS1lYRGhmY29Ga1JQVDFSTW1hQVpDY0swWUNQb3JhOGV1VEJVNF9lYkZNMEhjd3daeFFWMGtNZWhtVVVQdDRTODI3VWtmMXNpaHpOaGJ2YUVhME82N0FDdw?oc=5
 
 
 # Manusへの追加指示
