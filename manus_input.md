@@ -1,19 +1,19 @@
-# 本日の執筆テーマ: RFP/選定基準
+# 本日の執筆テーマ: トレンド解説
 
-- 生成日時 (JST): 2026-08-06 11:48:43
+- 生成日時 (JST): 2026-08-07 11:47:59
 
 ## 収集された最新トピック
-- タイトル: 生成AIを活用した管理職向け従業員エンゲージメント改善支援アプリを自社開発—レゾナック - HRzine
-  URL: https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YaDdyNmZ6ZnhFWHdVWEE0U2dOMU9mUWRKc0NyRG04Z1FDY1NOMGNFNUdBMG51SGtGd0pNbjZ2bERPSUdfckZxRUh5YVBzdw?oc=5
+- タイトル: 従業員エンゲージメントと業績や投資指標の関係性に関する調査結果（2025年データ分析）を公開 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9JcHk5VWZIN29FcHZRTlNrMVlRcGZfc3FNZmlzSWxrcXpJVDgtWlNUZjc2NTlTQTBWVXhpVGx3cUJDa2J4NGV5b1FBQlc2eXhYXzRaa0lZSnpYRENPOTBXVjBzRm1BWVNKYWc?oc=5
 
-- タイトル: 徳島県の「令和8年度職員のエンゲージメント向上に関する調査・改善支援等業務」を受託 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1ESE1NM2N3V3owYTlxemtudndtb1pYaVc0dWlyX091SWZjYWtsYWQ3Z2hCZmxVamtPb3RFcUVuY2JNbHhOa0Rwd1NKTXVTaDcydEFPN1c3dUVYeTJzN0l5VEt5YzBrVmRqM2c?oc=5
+- タイトル: 「従業員エンゲージメント」の測り方を見直すべき時 - Forbes JAPAN
+  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tc0djdDNHSHh6cVROWnhwQWpBSklMOUd6VGNuOUlJZ3NFazYwX3NIWXlIRVdEOG9iZ1dtWXdqU2szT25XWjFhX3UyTUl2dlFDT3BxNS1lVHh1Zw?oc=5
 
-- タイトル: HRBrain、新機能「重要度分析」をリリース。決定木分析でEX向上に繋がる「影響要因」を可視化 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1EeXQ3RGUxMk14NU1YeDJ0VGd2azZ5X3pTTnZ5a1ZhVkFuY2llY0VpakhvRUlFWE9sdFhGYUl6ZndNbHBYa2RHc0xrRGZ3c0I0MWYxUGFjOHFESF91dnRxLUgtV2NxdXZNWEE?oc=5
+- タイトル: MSI、新型ポータブルゲーミングPC「Claw 8 EX AI+」発表！ グラフィックス性能が大幅向上 - GAME Watch
+  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE00SkdXaEpKRmZzUTRCd09hZ1luQWcwenFCMWU4TjRpY3d0WktGMzFGVmFtbEhLeERSMWx2c1BkdGVrb0ZBMkdqNWw4MjVBUnpCc0gzU1UwS0JrZnBMbE1xdXlmQnNpUQ?oc=5
 
-- タイトル: 【会場案内図 公開！】いよいよ来週 開催！ 健康経営、福利厚生、EX向上のための展示会『ウェルビーイング EXPO』 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1mZmIyV1M0Q1FQVDBYMWxrYzhUaTk1RnF6Szh2cERzWENOZmJWRURYMENIZV9neGNRUFE3ME9lNkwzYlVpTmV4LUQ3SUozNzZSN1VBNHJ5MXdOb3o1cFYtY2xzY1NDcTNsbHc?oc=5
+- タイトル: これからはデータ活用でCXとEXを向上し、DXにつなげることが重要 - ITmedia エグゼクティブ
+  URL: https://news.google.com/rss/articles/CBMifkFVX3lxTE1BVElUeGlhcTd1VHdUa2p1cmZoc0FXWlhYclk5T1hnellWZHFaWHVMOFA0QkFjUzZEMVdncTZ2d3JjQVYtbDduckloSGFxU0hvcU1jekkyYnB3UlpRdEFwVGhKdnRqeEF2ZmhUb2xXcXJjYWM0YjJJU2Z5VUZGdw?oc=5
 
 - タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
   URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
@@ -21,11 +21,11 @@
 - タイトル: アジアNo1(*1)のPR会社が伝授する、“人事採用×広報PR” 戦略「採用戦略サミット2022 令和の新常識 produced byベクトル」開催 - PR TIMES
   URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9SYU1yRHFrU1pXZ3liazlTVHhJTFRybkFNZG5lYlZXaTNBeGI5MUlZXzhEbFRNbmVNbi1YRTluRzRabTk3a29nSklJTVNUdU5xSGh3ZDN1SWtjOTVfc3QwZjZJcW5sNldPelE?oc=5
 
-- タイトル: DX推進で企業文化に亀裂が生じるワケ - Forbes JAPAN
-  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wRlUtczg3dnFpNVIzS1ZqWmhlX0k5Y0tsQlZaZ0dxeW94ODh1YkZPcGhlY3hmRmxxRjE5aVhGeHVNYXA4YlF2VGhYYkF2ZlJFQm5jRDlUWnM?oc=5
+- タイトル: 45％が直面する「DX人材の壁」……いつまでも育たない企業に欠けている“2つの視点” - ビジネス+IT
+  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WbXlNMU1JY2tHQm11S3JtT0RfdzdDekhLLUs4SmtERFZvODlDaWotUW5jRUtSY0hUSXpnNHl3aDFoQ2ttNmpCMVFfWC1SeFk?oc=5
 
-- タイトル: 140年企業はAIをどう組織改革に生かしたのか、組織スピード4倍の舞台裏：カクイチの組織文化DX（前編）（2/3 ページ） - MONOist
-  URL: https://news.google.com/rss/articles/CBMickFVX3lxTFBURVNlb0tpY1VSUDJsS3dsSkFoS1lYRGhmY29Ga1JQVDFSTW1hQVpDY0swWUNQb3JhOGV1VEJVNF9lYkZNMEhjd3daeFFWMGtNZWhtVVVQdDRTODI3VWtmMXNpaHpOaGJ2YUVhME82N0FDdw?oc=5
+- タイトル: AKKODiS、「令和８年度 大分県及び市町村のDX人材育成支援業務」を受託 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFB0VnZEaUItV1JQNWpSb1JnX3pfcTVQdDVscWJLM211ZXZLRlUzRFdSaUtkUUE2cmZBTEE4blF0YlJTUFR6YkdGWm40WTBxT05xTTZvMFhnb2VqTEVSb182aG5Ud0wzdEd2S0E?oc=5
 
 
 # Manusへの追加指示
