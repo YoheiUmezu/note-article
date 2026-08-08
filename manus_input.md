@@ -1,19 +1,19 @@
-# 本日の執筆テーマ: トレンド解説
+# 本日の執筆テーマ: キャリア
 
-- 生成日時 (JST): 2026-08-07 11:47:59
+- 生成日時 (JST): 2026-08-08 10:50:12
 
 ## 収集された最新トピック
-- タイトル: 従業員エンゲージメントと業績や投資指標の関係性に関する調査結果（2025年データ分析）を公開 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9JcHk5VWZIN29FcHZRTlNrMVlRcGZfc3FNZmlzSWxrcXpJVDgtWlNUZjc2NTlTQTBWVXhpVGx3cUJDa2J4NGV5b1FBQlc2eXhYXzRaa0lZSnpYRENPOTBXVjBzRm1BWVNKYWc?oc=5
+- タイトル: 生成AIを活用した管理職向け従業員エンゲージメント改善支援アプリを自社開発—レゾナック - HRzine
+  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE94andfdGFMX3R0MFlRTFkwNW11bFN5Zm9HUGsxcXVheXVVOThVbzNib0xtM29jYTg5WXVHMmZKcnk4Y21uRDV1dlpB?oc=5
 
-- タイトル: 「従業員エンゲージメント」の測り方を見直すべき時 - Forbes JAPAN
-  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tc0djdDNHSHh6cVROWnhwQWpBSklMOUd6VGNuOUlJZ3NFazYwX3NIWXlIRVdEOG9iZ1dtWXdqU2szT25XWjFhX3UyTUl2dlFDT3BxNS1lVHh1Zw?oc=5
+- タイトル: 徳島県の「令和8年度職員のエンゲージメント向上に関する調査・改善支援等業務」を受託 - 山陽新聞
+  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE04V19yeTJiczlzOFQ1SF9sTjdCSGhnejdDTkV3U1IxaXk4bi0zTlVpcDQ5bVIxTEhKRXA2d3F2WUs5dTRPMF9OQS04WmZ4R2h0WnZuWm1NdkNEZHc?oc=5
 
-- タイトル: MSI、新型ポータブルゲーミングPC「Claw 8 EX AI+」発表！ グラフィックス性能が大幅向上 - GAME Watch
-  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE00SkdXaEpKRmZzUTRCd09hZ1luQWcwenFCMWU4TjRpY3d0WktGMzFGVmFtbEhLeERSMWx2c1BkdGVrb0ZBMkdqNWw4MjVBUnpCc0gzU1UwS0JrZnBMbE1xdXlmQnNpUQ?oc=5
+- タイトル: 「信頼」を業績向上につなげる。EX/CX投資で過去最高売上を達成した、トリドールの心的資本経営 - Biz/Zine
+  URL: https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GZTNYOE4wQU1BXzNZdzFIN3JoeExwdk4wSWNnRTJTLTlzT2tFUjFOelNhVzMtWlQyandBUUFPUXFURWtVa2VfV0hzOUVaNnJZ?oc=5
 
-- タイトル: これからはデータ活用でCXとEXを向上し、DXにつなげることが重要 - ITmedia エグゼクティブ
-  URL: https://news.google.com/rss/articles/CBMifkFVX3lxTE1BVElUeGlhcTd1VHdUa2p1cmZoc0FXWlhYclk5T1hnellWZHFaWHVMOFA0QkFjUzZEMVdncTZ2d3JjQVYtbDduckloSGFxU0hvcU1jekkyYnB3UlpRdEFwVGhKdnRqeEF2ZmhUb2xXcXJjYWM0YjJJU2Z5VUZGdw?oc=5
+- タイトル: 「働きやすさ」から「働きがい」へ ～当社が進めるＥＸ向上の取り組み～ - 日本の人事部
+  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTFBIcjJWM0FwcC1wQ1VrVGRiNVNYZVZ1VlpXSERxUUZIWkNiSXlQQVhUczA2UjlubFRwbXQzd3FQQm1YV0pNZDFyYVBCekIyOTNLXzVLdjNaMXhVR2l3Qi15VDZvQXVDWExjWjZnU2diWGtHU1RzOEE?oc=5
 
 - タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
   URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
@@ -21,11 +21,11 @@
 - タイトル: アジアNo1(*1)のPR会社が伝授する、“人事採用×広報PR” 戦略「採用戦略サミット2022 令和の新常識 produced byベクトル」開催 - PR TIMES
   URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9SYU1yRHFrU1pXZ3liazlTVHhJTFRybkFNZG5lYlZXaTNBeGI5MUlZXzhEbFRNbmVNbi1YRTluRzRabTk3a29nSklJTVNUdU5xSGh3ZDN1SWtjOTVfc3QwZjZJcW5sNldPelE?oc=5
 
-- タイトル: 45％が直面する「DX人材の壁」……いつまでも育たない企業に欠けている“2つの視点” - ビジネス+IT
-  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WbXlNMU1JY2tHQm11S3JtT0RfdzdDekhLLUs4SmtERFZvODlDaWotUW5jRUtSY0hUSXpnNHl3aDFoQ2ttNmpCMVFfWC1SeFk?oc=5
+- タイトル: だれでも参加OK＆無料。神戸大学で『DX』をテーマにした「シンポジウム」が開催されるみたい。オンライン配信も - 神戸ジャーナル
+  URL: https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zbnlDNWRUdG1BbDlXRDhjaFdYcTVqTDVaaWtnT05OUjdTZFlQVzdMQ2o4cmlhQnM2TllaaE5tUl9iOW9BWWZUWnd3eW9wMHBjdlhEU2pYaGVMTU5YaFE?oc=5
 
-- タイトル: AKKODiS、「令和８年度 大分県及び市町村のDX人材育成支援業務」を受託 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFB0VnZEaUItV1JQNWpSb1JnX3pfcTVQdDVscWJLM211ZXZLRlUzRFdSaUtkUUE2cmZBTEE4blF0YlJTUFR6YkdGWm40WTBxT05xTTZvMFhnb2VqTEVSb182aG5Ud0wzdEd2S0E?oc=5
+- タイトル: DXを成功に導くには 日本企業に変革を迫る組織の壁 - NIKKEIリスキリング
+  URL: https://news.google.com/rss/articles/CBMickFVX3lxTFBPMHowb0RIVG1fUFQyNlVRWVJLaEI0MndGY2MtdHBnQWtnV2JWWkVOTkhXbGF6MVZZaFM1bkpwb1BkMlAtRTkwQTFpdDBhOXdPcWMyUko2QnRFZHFScjZ1WjVJbVdsbFJ4WnN3MWN4ZjBnQQ?oc=5
 
 
 # Manusへの追加指示
