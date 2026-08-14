@@ -1,19 +1,19 @@
-# 本日の執筆テーマ: RFP/選定基準
+# 本日の執筆テーマ: トレンド解説
 
-- 生成日時 (JST): 2026-08-13 11:11:57
+- 生成日時 (JST): 2026-08-14 11:10:35
 
 ## 収集された最新トピック
-- タイトル: 「従業員エンゲージメント」の測り方を見直すべき時 - Forbes JAPAN
-  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tc0djdDNHSHh6cVROWnhwQWpBSklMOUd6VGNuOUlJZ3NFazYwX3NIWXlIRVdEOG9iZ1dtWXdqU2szT25XWjFhX3UyTUl2dlFDT3BxNS1lVHh1Zw?oc=5
+- タイトル: 【日本経済社・揚羽・日経リサーチ 共催】企業のブランド価値は「人」で決まる。 従業員エンゲージメントの「資産化」戦略 - 日経リサーチ
+  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTE01SEkzcUxVZENJM2owVXlEWll6amwtNWlCVzk2VlA2akd2eHg0OE4tM2tuU1d1OTBuamNkYkNHMXgtV0ZxdEJkaHhVRjY2dlRXR3hHNXY4eEp4ZXNKYy1XcA?oc=5
 
-- タイトル: ＜9月16日より東京ビッグサイトにて開催！＞ HR EXPO来場登録受付中 - AdverTimes.（アドタイ） by 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE81RXRHU2p5b2FtbTNxMUFOZml2c2swYkZibVNVNUpMRjNmcWZacGxlMERaR0U4eE5PdHhTTzJnQnJJYmRmdVhyZ3h3alU3RWVuVElrdlhjUEwwaWFMOTEw?oc=5
+- タイトル: 「従業員エンゲージメント」の測り方を見直すべき時 (Forbes JAPAN) - newspicks.com
+  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FMjVacC1SQVJDcG5JMzc1VW1Xd3FjUWM5TTZTV0daOFdOb29TYUdDNURWWFhDSXkzYlE2TnRjcDNwSnRQWllEdlJWTTM1TUdRVkRXem04Zzc?oc=5
 
-- タイトル: 北國FHD、EmotionTech EXを導入 従業員エンゲージメントスコアの開示でEX改善を推進：saleszine - MarkeZine（マーケジン）
-  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTE9veW42N0dQcWFNTmdKTmUwdnN5RHJfOGxIX2N2Zkl0Tml5bzBQcWZjNmhlZk9qbmF0eDFNM2RCbnN2SXVJanlMSTVUNmZPbG8?oc=5
+- タイトル: 「残ってもらいたい社員に限って、すぐに辞めてしまう」という事態を食い止める。EX向上のための三つの意識改革と対策 - ダイヤモンド・オンライン
+  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oaG1VaWtwX0VZdnlhM0J3TVdRSExCbU5henNOMDlJRk5zWEk3N29vRVc1X3d6dDBudnNocVd2eWlUTkdrbXJPbEdiNno2MGFkaGswSXJ3?oc=5
 
-- タイトル: HRBrain、新機能「重要度分析」をリリース。決定木分析でEX向上に繋がる「影響要因」を可視化 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1EeXQ3RGUxMk14NU1YeDJ0VGd2azZ5X3pTTnZ5a1ZhVkFuY2llY0VpakhvRUlFWE9sdFhGYUl6ZndNbHBYa2RHc0xrRGZ3c0I0MWYxUGFjOHFESF91dnRxLUgtV2NxdXZNWEE?oc=5
+- タイトル: IT部門はCXとEXに無関心ではいられない──ガートナーが語る「従業員ジャーニー」理解の勧め - EnterpriseZine
+  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IUUZhVDcySmdFVm9manlmU21OSXc5WXJXTWNRSnY1UlBFUFE4dDd2NUtXVDg2TmMzakJrMjhRa2NINV9ncHhoVXhzbzg4QXpHUnhZWXQzUlFMZw?oc=5
 
 - タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
   URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
@@ -21,11 +21,11 @@
 - タイトル: アジアNo1(*1)のPR会社が伝授する、“人事採用×広報PR” 戦略「採用戦略サミット2022 令和の新常識 produced byベクトル」開催 - PR TIMES
   URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9SYU1yRHFrU1pXZ3liazlTVHhJTFRybkFNZG5lYlZXaTNBeGI5MUlZXzhEbFRNbmVNbi1YRTluRzRabTk3a29nSklJTVNUdU5xSGh3ZDN1SWtjOTVfc3QwZjZJcW5sNldPelE?oc=5
 
-- タイトル: 第4回：知見活用の当たり前化と文化醸成（展望編）--製造業DXを持続させるカギとは - ZDNET Japan
-  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XTGhWZ1kwdHhDSlYwUFYyXzliM2tldDc1VWxTZTJxcGpxcXBkQU12UDVnS0phRVVnempvUW9JWkxyS2xSTHFTWDhzNzdqcTQ0cTFz?oc=5
+- タイトル: 「ありがとう」がDXを加速する 140年企業が実践する“感謝体質経営”とは：カクイチの組織文化DX（後編）（2/2 ページ） - MONOist
+  URL: https://news.google.com/rss/articles/CBMickFVX3lxTE9XamdZRTdFLVBqRGVvLU94dVVaUjdJUnJTSS01RGlkd2JGaXg5ZmVWSV9Na0Q0Zmh6NzVWSFBESjlCMWhVZUxtMElqUW1odFRqYW1CcktNQkxRbGxaWk5QWUxNdVY0cUxQQW9rZkFsXzJaQQ?oc=5
 
-- タイトル: 現場でのデータ活用で組織のWhy文化を育む - dentsudigital.co.jp
-  URL: https://news.google.com/rss/articles/CBMie0FVX3lxTE1tTUxTQ3VIM1JWeklhVllaZ201a1ZGTVMxMldzMDBtVkg2V3JTeTZhSG1FeGFYTEpncmFOaHd0ajE5eEN4TlRSZ1dYQ1owQU9obVFCb0FWZ2pmY0hiUGV3TEVzUlg3X0R4aVVlN25kSXJ5dGtka19qQ2luOA?oc=5
+- タイトル: IIJ、DX推進の実態と成功要因を独自アセスメントデータから分析したレポートを公開 - インターネットイニシアティブ-IIJ
+  URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9taFF1RzFsRWZlSW9tSzFBcEJ3WjhITG1YUWg2a2pxQ0xwZVFYM0hYejBVR2xHSW5jaVlGUmJBTDRQUU1Tc25Xb1FZRmROVzJmc2tmeHVGU0pqaV9JZUpKLWdIV1BWc0U?oc=5
 
 
 # Manusへの追加指示
