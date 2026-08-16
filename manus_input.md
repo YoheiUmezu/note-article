@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: キャリア
+# 本日の執筆テーマ: 海外事例
 
-- 生成日時 (JST): 2026-08-15 10:23:23
+- 生成日時 (JST): 2026-08-16 10:34:01
 
 ## 収集された最新トピック
-- タイトル: 従業員エンゲージメントが10年ぶりの低水準に。問題は「人」ではなく「組織の仕組み」にある - Forbes JAPAN
-  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMSVdIemlWLUxRaXJkNW1ZOTdyd2xrMUNDcENNNVhXdms1OVRkUHBlcURZd085b0JOUWVjU0xkLVlfcFBlaV9reGVMZFRScXVIaGVjZ2J0STBGZw?oc=5
+- タイトル: 従業員のエンゲージメントが再び低下、その背景にあるもの - forbesjapan.com
+  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrMW1ZYUxhalZZemFMM1RBSmI5T3hDZmhISmg1aDJNRHhkRmlQTE5UR29MTDlfdmVWa0tXYzNFUTluOGFFSE9KZ3NlakRrR1B5cW5UaUllejlXQQ?oc=5
 
-- タイトル: 「従業員エンゲージメント」の測り方を見直すべき時 - Forbes JAPAN
-  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tc0djdDNHSHh6cVROWnhwQWpBSklMOUd6VGNuOUlJZ3NFazYwX3NIWXlIRVdEOG9iZ1dtWXdqU2szT25XWjFhX3UyTUl2dlFDT3BxNS1lVHh1Zw?oc=5
+- タイトル: 【速報！】2026年版第４回全国１万人従業員エンゲージメント調査結果速報 ～「30代の孤立」と「インフラ産業の活力急落」に警鐘。1万人調査で見えた日本組織の歪み ～ | 株式会社アジャイルHRのプレスリリース - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5CbUFyazI0RG10R2szcTdpVWhpWFhsNlkwT0tnYmwxdzlJZ0N2cVVPTDYxRWZMWTlTRlByYkpBM1gzM0swd0ptQnQtQUhhVGk0RFY1WE1sS2g5bVVoeWtETXUtazdzZVhORWc?oc=5
 
-- タイトル: 「信頼」を業績向上につなげる。EX/CX投資で過去最高売上を達成した、トリドールの心的資本経営 - bizzine.jp
-  URL: https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GZTNYOE4wQU1BXzNZdzFIN3JoeExwdk4wSWNnRTJTLTlzT2tFUjFOelNhVzMtWlQyandBUUFPUXFURWtVa2VfV0hzOUVaNnJZ?oc=5
+- タイトル: 全国信用金庫協会とHRBrainがタッグ 信用金庫のエンゲージメントを可視化・改善離職防止と生産性向上へ - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFByak5NdXBmNjdBTG1sZHJuLWRlM2l5RU5xeXJ0dS1sWEd1UnNwYmN1azMzb2RoYTc3NUhQLWNKd1pabFJFR1pMdDZpUzljb1dXaE1jMElialJBTTFYTTc4Tmo1VkV6R19nQ0E?oc=5
 
-- タイトル: オリックス銀行は、なぜCX、EXの向上を進められるのか？ - JBpress
-  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBISEVfRFNRYnpoV3F6bXVWcjZFSkU5RThQeTlHQUlyanpnNGc5ZkF6QVQ0WUttbkU4ZEJadElXMzJ0ajdtdWxHczZKNVZSaW4xelYxVjlB?oc=5
+- タイトル: これからはデータ活用でCXとEXを向上し、DXにつなげることが重要 - ITmedia エグゼクティブ
+  URL: https://news.google.com/rss/articles/CBMifkFVX3lxTE1BVElUeGlhcTd1VHdUa2p1cmZoc0FXWlhYclk5T1hnellWZHFaWHVMOFA0QkFjUzZEMVdncTZ2d3JjQVYtbDduckloSGFxU0hvcU1jekkyYnB3UlpRdEFwVGhKdnRqeEF2ZmhUb2xXcXJjYWM0YjJJU2Z5VUZGdw?oc=5
 
-- タイトル: 「ミライ人間洗濯機」や「抗菌寿司カバー」など大阪・関西万博で見つけた知財を広報誌「とっきょ」特別号で特集 特許庁 - 医薬通信社
-  URL: https://news.google.com/rss/articles/CBMi2gJBVV95cUxQM1hDUEVGNzZ4ZXV5dFBKQy1DV2N6QXgtemRINFMxazJHbENMY0pwandrVXR3WFRHZHdJVDBwZk1WQkZGU2k2eHpvcVBfbzh1NjVfMnpxeWNYcVpmYjZ1a1Y1V1ZaTjc1UEcweTU3aVdRaTZ3Tk42cGJRQ2JhZVFJNV9FdWRHT19qUlFodDB3UWh6Y0xhRlBKTDctU0d0eDlPVFhSUWF4TjZCSWdxZl9Qb1RTb0Jtel9XdjJmZEMyWC1feXRmaTU0Q1NCVGlDaU5GamVWUmZ4WUc5ZWFnLUJiZUdyOXJIZFdfVXZHZEx6aWNkQkZucWI3N3ptZE4tQ1NFMnlLUmJ5cjVEb2FKUmljeHMzdTh1cXkzR19WMEpqdmpkdDJ0QmlUTko5WjNTNjhORFJ5RE4xdVdaOVJNdW5xcEpSSWtmVWluQmxfZ3VkTW5qZXpEaS1ybW1R?oc=5
+- タイトル: 12/19(火)先進事例から学ぶ、インターナル起点で考える『新・広報戦略』【好評につき再配信】 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5VdHVLOW02M0w5UnNxcUpEcTlRSmR3YlYxemdIckRVRTBVa2JNTVlVU2M2QkNYNXR3cERZTk9ZQmtCaXRseXJ3ZTE5dXlwM1FNNG1zR2xxREJia2RtZXR4MUpsUU94S0RHS0E?oc=5
 
 - タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
   URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
 
-- タイトル: DX（デジタルトランスフォーメーション）とは？ 推進するメリットと取り組み事例を紹介 - NEC wisdom
-  URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE9kT21kbVpack1sTFA5anBQWWhsSjlMT2h5MHNCWmR0Q3l3MmxwYllUUmtHcndzQ2tGbjAwMzktb2dtbGFKZk1fa1JyNXI1N3kzVkhzc05CTkpzanpjSFBDb2Q3Zk51bFI2el8tYUZWcFpNUEZJeEJz?oc=5
+- タイトル: 「木こりのジレンマ」をどう乗り越えるか？──社内DX大学1年目の失敗が教えてくれたこと - EnterpriseZine
+  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uZDQ2Y2lKaTZCdERPWjRzc1hDR04ySVNMX1cyZ1dkY0ZmOTZQeHZjNnc5THN2RlBGdExyLXBIQ2ZqbHkyTlJBMUxRajBRS0NsdDNCX3BQYmpZQQ?oc=5
 
-- タイトル: DX の D は "泥臭いこと" 。｢八段階の企業変革プロセス｣ で見るコスモエネルギー HD の DX 改革の秘訣とは？ - newspicks.com
-  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oTk54emU1eDdhOTM2TGNVNmxWY2lYNjF1ZUJjN0Nid2dtZ3EzdFZsVm15b293aVprYmlVQjNwdnphc3ZodFRFdkt2eGN3SzBIcV9R?oc=5
+- タイトル: 【DXで再注目】データドリブン経営で意思決定のスピードアップ｜課題や事例も紹介 - 株式会社エクサウィザーズ
+  URL: https://news.google.com/rss/articles/CBMibkFVX3lxTE0tMlpRYzVZY3ViVnNSQWJoTC1iTUJWVlg0Qlp5ZVJjRHNWQjJKYS1nd1dBZ1p2RENWbWVDUEJHeUkzekptaXc2U1V1OTZxSS1UVDJFV0FERm9QeXVuQTVVUzNQNkFIZlBVa1VMSi13?oc=5
 
 
 # Manusへの追加指示
