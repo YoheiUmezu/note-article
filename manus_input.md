@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 海外事例
+# 本日の執筆テーマ: 経営戦略
 
-- 生成日時 (JST): 2026-08-16 10:34:01
+- 生成日時 (JST): 2026-08-17 10:25:40
 
 ## 収集された最新トピック
-- タイトル: 従業員のエンゲージメントが再び低下、その背景にあるもの - forbesjapan.com
-  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrMW1ZYUxhalZZemFMM1RBSmI5T3hDZmhISmg1aDJNRHhkRmlQTE5UR29MTDlfdmVWa0tXYzNFUTluOGFFSE9KZ3NlakRrR1B5cW5UaUllejlXQQ?oc=5
+- タイトル: エンゲージメント調査は無意味？ 従業員が「離職を決める瞬間」とそれが見逃されてしまう理由 - Forbes JAPAN
+  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ROWhneVdEVU5IOUM5WEk3V09idThrUkdVZmswaGI5dEZSa3d3bTdabV9FRzBxbVI2VVUxRkZlZnNOTl9CR0h4S3FmZU5tcDhqcmRUeGoxVE8?oc=5
 
-- タイトル: 【速報！】2026年版第４回全国１万人従業員エンゲージメント調査結果速報 ～「30代の孤立」と「インフラ産業の活力急落」に警鐘。1万人調査で見えた日本組織の歪み ～ | 株式会社アジャイルHRのプレスリリース - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5CbUFyazI0RG10R2szcTdpVWhpWFhsNlkwT0tnYmwxdzlJZ0N2cVVPTDYxRWZMWTlTRlByYkpBM1gzM0swd0ptQnQtQUhhVGk0RFY1WE1sS2g5bVVoeWtETXUtazdzZVhORWc?oc=5
+- タイトル: 従業員エンゲージメントの「7割はマネジャー次第」、ギャラップ社トップ研究員の結論 - Forbes JAPAN
+  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lMEVKZEU0S0ZHMFpFb2k4NmdKSHlnWDR6UGp2ekwyNDZicEdya0pfMG5BdTZWcTJNLVdsbm5iY1lrUWVIUmR2ckRMdE1jT2luRmVVZ0x3TFc?oc=5
 
-- タイトル: 全国信用金庫協会とHRBrainがタッグ 信用金庫のエンゲージメントを可視化・改善離職防止と生産性向上へ - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFByak5NdXBmNjdBTG1sZHJuLWRlM2l5RU5xeXJ0dS1sWEd1UnNwYmN1azMzb2RoYTc3NUhQLWNKd1pabFJFR1pMdDZpUzljb1dXaE1jMElialJBTTFYTTc4Tmo1VkV6R19nQ0E?oc=5
+- タイトル: ＪＲ４社のネット予約サービス間の連携による 利便性向上に向けた取組み - ＪＲ東海
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBVcmFvTTgzQkZXb1h2N3FmZXhzQVVsd1pSZjZZOUo2QTNXNjFGZDVIb0ZSOUJZREprbVpsVm9XMjdORXRkX0RXYTlidW5ON1I1UG44RVVHOUtFbXhLUkJ4UFZRN3JQeHNyNEE?oc=5
 
-- タイトル: これからはデータ活用でCXとEXを向上し、DXにつなげることが重要 - ITmedia エグゼクティブ
-  URL: https://news.google.com/rss/articles/CBMifkFVX3lxTE1BVElUeGlhcTd1VHdUa2p1cmZoc0FXWlhYclk5T1hnellWZHFaWHVMOFA0QkFjUzZEMVdncTZ2d3JjQVYtbDduckloSGFxU0hvcU1jekkyYnB3UlpRdEFwVGhKdnRqeEF2ZmhUb2xXcXJjYWM0YjJJU2Z5VUZGdw?oc=5
+- タイトル: 電通デジタル、企業の業務システム活用において、従業員体験の向上を支援する「Employee eXperience（EX）ReDesignプログラム」提供開始 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9SWWo0V3U0QzB4bUdSMC05MWJnd2RJQzhCVjZLclFZUzhQTEVsQzRodWp4aHh2UmFCUDM3dElVVFhQVG1PQUV0eWlKUHhkR2JDdVFZWVpyX2t2UjBOZGl4dFhHWjJ5V2c5aUE?oc=5
 
-- タイトル: 12/19(火)先進事例から学ぶ、インターナル起点で考える『新・広報戦略』【好評につき再配信】 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5VdHVLOW02M0w5UnNxcUpEcTlRSmR3YlYxemdIckRVRTBVa2JNTVlVU2M2QkNYNXR3cERZTk9ZQmtCaXRseXJ3ZTE5dXlwM1FNNG1zR2xxREJia2RtZXR4MUpsUU94S0RHS0E?oc=5
-
-- タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
+- タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - sendenkaigi.com
   URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
 
-- タイトル: 「木こりのジレンマ」をどう乗り越えるか？──社内DX大学1年目の失敗が教えてくれたこと - EnterpriseZine
-  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uZDQ2Y2lKaTZCdERPWjRzc1hDR04ySVNMX1cyZ1dkY0ZmOTZQeHZjNnc5THN2RlBGdExyLXBIQ2ZqbHkyTlJBMUxRajBRS0NsdDNCX3BQYmpZQQ?oc=5
+- タイトル: アジアNo1(*1)のPR会社が伝授する、“人事採用×広報PR” 戦略「採用戦略サミット2022 令和の新常識 produced byベクトル」開催 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9SYU1yRHFrU1pXZ3liazlTVHhJTFRybkFNZG5lYlZXaTNBeGI5MUlZXzhEbFRNbmVNbi1YRTluRzRabTk3a29nSklJTVNUdU5xSGh3ZDN1SWtjOTVfc3QwZjZJcW5sNldPelE?oc=5
 
-- タイトル: 【DXで再注目】データドリブン経営で意思決定のスピードアップ｜課題や事例も紹介 - 株式会社エクサウィザーズ
-  URL: https://news.google.com/rss/articles/CBMibkFVX3lxTE0tMlpRYzVZY3ViVnNSQWJoTC1iTUJWVlg0Qlp5ZVJjRHNWQjJKYS1nd1dBZ1p2RENWbWVDUEJHeUkzekptaXc2U1V1OTZxSS1UVDJFV0FERm9QeXVuQTVVUzNQNkFIZlBVa1VMSi13?oc=5
+- タイトル: 学校法人神奈川大学が挑むDX人材育成 ～全事務局職員を変革の主役にする組織改革のこれから～ - NEC wisdom
+  URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE9ULUZuelVpc2RMa2JyUTVaUTRzVmhHXzIxdGdDWUwydlU4SzY5WkxWU3BrMjhVUTZ6TkJUa25pM3F0dmZSWVlvQzFEalZBSG9HRVNYenNHNlA3Zl82UUJJQkFQRDdDeXFLei1GUGpISkJIczltaGNJ?oc=5
+
+- タイトル: データのじかんフィーチャーズ｜part.003｜DX（デジタルトランスフォーメーション）の定義／違い／課題について（DX基礎編） - ウイングアーク１ｓｔ
+  URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xV0pjUWMzcEZQbjBTYWRGcnFINHc2S19Ec3FWeVFxTmhDNzlyY0JOQ3hsdmRZTl8tRUtNZ2M0alE5MDhYZGl5SVFqQ3YyS3UxSlBGQkxoSmRncmNMUTMxVXBR?oc=5
 
 
 # Manusへの追加指示
