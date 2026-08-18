@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 経営戦略
+# 本日の執筆テーマ: 現場の運用課題
 
-- 生成日時 (JST): 2026-08-17 10:25:40
+- 生成日時 (JST): 2026-08-18 10:22:14
 
 ## 収集された最新トピック
-- タイトル: エンゲージメント調査は無意味？ 従業員が「離職を決める瞬間」とそれが見逃されてしまう理由 - Forbes JAPAN
-  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ROWhneVdEVU5IOUM5WEk3V09idThrUkdVZmswaGI5dEZSa3d3bTdabV9FRzBxbVI2VVUxRkZlZnNOTl9CR0h4S3FmZU5tcDhqcmRUeGoxVE8?oc=5
+- タイトル: 従業員エンゲージメント市場に関する調査を実施（2026年） - yano.co.jp
+  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE91U2l5MFZoMHFpRTI3dFB3dURTcVc5QjRXUzRQcUJsa2FTWnRyUEFjczdINHNQdzJmdDhuRUdmWDk3M3ViVGdQblU1aTNEanhGMy1yNUJCamtIeFRLaGJRWUYxYmRkdw?oc=5
 
-- タイトル: 従業員エンゲージメントの「7割はマネジャー次第」、ギャラップ社トップ研究員の結論 - Forbes JAPAN
-  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lMEVKZEU0S0ZHMFpFb2k4NmdKSHlnWDR6UGp2ekwyNDZicEdya0pfMG5BdTZWcTJNLVdsbm5iY1lrUWVIUmR2ckRMdE1jT2luRmVVZ0x3TFc?oc=5
+- タイトル: 矢野経済研究所、従業員エンゲージメント市場に関する調査結果を発表 - 日本経済新聞
+  URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE1UMEIyLU1YNHhUN0ZGRzN5M1ZMQ3dhS2NVc1R3dTdkdGpHSDBYaGlMcFhqc3daVmNCS2RRRjhLaS11SzJwbkh5d0g1VWNBd1p4QTU4czFKR0pjYURZWjcxU0EtTVBwdGJ6bUxwbg?oc=5
 
-- タイトル: ＪＲ４社のネット予約サービス間の連携による 利便性向上に向けた取組み - ＪＲ東海
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBVcmFvTTgzQkZXb1h2N3FmZXhzQVVsd1pSZjZZOUo2QTNXNjFGZDVIb0ZSOUJZREprbVpsVm9XMjdORXRkX0RXYTlidW5ON1I1UG44RVVHOUtFbXhLUkJ4UFZRN3JQeHNyNEE?oc=5
+- タイトル: 第一生命/北國銀行 登壇！【参加無料】2026年8月27日開催「次世代コンタクトセンターが創る金融CXの未来」 ❘ セミナーインフォ - 朝日新聞
+  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OZVc4NFJjemY4dzdOS3RjcDRKay1Uc2dZb09Uc19kUWUxS21oNmJpMmt1aEdWek5LUnI5MkVQY2xOMktja0RKUFZrbEZhMzJyN3kxSTMwMllNN1U?oc=5
 
-- タイトル: 電通デジタル、企業の業務システム活用において、従業員体験の向上を支援する「Employee eXperience（EX）ReDesignプログラム」提供開始 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9SWWo0V3U0QzB4bUdSMC05MWJnd2RJQzhCVjZLclFZUzhQTEVsQzRodWp4aHh2UmFCUDM3dElVVFhQVG1PQUV0eWlKUHhkR2JDdVFZWVpyX2t2UjBOZGl4dFhHWjJ5V2c5aUE?oc=5
+- タイトル: エンゲージメントと生産性を向上させる新潮流 EX（従業員体験）とコミュニケーションをデザインする - 日本の人事部
+  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE52c0VzeVFHQlhLem9faGQtMGh4UkFZbWVpZUVTSWRHV1NlNDFnbXJWaHI3TGNwdDhHVUt6X05rclAzcXBlTXNRbHhYNVpGRm9DVUdrY3oxemhONFFsc0xZOTBWaGxCWV9Ud0VrbkxxazJGUV9KM0E?oc=5
 
-- タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - sendenkaigi.com
+- タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
   URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
 
 - タイトル: アジアNo1(*1)のPR会社が伝授する、“人事採用×広報PR” 戦略「採用戦略サミット2022 令和の新常識 produced byベクトル」開催 - PR TIMES
   URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9SYU1yRHFrU1pXZ3liazlTVHhJTFRybkFNZG5lYlZXaTNBeGI5MUlZXzhEbFRNbmVNbi1YRTluRzRabTk3a29nSklJTVNUdU5xSGh3ZDN1SWtjOTVfc3QwZjZJcW5sNldPelE?oc=5
 
-- タイトル: 学校法人神奈川大学が挑むDX人材育成 ～全事務局職員を変革の主役にする組織改革のこれから～ - NEC wisdom
-  URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE9ULUZuelVpc2RMa2JyUTVaUTRzVmhHXzIxdGdDWUwydlU4SzY5WkxWU3BrMjhVUTZ6TkJUa25pM3F0dmZSWVlvQzFEalZBSG9HRVNYenNHNlA3Zl82UUJJQkFQRDdDeXFLei1GUGpISkJIczltaGNJ?oc=5
+- タイトル: 「DXが進まない本当の理由──日本企業に「変革人材」を根づかせる組織と文化の設計図」オンラインセミナーを開催します（LTS主催） - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5VcWF1LTVkUWJncE03OTEwMmFqNFlzVFZ3R1VpZDBULW1fTVAzMk16OFl3b2FGdDF4N2JZTDFGLTJ0NXVoeW1uSzBqeV8zdDZBUU1WWHhhS3VJcGlfenM1YXpYTktMQ19YTmc?oc=5
 
-- タイトル: データのじかんフィーチャーズ｜part.003｜DX（デジタルトランスフォーメーション）の定義／違い／課題について（DX基礎編） - ウイングアーク１ｓｔ
-  URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xV0pjUWMzcEZQbjBTYWRGcnFINHc2S19Ec3FWeVFxTmhDNzlyY0JOQ3hsdmRZTl8tRUtNZ2M0alE5MDhYZGl5SVFqQ3YyS3UxSlBGQkxoSmRncmNMUTMxVXBR?oc=5
+- タイトル: DX（デジタルトランスフォーメーション）とは？ 推進するメリットと取り組み事例を紹介 - NEC wisdom
+  URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE9kT21kbVpack1sTFA5anBQWWhsSjlMT2h5MHNCWmR0Q3l3MmxwYllUUmtHcndzQ2tGbjAwMzktb2dtbGFKZk1fa1JyNXI1N3kzVkhzc05CTkpzanpjSFBDb2Q3Zk51bFI2el8tYUZWcFpNUEZJeEJz?oc=5
 
 
 # Manusへの追加指示
