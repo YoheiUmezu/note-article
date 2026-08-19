@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 現場の運用課題
+# 本日の執筆テーマ: システム連携
 
-- 生成日時 (JST): 2026-08-18 10:22:14
+- 生成日時 (JST): 2026-08-19 10:24:05
 
 ## 収集された最新トピック
-- タイトル: 従業員エンゲージメント市場に関する調査を実施（2026年） - yano.co.jp
-  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE91U2l5MFZoMHFpRTI3dFB3dURTcVc5QjRXUzRQcUJsa2FTWnRyUEFjczdINHNQdzJmdDhuRUdmWDk3M3ViVGdQblU1aTNEanhGMy1yNUJCamtIeFRLaGJRWUYxYmRkdw?oc=5
+- タイトル: 従業員エンゲージメント市場に関する調査を実施（2026年）～2025年の従業員エンゲージメント診断・サーベイクラウドの市場規模は、前年比119.7％の133億2,000万円に拡大、エンゲージメントスコアが経営・人材戦略の成果測定と持続的改善を担う重要な経営指標へ定着しつ - 47NEWS
+  URL: https://news.google.com/rss/articles/CBMiS0FVX3lxTE95ejNuU2M2dFFCUE9TcDJxRmlEV2dNTzJWUnRMRDBvalBQQ0VuUkFGb0EtMGEwUXVTS1dtaElreHptTVRieDBSMjRDTQ?oc=5
 
-- タイトル: 矢野経済研究所、従業員エンゲージメント市場に関する調査結果を発表 - 日本経済新聞
-  URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE1UMEIyLU1YNHhUN0ZGRzN5M1ZMQ3dhS2NVc1R3dTdkdGpHSDBYaGlMcFhqc3daVmNCS2RRRjhLaS11SzJwbkh5d0g1VWNBd1p4QTU4czFKR0pjYURZWjcxU0EtTVBwdGJ6bUxwbg?oc=5
+- タイトル: 株式会社日立社会情報サービス様 導入事例 - hitachi-solutions-create.co.jp
+  URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE9tS18yUFpLdWtEVEtJQXVvN2g2eDZrd0drQXlkQkNkOXM5SS1heWVMa2dZNVNXZlpKOFNpa2RMNmItQXJXTmMydXlYeGZWd0FmTEJxMkU3RjJjaW50MGN4bXdPUGs0dTdPUnpXcQ?oc=5
 
-- タイトル: 第一生命/北國銀行 登壇！【参加無料】2026年8月27日開催「次世代コンタクトセンターが創る金融CXの未来」 ❘ セミナーインフォ - 朝日新聞
-  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OZVc4NFJjemY4dzdOS3RjcDRKay1Uc2dZb09Uc19kUWUxS21oNmJpMmt1aEdWek5LUnI5MkVQY2xOMktja0RKUFZrbEZhMzJyN3kxSTMwMllNN1U?oc=5
+- タイトル: ホームデポとカインズから学ぶ CX・EX向上による小売業成長戦略 - ダイヤモンド・チェーンストアオンライン
+  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqZGtVQ3Q5Y01mVGFXbXJ5c1NlcFdQb2YtUTBoT0hMX0xUTk00ME15dGZFY24zSUtWN240NUxtdmNnSmRNSWhrUnVIOHJWdVE?oc=5
 
-- タイトル: エンゲージメントと生産性を向上させる新潮流 EX（従業員体験）とコミュニケーションをデザインする - 日本の人事部
-  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE52c0VzeVFHQlhLem9faGQtMGh4UkFZbWVpZUVTSWRHV1NlNDFnbXJWaHI3TGNwdDhHVUt6X05rclAzcXBlTXNRbHhYNVpGRm9DVUdrY3oxemhONFFsc0xZOTBWaGxCWV9Ud0VrbkxxazJGUV9KM0E?oc=5
+- タイトル: 丸亀製麺などを運営するトリドールHDがEX向上に「Commune for Work」導入—コミューン - HRzine
+  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BM2FQclVGa0czdmFFRHdGWUJhYjlIZkNQZ014djJYSFkwV0RseDlhUXdkel8yeGRjYmtJblVkWkM5WUhVbDlOdFVR?oc=5
 
-- タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
+- タイトル: 広報担当者の悩みを解決するノウハウやツールを紹介—コーポレート・コミュニケーション カンファレンス - AdverTimes.（アドタイ） by 宣伝会議
+  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iMXFKUDJsUWZzbmMycmJTNTUtMGNwLXcwd3Y3RlAwZkRwQVRqSkFSY0M0SkUwUm9MWEpEbGtXcThiZTk1dGl6M0JDZzltUkczeU9nbU9penpoUmIwOHhF?oc=5
 
-- タイトル: アジアNo1(*1)のPR会社が伝授する、“人事採用×広報PR” 戦略「採用戦略サミット2022 令和の新常識 produced byベクトル」開催 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9SYU1yRHFrU1pXZ3liazlTVHhJTFRybkFNZG5lYlZXaTNBeGI5MUlZXzhEbFRNbmVNbi1YRTluRzRabTk3a29nSklJTVNUdU5xSGh3ZDN1SWtjOTVfc3QwZjZJcW5sNldPelE?oc=5
+- タイトル: 【2/20(木) 開催｜無料 食品ECのグロースハック】＼レッドオーシャン市場での“勝ち筋”はこれだ！／食品ECのグロースハック戦略2025～成功事例に学ぶ最先端のマーケティング手法～ - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5yc3NvT2ZWNkJ3Z1hMQjVJRVJ4dklXd0JsSngtSEJFNlB3VUtNaDl4RlVjT21SbFlfZWl6MGJ6Y0x5SUc2dXE2Q2NqdDRTaU9Edm9pRFViZFhKRUctVmxHRzNpaXJ1TUN3blE?oc=5
 
-- タイトル: 「DXが進まない本当の理由──日本企業に「変革人材」を根づかせる組織と文化の設計図」オンラインセミナーを開催します（LTS主催） - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5VcWF1LTVkUWJncE03OTEwMmFqNFlzVFZ3R1VpZDBULW1fTVAzMk16OFl3b2FGdDF4N2JZTDFGLTJ0NXVoeW1uSzBqeV8zdDZBUU1WWHhhS3VJcGlfenM1YXpYTktMQ19YTmc?oc=5
+- タイトル: だれでも参加OK＆無料。神戸大学で『DX』をテーマにした「シンポジウム」が開催されるみたい。オンライン配信も - 神戸ジャーナル
+  URL: https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zbnlDNWRUdG1BbDlXRDhjaFdYcTVqTDVaaWtnT05OUjdTZFlQVzdMQ2o4cmlhQnM2TllaaE5tUl9iOW9BWWZUWnd3eW9wMHBjdlhEU2pYaGVMTU5YaFE?oc=5
 
-- タイトル: DX（デジタルトランスフォーメーション）とは？ 推進するメリットと取り組み事例を紹介 - NEC wisdom
-  URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE9kT21kbVpack1sTFA5anBQWWhsSjlMT2h5MHNCWmR0Q3l3MmxwYllUUmtHcndzQ2tGbjAwMzktb2dtbGFKZk1fa1JyNXI1N3kzVkhzc05CTkpzanpjSFBDb2Q3Zk51bFI2el8tYUZWcFpNUEZJeEJz?oc=5
+- タイトル: 後編：エージェントAIが変える組織と仕事のかたち―行政に迫るパラダイムシフト - pwc.com
+  URL: https://news.google.com/rss/articles/CBMikgFBVV95cUxOU1VpSlNWRFMyYkY5bFRubFVWVzFOZVRUejlLOG9ibzZwb1psa0MzTlBoX25PTEpBVjZfdTRjX1NDRlJBQVh0bkl3WWpVYXI4X0I0NWtjdWFiV0dEZWk3TDJoSXMwaFFfMUpaZlh6T0RELTMwMUVYemVEaFhGelNkRUswNWtfaE4tbXV6cXNPTEhQUQ?oc=5
 
 
 # Manusへの追加指示
