@@ -1,19 +1,19 @@
-# 本日の執筆テーマ: システム連携
+# 本日の執筆テーマ: RFP/選定基準
 
-- 生成日時 (JST): 2026-08-26 10:28:03
+- 生成日時 (JST): 2026-08-27 17:18:57
 
 ## 収集された最新トピック
-- タイトル: 駅係員と乗務員が必要に応じクールネックリングを着用します～熱中症予防および従業員エンゲージメントの向上～ - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1FUDVHNDdIRFhmdldzQ2d5VnBoMUZERE1KSzdKUkw2N09udWVaWFlHM3ZBa19YU2g4SEtuNlhGYTU5R1hjQWFNN2h5R0d1eHBlOXFZTThZUWJXQkhGcy1xa0NwMVFRYVpmaHc?oc=5
+- タイトル: 「働きやすさ」だけでは業績は上がらない エンゲージメントを成果につなげる3つの視点とは - AdverTimes.（アドタイ） by 宣伝会議
+  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nak9xZVprWDdFQ0xFSUtiYkM1LXJybjRNcnNobkRIc1d4SUQxOHp0UExxQXZJcGVZbUNEbERxTWZybDJRXzVQZHhTX2U2WlN3UzdCT3I0ZldYRzRCMTRN?oc=5
 
-- タイトル: なぜ、従業員を大切にしているはずの日本企業のエンゲージメントが世界最下位で、米国のほうが高いのですか？ - ダイヤモンド・オンライン
-  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rYkVoNTVjcXM3MGhFejJ2LXZNOVFLZEhYaXRnWXl2cndrX0hLQ3FhVUNCaE9HZDZ2VFJXYmxMeDJnNHJMNm93VDhacGXSAU9BVV95cUxQWWpvNDZ4dVhkU1FBekVsbnBDcTJGT0h2RWNaZmRCX1R4cFFsZTI3QjlmNkFxN3RFbDNNSWdTYmZVNFBoZnNZWUJqRC1uYmlR?oc=5
+- タイトル: 宮城県の令和８年度「宮城県職員エンゲージメント調査・改善支援業務」を受託 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5fX2FrVlg3bndMaENSdklJQ0N4NGJYMUNmRlNPaERNZ2RncW1Nd0FxUjAtYUk1U1lUUHo1VWFocFVGM2FWLXFZem40QkV1VWlIdm82NWZVbEZVZGFLVENFTVo1bVJPUHpRd1E?oc=5
 
-- タイトル: 顧客体験（CX）を高めるカギは従業員体験（EX）にあった！企業価値を高める“人中心”のソリューションとは？ - ダイヤモンド・オンライン
-  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rZmpYNjJlU0pBenZoUzJiZ3VHTkNUZkhkeFNIenNoODlDdzRyWHJ3dmF6YV9wdFFFMVZyck1XT3Rwa3lZUWV2SWNsRk8?oc=5
+- タイトル: 北國FHD、EmotionTech EXを導入 従業員エンゲージメントスコアの開示でEX改善を推進：saleszine - MarkeZine（マーケジン）
+  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTE9veW42N0dQcWFNTmdKTmUwdnN5RHJfOGxIX2N2Zkl0Tml5bzBQcWZjNmhlZk9qbmF0eDFNM2RCbnN2SXVJanlMSTVUNmZPbG8?oc=5
 
-- タイトル: 新しい”忘年会”の形！バニッシュ・スタンダード、「戦国」をテーマに年忘れ大運動会を開催 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBITGZoTFZ2R01UbWFFVlVOeVJVbDYtd0paSHRwdjhIQ2pUbjNaeUcyOU1YREZVcWp3c0dOdjJBb0VKUHhLbl9CcEJyNFkweDZxVDF4SHhHOUxqcWtuaFNkMVVzMl9VU0FVYlE?oc=5
+- タイトル: Employee Experience （EX）の向上を通じたサステナビリティ経営：視点 - ITmedia エグゼクティブ
+  URL: https://news.google.com/rss/articles/CBMifkFVX3lxTFBpTmZXVThZMUZZRzBBYWxyYzBkRGJxVElaWjVWNzk4OG9ubXFmLW8zRWh6WWEwYmp0MEJqZ3BuRHVEYS1yejNJUmhRY2xGaE0waXhWbzNBSHlNLXpqWTRtNGNhSzNuRFZTSzRZQ1RydU1GZndYYkVRU0k2SkpCZw?oc=5
 
 - タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
   URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
@@ -21,11 +21,11 @@
 - タイトル: 広報担当者の悩みを解決するノウハウやツールを紹介—コーポレート・コミュニケーション カンファレンス - AdverTimes.（アドタイ） by 宣伝会議
   URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iMXFKUDJsUWZzbmMycmJTNTUtMGNwLXcwd3Y3RlAwZkRwQVRqSkFSY0M0SkUwUm9MWEpEbGtXcThiZTk1dGl6M0JDZzltUkczeU9nbU9penpoUmIwOHhF?oc=5
 
-- タイトル: なぜ変革は進まないのか？― 人事制度・DX・経営戦略を現場で実装する「組織変革」という考え方 ～“戦略と現場の乖離”を埋める組織変革の実践 - 日経イベント＆セミナー
-  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tQVJadXFaSXVqOFVEdy1xQWpmUVQtdmhZWTF0VFpVMURvLUJXcXMxdThIMmF4b3hOZ1BvTFFMNklKbDM0bG9HRlln?oc=5
+- タイトル: アダストリアの海外事業を成長させたDX戦略 組織文化の変革には何が必要なのか●6/5（水）13時〆切 - MarkeZine（マーケジン）
+  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4MlZTLU9vR3FZZ3Vyd2VYQzNPNUZZdUFvVk1xWDFnN1dhT2IxNG1XM3VFVHYzZ2ZiTnpaNU5vSDJ5VTJvcGl1NlJQZ0ZxeUE?oc=5
 
-- タイトル: 88％の社員が自ら動き出した トップダウン型だった丸井が、組織文化の改革で「捨てたもの」と「残したもの」は？ - JBpress
-  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMaGlFOTZqOHFZZWVTZHFQTXkyUV90SDdQZE1MSUJPMDZCTEY1V3RKdlZkNFpxbTRfQnZaX1hCamFNN1UybTdLZkhNWEJhVFNsaUdGREtB?oc=5
+- タイトル: 縦割り組織を超えて加速するJR西日本のDX─TRAILBLAZERが明かす、データサイエンス組織創成の軌跡と攻めのITへの転換 - IT Leaders
+  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DNzhzZmprNmN3ejZWb2YxalBsRmxHZWZuNFpSbXFQM2N1UHY3R1NWd3B3a2tNdkZMcWcxcW5jR2VBZG9tRjFlVVVOb0tWMlVpM01N?oc=5
 
 
 # Manusへの追加指示
