@@ -1,19 +1,19 @@
-# 本日の執筆テーマ: トレンド解説
+# 本日の執筆テーマ: キャリア
 
-- 生成日時 (JST): 2026-08-28 19:20:18
+- 生成日時 (JST): 2026-08-29 15:19:58
 
 ## 収集された最新トピック
-- タイトル: 化学品商社特集 従業員エンゲージメント高め経営 - 化学工業日報 電子版
-  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhUll0Vkgtc0Rta1pxQjM0TkE0VHJUV1FYem42QmVuWVFVMkVWVG9RdnZLTXNJZHdMQTB5UUVvTE83emRDcjdBenM1UGZ3ZkFRNjdj?oc=5
+- タイトル: 「測るだけ」はもう終わり 従業員エンゲージメント診断へのニーズに変化：IT調査ピックアップ - ITmedia
+  URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE5MbkMzV2ZiUUJ2MjdUSUNxdDM0NEM3aVBoSUo4YWV0UnJZSWlzR1RmZmozb1JxZm42enlKVEVQWjNlUTloMTF3UTJHV1VmU0lwU0JfMk0zNGJEM2ZvN0tjaVZ2M28wVFZneWJqMWpISkJhcXhE?oc=5
 
-- タイトル: 大企業における従業員エンゲージメントと離職意向の 関係性に関する実態調査 - jri.co.jp
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWZWRMelpJME9YZXBIUjEzSV9iVG5nV1liTXR4cnZhbkxVbHFsVlRtajdXMGhsNmJWUDZ5enVxTWVDS04wQVdHY3RLZVJ1WVJjY2RzRUxoQnhmVjgybDh3?oc=5
+- タイトル: 従業員エンゲージメント市場に関する調査を実施（2025年） - yano.co.jp
+  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yX0hEazNKWXptU0xidUlreTJGelRtRkQ0TVlJRGppZ0o5cTV1ZEZhMXdGbzAzSENvenZaSlZXMkhNS2xPYzVRRzdjenBybnRtSEdqSzFCT2N6QUdjVF9ZU3BMMTZVdw?oc=5
 
-- タイトル: 2026年9月15日（火）【人事・経営層向け】無料セミナー開催！「ES調査では「採用・定着」改善は難しい？ - ニコニコニュース
-  URL: https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JRWYzQkY0dVpadVlnSlAxM3VjYU15Z3ZHUzJUbnFqVUFObnBlQ1JfSXhEWFdtUkgyYWN4ZVlmMERGWFVnaW5zQTl3ZFlrcUdvY3BGMw?oc=5
+- タイトル: フォルシア webコネクト、JR東海ツアーズ・日本旅行が販売する「EX旅パック」「EX旅先予約」の割引クーポン機能のUI/UX向上に貢献 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1MV2FQRTA1bERwNDFjM3JwNm9OZW5pTi1Zb2JET0ZQRHlRa284dWF2RjVIWUR0emxQWUJsRG43WDd5N1lBVjhBclNKTE9xbUVnZjl3VG44U3RmdDBEb2M2bGVUQTJSWWdwYUE?oc=5
 
-- タイトル: 丸亀製麺、CX引き上げはEX向上から 社長が現場行脚 - 日本経済新聞
-  URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE9SXzc0WnJHWlpOaXliZGZDczhRXzZPX1FLYXZ2QXJrbnRyekYxdHlDVm8tNGo1aFN2Z1JPOTdBZEJNSG4tel94X25GMDZiMVlPakRUWU9DSkJraTBkRTNDV3FWM1NVS0ZSak9FcQ?oc=5
+- タイトル: ホームデポとカインズから学ぶ CX・EX向上による小売業成長戦略 - ダイヤモンド・チェーンストアオンライン
+  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqZGtVQ3Q5Y01mVGFXbXJ5c1NlcFdQb2YtUTBoT0hMX0xUTk00ME15dGZFY24zSUtWN240NUxtdmNnSmRNSWhrUnVIOHJWdVE?oc=5
 
 - タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
   URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
@@ -21,11 +21,11 @@
 - タイトル: 広報担当者の悩みを解決するノウハウやツールを紹介—コーポレート・コミュニケーション カンファレンス - AdverTimes.（アドタイ） by 宣伝会議
   URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iMXFKUDJsUWZzbmMycmJTNTUtMGNwLXcwd3Y3RlAwZkRwQVRqSkFSY0M0SkUwUm9MWEpEbGtXcThiZTk1dGl6M0JDZzltUkczeU9nbU9penpoUmIwOHhF?oc=5
 
-- タイトル: 場所を選ばない働き方で、住民のもとへ赴く自治体に。 - ジチタイワークスWEB
-  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Ha2Y4a1Y4aE9pLUwzWUdEZlFGWDNYWjNVLW5yZDFXMmRadVpYMWUteFFSaTZmN2RHQW1vcEdreXBOQ3pEaHluT2ZiMFo?oc=5
+- タイトル: 「全社員をDX人材へ」 一橋大名誉教授・神岡太郎氏が持続的なDX推進のために組織文化の醸成が必要だと語るワケ - JBpress
+  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE94LWVjRWVnM2VBSFF4TGdFenR1clRXcjBBMTlfSTlVXzVDT3NTdEFQUkFFcVlEYzd2QmdWQTRIYjNsYXJhTGgtdkJPVTM0VUM4S3lBWjRn?oc=5
 
-- タイトル: DX実現に欠かせない「組織のデジタルリテラシー」を高める方法 - DIAMOND ハーバード・ビジネス・レビュー
-  URL: https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiWFM1UzVFRXotd2JaU25YeE8xMUxuckNnUW5jeW4wenBqaVdIeG5Idm5mT0RQSmxuQUJodjNRS0liRWJ1XzdBcER0RU4zaG1N?oc=5
+- タイトル: 「日本企業だから変われない」は的外れ コロンビア・ビジネススクール教授が指摘する日本のDXが進まない本当の理由 - JBpress
+  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEWDFvZHRISnkxb29BWVRrUlVwWFdnYVN5VUYtb0ZqQi1PYmozR3AzMG45YVVfXzlzWnhxRjl1N1Q2VEF0TWQxZzJMTVZBREVvaXE2UDR3?oc=5
 
 
 # Manusへの追加指示
