@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: キャリア
+# 本日の執筆テーマ: 海外事例
 
-- 生成日時 (JST): 2026-08-29 15:19:58
+- 生成日時 (JST): 2026-08-30 13:29:51
 
 ## 収集された最新トピック
-- タイトル: 「測るだけ」はもう終わり 従業員エンゲージメント診断へのニーズに変化：IT調査ピックアップ - ITmedia
-  URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE5MbkMzV2ZiUUJ2MjdUSUNxdDM0NEM3aVBoSUo4YWV0UnJZSWlzR1RmZmozb1JxZm42enlKVEVQWjNlUTloMTF3UTJHV1VmU0lwU0JfMk0zNGJEM2ZvN0tjaVZ2M28wVFZneWJqMWpISkJhcXhE?oc=5
+- タイトル: 【速報！第3弾】2026年版第4回全国１万人従業員エンゲージメント調査 業種別分析レポート～16業種に広がるエンゲージメント格差～ | 株式会社アジャイルHRのプレスリリース - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9QS1M0dndtOU5ReThtRFZTUURTSHI5ZGdVY2xWa1BvRTRvdzNSSlFNc2tQZHIyaDZVdnJGVHR1MTAyVzFvdjFoYl9YMmlUMHdCa1RnR2gzMUtLOGtqaFdkcUNJNGg5bXgwMUE?oc=5
 
-- タイトル: 従業員エンゲージメント市場に関する調査を実施（2025年） - yano.co.jp
-  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yX0hEazNKWXptU0xidUlreTJGelRtRkQ0TVlJRGppZ0o5cTV1ZEZhMXdGbzAzSENvenZaSlZXMkhNS2xPYzVRRzdjenBybnRtSEdqSzFCT2N6QUdjVF9ZU3BMMTZVdw?oc=5
+- タイトル: 【5/26～28開催】エンファクトリー、「従業員エンゲージメント向上カンファレンス2026」に登壇。オトバンクと対談し、社内浸透と社外への越境から描く「関係性の質を高める"つながり"の設計」を紐解く。 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE51Y1R3TVlpT2FIMEc5dDBGeldvWkpSR0RqRm1BTHJXeDJRRjV4Z3kxd0F1OV92eWNlTWctSDJleWNtS3FWdDh3VFZodTV3enM2ZFFOc3BsQXVPVjl4RU93U2o1dDdtMkF4bGc?oc=5
 
-- タイトル: フォルシア webコネクト、JR東海ツアーズ・日本旅行が販売する「EX旅パック」「EX旅先予約」の割引クーポン機能のUI/UX向上に貢献 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1MV2FQRTA1bERwNDFjM3JwNm9OZW5pTi1Zb2JET0ZQRHlRa284dWF2RjVIWUR0emxQWUJsRG43WDd5N1lBVjhBclNKTE9xbUVnZjl3VG44U3RmdDBEb2M2bGVUQTJSWWdwYUE?oc=5
+- タイトル: ニューノーマルの人財マネジメント――EXの向上とジョブ型マネジメントへの移行を支える仕組みとは (1/4) - HRzine
+  URL: https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DY3NTcU5hWUEwbDZ4akJKSTgtQ1AxM3hQcmR6Z1RUaXFxZ2trRUdmek15cXhsb2g1QTNyUGFXWVJVMS12NmxNY042d0U4Zw?oc=5
 
-- タイトル: ホームデポとカインズから学ぶ CX・EX向上による小売業成長戦略 - ダイヤモンド・チェーンストアオンライン
-  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqZGtVQ3Q5Y01mVGFXbXJ5c1NlcFdQb2YtUTBoT0hMX0xUTk00ME15dGZFY24zSUtWN240NUxtdmNnSmRNSWhrUnVIOHJWdVE?oc=5
-
-- タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
+- タイトル: 「幸せに働く」を本気で考えたＥＸ向上施策～ハイブリッドな働き方を前提にした当社グループの取り組み事例～ - ビジネス+IT
+  URL: https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUT0VydFdZYVZOSWRvUWROaUhudkVDTTFVTmNhRXFvM2NXLThjQWZVakNSQzllbjdFcDlPX1JxTHFHamlPU0hKcGZhbw?oc=5
 
 - タイトル: 広報担当者の悩みを解決するノウハウやツールを紹介—コーポレート・コミュニケーション カンファレンス - AdverTimes.（アドタイ） by 宣伝会議
   URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iMXFKUDJsUWZzbmMycmJTNTUtMGNwLXcwd3Y3RlAwZkRwQVRqSkFSY0M0SkUwUm9MWEpEbGtXcThiZTk1dGl6M0JDZzltUkczeU9nbU9penpoUmIwOHhF?oc=5
 
-- タイトル: 「全社員をDX人材へ」 一橋大名誉教授・神岡太郎氏が持続的なDX推進のために組織文化の醸成が必要だと語るワケ - JBpress
-  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE94LWVjRWVnM2VBSFF4TGdFenR1clRXcjBBMTlfSTlVXzVDT3NTdEFQUkFFcVlEYzd2QmdWQTRIYjNsYXJhTGgtdkJPVTM0VUM4S3lBWjRn?oc=5
+- タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
+  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
 
-- タイトル: 「日本企業だから変われない」は的外れ コロンビア・ビジネススクール教授が指摘する日本のDXが進まない本当の理由 - JBpress
-  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEWDFvZHRISnkxb29BWVRrUlVwWFdnYVN5VUYtb0ZqQi1PYmozR3AzMG45YVVfXzlzWnhxRjl1N1Q2VEF0TWQxZzJMTVZBREVvaXE2UDR3?oc=5
+- タイトル: 縦割り組織を超えて加速するJR西日本のDX─TRAILBLAZERが明かす、データサイエンス組織創成の軌跡と攻めのITへの転換 - IT Leaders
+  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DNzhzZmprNmN3ejZWb2YxalBsRmxHZWZuNFpSbXFQM2N1UHY3R1NWd3B3a2tNdkZMcWcxcW5jR2VBZG9tRjFlVVVOb0tWMlVpM01N?oc=5
+
+- タイトル: 生成AIを活用する経営者が急増 それがDX担当者を泣かせる - 日経ビジネス電子版
+  URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yd2NxQ25jOE0wYTBvMTdSZGk0WEdqNk4wMW9QaERUenhBYnJ0akRteTBYZ2xoOVNNclNqT28tOHJlZU5VNW5LUnpTWVU1NHh0MXZ4N050bm1pNkhXN3VzZEJvb0pQcHc?oc=5
 
 
 # Manusへの追加指示
