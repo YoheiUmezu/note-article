@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: トレンド解説
+# 本日の執筆テーマ: キャリア
 
-- 生成日時 (JST): 2026-09-04 12:38:54
+- 生成日時 (JST): 2026-09-05 12:38:54
 
 ## 収集された最新トピック
-- タイトル: 【従業員エンゲージメント調査の実態】働く人の6割超が「静かな退職」に共感、約半数が調査は「役に立っていない」と回答 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBJYVVETVVwUG1vZ1dsVmJTd2Q4TTZyY20tLVIzZWpJb2NvV0ZlQ3FTQV9iWERrdUxsRXVhVXlkd292QzhIRFc1dmF6SVdFX2JSblpXb094NDNMVWRoN1VmTVRKb3RqS1ZBd2c?oc=5
+- タイトル: 「組織変革につなげるエンゲージメント調査とは」を公開┃働く人の6割超が「静かな退職」に共感、約半数が調査は「役に立っていない」と回答 - kreo.jp
+  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKSHI2bENsV0RmUG5KSEVmQjhGOXI4b3d1OERWSjVuXzl1OXFGeF9pTXpYM3pRR0NBX2ExU1BfSGFKNWs3VXVNMnZlc3FBMXBja2xFVG11RUIzUQ?oc=5
 
-- タイトル: 【6割が「静かな退職」に共感】会社員500人に聞いた「静かな退職とエンゲージメント調査」レポート公開 - HRプロ
-  URL: https://news.google.com/rss/articles/CBMibkFVX3lxTFB4WE1vZkhhemp5VjRCYnBFMmpPTnd3a1dLcUhYU1AzeWJBZkJrRkZDRkZGM1pWQjBRVHF4ektQcVFuU2hkUm4yT2V6SjhFd2htUFVSYi1sVEk1eTZhWlJFcFhKOWpwanBLY0djenhB?oc=5
+- タイトル: 現在成果を上げている従業員エンゲージメント戦略12選 - Forbes JAPAN
+  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXR2kyMDByVnZpYnFTanJrMzIxMFA4NGNhY0liR2JZbUMzTWhpQ2VZVFY1S2dmOEtITnk2Zm9MWVBMSGpFd01mMnNmZWFHT2V6OFQxMk1BTkhqUQ?oc=5
 
-- タイトル: インテージ、「従業員の行動が、売上を動かす」をデータで証明・実装する新ソリューションを提供開始 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5jMDBYR09PSDE4TFVGeUFKREVqeC1HZGQwaW9ZczJaWHNvQlFLbGpMOF9LZEhmOExta0pvNU9GVW5mOC1vX0QzOGg3WWhlX19BUlF0ZlBkaDFDRzlCU01heThZM0pHdXhDR1E?oc=5
+- タイトル: ビジネスの成長にはEX向上が不可欠に――みずほの挑戦から学ぶ (1/2) - MarkeZine
+  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE02R2ZGMzBZMUs0eWNidWUtcVZEdERfTWJMUzYyRGxBR2lWdnJib214d2ExdVpIclJicFBpRTBRU0NWeXF3ZmQxQXJlY1NpS1o0cHZr?oc=5
 
-- タイトル: くら寿司 ニュースレター2025年7月号＜従業員エンゲージメント向上の鍵は体験型研修！＞ 日本の外食産業を悩ませる人手不足にどう向き合うか EX（従業員体験）で組織を強くする研修とは？｜プレスリリース｜くら寿司 ホームページ - kurasushi.co.jp
-  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YWVJMdXF4WTNmZVFqSVloUjVyM2dUZ0FvYlZrQS1RSE43TS00U1lWX25uY0hfYUNXSzExeEtzbC15SlBTZzU2blFOWm9fQVZRME9odU94dldvdw?oc=5
+- タイトル: 成長企業が実践している、従業員エクスペリエンスを向上させる組織づくりとは - 日本の人事部
+  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTFBsbkg5WGNyNGFHUkVuOC1FNFFXdFA4ZFg0VWZkTW5sSnZtVTBMRjRaejI1S3FUaHlBMkIwcU1lQk02TDgyUy15VS1ZNG00R1A4V3l2eFpqR2phaTFRN2RqMms3aXhCanNGaTRMa0ZCUy12c0Jadnc?oc=5
 
-- タイトル: アジアNo1(*1)のPR会社が伝授する、“人事採用×広報PR” 戦略「採用戦略サミット2022 令和の新常識 produced byベクトル」開催 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9SYU1yRHFrU1pXZ3liazlTVHhJTFRybkFNZG5lYlZXaTNBeGI5MUlZXzhEbFRNbmVNbi1YRTluRzRabTk3a29nSklJTVNUdU5xSGh3ZDN1SWtjOTVfc3QwZjZJcW5sNldPelE?oc=5
+- タイトル: 令和PR、首都圏よろずサミットにて「採用活動を後押しする 採用広報の始め方」を講演 - 朝日新聞
+  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lQXFuUmNBSkd6TEwzUEFwQWJXS3JtaWxVcGdxVFpuVm5yQzVlMWVzNksxS1VBNENvOElQUG1IZDBISEhodW5QTGFOTlJXMjFkRDNta1dxSmMzcjQ?oc=5
 
-- タイトル: 広報担当者の悩みを解決するノウハウやツールを紹介—コーポレート・コミュニケーション カンファレンス - AdverTimes.（アドタイ） by 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iMXFKUDJsUWZzbmMycmJTNTUtMGNwLXcwd3Y3RlAwZkRwQVRqSkFSY0M0SkUwUm9MWEpEbGtXcThiZTk1dGl6M0JDZzltUkczeU9nbU9penpoUmIwOHhF?oc=5
+- タイトル: 神奈川・湘南アイパークの成功例続く ｢研究者ファースト｣で成果 - 日本経済新聞
+  URL: https://news.google.com/rss/articles/CBMibEFVX3lxTFAzOUZFRVQ1SHJUX2JsNHQ1OGxWTU00UjJMbXhSRGJHZUdBZDF0aTQwZVl2Wk5EVzRvZ0VIVHZsZmdPcnhzOFFENnFtR1dqNE5KMWdDZko0MlVrQ3BiOUlZLUh3ZDZ3dThJZnRlVg?oc=5
 
-- タイトル: リスキリングの一歩を、組織の“仕組み”に変えた企業でDXは自走する - dcross.impress.co.jp
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Ca1IxTU54dmdidXZiOHhrQXFyQ2F6dUh1RnJUbDlUQVZweWZhVTNaSXRFRjA1WXE3aExiT0N1Z0pkeUJLcFJxc2QzcmF6cWFvVUROOWlIVnZvLUZYdXVN?oc=5
+- タイトル: AKKODiS、「令和８年度 大分県及び市町村のDX人材育成支援業務」を受託 - Infoseek
+  URL: https://news.google.com/rss/articles/CBMickFVX3lxTE8yTy1rVEt6VzE2cGZfVVBVZ0JZWlY3dUk2U0RoT1RUbGdEMlBiM0xzTWpFR3E2TmhrQ1daYXVtNFBMZ2JVV2pqWlgyRTBhN2pENktwQ1dLRnFfSzB0V0pzRWZkN05zV0dCVjh5Q0k4MGhZQQ?oc=5
 
-- タイトル: 学校法人神奈川大学が挑むDX人材育成 ～全事務局職員を変革の主役にする組織改革のこれから～ - NEC wisdom
-  URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE9ULUZuelVpc2RMa2JyUTVaUTRzVmhHXzIxdGdDWUwydlU4SzY5WkxWU3BrMjhVUTZ6TkJUa25pM3F0dmZSWVlvQzFEalZBSG9HRVNYenNHNlA3Zl82UUJJQkFQRDdDeXFLei1GUGpISkJIczltaGNJ?oc=5
+- タイトル: 「デジタル化」のその先へ！ 長野の中小企業がDXで挑む市場変化という魔物：DXにはアナログな部分がとても大事（1/3 ページ） - atmarkit.itmedia.co.jp
+  URL: https://news.google.com/rss/articles/CBMickFVX3lxTE5BcGRSLXZyMkFIZmFTTWQxUUowNFhycTdNTGZnM1lGa3dUYmhEODZUWHp2bFMwY0MzQWE2WGFqOV92dWNqY0RMZVhvU1JURzA5X3hQcEV0bWlVcWh2VlR3VUZ0V2pjSld4aVNrMTg2YktCUQ?oc=5
 
 
 # Manusへの追加指示
