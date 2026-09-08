@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 経営戦略
+# 本日の執筆テーマ: 現場の運用課題
 
-- 生成日時 (JST): 2026-09-07 12:40:17
+- 生成日時 (JST): 2026-09-08 12:45:11
 
 ## 収集された最新トピック
-- タイトル: エンゲージメントが高い組織では退職だけでなく休職率も低い、L＆M調査 - 日経BP
-  URL: https://news.google.com/rss/articles/CBMifEFVX3lxTE43RkF2ak5IYlN4d1hYTkdwbGxJUk9KOFVvc3JZSWxXNURYX1VFMDhmQ095MnVTMXFwd1RpUmx3YWRUalp0TUZhM2t6U1B4RmpFd0EyV3Q2ZGtNd0V4Y1B6VkctaG02STNMV2hKYmtCRERma0taS0c2VHY5UWk?oc=5
+- タイトル: 【参加者600名超】札幌市の職員エンゲージメント向上支援の一環として、管理監督職向け「マネジメント力向上セミナー」を実施 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1MUkZPVFlYcFd5ZGFGVHI0dG44S1NhdmZsejNaYmR2enRCOGtTVW1kLWpZYTE3a3lqZXZ5cUF4OEp5clgxUmc4cC03R0Q4Y0drZWhyQWJuWnhFTzNraFp0dURhTGZGSWtfUGc?oc=5
 
-- タイトル: 健康状態の可視化で従業員エンゲージメントを支援、不調傾向の把握から健康施策の改善へ - 朝日新聞
-  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PVkRuWmswMU9rTEN6M0NCSW54N1VvWk9CTjZmcVhJRWhkaWhDaThRZVZxd2RTMjNhaHBsdWtOc1VUV3Y1QTMzQXRDRERhOXVoQlY4QjVwOERTR00?oc=5
+- タイトル: ヤプリ、アルペンの顧客体験と従業員体験を支える基盤を提供 小売業におけるアプリ活用の新たなモデルケース - 日本ネット経済新聞
+  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE91RFpZaFRCdGEyR0VPdFNFMUtCRy1kVUFxV1NmcVpVUWFuRmQyMUQtMUZUdnN1Vi1zQ1oyWkhnaEVXblg5czJIU0pVN0hGeTgzeHlQZUhB?oc=5
 
-- タイトル: 誰もが使う社内ポータルを、より良い手触りに変えていく。EX向上に挑む三者三様のストーリー - NTT Data
-  URL: https://news.google.com/rss/articles/CBMic0FVX3lxTE13X1ZCT0NwWXhPVkNlUGh6eUszcGhsSVVLNUlPSTY3YUlVU1AxSkljU1JQVlpoVTVSaGhqbk1BWTdZbkFRcUdzd1k4empJWjJaTUFPV2I0Zl92RHMxdXRybEhHVkRjMnVWX3I1MVdkMWxwUzQ?oc=5
+- タイトル: CX・EX向上推進のエクレクト、デジタルコンテンツ企画・制作などのゆるりとを買収 - marr.jp
+  URL: https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Wd2dJSndkQjVuVmF1QzFlYnJpXzdodzVaSUF4aXRuYVE1NHM2VmRCWTFoaERKcFZLUTBwVjRiaFRZT094cG80aUVBX1FpcGFjOWpWR0NnRzVscFQt?oc=5
 
-- タイトル: 注目を集めるEX（従業員体験）とは？ EXを高める方法や効果を事例を交えて解説 - ネットショップ担当者フォーラム
-  URL: https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BYmYzMFdGYnpPTGRHeDVnbDZuZ0lpQ19CdlRTOUd0UndkOFpFS3NJZWxJbS1yMmFFWVFNVk81MlR4QUJLQURPSG56bkMtdXNYOVE?oc=5
+- タイトル: CX／EX向上で顧客満足度を高める！ - NTT Data
+  URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE9ORlU2TTIwSjVaTXdmSTdwUGtxSHdJQWZRRmVGSVl0bUlCVHRnUWV2NFFiUjNPSjY3YzJjZDVFRWVGalBxdXdvYUU3U0h6ejAzOWhFYjhvWjBqMU51amZFWDZfUkFEZ3YtRDY0bw?oc=5
 
-- タイトル: 話題になった広報企画100事例（日産自動車、京セラ、NEC、他6社） - 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZMERpbk1Ma2ZSUEFQREY2OHUtc0d1WVRLU3NYQl9yYkNBd2VUSU9uSlNhX0VBNXY5Ymd3UFpvWlA3bFpjelVreF9VUnZBMFlHc2FQN3VRQzY0cEt4RlJjTUpNNEl0UjhHaDJ3RkFickY?oc=5
+- タイトル: 野堀 和哉 - 日経クロストレンド
+  URL: https://news.google.com/rss/articles/CBMikAFBVV95cUxNM1N2Y2JnVEg3dG1IS2tlY0w1Nk94blowbGNOUHRUR19xMDJSV3Ztemk2OWZ0MjVHSVNoOHE0ZTUyTGwzS1ByZ2VCck9Gd19OdUloT1hCZm9WclRFUmVrUHdDM0R0MEZvbFJmejJNa0Vka21yX0MxSjNoR21SV05ZN3dFNXFNVFZoWGR4YV84SHc?oc=5
 
-- タイトル: 広報・CSRのためのSDGsスタートアップセミナー（オンデマンド配信）#社会責任 #インナー広報 #社内広報 #持続可能性 #CSR担当 #広報職 #経営企画 - 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5pSXlmU3dTaEpIQmNHcGxySkxPTFp3NmxxWjBVT0N5SkZiLUlOWjRmRl9qdjFQU0dtbTZBcUZGYzhoNlZzcC1ZRDhXeFFPWWpDYkl4VUVFeko3SVF2U01vczcwWUhHdDNuZUE?oc=5
+- タイトル: 異業種からの挑戦を成功に導く！　化粧品業界 新規参入セミナー　～勝ち抜くためのブランド戦略とマーケティング～ - corp.neo-m.jp
+  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LYXZPc2dxT2p2Sy13em5Gc0dzZjZ1ZXIydTNUV1lVaHB2QldhcVJrZy1ydUhkZkNqMDBabWlEYW9jakhrM2tCa0lRelhHQVhtd3A1RXZFWlgzQdIBakFVX3lxTE5iRmYtYlRmdmlCeTRLSkd3bHNJOEctQVpCeWRPbzNVYVFiYnBrMHlWVzZCTDRUVWpBMTZtZkw1YWpMU3pTODhWRDdyNFV4cUpQZnE3LWdHNElSNEdyakktbjNialhjVUNBSWc?oc=5
 
-- タイトル: 【連載 1/4】世界が試し、マクニカが磨き上げた「組織を変える日本流製造業DXとは」〜12年の試行錯誤から見えた製造業DXの律速〜 - スマートマニュファクチャリング - macnica.co.jp
-  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CVlo4eVZoMXhGaGxHN1B2RVBxYm9NNkdZYVZaMkRsaFFVVzl3bkU0MVBWRzZUODNqMDhTU1Utejl1azg1RU5jdVRaQ1UxUV9pOEVQQkhSRXVJTnhiLVBWTWtXNlk5dF9I?oc=5
+- タイトル: 45％が直面する「DX人材の壁」……いつまでも育たない企業に欠けている“2つの視点” - ビジネス+IT
+  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WbXlNMU1JY2tHQm11S3JtT0RfdzdDekhLLUs4SmtERFZvODlDaWotUW5jRUtSY0hUSXpnNHl3aDFoQ2ttNmpCMVFfWC1SeFk?oc=5
 
-- タイトル: 【連載3/3】製造業DXでどう成果を出すか｜推進リーダーの武器「Mendixと5P」 - macnica.co.jp
-  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE53dmlUZFhiS3VyLW5mS3V3dHNoUDl0XzNCRWZxeDFHSkhRbElhUVVON3R6TTRnZGNxNWRZUjJRb2xrdU9SYkg5WmViTUNLLVdYY2lPZktWZkp5eUFBR3pNVTVjd0g5UDZL?oc=5
+- タイトル: DXを成功に導くには 日本企業に変革を迫る組織の壁 - reskill.nikkei.com
+  URL: https://news.google.com/rss/articles/CBMickFVX3lxTFBPMHowb0RIVG1fUFQyNlVRWVJLaEI0MndGY2MtdHBnQWtnV2JWWkVOTkhXbGF6MVZZaFM1bkpwb1BkMlAtRTkwQTFpdDBhOXdPcWMyUko2QnRFZHFScjZ1WjVJbVdsbFJ4WnN3MWN4ZjBnQQ?oc=5
 
 
 # Manusへの追加指示
