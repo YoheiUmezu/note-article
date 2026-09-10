@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: システム連携
+# 本日の執筆テーマ: RFP/選定基準
 
-- 生成日時 (JST): 2026-09-09 12:49:53
+- 生成日時 (JST): 2026-09-10 12:48:39
 
 ## 収集された最新トピック
-- タイトル: 現在成果を上げている従業員エンゲージメント戦略12選 - Forbes JAPAN
-  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXR2kyMDByVnZpYnFTanJrMzIxMFA4NGNhY0liR2JZbUMzTWhpQ2VZVFY1S2dmOEtITnk2Zm9MWVBMSGpFd01mMnNmZWFHT2V6OFQxMk1BTkhqUQ?oc=5
+- タイトル: エンゲージメント調査は無意味？ 従業員が「離職を決める瞬間」とそれが見逃されてしまう理由 - Forbes JAPAN
+  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ROWhneVdEVU5IOUM5WEk3V09idThrUkdVZmswaGI5dEZSa3d3bTdabV9FRzBxbVI2VVUxRkZlZnNOTl9CR0h4S3FmZU5tcDhqcmRUeGoxVE8?oc=5
 
-- タイトル: 「測るだけ」はもう終わり 従業員エンゲージメント診断へのニーズに変化：IT調査ピックアップ - ITmedia
-  URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE5MbkMzV2ZiUUJ2MjdUSUNxdDM0NEM3aVBoSUo4YWV0UnJZSWlzR1RmZmozb1JxZm42enlKVEVQWjNlUTloMTF3UTJHV1VmU0lwU0JfMk0zNGJEM2ZvN0tjaVZ2M28wVFZneWJqMWpISkJhcXhE?oc=5
+- タイトル: 従業員エンゲージメントの「7割はマネジャー次第」、ギャラップ社トップ研究員の結論 - Forbes JAPAN
+  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lMEVKZEU0S0ZHMFpFb2k4NmdKSHlnWDR6UGp2ekwyNDZicEdya0pfMG5BdTZWcTJNLVdsbm5iY1lrUWVIUmR2ckRMdE1jT2luRmVVZ0x3TFc?oc=5
 
-- タイトル: Employee Experience （EX）の向上を通じたサステナビリティ経営：視点 - ITmedia エグゼクティブ
-  URL: https://news.google.com/rss/articles/CBMifkFVX3lxTFBpTmZXVThZMUZZRzBBYWxyYzBkRGJxVElaWjVWNzk4OG9ubXFmLW8zRWh6WWEwYmp0MEJqZ3BuRHVEYS1yejNJUmhRY2xGaE0waXhWbzNBSHlNLXpqWTRtNGNhSzNuRFZTSzRZQ1RydU1GZndYYkVRU0k2SkpCZw?oc=5
+- タイトル: IT部門はCXとEXに無関心ではいられない──ガートナーが語る「従業員ジャーニー」理解の勧め - enterprisezine.jp
+  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IUUZhVDcySmdFVm9manlmU21OSXc5WXJXTWNRSnY1UlBFUFE4dDd2NUtXVDg2TmMzakJrMjhRa2NINV9ncHhoVXhzbzg4QXpHUnhZWXQzUlFMZw?oc=5
 
-- タイトル: 成長企業が実践している、従業員エクスペリエンスを向上させる組織づくりとは - 日本の人事部
-  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTFBsbkg5WGNyNGFHUkVuOC1FNFFXdFA4ZFg0VWZkTW5sSnZtVTBMRjRaejI1S3FUaHlBMkIwcU1lQk02TDgyUy15VS1ZNG00R1A4V3l2eFpqR2phaTFRN2RqMms3aXhCanNGaTRMa0ZCUy12c0Jadnc?oc=5
+- タイトル: 丸亀製麺、CX引き上げはEX向上から 社長が現場行脚 - 日本経済新聞
+  URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE9SXzc0WnJHWlpOaXliZGZDczhRXzZPX1FLYXZ2QXJrbnRyekYxdHlDVm8tNGo1aFN2Z1JPOTdBZEJNSG4tel94X25GMDZiMVlPakRUWU9DSkJraTBkRTNDV3FWM1NVS0ZSak9FcQ?oc=5
+
+- タイトル: アジアNo1(*1)のPR会社が伝授する、“人事採用×広報PR” 戦略「採用戦略サミット2022 令和の新常識 produced byベクトル」開催 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9SYU1yRHFrU1pXZ3liazlTVHhJTFRybkFNZG5lYlZXaTNBeGI5MUlZXzhEbFRNbmVNbi1YRTluRzRabTk3a29nSklJTVNUdU5xSGh3ZDN1SWtjOTVfc3QwZjZJcW5sNldPelE?oc=5
 
 - タイトル: 野堀 和哉 - 日経クロストレンド
   URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNzBLckxhUENQY1hZdy1NRHd2UTliMGlJUDNkQ01tZm16cWgtMHlxZl83ZUlleTBUaVB0cnBHTl9wdE1TVjdvdlBxbDktZkVOTjNSQXctdWYzYU9BZjFFVzJTNVRiZw?oc=5
 
-- タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
+- タイトル: 「全社員をDX人材へ」 一橋大名誉教授・神岡太郎氏が持続的なDX推進のために組織文化の醸成が必要だと語るワケ - jbpress.ismedia.jp
+  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE94LWVjRWVnM2VBSFF4TGdFenR1clRXcjBBMTlfSTlVXzVDT3NTdEFQUkFFcVlEYzd2QmdWQTRIYjNsYXJhTGgtdkJPVTM0VUM4S3lBWjRn?oc=5
 
-- タイトル: なぜシステムは使われないのか？効率化がDXを阻む逆説──サイロ化の罠とセカンドペンギンを増やす組織文化変革 - EnterpriseZine
-  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YTG5RSkNyR05LX1FyMzh2UDEtYVpOdXdWcTk2YUdxX05UMVVWUnZQRkFnMHJTbHhrbGlvcFljenRsRmp0U3JFeExZa1AtSDFvMDVJcnpuZXVSQQ?oc=5
-
-- タイトル: 企業変革を加速するNECの実践 : BluStellar - NEC
-  URL: https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWTkyZWFZZ1FWWVlPb290QmIxZEw3OGpjd3UzT216YURvSWRvdEd6RlNDbXQ3bGpXQmh1T3g4OTJCcWJ0SFA1VXdTSlo5Q0VPalZiMWExc3Y5ZUZhV1MzSjljZy1QR0VTbV9aWFVkZG9wU1QwS1lJNVY4ZnQxM0Q2MGk0RnlqWWZ0?oc=5
+- タイトル: 人材不足時代のDX推進戦略～人材育成と組織文化変革の第一歩～ - ビジネス+IT
+  URL: https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ETWI0UWQxdTlFSEVoZVJ4Y2pnYWduZ2FUN29VbjRkSU1MQjF5Y2kxR1NDWGEtXzhmYU1JNmVEWWVobWNjRE9wUEllRQ?oc=5
 
 
 # Manusへの追加指示
