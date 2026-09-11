@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: RFP/選定基準
+# 本日の執筆テーマ: トレンド解説
 
-- 生成日時 (JST): 2026-09-10 12:48:39
+- 生成日時 (JST): 2026-09-11 12:45:32
 
 ## 収集された最新トピック
-- タイトル: エンゲージメント調査は無意味？ 従業員が「離職を決める瞬間」とそれが見逃されてしまう理由 - Forbes JAPAN
-  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ROWhneVdEVU5IOUM5WEk3V09idThrUkdVZmswaGI5dEZSa3d3bTdabV9FRzBxbVI2VVUxRkZlZnNOTl9CR0h4S3FmZU5tcDhqcmRUeGoxVE8?oc=5
+- タイトル: 従業員エンゲージメント向上を目指す工場特化型プログラムを開始 他 - jinzainews.net
+  URL: https://news.google.com/rss/articles/CBMiR0FVX3lxTFBIVWFUVV96Z2FtWjc2MDJsTlkwSlgzR2xudnI3SWtHNDRnV1lqX0ZDSFUyMFJXVThoWXVkYy03a0lNdXdGZnhj?oc=5
 
-- タイトル: 従業員エンゲージメントの「7割はマネジャー次第」、ギャラップ社トップ研究員の結論 - Forbes JAPAN
-  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lMEVKZEU0S0ZHMFpFb2k4NmdKSHlnWDR6UGp2ekwyNDZicEdya0pfMG5BdTZWcTJNLVdsbm5iY1lrUWVIUmR2ckRMdE1jT2luRmVVZ0x3TFc?oc=5
+- タイトル: 生成AI普及前後における従業員エンゲージメントの変化と退職要因を調査しました ｜ ピックアップ - lmi.ne.jp
+  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6b0YtV080ZW5oSk1JQlJBSFIxcnY0U054c3B2dktEVzhuVkxhODE5VHRfMHMzaUxGdm9obXJUTE5fN0xCYXItLXhORlppUXNJX3ZLa1dJaHVXQ0pNZS0yMA?oc=5
 
-- タイトル: IT部門はCXとEXに無関心ではいられない──ガートナーが語る「従業員ジャーニー」理解の勧め - enterprisezine.jp
-  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IUUZhVDcySmdFVm9manlmU21OSXc5WXJXTWNRSnY1UlBFUFE4dDd2NUtXVDg2TmMzakJrMjhRa2NINV9ncHhoVXhzbzg4QXpHUnhZWXQzUlFMZw?oc=5
+- タイトル: 成長企業が実践している、従業員エクスペリエンスを向上させる組織づくりとは - 日本の人事部
+  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTFBsbkg5WGNyNGFHUkVuOC1FNFFXdFA4ZFg0VWZkTW5sSnZtVTBMRjRaejI1S3FUaHlBMkIwcU1lQk02TDgyUy15VS1ZNG00R1A4V3l2eFpqR2phaTFRN2RqMms3aXhCanNGaTRMa0ZCUy12c0Jadnc?oc=5
 
-- タイトル: 丸亀製麺、CX引き上げはEX向上から 社長が現場行脚 - 日本経済新聞
-  URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE9SXzc0WnJHWlpOaXliZGZDczhRXzZPX1FLYXZ2QXJrbnRyekYxdHlDVm8tNGo1aFN2Z1JPOTdBZEJNSG4tel94X25GMDZiMVlPakRUWU9DSkJraTBkRTNDV3FWM1NVS0ZSak9FcQ?oc=5
-
-- タイトル: アジアNo1(*1)のPR会社が伝授する、“人事採用×広報PR” 戦略「採用戦略サミット2022 令和の新常識 produced byベクトル」開催 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9SYU1yRHFrU1pXZ3liazlTVHhJTFRybkFNZG5lYlZXaTNBeGI5MUlZXzhEbFRNbmVNbi1YRTluRzRabTk3a29nSklJTVNUdU5xSGh3ZDN1SWtjOTVfc3QwZjZJcW5sNldPelE?oc=5
+- タイトル: 新しい”忘年会”の形！バニッシュ・スタンダード、「戦国」をテーマに年忘れ大運動会を開催 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBITGZoTFZ2R01UbWFFVlVOeVJVbDYtd0paSHRwdjhIQ2pUbjNaeUcyOU1YREZVcWp3c0dOdjJBb0VKUHhLbl9CcEJyNFkweDZxVDF4SHhHOUxqcWtuaFNkMVVzMl9VU0FVYlE?oc=5
 
 - タイトル: 野堀 和哉 - 日経クロストレンド
   URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNzBLckxhUENQY1hZdy1NRHd2UTliMGlJUDNkQ01tZm16cWgtMHlxZl83ZUlleTBUaVB0cnBHTl9wdE1TVjdvdlBxbDktZkVOTjNSQXctdWYzYU9BZjFFVzJTNVRiZw?oc=5
 
-- タイトル: 「全社員をDX人材へ」 一橋大名誉教授・神岡太郎氏が持続的なDX推進のために組織文化の醸成が必要だと語るワケ - jbpress.ismedia.jp
-  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE94LWVjRWVnM2VBSFF4TGdFenR1clRXcjBBMTlfSTlVXzVDT3NTdEFQUkFFcVlEYzd2QmdWQTRIYjNsYXJhTGgtdkJPVTM0VUM4S3lBWjRn?oc=5
+- タイトル: 話題になった広報企画100事例（日産自動車、京セラ、NEC、他6社） - 宣伝会議
+  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZMERpbk1Ma2ZSUEFQREY2OHUtc0d1WVRLU3NYQl9yYkNBd2VUSU9uSlNhX0VBNXY5Ymd3UFpvWlA3bFpjelVreF9VUnZBMFlHc2FQN3VRQzY0cEt4RlJjTUpNNEl0UjhHaDJ3RkFickY?oc=5
 
-- タイトル: 人材不足時代のDX推進戦略～人材育成と組織文化変革の第一歩～ - ビジネス+IT
-  URL: https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ETWI0UWQxdTlFSEVoZVJ4Y2pnYWduZ2FUN29VbjRkSU1MQjF5Y2kxR1NDWGEtXzhmYU1JNmVEWWVobWNjRE9wUEllRQ?oc=5
+- タイトル: DXの視察で見られているのは「D」ではなく「X」を実行する組織文化――病院事務長・藤井将志が見据える医院経営DX（16） - m3.com
+  URL: https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlRDZVSF9ycngyekhVOE9uT1pvY1R1aDhhZGphQ0cwVnd0SVEyWG1WdURwY3ZMUUhxZU4ycFNwcU13M09HZHNLS05jdnRVRktmb0tCTF9hLWdZR05iVF9qQk1Maw?oc=5
+
+- タイトル: 「デジタル化」のその先へ！ 長野の中小企業がDXで挑む市場変化という魔物：DXにはアナログな部分がとても大事（1/3 ページ） - atmarkit.itmedia.co.jp
+  URL: https://news.google.com/rss/articles/CBMickFVX3lxTE5BcGRSLXZyMkFIZmFTTWQxUUowNFhycTdNTGZnM1lGa3dUYmhEODZUWHp2bFMwY0MzQWE2WGFqOV92dWNqY0RMZVhvU1JURzA5X3hQcEV0bWlVcWh2VlR3VUZ0V2pjSld4aVNrMTg2YktCUQ?oc=5
 
 
 # Manusへの追加指示
