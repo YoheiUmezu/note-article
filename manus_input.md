@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: トレンド解説
+# 本日の執筆テーマ: キャリア
 
-- 生成日時 (JST): 2026-09-11 12:45:32
+- 生成日時 (JST): 2026-09-12 12:49:05
 
 ## 収集された最新トピック
-- タイトル: 従業員エンゲージメント向上を目指す工場特化型プログラムを開始 他 - jinzainews.net
-  URL: https://news.google.com/rss/articles/CBMiR0FVX3lxTFBIVWFUVV96Z2FtWjc2MDJsTlkwSlgzR2xudnI3SWtHNDRnV1lqX0ZDSFUyMFJXVThoWXVkYy03a0lNdXdGZnhj?oc=5
+- タイトル: 生成AIの普及以降、従業員の「先行きへの不安」の表出が顕著に - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE93R292Q25wdnkzTDR0TWc0QzdEMUl5UTlaVjl5UXZMOTRuSk84QmtfcmNpMjVZX2ZWYmt6NFM1M3lTTUwyLVJnMDg4M0dZVkhnNHJUSlVfVkJSZUsyOHNWUEVJNi1DaTVGUkE?oc=5
 
-- タイトル: 生成AI普及前後における従業員エンゲージメントの変化と退職要因を調査しました ｜ ピックアップ - lmi.ne.jp
-  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6b0YtV080ZW5oSk1JQlJBSFIxcnY0U054c3B2dktEVzhuVkxhODE5VHRfMHMzaUxGdm9obXJUTE5fN0xCYXItLXhORlppUXNJX3ZLa1dJaHVXQ0pNZS0yMA?oc=5
+- タイトル: エンゲージメントが高い組織では退職だけでなく休職率も低い、L＆M調査 - 日経BP
+  URL: https://news.google.com/rss/articles/CBMifEFVX3lxTE43RkF2ak5IYlN4d1hYTkdwbGxJUk9KOFVvc3JZSWxXNURYX1VFMDhmQ095MnVTMXFwd1RpUmx3YWRUalp0TUZhM2t6U1B4RmpFd0EyV3Q2ZGtNd0V4Y1B6VkctaG02STNMV2hKYmtCRERma0taS0c2VHY5UWk?oc=5
 
-- タイトル: 成長企業が実践している、従業員エクスペリエンスを向上させる組織づくりとは - 日本の人事部
-  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTFBsbkg5WGNyNGFHUkVuOC1FNFFXdFA4ZFg0VWZkTW5sSnZtVTBMRjRaejI1S3FUaHlBMkIwcU1lQk02TDgyUy15VS1ZNG00R1A4V3l2eFpqR2phaTFRN2RqMms3aXhCanNGaTRMa0ZCUy12c0Jadnc?oc=5
+- タイトル: CX・EX向上推進のエクレクト、デジタルコンテンツ企画・制作などのゆるりとを買収 - marr.jp
+  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NUzhRRzRPaEpSMEp0OUNCN1RTT29NOXlsMkRyc3NWTm5NSVhuZFJNZkc0a25BcndTVDY1U3NxbXljVmdsNEpTdERMYkpfYjhscWJPT0hhMFB1bG80XzBUMEhQT3JIMWpK?oc=5
 
-- タイトル: 新しい”忘年会”の形！バニッシュ・スタンダード、「戦国」をテーマに年忘れ大運動会を開催 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBITGZoTFZ2R01UbWFFVlVOeVJVbDYtd0paSHRwdjhIQ2pUbjNaeUcyOU1YREZVcWp3c0dOdjJBb0VKUHhLbl9CcEJyNFkweDZxVDF4SHhHOUxqcWtuaFNkMVVzMl9VU0FVYlE?oc=5
+- タイトル: 最新調査結果でわかった、従業員エンゲージメント向上に必要な「従業員エクスペリエンス」の４つのポイント - HRプロ
+  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLN21qOENtNndJVG5lNlJrMmtwNTF4Sk83MU5FQWt5QkdsZm85MWNldzRSVzJzSmF1MS1hN2JzUEd6UGo1ZXZpNS1NSEM1WWJKMmUtVjhIbHZURk5TLVRaQQ?oc=5
+
+- タイトル: 広報・CSRのためのSDGsスタートアップセミナー（オンデマンド配信）#社会責任 #インナー広報 #社内広報 #持続可能性 #CSR担当 #広報職 #経営企画 - 宣伝会議
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5pSXlmU3dTaEpIQmNHcGxySkxPTFp3NmxxWjBVT0N5SkZiLUlOWjRmRl9qdjFQU0dtbTZBcUZGYzhoNlZzcC1ZRDhXeFFPWWpDYkl4VUVFeko3SVF2U01vczcwWUhHdDNuZUE?oc=5
 
 - タイトル: 野堀 和哉 - 日経クロストレンド
   URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNzBLckxhUENQY1hZdy1NRHd2UTliMGlJUDNkQ01tZm16cWgtMHlxZl83ZUlleTBUaVB0cnBHTl9wdE1TVjdvdlBxbDktZkVOTjNSQXctdWYzYU9BZjFFVzJTNVRiZw?oc=5
 
-- タイトル: 話題になった広報企画100事例（日産自動車、京セラ、NEC、他6社） - 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZMERpbk1Ma2ZSUEFQREY2OHUtc0d1WVRLU3NYQl9yYkNBd2VUSU9uSlNhX0VBNXY5Ymd3UFpvWlA3bFpjelVreF9VUnZBMFlHc2FQN3VRQzY0cEt4RlJjTUpNNEl0UjhHaDJ3RkFickY?oc=5
+- タイトル: 「全社員をDX人材へ」 一橋大名誉教授・神岡太郎氏が持続的なDX推進のために組織文化の醸成が必要だと語るワケ - JBpress
+  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE94LWVjRWVnM2VBSFF4TGdFenR1clRXcjBBMTlfSTlVXzVDT3NTdEFQUkFFcVlEYzd2QmdWQTRIYjNsYXJhTGgtdkJPVTM0VUM4S3lBWjRn?oc=5
 
-- タイトル: DXの視察で見られているのは「D」ではなく「X」を実行する組織文化――病院事務長・藤井将志が見据える医院経営DX（16） - m3.com
-  URL: https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlRDZVSF9ycngyekhVOE9uT1pvY1R1aDhhZGphQ0cwVnd0SVEyWG1WdURwY3ZMUUhxZU4ycFNwcU13M09HZHNLS05jdnRVRktmb0tCTF9hLWdZR05iVF9qQk1Maw?oc=5
-
-- タイトル: 「デジタル化」のその先へ！ 長野の中小企業がDXで挑む市場変化という魔物：DXにはアナログな部分がとても大事（1/3 ページ） - atmarkit.itmedia.co.jp
-  URL: https://news.google.com/rss/articles/CBMickFVX3lxTE5BcGRSLXZyMkFIZmFTTWQxUUowNFhycTdNTGZnM1lGa3dUYmhEODZUWHp2bFMwY0MzQWE2WGFqOV92dWNqY0RMZVhvU1JURzA5X3hQcEV0bWlVcWh2VlR3VUZ0V2pjSld4aVNrMTg2YktCUQ?oc=5
+- タイトル: 大企業社員500人への独自調査で浮き彫り DXはなぜ人ごとか？ - 日経ビジネス電子版
+  URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkdngwVG1iWFYwZ0xWN0E3WkRjdHJJMTctei1XX3gtejNWUFdJa3h6cGpUc1JTTXpmSzJkVzRDMTlSdGU3OHZsblJ6c1RXYTF4TDdMT3BuN3BXRW9zZXlpbUktWWljVTA?oc=5
 
 
 # Manusへの追加指示
