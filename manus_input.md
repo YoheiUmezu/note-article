@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: キャリア
+# 本日の執筆テーマ: 海外事例
 
-- 生成日時 (JST): 2026-09-12 12:49:05
+- 生成日時 (JST): 2026-09-13 12:57:18
 
 ## 収集された最新トピック
-- タイトル: 生成AIの普及以降、従業員の「先行きへの不安」の表出が顕著に - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE93R292Q25wdnkzTDR0TWc0QzdEMUl5UTlaVjl5UXZMOTRuSk84QmtfcmNpMjVZX2ZWYmt6NFM1M3lTTUwyLVJnMDg4M0dZVkhnNHJUSlVfVkJSZUsyOHNWUEVJNi1DaTVGUkE?oc=5
+- タイトル: ワイヤレスゲート[9419]：従業員持株会設立に関するお知らせ 2026年9月10日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9RRVZzdkVLQjlzTENnaEJiN1BscElYc3BXOXhqMElZdDFvVGpLNndKVHpFMHpnbXFpR1NVbjdqOHpWSERremhCcDNKN0QtWUxCdlpFQWVxRFI1YmFnOWVhUU40dUxsRFViS1E?oc=5
 
-- タイトル: エンゲージメントが高い組織では退職だけでなく休職率も低い、L＆M調査 - 日経BP
-  URL: https://news.google.com/rss/articles/CBMifEFVX3lxTE43RkF2ak5IYlN4d1hYTkdwbGxJUk9KOFVvc3JZSWxXNURYX1VFMDhmQ095MnVTMXFwd1RpUmx3YWRUalp0TUZhM2t6U1B4RmpFd0EyV3Q2ZGtNd0V4Y1B6VkctaG02STNMV2hKYmtCRERma0taS0c2VHY5UWk?oc=5
+- タイトル: ソーシャル従業員表彰システム市場は、2025年に62億米ドルと推定され、2036年までに193.5億米ドルに達すると予測されています。予測期間（2026年～2036年） - アットプレス
+  URL: https://news.google.com/rss/articles/CBMiTkFVX3lxTE9uTVAzSVNuVDU5TGgxY0lMVFI5REZvck9YUXlqcG1iQ0REWlRmaTVyMndwZXhQcmhka3Z2VWJEeVV1N3IxVy05QTQzWW11QQ?oc=5
 
-- タイトル: CX・EX向上推進のエクレクト、デジタルコンテンツ企画・制作などのゆるりとを買収 - marr.jp
-  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NUzhRRzRPaEpSMEp0OUNCN1RTT29NOXlsMkRyc3NWTm5NSVhuZFJNZkc0a25BcndTVDY1U3NxbXljVmdsNEpTdERMYkpfYjhscWJPT0hhMFB1bG80XzBUMEhQT3JIMWpK?oc=5
+- タイトル: 「残ってもらいたい社員に限って、すぐに辞めてしまう」という事態を食い止める。EX向上のための三つの意識改革と対策 - ダイヤモンド・オンライン
+  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oaG1VaWtwX0VZdnlhM0J3TVdRSExCbU5henNOMDlJRk5zWEk3N29vRVc1X3d6dDBudnNocVd2eWlUTkdrbXJPbEdiNno2MGFkaGswSXJ3?oc=5
 
-- タイトル: 最新調査結果でわかった、従業員エンゲージメント向上に必要な「従業員エクスペリエンス」の４つのポイント - HRプロ
-  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLN21qOENtNndJVG5lNlJrMmtwNTF4Sk83MU5FQWt5QkdsZm85MWNldzRSVzJzSmF1MS1hN2JzUEd6UGo1ZXZpNS1NSEM1WWJKMmUtVjhIbHZURk5TLVRaQQ?oc=5
+- タイトル: 生成AI時代 加速する小売業DX～競争力強化を実現するCX・EX向上戦略～ - ダイヤモンド・チェーンストアオンライン
+  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0YnZXZHlRU3pFN2hRdEwzU095dHRPT0M0U094MFA0UFp3SXA5dGFCd1h0Ql85TWJvd0hoQThpSEwzTVRuc2QtRy03UmhidFU?oc=5
 
-- タイトル: 広報・CSRのためのSDGsスタートアップセミナー（オンデマンド配信）#社会責任 #インナー広報 #社内広報 #持続可能性 #CSR担当 #広報職 #経営企画 - 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5pSXlmU3dTaEpIQmNHcGxySkxPTFp3NmxxWjBVT0N5SkZiLUlOWjRmRl9qdjFQU0dtbTZBcUZGYzhoNlZzcC1ZRDhXeFFPWWpDYkl4VUVFeko3SVF2U01vczcwWUhHdDNuZUE?oc=5
+- タイトル: インターナルブランディングがリファラル採用を加速する。エイチームの企業文化作りとは？【有識者の声】 - mytalent.jp
+  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmN09NYWp0Ul9CYktlV1VaZlppdzlRY09ZNDJseDBvR2VfX0xpc0xJcndaZUUwcldsNThSUXZMY1gtSlIzd1lnenRndTIxbHM?oc=5
 
-- タイトル: 野堀 和哉 - 日経クロストレンド
-  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNzBLckxhUENQY1hZdy1NRHd2UTliMGlJUDNkQ01tZm16cWgtMHlxZl83ZUlleTBUaVB0cnBHTl9wdE1TVjdvdlBxbDktZkVOTjNSQXctdWYzYU9BZjFFVzJTNVRiZw?oc=5
+- タイトル: 話題になった広報企画100事例（日産自動車、京セラ、NEC、他6社） - 宣伝会議
+  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZMERpbk1Ma2ZSUEFQREY2OHUtc0d1WVRLU3NYQl9yYkNBd2VUSU9uSlNhX0VBNXY5Ymd3UFpvWlA3bFpjelVreF9VUnZBMFlHc2FQN3VRQzY0cEt4RlJjTUpNNEl0UjhHaDJ3RkFickY?oc=5
 
-- タイトル: 「全社員をDX人材へ」 一橋大名誉教授・神岡太郎氏が持続的なDX推進のために組織文化の醸成が必要だと語るワケ - JBpress
-  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE94LWVjRWVnM2VBSFF4TGdFenR1clRXcjBBMTlfSTlVXzVDT3NTdEFQUkFFcVlEYzd2QmdWQTRIYjNsYXJhTGgtdkJPVTM0VUM4S3lBWjRn?oc=5
+- タイトル: DX（デジタルトランスフォーメーション）とは？ 推進するメリットと取り組み事例を紹介 - NEC wisdom
+  URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE9kT21kbVpack1sTFA5anBQWWhsSjlMT2h5MHNCWmR0Q3l3MmxwYllUUmtHcndzQ2tGbjAwMzktb2dtbGFKZk1fa1JyNXI1N3kzVkhzc05CTkpzanpjSFBDb2Q3Zk51bFI2el8tYUZWcFpNUEZJeEJz?oc=5
 
-- タイトル: 大企業社員500人への独自調査で浮き彫り DXはなぜ人ごとか？ - 日経ビジネス電子版
-  URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkdngwVG1iWFYwZ0xWN0E3WkRjdHJJMTctei1XX3gtejNWUFdJa3h6cGpUc1JTTXpmSzJkVzRDMTlSdGU3OHZsblJ6c1RXYTF4TDdMT3BuN3BXRW9zZXlpbUktWWljVTA?oc=5
+- タイトル: 組織診断サービス「IIJデジタルカルチャー可視化ソリューション」提供開始 - マイナビニュース
+  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE85SmZiS285a2ttcm13YklwbkV4eVpLOHJDU1Y2bThhOEotdElMaGJLdGxLc202ZmFJS3c3ZFl0aXJ5YndOeFhrRHdVbkpCbTRISEp0bm1PZUx1NVFrOGdFZ0lTeFQ1SUs3?oc=5
 
 
 # Manusへの追加指示
