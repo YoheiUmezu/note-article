@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 海外事例
+# 本日の執筆テーマ: 経営戦略
 
-- 生成日時 (JST): 2026-09-13 12:57:18
+- 生成日時 (JST): 2026-09-14 13:04:31
 
 ## 収集された最新トピック
-- タイトル: ワイヤレスゲート[9419]：従業員持株会設立に関するお知らせ 2026年9月10日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9RRVZzdkVLQjlzTENnaEJiN1BscElYc3BXOXhqMElZdDFvVGpLNndKVHpFMHpnbXFpR1NVbjdqOHpWSERremhCcDNKN0QtWUxCdlpFQWVxRFI1YmFnOWVhUU40dUxsRFViS1E?oc=5
+- タイトル: 現在成果を上げている従業員エンゲージメント戦略12選 - Forbes JAPAN
+  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXR2kyMDByVnZpYnFTanJrMzIxMFA4NGNhY0liR2JZbUMzTWhpQ2VZVFY1S2dmOEtITnk2Zm9MWVBMSGpFd01mMnNmZWFHT2V6OFQxMk1BTkhqUQ?oc=5
 
-- タイトル: ソーシャル従業員表彰システム市場は、2025年に62億米ドルと推定され、2036年までに193.5億米ドルに達すると予測されています。予測期間（2026年～2036年） - アットプレス
-  URL: https://news.google.com/rss/articles/CBMiTkFVX3lxTE9uTVAzSVNuVDU5TGgxY0lMVFI5REZvck9YUXlqcG1iQ0REWlRmaTVyMndwZXhQcmhka3Z2VWJEeVV1N3IxVy05QTQzWW11QQ?oc=5
+- タイトル: 従業員エンゲージメントが10年ぶりの低水準に。問題は「人」ではなく「組織の仕組み」にある - Forbes JAPAN
+  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMSVdIemlWLUxRaXJkNW1ZOTdyd2xrMUNDcENNNVhXdms1OVRkUHBlcURZd085b0JOUWVjU0xkLVlfcFBlaV9reGVMZFRScXVIaGVjZ2J0STBGZw?oc=5
 
-- タイトル: 「残ってもらいたい社員に限って、すぐに辞めてしまう」という事態を食い止める。EX向上のための三つの意識改革と対策 - ダイヤモンド・オンライン
-  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oaG1VaWtwX0VZdnlhM0J3TVdRSExCbU5henNOMDlJRk5zWEk3N29vRVc1X3d6dDBudnNocVd2eWlUTkdrbXJPbEdiNno2MGFkaGswSXJ3?oc=5
+- タイトル: HRBrain提供の組織診断サーベイで収集したEXスコア®が凸版印刷のサステナビリティレポートに掲載、人的資本開示・エンゲージメント向上の重要指針として活用 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE93a193dXM0OHRSaFgyQU1saTYxNzlvOWlfWUdvbkNLMDc1cWRwdElTNDFlZjZxeGN5Y2RlQjFRcDNla0o0Q0t0NzhDMm9ZaHZjd1dSTlZVeGlKRUNHOENYdEFNRFhsbHg5RGc?oc=5
 
-- タイトル: 生成AI時代 加速する小売業DX～競争力強化を実現するCX・EX向上戦略～ - ダイヤモンド・チェーンストアオンライン
-  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0YnZXZHlRU3pFN2hRdEwzU095dHRPT0M0U094MFA0UFp3SXA5dGFCd1h0Ql85TWJvd0hoQThpSEwzTVRuc2QtRy03UmhidFU?oc=5
+- タイトル: すかいらーくが新ポイント制度を導入、店舗DXからCX・EX向上への切り札「すかいらーくポイント」の全貌 - Agenda note (アジェンダノート)
+  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TU0ZzcGFiNkZEeFZqbERINkxfS2NTb1lSNlh4anM0T2JrQ3BDZWR0SkpRbmxsNUVhRWF1Rl9yUVp3ZTliNHZxM0k5UnZDWW1VSEd6T0NJNFprQkhMWGZjNg?oc=5
 
-- タイトル: インターナルブランディングがリファラル採用を加速する。エイチームの企業文化作りとは？【有識者の声】 - mytalent.jp
-  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmN09NYWp0Ul9CYktlV1VaZlppdzlRY09ZNDJseDBvR2VfX0xpc0xJcndaZUUwcldsNThSUXZMY1gtSlIzd1lnenRndTIxbHM?oc=5
+- タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
+  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
 
-- タイトル: 話題になった広報企画100事例（日産自動車、京セラ、NEC、他6社） - 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZMERpbk1Ma2ZSUEFQREY2OHUtc0d1WVRLU3NYQl9yYkNBd2VUSU9uSlNhX0VBNXY5Ymd3UFpvWlA3bFpjelVreF9VUnZBMFlHc2FQN3VRQzY0cEt4RlJjTUpNNEl0UjhHaDJ3RkFickY?oc=5
+- タイトル: 野堀 和哉 - 日経クロストレンド
+  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNzBLckxhUENQY1hZdy1NRHd2UTliMGlJUDNkQ01tZm16cWgtMHlxZl83ZUlleTBUaVB0cnBHTl9wdE1TVjdvdlBxbDktZkVOTjNSQXctdWYzYU9BZjFFVzJTNVRiZw?oc=5
 
-- タイトル: DX（デジタルトランスフォーメーション）とは？ 推進するメリットと取り組み事例を紹介 - NEC wisdom
-  URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE9kT21kbVpack1sTFA5anBQWWhsSjlMT2h5MHNCWmR0Q3l3MmxwYllUUmtHcndzQ2tGbjAwMzktb2dtbGFKZk1fa1JyNXI1N3kzVkhzc05CTkpzanpjSFBDb2Q3Zk51bFI2el8tYUZWcFpNUEZJeEJz?oc=5
+- タイトル: 140年企業はAIをどう組織改革に生かしたのか、組織スピード4倍の舞台裏：カクイチの組織文化DX（前編）（1/3 ページ） - MONOist
+  URL: https://news.google.com/rss/articles/CBMib0FVX3lxTFBLaTlUWWZrTVhBR3BQS0NZMXdIczVpZ3ZmaDNGT2p1Q2M0M050dFl0dW5RaUZhNk5SQ0J1c1ZTbmNBUVE0bFBJMzhLOXNvdXZ6c20yU3p3OFJwWVpSaHVFcndHR0x0eHo2MlZCNzJ0QQ?oc=5
 
-- タイトル: 組織診断サービス「IIJデジタルカルチャー可視化ソリューション」提供開始 - マイナビニュース
-  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE85SmZiS285a2ttcm13YklwbkV4eVpLOHJDU1Y2bThhOEotdElMaGJLdGxLc202ZmFJS3c3ZFl0aXJ5YndOeFhrRHdVbkpCbTRISEp0bm1PZUx1NVFrOGdFZ0lTeFQ1SUs3?oc=5
+- タイトル: 医療DXが失敗する理由：技術ではなく組織文化が鍵を握る - Forbes JAPAN
+  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE56NmRvQmNuWHlGaldvZ0VtZmFOeEdNa1JYaWhlNUU5VWxYSUctMHhnWHUwaC1vQUUyZXRGX3AxUmhVbmZhNWljaVRGLVBmNnYwT1I2bEk4Rmk?oc=5
 
 
 # Manusへの追加指示
