@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: RFP/選定基準
+# 本日の執筆テーマ: トレンド解説
 
-- 生成日時 (JST): 2026-09-17 13:07:27
+- 生成日時 (JST): 2026-09-18 12:53:27
 
 ## 収集された最新トピック
-- タイトル: 賃上げを従業員の活躍につなげるカギとしてのエンゲージメント 1万人調査に基づく賃上げ効果の定量分析 第3回 - mri.co.jp
-  URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kbDJRdmRCUkttRTg4NEgxZDkyZVY0d3AzWnNHNlZDR1VBQVIwVzQ2dVUxNUNoTnBBRENPZDRVSmc3WF9ic0RfOTZQaExOR2VTN1JITF9HRmlSN3htdDBIUXZLZE4?oc=5
+- タイトル: nishikawaが推進する「睡眠のBtoB市場」拡大！仮眠空間プロデュース「ちょっと寝®ルーム」をはじめ、企業の『健康経営』および『従業員エンゲージメント（ES）向上』に応えるソルーションを展開 - Digital PR Platform
+  URL: https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAteGNZUnJPUFRzUTFiV3hfX01iTzBtejdnU0F5NkpOSlFTdlJ1akFPVHVwVWZfVXpDTWpvTlYxelYxb00?oc=5
 
-- タイトル: 「測るだけ」はもう終わり 従業員エンゲージメント診断へのニーズに変化 (ITmedia エンタープライズ) - newspicks.com
-  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QRHVnOHVfX3Y0MFdWT19ramV4S01xNjRiV1dvd0M1RnFfMVBjOGpoNmtqOWF0MmxJTGJTMWZON3FjZFJ3UUNqVEVlNzM?oc=5
+- タイトル: 「モチベーションクラウド エンゲージメント」がデジタル庁「デジタルマーケットプレイス（DMP）」に登録されました｜Infoseekニュース - Infoseek
+  URL: https://news.google.com/rss/articles/CBMickFVX3lxTE5PTllCSU9SMndmN2s3VEdKc3hEOEFiMlFYMDJpVjhTb0F6UHVpQ1lZeW13TkVqWFRvR3dtQ3JidHpDMlI4Mi12S2V4N3BXLW1LN2pHbThhT2g5MVoxUktJN1NhaTRrRk9ncG9JZDN3MHpEZw?oc=5
 
-- タイトル: HRBrain、新機能「重要度分析」をリリース。決定木分析でEX向上に繋がる「影響要因」を可視化 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1EeXQ3RGUxMk14NU1YeDJ0VGd2azZ5X3pTTnZ5a1ZhVkFuY2llY0VpakhvRUlFWE9sdFhGYUl6ZndNbHBYa2RHc0xrRGZ3c0I0MWYxUGFjOHFESF91dnRxLUgtV2NxdXZNWEE?oc=5
+- タイトル: 【オンラインセミナー】小売DXを着実に成功させるAI・データ活用とCX・EX改善 - ダイヤモンド・チェーンストアオンライン
+  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hdFlpb0w0ZkYtUkRNMmZERmlKd0txYjFvSFpQZWhkaEpqTHFBMVd4MUM5ZzBmRmZKd1JVNS0tcXktUE5KVWZTUW54SUJoUnM?oc=5
 
-- タイトル: ニューノーマルの人財マネジメント――EXの向上とジョブ型マネジメントへの移行を支える仕組みとは (1/4) - HRzine
-  URL: https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DY3NTcU5hWUEwbDZ4akJKSTgtQ1AxM3hQcmR6Z1RUaXFxZ2trRUdmek15cXhsb2g1QTNyUGFXWVJVMS12NmxNY042d0U4Zw?oc=5
+- タイトル: トップ企業が挑む“EX＝従業員体験”向上／顧客時間・奥谷氏と振り返るAdobe Summit【前編】 (1/3) - markezine.jp
+  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SZ1FFMTZoUDdxdS1WNnZkN3ZmSkl5OGRSalktWVBRaGVyRWNuTFNCYXFFS3Q4MXc1MHVnSmowdnhmYnhTWjZKaUNUT0JXMjJGUGl3?oc=5
 
-- タイトル: 野堀 和哉 - xtrend.nikkei.com
-  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNzBLckxhUENQY1hZdy1NRHd2UTliMGlJUDNkQ01tZm16cWgtMHlxZl83ZUlleTBUaVB0cnBHTl9wdE1TVjdvdlBxbDktZkVOTjNSQXctdWYzYU9BZjFFVzJTNVRiZw?oc=5
+- タイトル: アジアNo1(*1)のPR会社が伝授する、“人事採用×広報PR” 戦略「採用戦略サミット2022 令和の新常識 produced byベクトル」開催 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9SYU1yRHFrU1pXZ3liazlTVHhJTFRybkFNZG5lYlZXaTNBeGI5MUlZXzhEbFRNbmVNbi1YRTluRzRabTk3a29nSklJTVNUdU5xSGh3ZDN1SWtjOTVfc3QwZjZJcW5sNldPelE?oc=5
 
-- タイトル: 広報に必要な能力は“アドリブ力” 時流に乗る「マーケットイン発想」の重要性 - ログミーBusiness
-  URL: https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6QjQ3eUhvTzdZV3E4U1FqZlFVMW9wc3BFTkhqbXN0X2M1U1RnT0dJb1ZCWjEzcmQ5QzM5X0dXV19oOU4xeVJFUUFFZw?oc=5
+- タイトル: 広報・CSRのためのSDGsスタートアップセミナー（オンデマンド配信）#社会責任 #インナー広報 #社内広報 #持続可能性 #CSR担当 #広報職 #経営企画 - 宣伝会議
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5pSXlmU3dTaEpIQmNHcGxySkxPTFp3NmxxWjBVT0N5SkZiLUlOWjRmRl9qdjFQU0dtbTZBcUZGYzhoNlZzcC1ZRDhXeFFPWWpDYkl4VUVFeko3SVF2U01vczcwWUhHdDNuZUE?oc=5
 
-- タイトル: IIJ、DX推進の実態と成功要因を独自アセスメントデータから分析したレポートを公開 - インターネットイニシアティブ-IIJ
-  URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9taFF1RzFsRWZlSW9tSzFBcEJ3WjhITG1YUWg2a2pxQ0xwZVFYM0hYejBVR2xHSW5jaVlGUmJBTDRQUU1Tc25Xb1FZRmROVzJmc2tmeHVGU0pqaV9JZUpKLWdIV1BWc0U?oc=5
+- タイトル: 新卒主体で売上15倍を達成。イトーキが実現した「離職を防ぎ、受注を生む」DX営業部の組織設計に迫る - markezine.jp
+  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnQ0tGNzA3QmhGbEFrVDBHWXVhdEgzWXktRGhhTDdMMlZCUE5OOUpjdmsybTF0WkduTGx0U0VlUGxBOUQ3bkh0RlQ0d29pMDZwbE80?oc=5
 
-- タイトル: KANSAI DX AWARD 2025 - 公益社団法人 関西経済連合会
-  URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLYnR0aTJ6c0VKM3I2RzUyOW9UYjNLX3JZd2gzMGU5UnNsZmdRNnVRNGpUSmVpWUgxVG9ZU0xBWWJYRWd5dUlNYmFHZGIyclFrR3JXUFZLc0NncFFXNkRod0N3?oc=5
+- タイトル: なぜ変革は進まないのか？― 人事制度・DX・経営戦略を現場で実装する「組織変革」という考え方 ～“戦略と現場の乖離”を埋める組織変革の実践 - 日経イベント＆セミナー
+  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tQVJadXFaSXVqOFVEdy1xQWpmUVQtdmhZWTF0VFpVMURvLUJXcXMxdThIMmF4b3hOZ1BvTFFMNklKbDM0bG9HRlln?oc=5
 
 
 # Manusへの追加指示
