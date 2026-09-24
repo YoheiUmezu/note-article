@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: システム連携
+# 本日の執筆テーマ: RFP/選定基準
 
-- 生成日時 (JST): 2026-09-23 12:58:17
+- 生成日時 (JST): 2026-09-24 12:52:32
 
 ## 収集された最新トピック
-- タイトル: 【速報！】2026年版第４回全国１万人従業員エンゲージメント調査結果速報 ～「30代の孤立」と「インフラ産業の活力急落」に警鐘。1万人調査で見えた日本組織の歪み ～ | 株式会社アジャイルHRのプレスリリース - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5CbUFyazI0RG10R2szcTdpVWhpWFhsNlkwT0tnYmwxdzlJZ0N2cVVPTDYxRWZMWTlTRlByYkpBM1gzM0swd0ptQnQtQUhhVGk0RFY1WE1sS2g5bVVoeWtETXUtazdzZVhORWc?oc=5
+- タイトル: 従業員エンゲージメントアプリ市場の詳細分析：トレンド、市場シェア、および2026年から - pando.life
+  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE1EZENHbXhuSE5rZ1BvWXFHb25OWEdqZFBwNEZMZGw3dmVnY0x0bWpOSXh5LUw5eHJjclk2SnhLMGpWT0pHLWNaaFZR?oc=5
 
-- タイトル: エンゲージメント調査は無意味？ 従業員が「離職を決める瞬間」とそれが見逃されてしまう理由 - Forbes JAPAN
-  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ROWhneVdEVU5IOUM5WEk3V09idThrUkdVZmswaGI5dEZSa3d3bTdabV9FRzBxbVI2VVUxRkZlZnNOTl9CR0h4S3FmZU5tcDhqcmRUeGoxVE8?oc=5
+- タイトル: なぜリーダーへの信頼が従業員エンゲージメントを高めるのか 成果を分ける4つの行動 | ビジネススキル - DIAMOND ハーバード・ビジネス・レビュー
+  URL: https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tSnJ1MktxemFzM1ZmdjQ3T2NmWHRUUDlyblAxSUNFWTRNa1UzaWhlSGxpZUdybWR4RThQNzJHQXItZWhZc3VCX0p5ZURDQ2s0Ync?oc=5
 
-- タイトル: EXサーベイから見るエンプロイーエクスペリエンスを高めるための視点 - PwC
-  URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxNcmltQk1rRVY5YWFMR2xxU3ZEWWRiX0Z1bjl5SkpBZHF6Qzl5Qm5Scnhya3JmS0I2cVYxak8tVVpUN3ZzaEtsN0R4cFNFc2NERDcydDJoMElUZnZtWER0bFRLNFZMZ0J2YWdEZWtaZkM2V08tc1lWdklNbi1LRV9uTl9tekY2X2ZLcEwyTUtn?oc=5
+- タイトル: CX／EX向上で顧客満足度を高める！ - NTT Data
+  URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE9ORlU2TTIwSjVaTXdmSTdwUGtxSHdJQWZRRmVGSVl0bUlCVHRnUWV2NFFiUjNPSjY3YzJjZDVFRWVGalBxdXdvYUU3U0h6ejAzOWhFYjhvWjBqMU51amZFWDZfUkFEZ3YtRDY0bw?oc=5
 
-- タイトル: EX（従業員エクスペリエンス）サーベイ2022-23 ～従業員エンゲージメント向上の処方箋とは～ - PwC
-  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE41QWhTWEpYR0lQcXBPaDhBUm9Pb29sZDFOVWJHX0dBZWVwQlc1ZXpMd2ZqalRjWWs3OFZFTUhWbnRadTJvZ3lwYXNYeHV6bS1ZVjVUQXZJdkVMM09wQUNNSzYxcUtVcG1HeWpOZEJSOU4?oc=5
-
-- タイトル: 異業種からの挑戦を成功に導く！　化粧品業界 新規参入セミナー　～勝ち抜くためのブランド戦略とマーケティング～ - ネオマーケティング
-  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LYXZPc2dxT2p2Sy13em5Gc0dzZjZ1ZXIydTNUV1lVaHB2QldhcVJrZy1ydUhkZkNqMDBabWlEYW9jakhrM2tCa0lRelhHQVhtd3A1RXZFWlgzQdIBakFVX3lxTE5iRmYtYlRmdmlCeTRLSkd3bHNJOEctQVpCeWRPbzNVYVFiYnBrMHlWVzZCTDRUVWpBMTZtZkw1YWpMU3pTODhWRDdyNFV4cUpQZnE3LWdHNElSNEdyakktbjNialhjVUNBSWc?oc=5
+- タイトル: 【申込受付中】コンタクトセンター × AI活用事例の祭典 2025春「業務効率化とCX・EX向上事例18選」 ～ 無料オンラインカンファレンス開催のお知らせ ～ - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBXaVRlVFFSbkY2MDBxeFFDeEhwUnJtNEMxVDRNMUlldGVnUFBWcVNMc1ZKbnpwMFBIV1B1dU5hUmpFTWdyZUFmUExuNDFzb2pVNUd0NkItaVhDcGxqSEZMc24zZHVzUUs0UXc?oc=5
 
 - タイトル: 野堀 和哉 - 日経クロストレンド
   URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNzBLckxhUENQY1hZdy1NRHd2UTliMGlJUDNkQ01tZm16cWgtMHlxZl83ZUlleTBUaVB0cnBHTl9wdE1TVjdvdlBxbDktZkVOTjNSQXctdWYzYU9BZjFFVzJTNVRiZw?oc=5
 
-- タイトル: DXを停滞させる深刻な「組織風土」問題、3つの変化で土台から改革マインドを醸成 - 日経クロステック
-  URL: https://news.google.com/rss/articles/CBMibEFVX3lxTFBQUEp6VmVlQ3l6QzViMXdXcXhwX0d2OTdzM01qOWd3clZDYTFHWHQyb0EzTmg0VDRSY3cwazdOYTQtU0Z1YkZEeHA4dHhKVVpEUWwyRUYzSVdKN1NLSnAyWkpNQ0NyVzJIal8xbw?oc=5
+- タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
+  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
 
-- タイトル: 3代目社長がコロナ禍で見出したDXという活路 長崎の教習所はどのようにしてIT企業へと変貌を遂げたのか - cloudsign.jp
-  URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE15SGtpLWtwYzRsZkdXU1dvdWVHU3hPYWhMLVFQZVFGMHVyeldqWnk3TmlJVFpQNjBiVWw1cWdpNmdKQXg1VnJLX2tTX0tkNWphNU9xMHZhclVIYV9Nb0t0TnVEcFo?oc=5
+- タイトル: 大企業社員500人に独自調査 DXはなぜ人ごとか？ 参謀を苦しめる「慣性」 - business.nikkei.com
+  URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rQWJTbnBCeU9OQWV4aTNIN3o0bEJ6WFhhYmw5MGF0ejFWNFo1QlFDelJlRzVvN0hLU2tQOWc2ZVF3TmdrUkxTeEtJWGc5OWdDc29jMF9DcjZwSUZwQ2tUMW8yQ0Q?oc=5
+
+- タイトル: 組織診断サービス「IIJデジタルカルチャー可視化ソリューション」提供開始 - マイナビニュース
+  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE85SmZiS285a2ttcm13YklwbkV4eVpLOHJDU1Y2bThhOEotdElMaGJLdGxLc202ZmFJS3c3ZFl0aXJ5YndOeFhrRHdVbkpCbTRISEp0bm1PZUx1NVFrOGdFZ0lTeFQ1SUs3?oc=5
 
 
 # Manusへの追加指示
