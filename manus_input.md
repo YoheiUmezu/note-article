@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: キャリア
+# 本日の執筆テーマ: 海外事例
 
-- 生成日時 (JST): 2026-09-26 13:12:04
+- 生成日時 (JST): 2026-09-27 13:27:48
 
 ## 収集された最新トピック
-- タイトル: エンゲージメントサーベイ - ajinomoto.co.jp
-  URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxNN3ozT3Z3RzVIeWFQRlVRMUNOMVVLMWotRVdIdDlUMnJDQTZmbG5rOTJzNXh5SzRLcm1YUjRUQjhXanRsMnJRRTNJWVFCUTJaVUpxTWNVTld0YkRiSzNrVEZXSHJjTkEyLVI2SnZaR2Y3alNNTmc0OGJ2LWFqYXYwLW5tLWc?oc=5
+- タイトル: 従業員エンゲージメントアプリ市場に関する調査では、年平均成長率（CAGR）14.20%が - pando.life
+  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTFBlNUY2QUtwNWNBVWl2c3Y1aktfVXluN0h3NnVZMHFVNWlIRndXX2JNUzlHTlZjaENJMTJpWjZIbzlWQ3JZUXRuS0tR?oc=5
 
-- タイトル: 生成AIを活用した管理職向け従業員エンゲージメント改善支援アプリを開発・本格導入 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE4wUm1Oc2RmYnNLamVxR1dHWXRIUjJRY0JXQWZMRHRWM1UzZHNjYXRxMkNDclBRTnRqWERyZ3RZOG5ueEF4LTViTF82eVQxUU4wWlRXbjItQ0hJTnphTkgtYjNJakJTblRxRFE?oc=5
+- タイトル: 「従業員エンゲージメント」の測り方を見直すべき時 - Forbes JAPAN
+  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tc0djdDNHSHh6cVROWnhwQWpBSklMOUd6VGNuOUlJZ3NFazYwX3NIWXlIRVdEOG9iZ1dtWXdqU2szT25XWjFhX3UyTUl2dlFDT3BxNS1lVHh1Zw?oc=5
 
-- タイトル: 「EXサービス」で輸送障害時や夜間のサービス向上 深夜の予約でも座席指定可能に（鉄道コム） - Yahoo!ニュース
-  URL: https://news.google.com/rss/articles/CBMif0FVX3lxTE9KQkYya0dyQTNiQXVrMGMzNmdKM0c3a0pVM1VSTldMdERFS1VCYUtWMzNzRWZIazJnb19jd1hma2JJZk9ZV0dPQzJtZ2pHQUxXSy1rN1dMNEd5QXdsbk4weXdYc1E4T2pCMXAxTjZ4LXV2SDFkcFVVdUtuT2JyeWM?oc=5
+- タイトル: 東海道新幹線など「EXサービス」輸送障害時や夜間のサービス向上へ - マイナビニュース
+  URL: https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zY09OR3ZmLTJBYkxSSjJMYU9nNzllZ1pvTWpHNGNhd282NGRIaGdRaldlY3c4eTZCUzZHbVpneTBXMUdhbVN1a3U5Y2pRbFZRVTEwMmV3THdNTnRF?oc=5
 
-- タイトル: 「EXサービス」で輸送障害時や夜間のサービス向上 深夜の予約でも座席指定可能に 画像（3/3ページ） - Tetsudo.com（鉄道コム）
-  URL: https://news.google.com/rss/articles/CBMihwJBVV95cUxOR0F3a01XVF9PUG9VOWQyTndKN1d5ZDRWMUJYT29OS1d1bkVMM3VXQXhyU3NhLWU2SVZpVVBQakR2Zk5uMElXRU1BZ1BzbTVUWlYxckZpa1JuNmgtVTlDT0VGb1E0cWRBd0lfRVVlTnUzVTZxTTFoUUdjUkRfYkhIQ2M0MmxnQzkxVkNGY3JxRDhiUHRERllISXM4NE5sZ1FBTExNb0xaQXU1YTJPZlF3UEpxY1JqMlY3RnVVaGZQN0MtZ1EwbXViUmd1dmtfcnIyeDUwd3lVQ0ZGdXNoa0tsS1dJbEpOQU9lNHd6UkV5ZTRITm9BZnVHekxFVi0zZ3diYkRnYnRpOA?oc=5
+- タイトル: 「EXサービス」で輸送障害時や夜間のサービス向上 深夜の予約でも座席指定可能に - 千葉テレビ放送株式会社
+  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pZWh0VEN6N2lUUGRONHJNRGFiSjc3djk0cHh6Q1g1dmNmSWNyWEJxWElPSWFhZWVNSjhXVl92R2FoQjBFdlFSWTVZZU16d1VYMUNxMEVSTG54bFMtS1lV?oc=5
 
-- タイトル: 異業種からの挑戦を成功に導く！　化粧品業界 新規参入セミナー　～勝ち抜くためのブランド戦略とマーケティング～ - 株式会社ネオマーケティング
-  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LYXZPc2dxT2p2Sy13em5Gc0dzZjZ1ZXIydTNUV1lVaHB2QldhcVJrZy1ydUhkZkNqMDBabWlEYW9jakhrM2tCa0lRelhHQVhtd3A1RXZFWlgzQdIBakFVX3lxTE5iRmYtYlRmdmlCeTRLSkd3bHNJOEctQVpCeWRPbzNVYVFiYnBrMHlWVzZCTDRUVWpBMTZtZkw1YWpMU3pTODhWRDdyNFV4cUpQZnE3LWdHNElSNEdyakktbjNialhjVUNBSWc?oc=5
+- タイトル: オンライン広報サービス「PRONE（プロネ）」が「note」公式アカウントを開設、広報ノウハウや最新トレンドを発信 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBHVlNnSE5LOGhTSnBwRm5UM3dIZ0NYMEJqVVB0WHFhcXdCcERxNWtkWjZsM215Ny1tOVpPN2ptb2xVdTktelFSdDhtUF8yMDh4SzV3R0pFREFINEVmNnJGNEowa2g0T3BNa0E?oc=5
 
 - タイトル: 野堀 和哉 - 日経クロストレンド
   URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNzBLckxhUENQY1hZdy1NRHd2UTliMGlJUDNkQ01tZm16cWgtMHlxZl83ZUlleTBUaVB0cnBHTl9wdE1TVjdvdlBxbDktZkVOTjNSQXctdWYzYU9BZjFFVzJTNVRiZw?oc=5
 
-- タイトル: 人材不足時代のDX推進戦略～人材育成と組織文化変革の第一歩～ - ビジネス+IT
-  URL: https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ETWI0UWQxdTlFSEVoZVJ4Y2pnYWduZ2FUN29VbjRkSU1MQjF5Y2kxR1NDWGEtXzhmYU1JNmVEWWVobWNjRE9wUEllRQ?oc=5
+- タイトル: DXを成功に導くには 日本企業に変革を迫る組織の壁 - 日経人財グロース&コンサルティング
+  URL: https://news.google.com/rss/articles/CBMickFVX3lxTFBPMHowb0RIVG1fUFQyNlVRWVJLaEI0MndGY2MtdHBnQWtnV2JWWkVOTkhXbGF6MVZZaFM1bkpwb1BkMlAtRTkwQTFpdDBhOXdPcWMyUko2QnRFZHFScjZ1WjVJbVdsbFJ4WnN3MWN4ZjBnQQ?oc=5
 
-- タイトル: 後編：エージェントAIが変える組織と仕事のかたち―行政に迫るパラダイムシフト - PwC
-  URL: https://news.google.com/rss/articles/CBMikgFBVV95cUxOU1VpSlNWRFMyYkY5bFRubFVWVzFOZVRUejlLOG9ibzZwb1psa0MzTlBoX25PTEpBVjZfdTRjX1NDRlJBQVh0bkl3WWpVYXI4X0I0NWtjdWFiV0dEZWk3TDJoSXMwaFFfMUpaZlh6T0RELTMwMUVYemVEaFhGelNkRUswNWtfaE4tbXV6cXNPTEhQUQ?oc=5
+- タイトル: 創業64年！フジッコはDX経営改革「ニュー・フジッコ」で昭和の呪縛を解けるのか - ダイヤモンド・オンライン
+  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Vc3hrYVlZaDdobDBzdkM0TURKZVk1Z1JGVXkteUpiUzM1ZWY1Zzd4UC1xMjNqSmhmVUpGWEdtQ1BKUnVRYzNoNGdibXVzOU5RNVRSYmFB0gFPQVVfeXFMUENocVc0UlUzYzBSdGl6MC1WMG4xVGdVbWZ5dGN4VjZRUldEeG9wMEtMMnlZazdCeFZCbVNwLXZVZGE2cXkzUUs2bHZ3T2RDOA?oc=5
 
 
 # Manusへの追加指示
