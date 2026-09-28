@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 海外事例
+# 本日の執筆テーマ: 経営戦略
 
-- 生成日時 (JST): 2026-09-27 13:27:48
+- 生成日時 (JST): 2026-09-28 13:28:38
 
 ## 収集された最新トピック
-- タイトル: 従業員エンゲージメントアプリ市場に関する調査では、年平均成長率（CAGR）14.20%が - pando.life
-  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTFBlNUY2QUtwNWNBVWl2c3Y1aktfVXluN0h3NnVZMHFVNWlIRndXX2JNUzlHTlZjaENJMTJpWjZIbzlWQ3JZUXRuS0tR?oc=5
+- タイトル: 野菜栽培を取り入れた園芸プログラムが勤労者のストレス軽減とコミュニケーション活性化に有意な効果～ 千葉大学との共同研究で確認、健康経営や従業員エンゲージメント向上への活用に期待 ～ - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE93eEdLam02MDBvV1d5LVJ6T2VqMEFaWWI1bTRFTmFIX25EbWFfbnZrekNNdjhjX3lHMnF1bHBZcF9IekhvdGJScHVJcXZnckI1VjhDYVBNeHJtVFFUbkRyZVViZTZDdk1nbWc?oc=5
 
-- タイトル: 「従業員エンゲージメント」の測り方を見直すべき時 - Forbes JAPAN
-  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tc0djdDNHSHh6cVROWnhwQWpBSklMOUd6VGNuOUlJZ3NFazYwX3NIWXlIRVdEOG9iZ1dtWXdqU2szT25XWjFhX3UyTUl2dlFDT3BxNS1lVHh1Zw?oc=5
+- タイトル: ヤプリ、正木郁太郎准教授（東京女子大学）との共同研究で 「経営トップのメッセージ」が組織愛着を高めることを実証 - ニコニコニュース
+  URL: https://news.google.com/rss/articles/CBMie0FVX3lxTE5jTW1razVyNUpJUFZTajdjSVN2MmxMMldqLVk5dnBIMzRrUjI0aVlsRzRaSk5BMEk2S3RvTDNDLURtalNWQU1Qd0tmdkRVS3pERFV1S2FJOWNTdlN6NHNZMnhUeUMtRDRVa09SbWRhMGNSVl8zQXEyUnlvRQ?oc=5
 
-- タイトル: 東海道新幹線など「EXサービス」輸送障害時や夜間のサービス向上へ - マイナビニュース
-  URL: https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zY09OR3ZmLTJBYkxSSjJMYU9nNzllZ1pvTWpHNGNhd282NGRIaGdRaldlY3c4eTZCUzZHbVpneTBXMUdhbVN1a3U5Y2pRbFZRVTEwMmV3THdNTnRF?oc=5
+- タイトル: 「EXサービス」で輸送障害時や夜間のサービス向上 深夜の予約でも座席指定可能に (鉄道コム) - Yahoo!ニュース
+  URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxQb3BYVFNNQ3JOZGNXNDlVM3hVSElFNzM0d2ppWE9xRDU2eXpYUWszYkQtM3F1eXFFXzFmZmRuc3lKZWx6N3lVYnFHcTFZWnlVd2Zmd1ltWnM1Zi1DRC0zNFZETTF3Q2NlWk8yOVk5bXBoam1hWXY4VC10YUdZVGFBM242MEQ2Vjl6d2JNODVB?oc=5
 
-- タイトル: 「EXサービス」で輸送障害時や夜間のサービス向上 深夜の予約でも座席指定可能に - 千葉テレビ放送株式会社
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pZWh0VEN6N2lUUGRONHJNRGFiSjc3djk0cHh6Q1g1dmNmSWNyWEJxWElPSWFhZWVNSjhXVl92R2FoQjBFdlFSWTVZZU16d1VYMUNxMEVSTG54bFMtS1lV?oc=5
-
-- タイトル: オンライン広報サービス「PRONE（プロネ）」が「note」公式アカウントを開設、広報ノウハウや最新トレンドを発信 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBHVlNnSE5LOGhTSnBwRm5UM3dIZ0NYMEJqVVB0WHFhcXdCcERxNWtkWjZsM215Ny1tOVpPN2ptb2xVdTktelFSdDhtUF8yMDh4SzV3R0pFREFINEVmNnJGNEowa2g0T3BNa0E?oc=5
+- タイトル: 「効果的な採用戦略とEXの設計」ガイドを無料公開！〜2024年8月最新版 企業の成長における採用戦略から従業員EX向上に向けた施策をご紹介〜 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFA1UXpYOWZkel9TVWhxYldVREJmSDNqX2lfSmFuSW8wNmViMTdYNHBldkNmTk9iLXJwRmJydE1vdElrcndaZTlWVXVoU1R1RmhlV3hGanBqdkQxekNady13QU1SbG1UY0tVYUE?oc=5
 
 - タイトル: 野堀 和哉 - 日経クロストレンド
   URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNzBLckxhUENQY1hZdy1NRHd2UTliMGlJUDNkQ01tZm16cWgtMHlxZl83ZUlleTBUaVB0cnBHTl9wdE1TVjdvdlBxbDktZkVOTjNSQXctdWYzYU9BZjFFVzJTNVRiZw?oc=5
 
-- タイトル: DXを成功に導くには 日本企業に変革を迫る組織の壁 - 日経人財グロース&コンサルティング
-  URL: https://news.google.com/rss/articles/CBMickFVX3lxTFBPMHowb0RIVG1fUFQyNlVRWVJLaEI0MndGY2MtdHBnQWtnV2JWWkVOTkhXbGF6MVZZaFM1bkpwb1BkMlAtRTkwQTFpdDBhOXdPcWMyUko2QnRFZHFScjZ1WjVJbVdsbFJ4WnN3MWN4ZjBnQQ?oc=5
+- タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
+  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
 
-- タイトル: 創業64年！フジッコはDX経営改革「ニュー・フジッコ」で昭和の呪縛を解けるのか - ダイヤモンド・オンライン
-  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Vc3hrYVlZaDdobDBzdkM0TURKZVk1Z1JGVXkteUpiUzM1ZWY1Zzd4UC1xMjNqSmhmVUpGWEdtQ1BKUnVRYzNoNGdibXVzOU5RNVRSYmFB0gFPQVVfeXFMUENocVc0UlUzYzBSdGl6MC1WMG4xVGdVbWZ5dGN4VjZRUldEeG9wMEtMMnlZazdCeFZCbVNwLXZVZGE2cXkzUUs2bHZ3T2RDOA?oc=5
+- タイトル: 【連載 2/4】世界が試し、マクニカが磨き上げた「組織を変える日本流製造業DXとは」〜分断・対立・不動を超え、DXをカルチャーにする仕組み〜 - macnica.co.jp
+  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE94TmZJNTNrZm14SHV4Q2RkbEZLQURsd2wxaldPUS1jSjBqY1FKREgwLTVwc0hUVHNTMjR6ajloa1BtVklreDRIamh1R2Nwa3hnd25PYWQzcDh2LXo2ZWw1ZW1sT0NQTWJS?oc=5
+
+- タイトル: 組織体制を変革してDXを強力に推進。フロンティアに踏み出したスギ薬局の挑戦 - dhbr.diamond.jp
+  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE15eG5FOW15dUFtd2FxM3hCUXpmSTBCRUhjVjE5aFg5R0VBYkltOGxURHo4Um9uVEw5NF9RYUxOeVEzYUxpWXpaY0FqTkdLRENxelFPQllQRjVobE0?oc=5
 
 
 # Manusへの追加指示
