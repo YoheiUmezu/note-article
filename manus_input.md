@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: システム連携
+# 本日の執筆テーマ: RFP/選定基準
 
-- 生成日時 (JST): 2026-09-30 13:44:34
+- 生成日時 (JST): 2026-10-01 13:56:45
 
 ## 収集された最新トピック
-- タイトル: 2026年9月の「注目のHRサービス」を発表～稼ぐ研修、ビジネスアーキテクト育成、AIアバターとロープレ、従業員エンゲージメント向上 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE92eDZ2N0JXazBOWkhRZERSb3FWbGVzaGV2eFZDNHNROHRxUUlMYWFQZzFHYnEtWWY1elBRQlpwcF9GdkluYjZlb2t4Z3ptRzJRSDRpcFNDRVVqWFY4WGdNbFhrclBNUDNETmc?oc=5
+- タイトル: 従業員エンゲージメント - sg-hldgs.co.jp
+  URL: https://news.google.com/rss/articles/CBMif0FVX3lxTE90V2w0SXh6bUwyazVtU2ZEa0I3b1V4cFJHN1UyejFza09YMzRaQXRreGtCdnU2SlZJai1vdUhBeHlNYURpcTlaVFRoUjAzY0FfZ216dlJaWkMzRGdlY2VjTkRJZEJTRnRrN0JjWUhyREN0b2cyOE1fakdmcW1Pa0E?oc=5
 
-- タイトル: 日本従業員エンゲージメントおよびフィードバックソフトウェア市場、2035年に2億2,047万米ドル規模へ、CAGR 9.21％、人材定着・エンゲージメント可視化・データ主導型HR戦略の導入拡大が成長を後押し - atpress.ne.jp
-  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rTlU5bEM1V2hJU1Z4TzNuclBMSWNMN3hxVzVhcHFjQ0V0MHE0SUp0XzVneWtabVlxeHJTLUpHQ3FnVjE1VFBsY0ZUWFJqVTA?oc=5
+- タイトル: 従業員エンゲージメント - kumagaigumi.co.jp
+  URL: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeTd1U3BMYkd2aWwtOGVKcXlnRkpraVhHMkFWcERGYnM2bjVzUHlKdjdIR055eWM1VTlNdDJvVTNudUtTakdhYkZzZVRrWUxLVVd2RmZ2cC1WMTVTcUFyN0VlOVNDYTltSHh6QUZTS3U2MkVUWlBXUmU3LW0wUzNJS1gwVzhOZnd3Um04?oc=5
 
-- タイトル: HRBrain、新機能「重要度分析」をリリース。決定木分析でEX向上に繋がる「影響要因」を可視化 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1EeXQ3RGUxMk14NU1YeDJ0VGd2azZ5X3pTTnZ5a1ZhVkFuY2llY0VpakhvRUlFWE9sdFhGYUl6ZndNbHBYa2RHc0xrRGZ3c0I0MWYxUGFjOHFESF91dnRxLUgtV2NxdXZNWEE?oc=5
+- タイトル: 「EXサービス」で輸送障害時や夜間のサービス向上 深夜の予約でも座席指定可能に 画像（3/3ページ） - Tetsudo.com（鉄道コム）
+  URL: https://news.google.com/rss/articles/CBMihgFBVV95cUxPWXBWbm10ZENrSUxEdU5tTEc1dGQwX0NQbTZobkpsd3pZOEs0ZGYyUTdBanNPNUxtUUk0Qkl2Z0RyajBvdUNOU1cwLWxQTUhDZnRzbnkya0IzRmh5X3Jucy1GczRoQjZKLXQ0SkEtdUhwVHNGMkdQdU5fSndNdEZoWFU1SW5GZw?oc=5
 
-- タイトル: エクレクト、サーバーワークスと資本業務提携し、CX・EX向上推進を強化 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9uRTQxZ1o3bnF4WFB6TW9JWlRjUjZDUTdoTm52NGhGcUZpQ0FocU1GYXJybUQzQWprYTlVZTdTaDdZSTBQUkpOTFRsRzdOTzd0UHZFUnFUWFg4RDBGRk9VOGtVNVJacnZNaUE?oc=5
+- タイトル: 全国行脚で社員の悩みに寄り添うマイナビ流IT×EX向上術 ボトムアップで“デジタル成功体験”を広げる - EnterpriseZine
+  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE84Z2JyRVlrYmJoT1RMUWxYczhPQ3o2OXR2Yjh6ZFJ0RGlONkFld1ZZd3lsTC1YUWpEQUFqTndzeWVEdGlRU0JkMDJhUWFJaGNJWl9HTnQtV0lOQQ?oc=5
+
+- タイトル: アジアNo1(*1)のPR会社が伝授する、“人事採用×広報PR” 戦略「採用戦略サミット2022 令和の新常識 produced byベクトル」開催 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9SYU1yRHFrU1pXZ3liazlTVHhJTFRybkFNZG5lYlZXaTNBeGI5MUlZXzhEbFRNbmVNbi1YRTluRzRabTk3a29nSklJTVNUdU5xSGh3ZDN1SWtjOTVfc3QwZjZJcW5sNldPelE?oc=5
 
 - タイトル: 野堀 和哉 - 日経クロストレンド
   URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNzBLckxhUENQY1hZdy1NRHd2UTliMGlJUDNkQ01tZm16cWgtMHlxZl83ZUlleTBUaVB0cnBHTl9wdE1TVjdvdlBxbDktZkVOTjNSQXctdWYzYU9BZjFFVzJTNVRiZw?oc=5
 
-- タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
+- タイトル: スタンレー電気が挑む人事 DX とグローバル変革 - システム刷新を超えた組織文化の統一へ - - SAP News Center
+  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XRFIweTFvSkZ6RG05N1dsQ19hMGYxWmhnVDJpenN1d2lkWXJLYlFoVC1KdGpVN3NFTnFRNXoyNksxclREUlFjcDFCOHFfZ3dxQTln?oc=5
 
-- タイトル: 人材不足時代のDX推進戦略～人材育成と組織文化変革の第一歩～ - ビジネス+IT
-  URL: https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ETWI0UWQxdTlFSEVoZVJ4Y2pnYWduZ2FUN29VbjRkSU1MQjF5Y2kxR1NDWGEtXzhmYU1JNmVEWWVobWNjRE9wUEllRQ?oc=5
-
-- タイトル: DX動向調査2026 : BluStellar - NEC
-  URL: https://news.google.com/rss/articles/CBMiigFBVV95cUxNQnNycWZ1N2J3OVlHMDRUVWVUOTJVNFRMMDdrY0dUeTRjdHhVSnE0Sy1Pek5PdmNOY2ZuUThKcWROaVZTdDhIMjVFWVpDbzQyY3lRQVd3RjF6bGFtdzczTTk5aFpRLWo5WXluMFR2cGNScUpOQWpiNFhrUUxOeDY3aXJhNTFiZ1dXMlE?oc=5
+- タイトル: 外資系IT企業出身・人事院人事官の伊藤かつら氏が語る、紙文化の公務組織を変えたDXの進め方 - JBpress
+  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCSG1vRUp4OXlXTjdWMGEwYkR1RklrREhlQV9aVG9KbW9jUkZEa0tMUEM2RFdXMlEzRElnajBfOXpEQ2ZnQkRMSzBwZ0dnc25FS0pEM29B?oc=5
 
 
 # Manusへの追加指示
