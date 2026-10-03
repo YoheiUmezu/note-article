@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: トレンド解説
+# 本日の執筆テーマ: キャリア
 
-- 生成日時 (JST): 2026-10-02 13:47:06
+- 生成日時 (JST): 2026-10-03 13:29:43
 
 ## 収集された最新トピック
-- タイトル: 「選ばれ続ける組織」をつくる従業員エンゲージメント向上カンファレンス Autumn 2026〜離職率低下と定着のための実践施策 - Crevo株式会社
-  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zRDVkWGc1LXB3UzFIdnJGR1Q1MVpHaElnLUpzcVAtLVpNdURneEh3QkJpeFkzVDNEN29WVkZZbTB1bmVYRVg0WGVqN2o?oc=5
+- タイトル: U-ZERO、日本の人事部「ＨＲアワード2026」プロフェッショナル部門 組織変革・開発部門で最優秀賞を受賞 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE4wSzV6NTc0bjRiTzNQU3BRc1FWTzJGeXpfY2R0X3VSSHlGT3FsdmFOVHdabnBrcEhsTW1oWmp5TjlXWmVWM1lNLVlfMjVYZnktUzJlWU9RLVdRWm9iTHpVbFFRWHA5MTlXekE?oc=5
 
-- タイトル: 賃上げを従業員の活躍につなげるカギとしてのエンゲージメント 1万人調査に基づく賃上げ効果の定量分析 第3回 - mri.co.jp
-  URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kbDJRdmRCUkttRTg4NEgxZDkyZVY0d3AzWnNHNlZDR1VBQVIwVzQ2dVUxNUNoTnBBRENPZDRVSmc3WF9ic0RfOTZQaExOR2VTN1JITF9HRmlSN3htdDBIUXZLZE4?oc=5
+- タイトル: 従業員エンゲージメントが10年ぶりの低水準に。問題は「人」ではなく「組織の仕組み」にある - Forbes JAPAN
+  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMSVdIemlWLUxRaXJkNW1ZOTdyd2xrMUNDcENNNVhXdms1OVRkUHBlcURZd085b0JOUWVjU0xkLVlfcFBlaV9reGVMZFRScXVIaGVjZ2J0STBGZw?oc=5
 
-- タイトル: 「スポットバズーカEX」導入、整備工場の熱中症対策を強化…エムケイ自動車 - レスポンス（Response.jp）
-  URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DMVpqUFpDNHZHaVFBZ3FmX3p4UmFHWE1wQU5PSHBaZlFIZHBELVRXcTl0WmtGWXJad3IzN3ZoRERXVjZMd2EybTNTN29YNWJ3Vk9ESTNfbW4tWlJYZTdha09n?oc=5
+- タイトル: 「EXサービス」で輸送障害時や夜間のサービス向上 深夜の予約でも座席指定可能に - Tetsudo.com（鉄道コム）
+  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE9oOVloWlM3WTg0bngwdnBLc3FuMmZnUVJBOGRIclVEY2JCZDZHdU9WN2ZveE5xOUlDbkhZUGJSRzhhQ0VmSE8tb1R3?oc=5
 
-- タイトル: EX向上がCX向上を招く！ 従業員の主体的な姿勢が顧客に良い影響をもたらす - dxmagazine.jp
-  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RS0M0ZGJvRTVId0xZdi14T2VtTjN3V0dDLUlveXR6UU1Fb1hDRG1jTExaYWlhcjBZNURSV3hxSXhDaGhpR3BHSXRUSmxUZGxYZlVleG1nbGc2YkVsMTczcw?oc=5
+- タイトル: EXサーベイから見るエンプロイーエクスペリエンスを高めるための視点 - pwc.com
+  URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxNcmltQk1rRVY5YWFMR2xxU3ZEWWRiX0Z1bjl5SkpBZHF6Qzl5Qm5Scnhya3JmS0I2cVYxak8tVVpUN3ZzaEtsN0R4cFNFc2NERDcydDJoMElUZnZtWER0bFRLNFZMZ0J2YWdEZWtaZkM2V08tc1lWdklNbi1LRV9uTl9tekY2X2ZLcEwyTUtn?oc=5
 
-- タイトル: 野堀 和哉 - xtrend.nikkei.com
+- タイトル: 野堀 和哉 - 日経クロストレンド
   URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNzBLckxhUENQY1hZdy1NRHd2UTliMGlJUDNkQ01tZm16cWgtMHlxZl83ZUlleTBUaVB0cnBHTl9wdE1TVjdvdlBxbDktZkVOTjNSQXctdWYzYU9BZjFFVzJTNVRiZw?oc=5
 
 - タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
   URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
 
-- タイトル: 大企業社員500人に独自調査 DXはなぜ人ごとか？ 参謀を苦しめる「慣性」 - 日経ビジネス電子版
-  URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rQWJTbnBCeU9OQWV4aTNIN3o0bEJ6WFhhYmw5MGF0ejFWNFo1QlFDelJlRzVvN0hLU2tQOWc2ZVF3TmdrUkxTeEtJWGc5OWdDc29jMF9DcjZwSUZwQ2tUMW8yQ0Q?oc=5
+- タイトル: AKKODiS、「令和８年度 大分県及び市町村のDX人材育成支援業務」を受託 - Infoseek
+  URL: https://news.google.com/rss/articles/CBMickFVX3lxTE8yTy1rVEt6VzE2cGZfVVBVZ0JZWlY3dUk2U0RoT1RUbGdEMlBiM0xzTWpFR3E2TmhrQ1daYXVtNFBMZ2JVV2pqWlgyRTBhN2pENktwQ1dLRnFfSzB0V0pzRWZkN05zV0dCVjh5Q0k4MGhZQQ?oc=5
 
-- タイトル: クレディセゾンでは、部門を越えた「気付き」の共有が組織変革を加速している - ダイヤモンド・オンライン
-  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTFBoOVk2S2xiR2pZLUNmWEwyZV9fOGphbWQ0dXl1TldMcm5PbVJIeW1pUWcxSnUwd1VvY3RFdG5mcUljOF81bVVJYWFvbHI?oc=5
+- タイトル: 「DXを成功に導く組織のデジタルリテラシー」関連論文 DHBR2022年10月号 | 組織文化/組織開発 - DIAMOND ハーバード・ビジネス・レビュー
+  URL: https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uQVhWU09MMzFvR05CYS1zTHAtSHFtenNRUlpqR1dGSEVNMHFzOVc2Z3pWMjhJVlFsWmNPdWVFMEN6N0s2ekNFaUc3amJjTU1K?oc=5
 
 
 # Manusへの追加指示
