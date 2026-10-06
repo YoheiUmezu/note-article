@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 経営戦略
+# 本日の執筆テーマ: 現場の運用課題
 
-- 生成日時 (JST): 2026-10-05 13:47:19
+- 生成日時 (JST): 2026-10-06 14:34:34
 
 ## 収集された最新トピック
-- タイトル: ストレスチェックと従業員エンゲージメントを“ひとつ”に。組織診断サービス「イマココCheck」提供開始 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFA3a1Z4U04waV93eVZoLVFBUHF5am5fSTlUZkpTRnZUTXU0cm9SQWVkc2t4cWp0eE1lZ0U5Szlwd0Qtck54ZVJDb3k1UVY5N2R4XzNFdjdhc1k1dFZmU2ZxWU0zaS1GUGZ1V2c?oc=5
-
 - タイトル: 従業員エンゲージメントアプリ市場の収益成長率に影響を与える市場要因を調査し、2026年か - pando.life
-  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE5abndjcjlraEI5YzBUVnRCMkN0T0FxVDItZkRXN3htSGJGcmhWSWlNbGxPYjM1a0xqZ0RhdklPcjNBQkVvaEtRWUFR?oc=5
+  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhYXJJUTdVdmhXSTZ5c2FZT1RBZy1XblZkY1FkTkJDeTlGQkYwenFkU1NoX0VVbmJ6TE1Fb1RZa0c4MkpOUkw1aWxn?oc=5
 
-- タイトル: インテージ、「従業員の行動が、売上を動かす」をデータで証明・実装する新ソリューションを提供開始 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5jMDBYR09PSDE4TFVGeUFKREVqeC1HZGQwaW9ZczJaWHNvQlFLbGpMOF9LZEhmOExta0pvNU9GVW5mOC1vX0QzOGg3WWhlX19BUlF0ZlBkaDFDRzlCU01heThZM0pHdXhDR1E?oc=5
+- タイトル: 「測るだけ」はもう終わり 従業員エンゲージメント診断へのニーズに変化：IT調査ピックアップ - ITmedia
+  URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE5MbkMzV2ZiUUJ2MjdUSUNxdDM0NEM3aVBoSUo4YWV0UnJZSWlzR1RmZmozb1JxZm42enlKVEVQWjNlUTloMTF3UTJHV1VmU0lwU0JfMk0zNGJEM2ZvN0tjaVZ2M28wVFZneWJqMWpISkJhcXhE?oc=5
 
-- タイトル: 従業員エンゲージメントを高めるための鍵となる従業員体験（エンプロイーエクスペリエンス） /PwCコンサルティング×HR総研：エンプロイーエクスペリエンスサーベイ2021速報版 - HR総研 | 人事のプロを支援するHRプロ - HRプロ
-  URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yWUJuYXR4d1BuNG1MUF9hNWVwOHFpOXNocU5ITHJQaU5Cc3J4ZzBOb052REpwaUdjd3dIUXo1U1N1U2tXeU0ySjRrNm1VVVh5UExodlRsbmJCZTJjWEFsR2dR?oc=5
+- タイトル: ビジネスの成長にはEX向上が不可欠に――みずほの挑戦から学ぶ (1/2) - MarkeZine（マーケジン）
+  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE02R2ZGMzBZMUs0eWNidWUtcVZEdERfTWJMUzYyRGxBR2lWdnJib214d2ExdVpIclJicFBpRTBRU0NWeXF3ZmQxQXJlY1NpS1o0cHZr?oc=5
 
-- タイトル: 広報・CSRのためのSDGsスタートアップセミナー（オンデマンド配信）#社会責任 #インナー広報 #社内広報 #持続可能性 #CSR担当 #広報職 #経営企画 - 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5pSXlmU3dTaEpIQmNHcGxySkxPTFp3NmxxWjBVT0N5SkZiLUlOWjRmRl9qdjFQU0dtbTZBcUZGYzhoNlZzcC1ZRDhXeFFPWWpDYkl4VUVFeko3SVF2U01vczcwWUhHdDNuZUE?oc=5
+- タイトル: CX領域におけるAIによるプロセス変革を支援する 『CX AI STUDIO™』を提供開始―“AIのチームメイト”とともに従業員体験と顧客体験を同時に変革し、ブランド成長を支援―｜ニュースリリース｜博報堂 Hakuhodo Inc. - hakuhodo.co.jp
+  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwdzcxWHQ1b1h1MFBkbmhZZlByNXNtOXlZMGlHdEtCemphSDZWTGR6c0lQNll2ei1kOElrakVWNmtNMU50cng0OHlvckxQWEVoMTlobzNab0N1ZHZWR3MyRg?oc=5
 
-- タイトル: 野堀 和哉 - 日経クロストレンド
+- タイトル: 野堀 和哉 - xtrend.nikkei.com
   URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNzBLckxhUENQY1hZdy1NRHd2UTliMGlJUDNkQ01tZm16cWgtMHlxZl83ZUlleTBUaVB0cnBHTl9wdE1TVjdvdlBxbDktZkVOTjNSQXctdWYzYU9BZjFFVzJTNVRiZw?oc=5
 
-- タイトル: なぜ変革は進まないのか？― 人事制度・DX・経営戦略を現場で実装する「組織変革」という考え方 ～“戦略と現場の乖離”を埋める組織変革の実践 - 日経イベント＆セミナー
-  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tQVJadXFaSXVqOFVEdy1xQWpmUVQtdmhZWTF0VFpVMURvLUJXcXMxdThIMmF4b3hOZ1BvTFFMNklKbDM0bG9HRlln?oc=5
+- タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
+  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
 
-- タイトル: 組織体制を変革してDXを強力に推進。フロンティアに踏み出したスギ薬局の挑戦 - DIAMOND ハーバード・ビジネス・レビュー
-  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE15eG5FOW15dUFtd2FxM3hCUXpmSTBCRUhjVjE5aFg5R0VBYkltOGxURHo4Um9uVEw5NF9RYUxOeVEzYUxpWXpaY0FqTkdLRENxelFPQllQRjVobE0?oc=5
+- タイトル: 三井倉庫グループが新入社員向けの「DX実践研修」を開始しデジタル人材を育成 - ニュースメディアVOIX
+  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE1fY3J1RlRIbnEyWnJ5RjRlbERGNmdlNzI1alMwekJ5ZnBvU2JzRVIxclUzbllVZVlXYTc5MWxtYm50UVU5U0FTeTJFQmRxNURoc1lwLTFrZFM2dXBQYmVweXZsWXR1OWxQOTlPMjRKajhkVFJXbEE?oc=5
+
+- タイトル: 縦割り組織を超えて加速するJR西日本のDX─TRAILBLAZERが明かす、データサイエンス組織創成の軌跡と攻めのITへの転換 - IT Leaders
+  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DNzhzZmprNmN3ejZWb2YxalBsRmxHZWZuNFpSbXFQM2N1UHY3R1NWd3B3a2tNdkZMcWcxcW5jR2VBZG9tRjFlVVVOb0tWMlVpM01N?oc=5
 
 
 # Manusへの追加指示
