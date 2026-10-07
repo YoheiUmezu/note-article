@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 現場の運用課題
+# 本日の執筆テーマ: システム連携
 
-- 生成日時 (JST): 2026-10-06 14:34:34
+- 生成日時 (JST): 2026-10-07 14:03:57
 
 ## 収集された最新トピック
-- タイトル: 従業員エンゲージメントアプリ市場の収益成長率に影響を与える市場要因を調査し、2026年か - pando.life
-  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhYXJJUTdVdmhXSTZ5c2FZT1RBZy1XblZkY1FkTkJDeTlGQkYwenFkU1NoX0VVbmJ6TE1Fb1RZa0c4MkpOUkw1aWxn?oc=5
+- タイトル: 従業員エンゲージメントアプリメーカーランキング - pando.life
+  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSRDd2SzR5a3pQSm8tS0MwQXpWVFlvTlp4UVRpSUhlbnFUU1VpUkY2WVBPVG9JMEdpbnVqUFFfZFo1VDl2eHZBSGFn?oc=5
 
-- タイトル: 「測るだけ」はもう終わり 従業員エンゲージメント診断へのニーズに変化：IT調査ピックアップ - ITmedia
-  URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE5MbkMzV2ZiUUJ2MjdUSUNxdDM0NEM3aVBoSUo4YWV0UnJZSWlzR1RmZmozb1JxZm42enlKVEVQWjNlUTloMTF3UTJHV1VmU0lwU0JfMk0zNGJEM2ZvN0tjaVZ2M28wVFZneWJqMWpISkJhcXhE?oc=5
+- タイトル: 「従業員エンゲージメントおよびフィードバックソフトウェア」に関するプレスリリースの一覧 - アットプレス
+  URL: https://news.google.com/rss/articles/CBMiigNBVV95cUxNZjB0bVk1NXpqbWkyMVBHandNdHd3T0RkbnV5YkIya25CTWtvcFRIOURCc1ZYQm92U0ZOZWduSkEwZDdfelFTUlQtZHJyeTJpZXQtY1pnbE82VHRqdEx3b2lLUUJlRHhHTmM5VExxaFJSZFhRZFpMVVNKRkRxRTdiVmczdmdoOC1xd3cyekZUdnZBakNQbVpibmRxNG5NTUJ4VElwenFHbXFrNWdBSHVfTWVNWjJzYV9tdE9ENWlNaUF0aWxIOW1uczJuYTZhaW1HcmJOWVRfVmVKcjNqc19hbWlUdHpqZXEycjZmcUMtdVhDNFlrMHNGY0hKNm9hZFBOSU5wLUNKUzFWeVlEQ3JZYjBBVy1kMGYyVDJqMXNCb3Y2bUltZmVxWXdVTkFjYmc2Q1R4czMweUUzT1d1XzZnRW9mcjZISEFvbEJsTkRQWEgzbV9oazlqYUkzazd3dmJxMnRpZFhBVmZFeTNZazdudVNXVzhKbGhaVVhKbHNYRVloNTkwTk0xQnJ3?oc=5
 
-- タイトル: ビジネスの成長にはEX向上が不可欠に――みずほの挑戦から学ぶ (1/2) - MarkeZine（マーケジン）
-  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE02R2ZGMzBZMUs0eWNidWUtcVZEdERfTWJMUzYyRGxBR2lWdnJib214d2ExdVpIclJicFBpRTBRU0NWeXF3ZmQxQXJlY1NpS1o0cHZr?oc=5
+- タイトル: 「EXサービス」で輸送障害時や夜間のサービス向上 深夜の予約でも座席指定可能に 画像（2/3ページ） - Tetsudo.com（鉄道コム）
+  URL: https://news.google.com/rss/articles/CBMihgFBVV95cUxPdGZBSW9yVUF5ZU5XOVFFX0g5QXd0VV8wTklOZmJPaUNYZ014bnlUa21kWWFST0lXcVdUWkU5TTNpcDhPd1F5cm5kQXpBWWQyMkhER1M1UXJYU09GdTB1V0l5WkJKQTIzNkt6NDdCc1Qwei1qQTE1SkNaeVkyRlZRd3lBbHJVZw?oc=5
 
-- タイトル: CX領域におけるAIによるプロセス変革を支援する 『CX AI STUDIO™』を提供開始―“AIのチームメイト”とともに従業員体験と顧客体験を同時に変革し、ブランド成長を支援―｜ニュースリリース｜博報堂 Hakuhodo Inc. - hakuhodo.co.jp
-  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwdzcxWHQ1b1h1MFBkbmhZZlByNXNtOXlZMGlHdEtCemphSDZWTGR6c0lQNll2ei1kOElrakVWNmtNMU50cng0OHlvckxQWEVoMTlobzNab0N1ZHZWR3MyRg?oc=5
+- タイトル: AIで顧客接点を進化させる 新コミュニケーションサービス「docomo business ANCAR(TM)」を提供開始 - Newscast.jp
+  URL: https://news.google.com/rss/articles/CBMiR0FVX3lxTE05eEdWbmd5X0taVWZxcWhkRUdZVE9uSmxZbFBxMWUweV9WSkM5d1NncXdQbFl1M1dPOTZ1UW8tOTYzeDF4MXlF?oc=5
 
-- タイトル: 野堀 和哉 - xtrend.nikkei.com
+- タイトル: オンライン広報サービス「PRONE（プロネ）」が「note」公式アカウントを開設、広報ノウハウや最新トレンドを発信 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBHVlNnSE5LOGhTSnBwRm5UM3dIZ0NYMEJqVVB0WHFhcXdCcERxNWtkWjZsM215Ny1tOVpPN2ptb2xVdTktelFSdDhtUF8yMDh4SzV3R0pFREFINEVmNnJGNEowa2g0T3BNa0E?oc=5
+
+- タイトル: 野堀 和哉 - 日経クロストレンド
   URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNzBLckxhUENQY1hZdy1NRHd2UTliMGlJUDNkQ01tZm16cWgtMHlxZl83ZUlleTBUaVB0cnBHTl9wdE1TVjdvdlBxbDktZkVOTjNSQXctdWYzYU9BZjFFVzJTNVRiZw?oc=5
 
-- タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
+- タイトル: 「DXが進まない本当の理由──日本企業に「変革人材」を根づかせる組織と文化の設計図」オンラインセミナーを開催します（LTS主催） - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5VcWF1LTVkUWJncE03OTEwMmFqNFlzVFZ3R1VpZDBULW1fTVAzMk16OFl3b2FGdDF4N2JZTDFGLTJ0NXVoeW1uSzBqeV8zdDZBUU1WWHhhS3VJcGlfenM1YXpYTktMQ19YTmc?oc=5
 
-- タイトル: 三井倉庫グループが新入社員向けの「DX実践研修」を開始しデジタル人材を育成 - ニュースメディアVOIX
-  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE1fY3J1RlRIbnEyWnJ5RjRlbERGNmdlNzI1alMwekJ5ZnBvU2JzRVIxclUzbllVZVlXYTc5MWxtYm50UVU5U0FTeTJFQmRxNURoc1lwLTFrZFM2dXBQYmVweXZsWXR1OWxQOTlPMjRKajhkVFJXbEE?oc=5
-
-- タイトル: 縦割り組織を超えて加速するJR西日本のDX─TRAILBLAZERが明かす、データサイエンス組織創成の軌跡と攻めのITへの転換 - IT Leaders
-  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DNzhzZmprNmN3ejZWb2YxalBsRmxHZWZuNFpSbXFQM2N1UHY3R1NWd3B3a2tNdkZMcWcxcW5jR2VBZG9tRjFlVVVOb0tWMlVpM01N?oc=5
+- タイトル: 【連載 3/4】世界が試し、マクニカが磨き上げた「組織を変える日本流製造業DXとは」〜マクニカしかできない「変革」を移植する伴走とマインドの正体〜 - スマートマニュファクチャリング - 株式会社マクニカ
+  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE54dGZ1emlGZDFEX0ZfSnFCM0V0Qk9GWEhMNFkyX1F6N0hySHk2YUxObzNTb0FvcHUyVGhUQ01KUEtKeHkwR0NWRW9LeHVjeWFCQlVwV3g1X0N6WlVzc3hXRFNMM0w1SHJh?oc=5
 
 
 # Manusへの追加指示
