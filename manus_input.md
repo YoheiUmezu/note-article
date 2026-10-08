@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: システム連携
+# 本日の執筆テーマ: RFP/選定基準
 
-- 生成日時 (JST): 2026-10-07 14:03:57
+- 生成日時 (JST): 2026-10-08 14:14:37
 
 ## 収集された最新トピック
-- タイトル: 従業員エンゲージメントアプリメーカーランキング - pando.life
-  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSRDd2SzR5a3pQSm8tS0MwQXpWVFlvTlp4UVRpSUhlbnFUU1VpUkY2WVBPVG9JMEdpbnVqUFFfZFo1VDl2eHZBSGFn?oc=5
+- タイトル: 日本ペイントの従業員エンゲージメント向上を目指す有志メンバーにファシリテーション道場を実施中 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5aOVp6dHAzRzBjQWRURS1oZUJIUTg2V1VzR1JJdE9jTlN1UXNRWXFTQXpUT3JvV1pYc0F0TkV4OUREUjlQMjB1RVBMQ3pUSG9XRUI5TXdGTHpHbC1CNHJ0dTd3Ukx3S2QyTEE?oc=5
 
-- タイトル: 「従業員エンゲージメントおよびフィードバックソフトウェア」に関するプレスリリースの一覧 - アットプレス
-  URL: https://news.google.com/rss/articles/CBMiigNBVV95cUxNZjB0bVk1NXpqbWkyMVBHandNdHd3T0RkbnV5YkIya25CTWtvcFRIOURCc1ZYQm92U0ZOZWduSkEwZDdfelFTUlQtZHJyeTJpZXQtY1pnbE82VHRqdEx3b2lLUUJlRHhHTmM5VExxaFJSZFhRZFpMVVNKRkRxRTdiVmczdmdoOC1xd3cyekZUdnZBakNQbVpibmRxNG5NTUJ4VElwenFHbXFrNWdBSHVfTWVNWjJzYV9tdE9ENWlNaUF0aWxIOW1uczJuYTZhaW1HcmJOWVRfVmVKcjNqc19hbWlUdHpqZXEycjZmcUMtdVhDNFlrMHNGY0hKNm9hZFBOSU5wLUNKUzFWeVlEQ3JZYjBBVy1kMGYyVDJqMXNCb3Y2bUltZmVxWXdVTkFjYmc2Q1R4czMweUUzT1d1XzZnRW9mcjZISEFvbEJsTkRQWEgzbV9oazlqYUkzazd3dmJxMnRpZFhBVmZFeTNZazdudVNXVzhKbGhaVVhKbHNYRVloNTkwTk0xQnJ3?oc=5
+- タイトル: All Personal、ストレスチェックと従業員エンゲージメントを“ひとつ”に。組織診断サービス「イマココCheck」提供開始 - 日本人材ニュースONLINE
+  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wdVl2aUdzX3Vqc1lSUzVUVmttUjlSUEhOVjdCYXR4N21SY0dUVEdDQmJNTEpPTnJ1aDNKSGV6TVN2X0hqc1VscWVGLVlsODNURWJ1M0gyQkFTZ0U?oc=5
 
-- タイトル: 「EXサービス」で輸送障害時や夜間のサービス向上 深夜の予約でも座席指定可能に 画像（2/3ページ） - Tetsudo.com（鉄道コム）
-  URL: https://news.google.com/rss/articles/CBMihgFBVV95cUxPdGZBSW9yVUF5ZU5XOVFFX0g5QXd0VV8wTklOZmJPaUNYZ014bnlUa21kWWFST0lXcVdUWkU5TTNpcDhPd1F5cm5kQXpBWWQyMkhER1M1UXJYU09GdTB1V0l5WkJKQTIzNkt6NDdCc1Qwei1qQTE1SkNaeVkyRlZRd3lBbHJVZw?oc=5
+- タイトル: 【登壇レポート】SAP Concur Fusion Exchange 2022 JAPAN - EX向上とガバナンス確保を両立させる承認レス設計の実践知 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9PdV8wTjNPaFZRbnR1WE1MWFdzTXFZTnFGeVdXODEtVDE3d0VvalNhWDJhdmZFTmxtQ0ZWZW1Vd0Q2ejN5VGw5d1dlYTJKeHhRcFZ4Y1E2UmJTUmUxZVpXSjZLSVhiSVNKQUE?oc=5
 
-- タイトル: AIで顧客接点を進化させる 新コミュニケーションサービス「docomo business ANCAR(TM)」を提供開始 - Newscast.jp
-  URL: https://news.google.com/rss/articles/CBMiR0FVX3lxTE05eEdWbmd5X0taVWZxcWhkRUdZVE9uSmxZbFBxMWUweV9WSkM5d1NncXdQbFl1M1dPOTZ1UW8tOTYzeDF4MXlF?oc=5
+- タイトル: 新しい”忘年会”の形！バニッシュ・スタンダード、「戦国」をテーマに年忘れ大運動会を開催 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBITGZoTFZ2R01UbWFFVlVOeVJVbDYtd0paSHRwdjhIQ2pUbjNaeUcyOU1YREZVcWp3c0dOdjJBb0VKUHhLbl9CcEJyNFkweDZxVDF4SHhHOUxqcWtuaFNkMVVzMl9VU0FVYlE?oc=5
 
-- タイトル: オンライン広報サービス「PRONE（プロネ）」が「note」公式アカウントを開設、広報ノウハウや最新トレンドを発信 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBHVlNnSE5LOGhTSnBwRm5UM3dIZ0NYMEJqVVB0WHFhcXdCcERxNWtkWjZsM215Ny1tOVpPN2ptb2xVdTktelFSdDhtUF8yMDh4SzV3R0pFREFINEVmNnJGNEowa2g0T3BNa0E?oc=5
+- タイトル: “マイナビだからできる”採用広報とは？ 「プラスト」企画責任者にインタビュー - サポネット
+  URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxQMTRpX3h3QkJVWmxaWDAyTkRGX0M5TXV5ZlFXd3g1LXQ5czRzOUZVeEJuNENzaWJWaUU2NTV4M0Z1WDZnQ2ZySVJjN0VLYU1yN21PeEtBNmlxVU5aWEhIakFsUndBdHd1V181YkJIUlpxb0xnX181d25Rb2V5MHd2clAxSQ?oc=5
 
 - タイトル: 野堀 和哉 - 日経クロストレンド
   URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNzBLckxhUENQY1hZdy1NRHd2UTliMGlJUDNkQ01tZm16cWgtMHlxZl83ZUlleTBUaVB0cnBHTl9wdE1TVjdvdlBxbDktZkVOTjNSQXctdWYzYU9BZjFFVzJTNVRiZw?oc=5
 
-- タイトル: 「DXが進まない本当の理由──日本企業に「変革人材」を根づかせる組織と文化の設計図」オンラインセミナーを開催します（LTS主催） - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5VcWF1LTVkUWJncE03OTEwMmFqNFlzVFZ3R1VpZDBULW1fTVAzMk16OFl3b2FGdDF4N2JZTDFGLTJ0NXVoeW1uSzBqeV8zdDZBUU1WWHhhS3VJcGlfenM1YXpYTktMQ19YTmc?oc=5
+- タイトル: 医療DXが失敗する理由：技術ではなく組織文化が鍵を握る - Forbes JAPAN
+  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE56NmRvQmNuWHlGaldvZ0VtZmFOeEdNa1JYaWhlNUU5VWxYSUctMHhnWHUwaC1vQUUyZXRGX3AxUmhVbmZhNWljaVRGLVBmNnYwT1I2bEk4Rmk?oc=5
 
-- タイトル: 【連載 3/4】世界が試し、マクニカが磨き上げた「組織を変える日本流製造業DXとは」〜マクニカしかできない「変革」を移植する伴走とマインドの正体〜 - スマートマニュファクチャリング - 株式会社マクニカ
-  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE54dGZ1emlGZDFEX0ZfSnFCM0V0Qk9GWEhMNFkyX1F6N0hySHk2YUxObzNTb0FvcHUyVGhUQ01KUEtKeHkwR0NWRW9LeHVjeWFCQlVwV3g1X0N6WlVzc3hXRFNMM0w1SHJh?oc=5
+- タイトル: 企業変革を加速するNECの実践 : BluStellar - NEC
+  URL: https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWTkyZWFZZ1FWWVlPb290QmIxZEw3OGpjd3UzT216YURvSWRvdEd6RlNDbXQ3bGpXQmh1T3g4OTJCcWJ0SFA1VXdTSlo5Q0VPalZiMWExc3Y5ZUZhV1MzSjljZy1QR0VTbV9aWFVkZG9wU1QwS1lJNVY4ZnQxM0Q2MGk0RnlqWWZ0?oc=5
 
 
 # Manusへの追加指示
