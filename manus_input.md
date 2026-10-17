@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: トレンド解説
+# 本日の執筆テーマ: キャリア
 
-- 生成日時 (JST): 2026-10-16 12:46:52
+- 生成日時 (JST): 2026-10-17 12:37:02
 
 ## 収集された最新トピック
-- タイトル: 従業員エンゲージメント向上へ上司と部下の対話の質を高める【NTT東日本】 - 日本人材ニュースONLINE
-  URL: https://news.google.com/rss/articles/CBMiR0FVX3lxTE1RMGRxMEpHalZUX0s2bTVHelFtaTlWTmlQaUNEYmxWNXBJRVFWWDJOTHNKV05EQkplUHJoQW5tWW9GY28xQ1c0?oc=5
+- タイトル: 「希望のギャップ」——従業員エンゲージメントの数値が上がらない本当の理由 - Forbes JAPAN
+  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nRVB5S0loMVdIVlpIMXNwWGRaZ1Z5TkYxOWNLTVN2SERsX1ZJLVlrMTc3ek9IUUR0YXZlVDBtVVZReXVlZkhQM1NFSGpxWDR5cDh6UjgyakYyQQ?oc=5
 
-- タイトル: 揚羽の板倉氏が登壇した従業員エンゲージメント戦略セミナーのレポート記事が公開 - Dellows News
-  URL: https://news.google.com/rss/articles/CBMiRkFVX3lxTFBnZUxPOG9UOHpkV0Rpb0xHczBpUjNQdWw3VmI3SUpGZ3hzNl91eHNORFBwdGhxcGRyVHNYbXNFOU9iTDNXLXc?oc=5
+- タイトル: なぜエンゲージメント施策は形骸化するのか ヤプリCHROが説く、社員を動かす「感情設計」 (1/2) - HRzine
+  URL: https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwQ09Yb0dJNV9SWUt0YWJqd2pCY3FjS2xpR2ZsS3JxbEFvU3ZNZm5nSE5lV2FsWjNZQ0NiQmlhV1A2UFJhLWUwM3I0Z3lvZw?oc=5
+
+- タイトル: イオンリテール、従業員12万人のEX向上のため約350の全店舗に「AIワーク」「MaIボード」導入へ - EnterpriseZine
+  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mbEpKdjlTdmV6YlNpWHhKUEZhdmdRd0NxM1JtODJGQTVDVktKM1dOb0pRUEs2ZGM2cFJRblM5RHdWY1RNZlQxSnpOdVpGTHZCUHJWRE9R?oc=5
 
 - タイトル: 「幸せに働く」を本気で考えたＥＸ向上施策～ハイブリッドな働き方を前提にした当社グループの取り組み事例～ - ビジネス+IT
   URL: https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUT0VydFdZYVZOSWRvUWROaUhudkVDTTFVTmNhRXFvM2NXLThjQWZVakNSQzllbjdFcDlPX1JxTHFHamlPU0hKcGZhbw?oc=5
 
-- タイトル: 人材育成の費用対効果(ROI)の低さに悩む人事・採用担当者向け！“入社前オンボーディング”資料を無料公開します！ - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1BdDVBRlo2Y1BLc25lbFMtYjY1MzZwWmMxU2xDcGRHazBJRlMyZUJ2YWVNdl9uc0R5M09PTUpLZ0Zhby1fUTNrWTV3bUJiS1o3LWxjN2lOVWtoS0taVFJ5eEh1TVRob3NDbVE?oc=5
-
-- タイトル: キャンペーンから社内報、組織活性化まで。国内外PRアワード一覧 - 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE0zS3JsREMtVjhiT2JubU1rTFd4ZDlrVzFjV1gwNkhKbm1NV2VTeFptcHRtRTFXRWNWbW9KYWZRaGtSLTRuQXFVT1g5a1hNTFFNZDY0dHd6Sl9hdm1DbXRoT0Fvdmh3dmNVeFJrTlhWa1E?oc=5
-
 - タイトル: 野堀 和哉 - 日経クロストレンド
   URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNzBLckxhUENQY1hZdy1NRHd2UTliMGlJUDNkQ01tZm16cWgtMHlxZl83ZUlleTBUaVB0cnBHTl9wdE1TVjdvdlBxbDktZkVOTjNSQXctdWYzYU9BZjFFVzJTNVRiZw?oc=5
 
-- タイトル: 第4回：知見活用の当たり前化と文化醸成（展望編）--製造業DXを持続させるカギとは - ZDNET Japan
-  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XTGhWZ1kwdHhDSlYwUFYyXzliM2tldDc1VWxTZTJxcGpxcXBkQU12UDVnS0phRVVnempvUW9JWkxyS2xSTHFTWDhzNzdqcTQ0cTFz?oc=5
+- タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
+  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
 
-- タイトル: 「日本のDXはなぜ進まないのか」──制度・文化・経営の壁を関口和一氏が斬る - www.cio.com
-  URL: https://news.google.com/rss/articles/CBMi3gJBVV95cUxNdjlEeGJ2V1JLM0NRbjVfckJTOERBS2ZGOTdQM00tWlZmZTUta1dZV2xvUmVMUkxNeDBvbnBTNThEVEcteTZwcmxoOFZoMjhCYURiQW03SkVyYTZSS0oyTjljVzJGZ3h1YmEtSjNYVFljTXNJNFZadGN2TGtjdUxNa1J4UW1wZVFST3E1N24wLW9oWEpUeXRjT1ZWbzFITF9tRXcwWmlFblV5ZHFsM0o5RUdWc2hQZ2hFZDFNcUJJSEVUdHFMakRWcGRZTTR4U3lUeDUyLVhyeW4yVnpLc05QaVZYQzA3eE8xMUhFV0ptTWRLRVVCeTU0SjByVTBVM1VOcEcxdXIxNjNBVENXWko5cTJaUmllR3RpVEk3WlFjS0pVbmxoQVJIam03TEZ6RmwxQndSckhSWXdYR2gxbkNpS0xpa0lOOWdtbTE2dVpaM2lmMUVoc2NsVkR0QXcyZw?oc=5
+- タイトル: なぜ変革は進まないのか？― 人事制度・DX・経営戦略を現場で実装する「組織変革」という考え方 ～“戦略と現場の乖離”を埋める組織変革の実践 - 日経イベント＆セミナー
+  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tQVJadXFaSXVqOFVEdy1xQWpmUVQtdmhZWTF0VFpVMURvLUJXcXMxdThIMmF4b3hOZ1BvTFFMNklKbDM0bG9HRlln?oc=5
+
+- タイトル: IIJ、DXの文化定着を支援する「IIJデジタルカルチャー可視化ソリューション」を提供 - クラウド Watch
+  URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XWVN2SnFlYjN5Y0pmNmVWNHFYRmw1bEVrQW1Gb0VNbmhRZnBDOGJIdWcyYW40cENXUDI1TmtycUhTV040ckR0U1pqVFhOUU95cTVITlZpTVlrZ1RNeGN4em1DOTRRUlU?oc=5
 
 
 # Manusへの追加指示
