@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: キャリア
+# 本日の執筆テーマ: 海外事例
 
-- 生成日時 (JST): 2026-10-17 12:37:02
+- 生成日時 (JST): 2026-10-18 12:43:27
 
 ## 収集された最新トピック
-- タイトル: 「希望のギャップ」——従業員エンゲージメントの数値が上がらない本当の理由 - Forbes JAPAN
-  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nRVB5S0loMVdIVlpIMXNwWGRaZ1Z5TkYxOWNLTVN2SERsX1ZJLVlrMTc3ek9IUUR0YXZlVDBtVVZReXVlZkhQM1NFSGpxWDR5cDh6UjgyakYyQQ?oc=5
+- タイトル: 従業員エンゲージメントが10年ぶりの低水準に。問題は「人」ではなく「組織の仕組み」にある - Forbes JAPAN
+  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMSVdIemlWLUxRaXJkNW1ZOTdyd2xrMUNDcENNNVhXdms1OVRkUHBlcURZd085b0JOUWVjU0xkLVlfcFBlaV9reGVMZFRScXVIaGVjZ2J0STBGZw?oc=5
 
-- タイトル: なぜエンゲージメント施策は形骸化するのか ヤプリCHROが説く、社員を動かす「感情設計」 (1/2) - HRzine
-  URL: https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwQ09Yb0dJNV9SWUt0YWJqd2pCY3FjS2xpR2ZsS3JxbEFvU3ZNZm5nSE5lV2FsWjNZQ0NiQmlhV1A2UFJhLWUwM3I0Z3lvZw?oc=5
+- タイトル: ストレスチェックと従業員エンゲージメントを“ひとつ”に。組織診断サービス「イマココCheck」提供開始 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFA3a1Z4U04waV93eVZoLVFBUHF5am5fSTlUZkpTRnZUTXU0cm9SQWVkc2t4cWp0eE1lZ0U5Szlwd0Qtck54ZVJDb3k1UVY5N2R4XzNFdjdhc1k1dFZmU2ZxWU0zaS1GUGZ1V2c?oc=5
 
-- タイトル: イオンリテール、従業員12万人のEX向上のため約350の全店舗に「AIワーク」「MaIボード」導入へ - EnterpriseZine
-  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mbEpKdjlTdmV6YlNpWHhKUEZhdmdRd0NxM1JtODJGQTVDVktKM1dOb0pRUEs2ZGM2cFJRblM5RHdWY1RNZlQxSnpOdVpGTHZCUHJWRE9R?oc=5
+- タイトル: AIで顧客接点を進化させる 新コミュニケーションサービス「docomo business ANCAR(TM)」を提供開始 - Newscast.jp
+  URL: https://news.google.com/rss/articles/CBMiR0FVX3lxTE05eEdWbmd5X0taVWZxcWhkRUdZVE9uSmxZbFBxMWUweV9WSkM5d1NncXdQbFl1M1dPOTZ1UW8tOTYzeDF4MXlF?oc=5
 
-- タイトル: 「幸せに働く」を本気で考えたＥＸ向上施策～ハイブリッドな働き方を前提にした当社グループの取り組み事例～ - ビジネス+IT
-  URL: https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUT0VydFdZYVZOSWRvUWROaUhudkVDTTFVTmNhRXFvM2NXLThjQWZVakNSQzllbjdFcDlPX1JxTHFHamlPU0hKcGZhbw?oc=5
+- タイトル: 従業員体験（EX)が企業の成長を決める──クアルトリクス熊代さん - Biz/Zine
+  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvSFBES3pDTDAxZWJ5Y3ExaXhaVWR4SjVnMDVQOHdqcGdIZHAwS0VvWlZ0SzVVLUtGRC00X2VDOG15bVZHQlltQ2hyVzAxTE0?oc=5
+
+- タイトル: 異業種からの挑戦を成功に導く！　化粧品業界 新規参入セミナー　～勝ち抜くためのブランド戦略とマーケティング～ - ネオマーケティング
+  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LYXZPc2dxT2p2Sy13em5Gc0dzZjZ1ZXIydTNUV1lVaHB2QldhcVJrZy1ydUhkZkNqMDBabWlEYW9jakhrM2tCa0lRelhHQVhtd3A1RXZFWlgzQdIBakFVX3lxTE5iRmYtYlRmdmlCeTRLSkd3bHNJOEctQVpCeWRPbzNVYVFiYnBrMHlWVzZCTDRUVWpBMTZtZkw1YWpMU3pTODhWRDdyNFV4cUpQZnE3LWdHNElSNEdyakktbjNialhjVUNBSWc?oc=5
 
 - タイトル: 野堀 和哉 - 日経クロストレンド
   URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNzBLckxhUENQY1hZdy1NRHd2UTliMGlJUDNkQ01tZm16cWgtMHlxZl83ZUlleTBUaVB0cnBHTl9wdE1TVjdvdlBxbDktZkVOTjNSQXctdWYzYU9BZjFFVzJTNVRiZw?oc=5
 
-- タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
+- タイトル: 「テキスト文化」が組織の生産性をむしばんでいる──“伝わらない”損失を利益に変える、経営戦略としての「動画DX」 - ダイヤモンド・オンライン
+  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE5meTU4NHNlOFl3ZnMxcVpQb3FUZ1JfYmZJbHNVb0hvd2daMUUxUlh3OWtBYjlLZ202REY4Q2NJU3NucGJEdDVNR2R3Wks?oc=5
 
-- タイトル: なぜ変革は進まないのか？― 人事制度・DX・経営戦略を現場で実装する「組織変革」という考え方 ～“戦略と現場の乖離”を埋める組織変革の実践 - 日経イベント＆セミナー
-  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tQVJadXFaSXVqOFVEdy1xQWpmUVQtdmhZWTF0VFpVMURvLUJXcXMxdThIMmF4b3hOZ1BvTFFMNklKbDM0bG9HRlln?oc=5
-
-- タイトル: IIJ、DXの文化定着を支援する「IIJデジタルカルチャー可視化ソリューション」を提供 - クラウド Watch
-  URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XWVN2SnFlYjN5Y0pmNmVWNHFYRmw1bEVrQW1Gb0VNbmhRZnBDOGJIdWcyYW40cENXUDI1TmtycUhTV040ckR0U1pqVFhOUU95cTVITlZpTVlrZ1RNeGN4em1DOTRRUlU?oc=5
+- タイトル: 【DXで再注目】データドリブン経営で意思決定のスピードアップ｜課題や事例も紹介 - 株式会社エクサウィザーズ
+  URL: https://news.google.com/rss/articles/CBMibkFVX3lxTE0tMlpRYzVZY3ViVnNSQWJoTC1iTUJWVlg0Qlp5ZVJjRHNWQjJKYS1nd1dBZ1p2RENWbWVDUEJHeUkzekptaXc2U1V1OTZxSS1UVDJFV0FERm9QeXVuQTVVUzNQNkFIZlBVa1VMSi13?oc=5
 
 
 # Manusへの追加指示
