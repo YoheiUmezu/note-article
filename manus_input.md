@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 海外事例
+# 本日の執筆テーマ: 経営戦略
 
-- 生成日時 (JST): 2026-10-18 12:43:27
+- 生成日時 (JST): 2026-10-19 12:53:14
 
 ## 収集された最新トピック
-- タイトル: 従業員エンゲージメントが10年ぶりの低水準に。問題は「人」ではなく「組織の仕組み」にある - Forbes JAPAN
-  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMSVdIemlWLUxRaXJkNW1ZOTdyd2xrMUNDcENNNVhXdms1OVRkUHBlcURZd085b0JOUWVjU0xkLVlfcFBlaV9reGVMZFRScXVIaGVjZ2J0STBGZw?oc=5
+- タイトル: All Personal、ストレスチェックと従業員エンゲージメントを“ひとつ”に。組織診断サービス「イマココCheck」提供開始 - 日本人材ニュースONLINE
+  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wdVl2aUdzX3Vqc1lSUzVUVmttUjlSUEhOVjdCYXR4N21SY0dUVEdDQmJNTEpPTnJ1aDNKSGV6TVN2X0hqc1VscWVGLVlsODNURWJ1M0gyQkFTZ0U?oc=5
 
-- タイトル: ストレスチェックと従業員エンゲージメントを“ひとつ”に。組織診断サービス「イマココCheck」提供開始 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFA3a1Z4U04waV93eVZoLVFBUHF5am5fSTlUZkpTRnZUTXU0cm9SQWVkc2t4cWp0eE1lZ0U5Szlwd0Qtck54ZVJDb3k1UVY5N2R4XzNFdjdhc1k1dFZmU2ZxWU0zaS1GUGZ1V2c?oc=5
+- タイトル: 「『従業員』『組織』『顧客』視点の課題解決で企業の成長を支える――従業員エンゲージメント向上ソリューション」6/1～6/12ウェビナー再放送 - kreo.jp
+  URL: https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JOUpidzFHOU44aXV6Z3dZMGo1S3J6bTctSlRPbnE1WW5uZXMtTFdEaWNmUGo1U2tHNGlrNmxYZXlOLTU2ZmFncllkZTZZSWduNmc?oc=5
 
-- タイトル: AIで顧客接点を進化させる 新コミュニケーションサービス「docomo business ANCAR(TM)」を提供開始 - Newscast.jp
-  URL: https://news.google.com/rss/articles/CBMiR0FVX3lxTE05eEdWbmd5X0taVWZxcWhkRUdZVE9uSmxZbFBxMWUweV9WSkM5d1NncXdQbFl1M1dPOTZ1UW8tOTYzeDF4MXlF?oc=5
+- タイトル: 「働きやすさ」から「働きがい」へ ～当社が進めるＥＸ向上の取り組み～ - 日本の人事部
+  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTFBIcjJWM0FwcC1wQ1VrVGRiNVNYZVZ1VlpXSERxUUZIWkNiSXlQQVhUczA2UjlubFRwbXQzd3FQQm1YV0pNZDFyYVBCekIyOTNLXzVLdjNaMXhVR2l3Qi15VDZvQXVDWExjWjZnU2diWGtHU1RzOEE?oc=5
 
-- タイトル: 従業員体験（EX)が企業の成長を決める──クアルトリクス熊代さん - Biz/Zine
-  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvSFBES3pDTDAxZWJ5Y3ExaXhaVWR4SjVnMDVQOHdqcGdIZHAwS0VvWlZ0SzVVLUtGRC00X2VDOG15bVZHQlltQ2hyVzAxTE0?oc=5
+- タイトル: エンゲージメントと生産性を向上させる新潮流 EX（従業員体験）とコミュニケーションをデザインする - 日本の人事部
+  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE52c0VzeVFHQlhLem9faGQtMGh4UkFZbWVpZUVTSWRHV1NlNDFnbXJWaHI3TGNwdDhHVUt6X05rclAzcXBlTXNRbHhYNVpGRm9DVUdrY3oxemhONFFsc0xZOTBWaGxCWV9Ud0VrbkxxazJGUV9KM0E?oc=5
 
-- タイトル: 異業種からの挑戦を成功に導く！　化粧品業界 新規参入セミナー　～勝ち抜くためのブランド戦略とマーケティング～ - ネオマーケティング
-  URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LYXZPc2dxT2p2Sy13em5Gc0dzZjZ1ZXIydTNUV1lVaHB2QldhcVJrZy1ydUhkZkNqMDBabWlEYW9jakhrM2tCa0lRelhHQVhtd3A1RXZFWlgzQdIBakFVX3lxTE5iRmYtYlRmdmlCeTRLSkd3bHNJOEctQVpCeWRPbzNVYVFiYnBrMHlWVzZCTDRUVWpBMTZtZkw1YWpMU3pTODhWRDdyNFV4cUpQZnE3LWdHNElSNEdyakktbjNialhjVUNBSWc?oc=5
+- タイトル: インターナルブランディングがリファラル採用を加速する。エイチームの企業文化作りとは？【有識者の声】 - mytalent.jp
+  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmN09NYWp0Ul9CYktlV1VaZlppdzlRY09ZNDJseDBvR2VfX0xpc0xJcndaZUUwcldsNThSUXZMY1gtSlIzd1lnenRndTIxbHM?oc=5
 
 - タイトル: 野堀 和哉 - 日経クロストレンド
   URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNzBLckxhUENQY1hZdy1NRHd2UTliMGlJUDNkQ01tZm16cWgtMHlxZl83ZUlleTBUaVB0cnBHTl9wdE1TVjdvdlBxbDktZkVOTjNSQXctdWYzYU9BZjFFVzJTNVRiZw?oc=5
 
-- タイトル: 「テキスト文化」が組織の生産性をむしばんでいる──“伝わらない”損失を利益に変える、経営戦略としての「動画DX」 - ダイヤモンド・オンライン
-  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE5meTU4NHNlOFl3ZnMxcVpQb3FUZ1JfYmZJbHNVb0hvd2daMUUxUlh3OWtBYjlLZ202REY4Q2NJU3NucGJEdDVNR2R3Wks?oc=5
+- タイトル: 「DXが進まない本当の理由──日本企業に「変革人材」を根づかせる組織と文化の設計図」オンラインセミナーを開催します（LTS主催） - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5VcWF1LTVkUWJncE03OTEwMmFqNFlzVFZ3R1VpZDBULW1fTVAzMk16OFl3b2FGdDF4N2JZTDFGLTJ0NXVoeW1uSzBqeV8zdDZBUU1WWHhhS3VJcGlfenM1YXpYTktMQ19YTmc?oc=5
 
-- タイトル: 【DXで再注目】データドリブン経営で意思決定のスピードアップ｜課題や事例も紹介 - 株式会社エクサウィザーズ
-  URL: https://news.google.com/rss/articles/CBMibkFVX3lxTE0tMlpRYzVZY3ViVnNSQWJoTC1iTUJWVlg0Qlp5ZVJjRHNWQjJKYS1nd1dBZ1p2RENWbWVDUEJHeUkzekptaXc2U1V1OTZxSS1UVDJFV0FERm9QeXVuQTVVUzNQNkFIZlBVa1VMSi13?oc=5
+- タイトル: 【連載 4/4】世界が試し、マクニカが磨き上げた「組織を変える日本流製造業DXとは」〜今がラストチャンス。ゲームチェンジが起こる製造業DXで、日本が世界に返り咲くその日まで〜 - スマートマニュファクチャリング - 株式会社マクニカ
+  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ibS1Ma05QWEZLTWJjYVVlV0ZRRmsyQ0lMZm82c25CM21nUUxNVExyWHFzdzVrclk5clJqTE5vOWFHakpzN1VFTjk0QUJzM2RaNURqdkl0TnNSNGtXM1JPTFlJUUNITW1D?oc=5
 
 
 # Manusへの追加指示
