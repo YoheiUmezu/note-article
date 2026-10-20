@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 経営戦略
+# 本日の執筆テーマ: 現場の運用課題
 
-- 生成日時 (JST): 2026-10-19 12:53:14
+- 生成日時 (JST): 2026-10-20 13:05:09
 
 ## 収集された最新トピック
-- タイトル: All Personal、ストレスチェックと従業員エンゲージメントを“ひとつ”に。組織診断サービス「イマココCheck」提供開始 - 日本人材ニュースONLINE
-  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wdVl2aUdzX3Vqc1lSUzVUVmttUjlSUEhOVjdCYXR4N21SY0dUVEdDQmJNTEpPTnJ1aDNKSGV6TVN2X0hqc1VscWVGLVlsODNURWJ1M0gyQkFTZ0U?oc=5
+- タイトル: 従業員満足度42.9%、エンゲージメント37.3% - リアルワン調査｜Infoseekニュース - Infoseek
+  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmc0FRa0NnOUNWMmI1SkZPeWZjVnoyeTB4Q0twZkpPcDk4MGxHUzJ3Z0V3TGFOT01JSnRGV0E0bUZZX2JpOTREX1gtMjZIaklGSHIxMkdnOE9zY2RHQWZ6Tg?oc=5
 
-- タイトル: 「『従業員』『組織』『顧客』視点の課題解決で企業の成長を支える――従業員エンゲージメント向上ソリューション」6/1～6/12ウェビナー再放送 - kreo.jp
-  URL: https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JOUpidzFHOU44aXV6Z3dZMGo1S3J6bTctSlRPbnE1WW5uZXMtTFdEaWNmUGo1U2tHNGlrNmxYZXlOLTU2ZmFncllkZTZZSWduNmc?oc=5
+- タイトル: 従業員エンゲージメントサービス企業トップが掲げた「フィードバック経営」とは - ZDNET Japan
+  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IUFpaM2NTU3hJZFk3aDFlRlp1SmQ3M25HLUI4Q1pHU1ZjRjNTcDdkSUl1dVRtYTdXOVJHMWpSVElRZ3dQUUctOWRDUWxaazZDVU1R?oc=5
 
-- タイトル: 「働きやすさ」から「働きがい」へ ～当社が進めるＥＸ向上の取り組み～ - 日本の人事部
-  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTFBIcjJWM0FwcC1wQ1VrVGRiNVNYZVZ1VlpXSERxUUZIWkNiSXlQQVhUczA2UjlubFRwbXQzd3FQQm1YV0pNZDFyYVBCekIyOTNLXzVLdjNaMXhVR2l3Qi15VDZvQXVDWExjWjZnU2diWGtHU1RzOEE?oc=5
+- タイトル: ニューノーマルの人財マネジメント――EXの向上とジョブ型マネジメントへの移行を支える仕組みとは (1/4) - HRzine
+  URL: https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DY3NTcU5hWUEwbDZ4akJKSTgtQ1AxM3hQcmR6Z1RUaXFxZ2trRUdmek15cXhsb2g1QTNyUGFXWVJVMS12NmxNY042d0U4Zw?oc=5
 
-- タイトル: エンゲージメントと生産性を向上させる新潮流 EX（従業員体験）とコミュニケーションをデザインする - 日本の人事部
-  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE52c0VzeVFHQlhLem9faGQtMGh4UkFZbWVpZUVTSWRHV1NlNDFnbXJWaHI3TGNwdDhHVUt6X05rclAzcXBlTXNRbHhYNVpGRm9DVUdrY3oxemhONFFsc0xZOTBWaGxCWV9Ud0VrbkxxazJGUV9KM0E?oc=5
+- タイトル: 良質なEX（従業員体験）こそ最良のCX（顧客体験）を生む。コミューンが考える「組織とひとが融け合う未来」の理想像 - DIGIDAY［日本版］
+  URL: https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYUYtdE5ETU1tbVo0bzcyYURudmgzSE5mbVRCVldPcXJUUVhkNFd3bWJzSE1MaWJzWG9fLXBlazdKNno2b0VSS1BnVUJtWWZWR1k1dTE3NldIWHZlak42S0dacW80ZDI0TDRxTTJPQldsTV9nN09QVEJ6V0ZLSHZIclRMRXYtNUQwSU1wOVF6ZjNwdUdkY3FzNkl2MmFib050T0VMNWtHUU1tcGNlOW10VjNtRVBVa185RWN3NDc2bVQ3X3RtV01qNERuWTVLUHhVdGJoVHNLNA?oc=5
 
-- タイトル: インターナルブランディングがリファラル採用を加速する。エイチームの企業文化作りとは？【有識者の声】 - mytalent.jp
-  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmN09NYWp0Ul9CYktlV1VaZlppdzlRY09ZNDJseDBvR2VfX0xpc0xJcndaZUUwcldsNThSUXZMY1gtSlIzd1lnenRndTIxbHM?oc=5
+- タイトル: “マイナビだからできる”採用広報とは？ 「プラスト」企画責任者にインタビュー - サポネット
+  URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxQMTRpX3h3QkJVWmxaWDAyTkRGX0M5TXV5ZlFXd3g1LXQ5czRzOUZVeEJuNENzaWJWaUU2NTV4M0Z1WDZnQ2ZySVJjN0VLYU1yN21PeEtBNmlxVU5aWEhIakFsUndBdHd1V181YkJIUlpxb0xnX181d25Rb2V5MHd2clAxSQ?oc=5
 
-- タイトル: 野堀 和哉 - 日経クロストレンド
-  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNzBLckxhUENQY1hZdy1NRHd2UTliMGlJUDNkQ01tZm16cWgtMHlxZl83ZUlleTBUaVB0cnBHTl9wdE1TVjdvdlBxbDktZkVOTjNSQXctdWYzYU9BZjFFVzJTNVRiZw?oc=5
+- タイトル: アジアNo1(*1)のPR会社が伝授する、“人事採用×広報PR” 戦略「採用戦略サミット2022 令和の新常識 produced byベクトル」開催 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9SYU1yRHFrU1pXZ3liazlTVHhJTFRybkFNZG5lYlZXaTNBeGI5MUlZXzhEbFRNbmVNbi1YRTluRzRabTk3a29nSklJTVNUdU5xSGh3ZDN1SWtjOTVfc3QwZjZJcW5sNldPelE?oc=5
 
-- タイトル: 「DXが進まない本当の理由──日本企業に「変革人材」を根づかせる組織と文化の設計図」オンラインセミナーを開催します（LTS主催） - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5VcWF1LTVkUWJncE03OTEwMmFqNFlzVFZ3R1VpZDBULW1fTVAzMk16OFl3b2FGdDF4N2JZTDFGLTJ0NXVoeW1uSzBqeV8zdDZBUU1WWHhhS3VJcGlfenM1YXpYTktMQ19YTmc?oc=5
+- タイトル: 地場コンの現場監督によるボトムアップ型DX、成功の第1歩は「仲間づくり」から：地場ゼネコンのDX（1/3 ページ） - ITmedia
+  URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE1xWGlMcGoxTktBdnJuZ0VxdFZyMElJNlQ3cGROaVpIY1FidzVwMkY5TjNqX3l5NXNXb01PTkhUZXd1VmpKWFdoQUtnSkxYcGVHQTl1NnM2S2x0Tnc1dVlVUjlBX2NmaHc3VXpKbQ?oc=5
 
-- タイトル: 【連載 4/4】世界が試し、マクニカが磨き上げた「組織を変える日本流製造業DXとは」〜今がラストチャンス。ゲームチェンジが起こる製造業DXで、日本が世界に返り咲くその日まで〜 - スマートマニュファクチャリング - 株式会社マクニカ
-  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ibS1Ma05QWEZLTWJjYVVlV0ZRRmsyQ0lMZm82c25CM21nUUxNVExyWHFzdzVrclk5clJqTE5vOWFHakpzN1VFTjk0QUJzM2RaNURqdkl0TnNSNGtXM1JPTFlJUUNITW1D?oc=5
+- タイトル: 現場でのデータ活用で組織のWhy文化を育む - 電通デジタル
+  URL: https://news.google.com/rss/articles/CBMie0FVX3lxTE1tTUxTQ3VIM1JWeklhVllaZ201a1ZGTVMxMldzMDBtVkg2V3JTeTZhSG1FeGFYTEpncmFOaHd0ajE5eEN4TlRSZ1dYQ1owQU9obVFCb0FWZ2pmY0hiUGV3TEVzUlg3X0R4aVVlN25kSXJ5dGtka19qQ2luOA?oc=5
 
 
 # Manusへの追加指示
