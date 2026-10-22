@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: システム連携
+# 本日の執筆テーマ: RFP/選定基準
 
-- 生成日時 (JST): 2026-10-21 12:53:44
+- 生成日時 (JST): 2026-10-22 12:54:06
 
 ## 収集された最新トピック
-- タイトル: 【速報！】2026年版第４回全国１万人従業員エンゲージメント調査結果速報 ～「30代の孤立」と「インフラ産業の活力急落」に警鐘。1万人調査で見えた日本組織の歪み ～ | 株式会社アジャイルHRのプレスリリース - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5CbUFyazI0RG10R2szcTdpVWhpWFhsNlkwT0tnYmwxdzlJZ0N2cVVPTDYxRWZMWTlTRlByYkpBM1gzM0swd0ptQnQtQUhhVGk0RFY1WE1sS2g5bVVoeWtETXUtazdzZVhORWc?oc=5
+- タイトル: 従業員エンゲージメント - SGホールディングス
+  URL: https://news.google.com/rss/articles/CBMif0FVX3lxTE90V2w0SXh6bUwyazVtU2ZEa0I3b1V4cFJHN1UyejFza09YMzRaQXRreGtCdnU2SlZJai1vdUhBeHlNYURpcTlaVFRoUjAzY0FfZ216dlJaWkMzRGdlY2VjTkRJZEJTRnRrN0JjWUhyREN0b2cyOE1fakdmcW1Pa0E?oc=5
 
-- タイトル: 【従業員エンゲージメント調査の実態】働く人の6割超が「静かな退職」に共感、約半数が調査は「役に立っていない」と回答 - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBJYVVETVVwUG1vZ1dsVmJTd2Q4TTZyY20tLVIzZWpJb2NvV0ZlQ3FTQV9iWERrdUxsRXVhVXlkd292QzhIRFc1dmF6SVdFX2JSblpXb094NDNMVWRoN1VmTVRKb3RqS1ZBd2c?oc=5
+- タイトル: AI導入で従業員エンゲージメントが低下する5つの要因とその対処法 - Forbes JAPAN
+  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NTGZuZTJHR0tlbkRXZjFhN1dnTlBJRzdzR1VKNDd0RlpFeEctYmtidThOemdidE51Q19STXl5WWhJVzdaUXN0VGJUMUtXdEZXcldJcnduT2w?oc=5
 
-- タイトル: 動画で学ぶ：AIで変革する、情シス負担軽減とEX向上 - ITmedia
-  URL: https://news.google.com/rss/articles/CBMickFVX3lxTFByY3ZxZEgzLTdEWXlJMzUxbWZHRm84Mm5CbkhNLXVKdG5FcGdicE5VRXk1MTBuTWJMUUtiV19tOWVscXdkVkMyQkRGQ2VKRmR6cWhuQVNaTXFIWDZvWkRULXV4WnBPOFc3OUdzRWtNRnl0dw?oc=5
+- タイトル: ニューノーマルの人財マネジメント――EXの向上とジョブ型マネジメントへの移行を支える仕組みとは - HRzine
+  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE56VTZWNy1pR2pDU3dKalZyQWd6RG5LUjNBdnl3NGs5dF91ejcwbmZwajVjVnNKX1ZuUzB3QnZGNktkOUdWMGZUMDJDUGtsMnJvcjFF?oc=5
 
-- タイトル: 誰もが使う社内ポータルを、より良い手触りに変えていく。EX向上に挑む三者三様のストーリー - NTT Data
-  URL: https://news.google.com/rss/articles/CBMic0FVX3lxTE13X1ZCT0NwWXhPVkNlUGh6eUszcGhsSVVLNUlPSTY3YUlVU1AxSkljU1JQVlpoVTVSaGhqbk1BWTdZbkFRcUdzd1k4empJWjJaTUFPV2I0Zl92RHMxdXRybEhHVkRjMnVWX3I1MVdkMWxwUzQ?oc=5
+- タイトル: 生成AI時代 加速する小売業DX～競争力強化を実現するCX・EX向上戦略～ - ダイヤモンド・チェーンストアオンライン
+  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0YnZXZHlRU3pFN2hRdEwzU095dHRPT0M0U094MFA0UFp3SXA5dGFCd1h0Ql85TWJvd0hoQThpSEwzTVRuc2QtRy03UmhidFU?oc=5
 
-- タイトル: 野堀 和哉 - 日経クロストレンド
-  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNzBLckxhUENQY1hZdy1NRHd2UTliMGlJUDNkQ01tZm16cWgtMHlxZl83ZUlleTBUaVB0cnBHTl9wdE1TVjdvdlBxbDktZkVOTjNSQXctdWYzYU9BZjFFVzJTNVRiZw?oc=5
+- タイトル: 「ミライ人間洗濯機」や「抗菌寿司カバー」など大阪・関西万博で見つけた知財を広報誌「とっきょ」特別号で特集 特許庁 - 医薬通信社
+  URL: https://news.google.com/rss/articles/CBMi2gJBVV95cUxQM1hDUEVGNzZ4ZXV5dFBKQy1DV2N6QXgtemRINFMxazJHbENMY0pwandrVXR3WFRHZHdJVDBwZk1WQkZGU2k2eHpvcVBfbzh1NjVfMnpxeWNYcVpmYjZ1a1Y1V1ZaTjc1UEcweTU3aVdRaTZ3Tk42cGJRQ2JhZVFJNV9FdWRHT19qUlFodDB3UWh6Y0xhRlBKTDctU0d0eDlPVFhSUWF4TjZCSWdxZl9Qb1RTb0Jtel9XdjJmZEMyWC1feXRmaTU0Q1NCVGlDaU5GamVWUmZ4WUc5ZWFnLUJiZUdyOXJIZFdfVXZHZEx6aWNkQkZucWI3N3ptZE4tQ1NFMnlLUmJ5cjVEb2FKUmljeHMzdTh1cXkzR19WMEpqdmpkdDJ0QmlUTko5WjNTNjhORFJ5RE4xdVdaOVJNdW5xcEpSSWtmVWluQmxfZ3VkTW5qZXpEaS1ybW1R?oc=5
 
-- タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
+- タイトル: 【2/20(木) 開催｜無料 食品ECのグロースハック】＼レッドオーシャン市場での“勝ち筋”はこれだ！／食品ECのグロースハック戦略2025～成功事例に学ぶ最先端のマーケティング手法～ - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5yc3NvT2ZWNkJ3Z1hMQjVJRVJ4dklXd0JsSngtSEJFNlB3VUtNaDl4RlVjT21SbFlfZWl6MGJ6Y0x5SUc2dXE2Q2NqdDRTaU9Edm9pRFViZFhKRUctVmxHRzNpaXJ1TUN3blE?oc=5
 
-- タイトル: 縦割り組織を超えて加速するJR西日本のDX─TRAILBLAZERが明かす、データサイエンス組織創成の軌跡と攻めのITへの転換 - IT Leaders
-  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DNzhzZmprNmN3ejZWb2YxalBsRmxHZWZuNFpSbXFQM2N1UHY3R1NWd3B3a2tNdkZMcWcxcW5jR2VBZG9tRjFlVVVOb0tWMlVpM01N?oc=5
+- タイトル: 情報システム部門を「DX部門」に変革するための処方箋 - IT Leaders
+  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nZ3RCX013YTNvekZQWDVCRlYxTkw4ZlZFaXAxZ1RZRUhCZlNWZUQxeUJHNjluQ3dRR3BOc3ppRDVXcmkxWlU5cHRnVDU4a3RvdzUw?oc=5
 
-- タイトル: 大企業社員500人への独自調査で浮き彫り DXはなぜ人ごとか？ - 日経ビジネス電子版
-  URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkdngwVG1iWFYwZ0xWN0E3WkRjdHJJMTctei1XX3gtejNWUFdJa3h6cGpUc1JTTXpmSzJkVzRDMTlSdGU3OHZsblJ6c1RXYTF4TDdMT3BuN3BXRW9zZXlpbUktWWljVTA?oc=5
+- タイトル: 対話から生まれるデジタル変革 ― JR東海が挑む“文化を変えるDX” ｜ビジネスブログ - ソフトバンク
+  URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxNampPVjRFOGU5V2JCSzRCYjQ0UnJrTk1RaFJ0eXo1TzQ3MjlWYlBFU3lBQXotdnZkZUU0d2ZkSUhxeTBMQjdHNUkycTdmaVloaEpnN2tZenVaZTJ2OFh6VWZZMGRLTDRiZHhLaUI5VFUzenA4czBjX2JIaVd6cXFrcTF2WQ?oc=5
 
 
 # Manusへの追加指示
