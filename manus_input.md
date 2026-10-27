@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 経営戦略
+# 本日の執筆テーマ: 現場の運用課題
 
-- 生成日時 (JST): 2026-10-26 12:55:13
+- 生成日時 (JST): 2026-10-27 13:17:15
 
 ## 収集された最新トピック
-- タイトル: 従業員エンゲージメント - 株式会社熊谷組
-  URL: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeTd1U3BMYkd2aWwtOGVKcXlnRkpraVhHMkFWcERGYnM2bjVzUHlKdjdIR055eWM1VTlNdDJvVTNudUtTakdhYkZzZVRrWUxLVVd2RmZ2cC1WMTVTcUFyN0VlOVNDYTltSHh6QUZTS3U2MkVUWlBXUmU3LW0wUzNJS1gwVzhOZnd3Um04?oc=5
+- タイトル: 【従業員エンゲージメントに関する10,000人調査2026】会社の「現在」だけでなく、「未来」をも共創する従業員エンゲ - ニコニコニュース
+  URL: https://news.google.com/rss/articles/CBMieEFVX3lxTFAxYlR0cXEwWlJKam43NDZJeWpSZk11TExlMWE4bmZlQlphTTlidW5PQk8weWVwYW5Yb1IyUGZPNWdFb2lzcUNQRjVhdTV5QWhiaFlIcU5VTDlDdG1yeWtSc09UMlJFdGVNQkc5Zm14SGFBaWZDckg1cQ?oc=5
 
-- タイトル: 「『従業員』『組織』『顧客』視点の課題解決で企業の成長を支える――従業員エンゲージメント向上ソリューション」6/1～6/12ウェビナー再放送 - kreo.jp
-  URL: https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JOUpidzFHOU44aXV6Z3dZMGo1S3J6bTctSlRPbnE1WW5uZXMtTFdEaWNmUGo1U2tHNGlrNmxYZXlOLTU2ZmFncllkZTZZSWduNmc?oc=5
+- タイトル: 【従業員エンゲージメント】日本は世界最下位、米国は第2位、意外な第1位は？ - ダイヤモンド・オンライン
+  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uenpWN3BXMzd0dUdwU0VvQXFBNno3czdkOUVOLW94UVVaRHR0Xzg5V3dUdlRSWE1NVUhXRGEyWURpZUZYa1I2bTBRTGTSAU9BVV95cUxQUnJuV0ZlLXFLY0Z4TEIxWHR1NE15bE5faFVQT1k5SktuVFVvQWIzZGRLWDBuYnJJTk9YZ3RnQm9NZnJJeWF4N0kzLVg1TVJ3?oc=5
 
-- タイトル: これからの経営に不可欠なエンプロイーエクスペリエンス（EX）の役割と展望 - PwC
-  URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxNVUtYbDgzYV84NEU5cThlbUZ6VkJXRV9Pel93RDV5V3hkZVZSMllLaEVYYzB1cGl6dUV2RWtVRXhHRVRTdlVlMkpHSllSaGY0OTcwUzdpenB0YXg1WDJBYUZKaHRqZWwzc3BsNGs5WkozU2E2SGNZOFlaT1J0ZlZrZHVRa0U?oc=5
+- タイトル: 「働きやすさ」から「働きがい」へ ～当社が進めるＥＸ向上の取り組み～ - 日本の人事部
+  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTFBIcjJWM0FwcC1wQ1VrVGRiNVNYZVZ1VlpXSERxUUZIWkNiSXlQQVhUczA2UjlubFRwbXQzd3FQQm1YV0pNZDFyYVBCekIyOTNLXzVLdjNaMXhVR2l3Qi15VDZvQXVDWExjWjZnU2diWGtHU1RzOEE?oc=5
 
-- タイトル: エンプロイーエクスペリエンスサーベイ2025調査結果（速報版） - PwC
-  URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkxhZmQzZXBheHNFd2J3cUFtOC04ZVh4V3F5Ymk3dVZjWTJ2MjJIZkxPbjE0N0UyaEpnaHF3OUc1bmE5WE5DSlVjd1ItbDFDaFlpclNzbzVINTBiSS00WUowQ0NTZTQtZDlEU01FTXFXRnhXel95eE9CdjRLYVFxOHBnU0NPMlhXMHpOWWxUSy02TXdo?oc=5
-
-- タイトル: ＜プレマガ広報インタビュー＞株式会社OKUTA 安藤 小百合さん｜プレスリリースマガジン - ドリームニュース
-  URL: https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tYjZjZkltUkUyYjg3OV9lOG12VTIyemkwOFIwS1VlSm5CMUJXc1RkQXJnMjFJYWxVbVJXNjV2ZnBhUnFtWGtCVTRfYjNZMGMy?oc=5
+- タイトル: オリックス銀行は、なぜCX、EXの向上を進められるのか？ - JBpress
+  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBISEVfRFNRYnpoV3F6bXVWcjZFSkU5RThQeTlHQUlyanpnNGc5ZkF6QVQ0WUttbkU4ZEJadElXMzJ0ajdtdWxHczZKNVZSaW4xelYxVjlB?oc=5
 
 - タイトル: 野堀 和哉 - 日経クロストレンド
   URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNzBLckxhUENQY1hZdy1NRHd2UTliMGlJUDNkQ01tZm16cWgtMHlxZl83ZUlleTBUaVB0cnBHTl9wdE1TVjdvdlBxbDktZkVOTjNSQXctdWYzYU9BZjFFVzJTNVRiZw?oc=5
 
-- タイトル: 「ありがとう」がDXを加速する 140年企業が実践する“感謝体質経営”とは：カクイチの組織文化DX（後編）（1/2 ページ） - MONOist
-  URL: https://news.google.com/rss/articles/CBMib0FVX3lxTE5tcWVnSEdsdDgtaTdFYXlMVTlXT3prZ0lGSElsT1pZMEd0MVJuVlF3UURDdkVER1oxTEdIbVNVVUY2TDRNWTdES2lqaFVNYl9FczhPWHBwWWVoRUJvMy1uOTdtbUJ3QWpFWEpVQVQ5QQ?oc=5
+- タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
+  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
 
-- タイトル: 「全社員をDX人材へ」 一橋大名誉教授・神岡太郎氏が持続的なDX推進のために組織文化の醸成が必要だと語るワケ - JBpress
-  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE94LWVjRWVnM2VBSFF4TGdFenR1clRXcjBBMTlfSTlVXzVDT3NTdEFQUkFFcVlEYzd2QmdWQTRIYjNsYXJhTGgtdkJPVTM0VUM4S3lBWjRn?oc=5
+- タイトル: 140年企業はAIをどう組織改革に生かしたのか、組織スピード4倍の舞台裏：カクイチの組織文化DX（前編）（1/3 ページ） - MONOist
+  URL: https://news.google.com/rss/articles/CBMib0FVX3lxTFBLaTlUWWZrTVhBR3BQS0NZMXdIczVpZ3ZmaDNGT2p1Q2M0M050dFl0dW5RaUZhNk5SQ0J1c1ZTbmNBUVE0bFBJMzhLOXNvdXZ6c20yU3p3OFJwWVpSaHVFcndHR0x0eHo2MlZCNzJ0QQ?oc=5
+
+- タイトル: デジタル時代に求められる組織文化--円滑なDXの推進を支える6つの要件 - ZDNET Japan
+  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE01d0hvWUN4LXlpWWlxVVBqbDJkYXRrMmowZTY5T0hvUkZjZmpzUFRIY2RJa0NJSzRGbjhhYXlUNU5XZmdMWURvVGJILUtnazJkallz?oc=5
 
 
 # Manusへの追加指示
