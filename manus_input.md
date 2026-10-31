@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: トレンド解説
+# 本日の執筆テーマ: キャリア
 
-- 生成日時 (JST): 2026-10-30 13:57:37
+- 生成日時 (JST): 2026-10-31 13:44:16
 
 ## 収集された最新トピック
-- タイトル: 鈴与シンワート、従業員エンゲージメント向上支援クラウド「ここレポ」にAI分析機能を追加 - クラウド Watch
-  URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91bzdORGFBN3dYdmlmdTFqNFRHa2Vud3EteGQwVkJqSk1SMDlfSy14czhNVTdET2wxaW9pcUJNX3REZHAybjlaNjJIYjVoRVprdGM3dDl2UUJmYmJTc2JQMHhFTHdMNzg?oc=5
+- タイトル: 鈴与シンワート、従業員エンゲージメント向上支援サービス「ここレポ」専用スマホアプリにAI分析機能搭載 - 共同通信PRワイヤー
+  URL: https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vODNDMXpRNGZJeUxKT2V4Q3NZTTN6ZjVaQ2Y0ZzAyTkc5OVFVYVJHNC1jNTR4UkFRZ1lzZFBoMFF4RkxLdlMtWXZieUN2MGVyQWtIbzlZbDdOVEk?oc=5
 
-- タイトル: 従業員エンゲージメントソフトウェア市場における競合インテリジェンス：主要企業、戦略、市場 - pando.life
-  URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE9yUUYtYnNidXpaVTY4OTJ4Zy04ZC1XWE5UVzhCc2szTmJmNHhxWEdxT2Fqd2Z6OThRd0lsV0NNbVM4aXB3ZllMUHln?oc=5
+- タイトル: トヨタ車体、AI搭載の次世代型福利厚生「カフェテリアHQ」導入…従業員エンゲージメント向上へ - レスポンス（Response.jp）
+  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTFBabTJaQzlwVnFuWUZMbEpoaHlndGExdGI3M2ZXZnFnSlJXSnozMDdSMXl4WFhFWFJrbmVrM1B3eURrMmFBZndlQlNVc01wZGtiNFFNSGNRSjdQNjJpdkg0?oc=5
 
-- タイトル: ホームデポとカインズから学ぶ CX・EX向上による小売業成長戦略 - ダイヤモンド・チェーンストアオンライン
-  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqZGtVQ3Q5Y01mVGFXbXJ5c1NlcFdQb2YtUTBoT0hMX0xUTk00ME15dGZFY24zSUtWN240NUxtdmNnSmRNSWhrUnVIOHJWdVE?oc=5
+- タイトル: 誰もが使う社内ポータルを、より良い手触りに変えていく。EX向上に挑む三者三様のストーリー - NTT Data
+  URL: https://news.google.com/rss/articles/CBMic0FVX3lxTE13X1ZCT0NwWXhPVkNlUGh6eUszcGhsSVVLNUlPSTY3YUlVU1AxSkljU1JQVlpoVTVSaGhqbk1BWTdZbkFRcUdzd1k4empJWjJaTUFPV2I0Zl92RHMxdXRybEhHVkRjMnVWX3I1MVdkMWxwUzQ?oc=5
 
-- タイトル: ソフトバンク式、EXを圧倒的に向上させる「DW4000プロジェクト」とは？ - JBpress
-  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KUDZWTXBDa1NBN21FTEU1OF8wTWpTVHhIZ2NwRzF1cktIZFNRalI1REd0VWNzV1RJNmhROTZ4ZjcyV2pGR3hHb1phNkp1SjBJQlJBZ2tR?oc=5
+- タイトル: 人事データ活用とEX向上プロジェクト：成功への道筋と落とし穴 講演詳細 | HRサミット 2025 ONLINE - HRプロ
+  URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE9MeU5aT0c0NmswSlNzZkx2Sm94UGQ3clJMWnNlNUw4a2FZWjBPODNCUzI0cVBJeTkxa2FnaVdfbGZOYnMzcy1abWxMNm9JbkFiQ0Rqc2o2cmZ5aFFnZUE2WDVTN29zRWNhZU05TWhObW0zbWdy?oc=5
+
+- タイトル: 第1回「三菱重工グループ事業会社 広報会議」を開催 - Mitsubishi Heavy Industries, Ltd.
+  URL: https://news.google.com/rss/articles/CBMib0FVX3lxTE01anEtVkVCdFNHeWZNdjZJWGpvOGZHQ3FaUmxqMHBDcVAwTG1BcEpiUW14eVc3RkdtcElEUVdfY05BYlh5bFI2V3lZa0wxSmxSWWplcG44NjJ3TlJ5c1k3NzlGaWpUMjkyUzFYNG9zSQ?oc=5
 
 - タイトル: 野堀 和哉 - 日経クロストレンド
   URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNzBLckxhUENQY1hZdy1NRHd2UTliMGlJUDNkQ01tZm16cWgtMHlxZl83ZUlleTBUaVB0cnBHTl9wdE1TVjdvdlBxbDktZkVOTjNSQXctdWYzYU9BZjFFVzJTNVRiZw?oc=5
 
-- タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
+- タイトル: 【連載 2/4】世界が試し、マクニカが磨き上げた「組織を変える日本流製造業DXとは」〜分断・対立・不動を超え、DXをカルチャーにする仕組み〜 - 株式会社マクニカ
+  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE94TmZJNTNrZm14SHV4Q2RkbEZLQURsd2wxaldPUS1jSjBqY1FKREgwLTVwc0hUVHNTMjR6ajloa1BtVklreDRIamh1R2Nwa3hnd25PYWQzcDh2LXo2ZWw1ZW1sT0NQTWJS?oc=5
 
-- タイトル: DX動向調査2026 : BluStellar - NEC
-  URL: https://news.google.com/rss/articles/CBMiigFBVV95cUxNQnNycWZ1N2J3OVlHMDRUVWVUOTJVNFRMMDdrY0dUeTRjdHhVSnE0Sy1Pek5PdmNOY2ZuUThKcWROaVZTdDhIMjVFWVpDbzQyY3lRQVd3RjF6bGFtdzczTTk5aFpRLWo5WXluMFR2cGNScUpOQWpiNFhrUUxOeDY3aXJhNTFiZ1dXMlE?oc=5
-
-- タイトル: 角田市DX推進計画 - 角田市
-  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTE85djExVERYXzREWE9TOTU0VDFXSWZ3WFR0WU1xVGpoRmFrX0hYQzhYUFhaQjV3Qzl6RzJfY1FmUU1LZGIyaUVYU2tqUUZVejg4MzBCanJQT3U4LW5Da2hyVw?oc=5
+- タイトル: 場所を選ばない働き方で、住民のもとへ赴く自治体に。 - ジチタイワークスWEB
+  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Ha2Y4a1Y4aE9pLUwzWUdEZlFGWDNYWjNVLW5yZDFXMmRadVpYMWUteFFSaTZmN2RHQW1vcEdreXBOQ3pEaHluT2ZiMFo?oc=5
 
 
 # Manusへの追加指示
