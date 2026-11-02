@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 海外事例
+# 本日の執筆テーマ: 経営戦略
 
-- 生成日時 (JST): 2026-11-01 14:05:56
+- 生成日時 (JST): 2026-11-02 14:06:27
 
 ## 収集された最新トピック
-- タイトル: 米従業員エンゲージメント、15年ぶり低水準 AI導入組織でも落ち込み - 디지털투데이
-  URL: https://news.google.com/rss/articles/CBMingFBVV95cUxNOWlrbEhYaGZLcVJKbXR2SXRFSXB6NkhEMGVYUmgtRmU5VzNIaEZGeFF4R0E4LS1DU253cHRHWlVzbExldDZhbFV4OU5CaVlYcENmR1YzUHA3dWNscVdzSzdSYjRmNjJyWFR6azdpMVlocnFWZkIwTGgzOWNVR2h6TDlZSlZKYTNPT2NYcnZWZnRzZDBkZFYzUUJlc0x5UQ?oc=5
+- タイトル: ASML、従業員エンゲージメント指数を経営陣報酬に連動…「半導体装置世界一」の人材実験 - BigGo ファイナンス
+  URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE9vc0JQQWlwUlhnSXFRMnhEbnNEUm1mdEtBclh0emdYMkd2MDV4UWVRVEh1Y3RjS0dtYlQtQWQyU0tJUmRpWEpWYnQwcjlyNW1GdFYtVlNKOVBRalE1cHZTMldfLUtMd2ZPNF9hcDlxOUdWcU1J?oc=5
 
-- タイトル: 大企業における従業員エンゲージメントと離職意向の 関係性に関する実態調査 - 日本総研
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWZWRMelpJME9YZXBIUjEzSV9iVG5nV1liTXR4cnZhbkxVbHFsVlRtajdXMGhsNmJWUDZ5enVxTWVDS04wQVdHY3RLZVJ1WVJjY2RzRUxoQnhmVjgybDh3?oc=5
+- タイトル: 「選ばれ続ける組織」をつくる従業員エンゲージメント向上カンファレンス Autumn 2026〜離職率低下と定着のための実践施策 - Crevo株式会社
+  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zRDVkWGc1LXB3UzFIdnJGR1Q1MVpHaElnLUpzcVAtLVpNdURneEh3QkJpeFkzVDNEN29WVkZZbTB1bmVYRVg0WGVqN2o?oc=5
 
-- タイトル: 「残ってもらいたい社員に限って、すぐに辞めてしまう」という事態を食い止める。EX向上のための三つの意識改革と対策 - ダイヤモンド・オンライン
-  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qMUIyS1dIWnJKYXJfTjRpQjFrblBaQWFZLXEtU1JpSGhMdmQ3ZVZ6TkVSdjR2aHVPZkxxSnZOVnMxZm9fNmVWM0tXd1M?oc=5
+- タイトル: 名刺アプリ「Eight」、「Ask One EX」で出展企業の商談機会最大化と来場者のブース体験向上を後押し - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBSS29LNU5lZmxCRG5SUmx1NGpFMlZNQXVyZEhlQTJsNms3YUNxdW91U2ZMMW5VdmNucGFXRmpZcVp6Y1hhZWtqQkhwYjNaaHdsQVBFOFowRElMOHZoZjlCM0FWZEhkWUp3dEE?oc=5
 
-- タイトル: オリックス銀行は、なぜCX、EXの向上を進められるのか？ - JBpress
-  URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBISEVfRFNRYnpoV3F6bXVWcjZFSkU5RThQeTlHQUlyanpnNGc5ZkF6QVQ0WUttbkU4ZEJadElXMzJ0ajdtdWxHczZKNVZSaW4xelYxVjlB?oc=5
-
-- タイトル: 野堀 和哉 - 日経クロストレンド
-  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNzBLckxhUENQY1hZdy1NRHd2UTliMGlJUDNkQ01tZm16cWgtMHlxZl83ZUlleTBUaVB0cnBHTl9wdE1TVjdvdlBxbDktZkVOTjNSQXctdWYzYU9BZjFFVzJTNVRiZw?oc=5
+- タイトル: MSI、新型ポータブルゲーミングPC「Claw 8 EX AI+」発表！ グラフィックス性能が大幅向上 - GAME Watch
+  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE00SkdXaEpKRmZzUTRCd09hZ1luQWcwenFCMWU4TjRpY3d0WktGMzFGVmFtbEhLeERSMWx2c1BkdGVrb0ZBMkdqNWw4MjVBUnpCc0gzU1UwS0JrZnBMbE1xdXlmQnNpUQ?oc=5
 
 - タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
   URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
 
-- タイトル: 「テキスト文化」が組織の生産性をむしばんでいる──“伝わらない”損失を利益に変える、経営戦略としての「動画DX」 - ダイヤモンド・オンライン
-  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE5meTU4NHNlOFl3ZnMxcVpQb3FUZ1JfYmZJbHNVb0hvd2daMUUxUlh3OWtBYjlLZ202REY4Q2NJU3NucGJEdDVNR2R3Wks?oc=5
+- タイトル: 野堀 和哉 - 日経クロストレンド
+  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNzBLckxhUENQY1hZdy1NRHd2UTliMGlJUDNkQ01tZm16cWgtMHlxZl83ZUlleTBUaVB0cnBHTl9wdE1TVjdvdlBxbDktZkVOTjNSQXctdWYzYU9BZjFFVzJTNVRiZw?oc=5
 
-- タイトル: 学校法人神奈川大学が挑むDX人材育成 ～全事務局職員を変革の主役にする組織改革のこれから～ - NEC wisdom
-  URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE9ULUZuelVpc2RMa2JyUTVaUTRzVmhHXzIxdGdDWUwydlU4SzY5WkxWU3BrMjhVUTZ6TkJUa25pM3F0dmZSWVlvQzFEalZBSG9HRVNYenNHNlA3Zl82UUJJQkFQRDdDeXFLei1GUGpISkJIczltaGNJ?oc=5
+- タイトル: 「企業文化は戦略に勝る」-DXやイノベーションが求められる時代だからこそカルチャー変革が大事となる - EY
+  URL: https://news.google.com/rss/articles/CBMiekFVX3lxTE44VUdwZTg3a19TQm9ETThpYTR5eXZCZ3dLTTNJelRqY2l3b2k3TGROMXE4QXFyTmROeU1kbndXSV95Mk1GdHZiQXZUZzNndXZHVXB2RnVhOWJqS092bERYYmV1SHdLY3BjdTNYeXVFWnJ0TVJ2ajNrdkR3?oc=5
+
+- タイトル: DX推進で企業文化に亀裂が生じるワケ - Forbes JAPAN
+  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wRlUtczg3dnFpNVIzS1ZqWmhlX0k5Y0tsQlZaZ0dxeW94ODh1YkZPcGhlY3hmRmxxRjE5aVhGeHVNYXA4YlF2VGhYYkF2ZlJFQm5jRDlUWnM?oc=5
 
 
 # Manusへの追加指示
