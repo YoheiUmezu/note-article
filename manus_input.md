@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: 経営戦略
+# 本日の執筆テーマ: 現場の運用課題
 
-- 生成日時 (JST): 2026-11-02 14:06:27
+- 生成日時 (JST): 2026-11-03 14:52:48
 
 ## 収集された最新トピック
-- タイトル: ASML、従業員エンゲージメント指数を経営陣報酬に連動…「半導体装置世界一」の人材実験 - BigGo ファイナンス
-  URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE9vc0JQQWlwUlhnSXFRMnhEbnNEUm1mdEtBclh0emdYMkd2MDV4UWVRVEh1Y3RjS0dtYlQtQWQyU0tJUmRpWEpWYnQwcjlyNW1GdFYtVlNKOVBRalE1cHZTMldfLUtMd2ZPNF9hcDlxOUdWcU1J?oc=5
+- タイトル: 徳島県の「令和8年度職員のエンゲージメント向上に関する調査・改善支援等業務」を受託 - リンクアンドモチベーション
+  URL: https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JY3Q0LUcyejRWbTFOcUlJSk5Tc2FBMzlBQWR2Z2t2bXNzcVJGeFBfelNNT3N1OXJWc2o5Mng1SU5JUlBNczhsTG90RS1Ocld2aVdzMm5KbGw2T3lhOVhXRGZnbw?oc=5
 
-- タイトル: 「選ばれ続ける組織」をつくる従業員エンゲージメント向上カンファレンス Autumn 2026〜離職率低下と定着のための実践施策 - Crevo株式会社
-  URL: https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zRDVkWGc1LXB3UzFIdnJGR1Q1MVpHaElnLUpzcVAtLVpNdURneEh3QkJpeFkzVDNEN29WVkZZbTB1bmVYRVg0WGVqN2o?oc=5
+- タイトル: 【日本経済社・揚羽・日経リサーチ 共催】企業のブランド価値は「人」で決まる。 従業員エンゲージメントの「資産化」戦略 - 日経リサーチ
+  URL: https://news.google.com/rss/articles/CBMiYEFVX3lxTE01SEkzcUxVZENJM2owVXlEWll6amwtNWlCVzk2VlA2akd2eHg0OE4tM2tuU1d1OTBuamNkYkNHMXgtV0ZxdEJkaHhVRjY2dlRXR3hHNXY4eEp4ZXNKYy1XcA?oc=5
 
-- タイトル: 名刺アプリ「Eight」、「Ask One EX」で出展企業の商談機会最大化と来場者のブース体験向上を後押し - PR TIMES
-  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBSS29LNU5lZmxCRG5SUmx1NGpFMlZNQXVyZEhlQTJsNms3YUNxdW91U2ZMMW5VdmNucGFXRmpZcVp6Y1hhZWtqQkhwYjNaaHdsQVBFOFowRElMOHZoZjlCM0FWZEhkWUp3dEE?oc=5
+- タイトル: スバル改良新型「レヴォーグ／レヴォーグ レイバック」発売！ 加速レスポンス向上で、コーナー脱出がさらに爽快に【新車ニュース】 - KURU KURA
+  URL: https://news.google.com/rss/articles/CBMiXEFVX3lxTE10cWVCcmdMcHdxSllWS0Ewa3ZCeWlrMVJKUGdDYnFyRWdnT0I3N2x6RktEUUcyMnFuLUN0UTJVeHdKc1Y0NHczdmZScTVKRlo4U3hQMlF4QVctck5U?oc=5
 
-- タイトル: MSI、新型ポータブルゲーミングPC「Claw 8 EX AI+」発表！ グラフィックス性能が大幅向上 - GAME Watch
-  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE00SkdXaEpKRmZzUTRCd09hZ1luQWcwenFCMWU4TjRpY3d0WktGMzFGVmFtbEhLeERSMWx2c1BkdGVrb0ZBMkdqNWw4MjVBUnpCc0gzU1UwS0JrZnBMbE1xdXlmQnNpUQ?oc=5
+- タイトル: これからの経営に不可欠なエンプロイーエクスペリエンス（EX）の役割と展望 - PwC
+  URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxNVUtYbDgzYV84NEU5cThlbUZ6VkJXRV9Pel93RDV5V3hkZVZSMllLaEVYYzB1cGl6dUV2RWtVRXhHRVRTdlVlMkpHSllSaGY0OTcwUzdpenB0YXg1WDJBYUZKaHRqZWwzc3BsNGs5WkozU2E2SGNZOFlaT1J0ZlZrZHVRa0U?oc=5
+
+- タイトル: 「受賞企業が採用成功している理由とは？」ノウハウ満載の3時間！WANTEDLY VISIT AWARDS 2019レポート - HR NOTE
+  URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PaHpTbnhEQjZQZzV6QzIxRzJfRmZ1bVV4SGNrajdBaGhWXzFZYzRyTFlsWmdYbVJUNlBRNzdhcGIzTllVVnVubmdIcUpvTFhKakw2cWU0NnpCcmx0WE12Y2FCSTY?oc=5
 
 - タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
   URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
 
-- タイトル: 野堀 和哉 - 日経クロストレンド
-  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hNzBLckxhUENQY1hZdy1NRHd2UTliMGlJUDNkQ01tZm16cWgtMHlxZl83ZUlleTBUaVB0cnBHTl9wdE1TVjdvdlBxbDktZkVOTjNSQXctdWYzYU9BZjFFVzJTNVRiZw?oc=5
+- タイトル: 【DXに関する調査】 DXの進捗と風通しの良い組織風土の関係についてホワイトペーパーを初公開 - ストックマーク株式会社
+  URL: https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qVjZTYVlSQlJTNzdyMTU2Q2Zxck81cmc5Z1pwNnZUOEJfTFA5NXNtMkx5dXdOTGRXNGRvRGxMaW50eFhTRy10empvUWw5d0E?oc=5
 
-- タイトル: 「企業文化は戦略に勝る」-DXやイノベーションが求められる時代だからこそカルチャー変革が大事となる - EY
-  URL: https://news.google.com/rss/articles/CBMiekFVX3lxTE44VUdwZTg3a19TQm9ETThpYTR5eXZCZ3dLTTNJelRqY2l3b2k3TGROMXE4QXFyTmROeU1kbndXSV95Mk1GdHZiQXZUZzNndXZHVXB2RnVhOWJqS092bERYYmV1SHdLY3BjdTNYeXVFWnJ0TVJ2ajNrdkR3?oc=5
-
-- タイトル: DX推進で企業文化に亀裂が生じるワケ - Forbes JAPAN
-  URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wRlUtczg3dnFpNVIzS1ZqWmhlX0k5Y0tsQlZaZ0dxeW94ODh1YkZPcGhlY3hmRmxxRjE5aVhGeHVNYXA4YlF2VGhYYkF2ZlJFQm5jRDlUWnM?oc=5
+- タイトル: DX実現に欠かせない「組織のデジタルリテラシー」を高める方法 - DIAMOND ハーバード・ビジネス・レビュー
+  URL: https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiWFM1UzVFRXotd2JaU25YeE8xMUxuckNnUW5jeW4wenBqaVdIeG5Idm5mT0RQSmxuQUJodjNRS0liRWJ1XzdBcER0RU4zaG1N?oc=5
 
 
 # Manusへの追加指示
