@@ -1,19 +1,19 @@
-# 本日の執筆テーマ: システム連携
+# 本日の執筆テーマ: RFP/選定基準
 
-- 生成日時 (JST): 2026-11-04 14:28:50
+- 生成日時 (JST): 2026-11-05 14:48:43
 
 ## 収集された最新トピック
-- タイトル: 賃上げを従業員の活躍につなげるカギとしてのエンゲージメント 1万人調査に基づく賃上げ効果の定量分析 第3回 - MRI 三菱総合研究所
-  URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kbDJRdmRCUkttRTg4NEgxZDkyZVY0d3AzWnNHNlZDR1VBQVIwVzQ2dVUxNUNoTnBBRENPZDRVSmc3WF9ic0RfOTZQaExOR2VTN1JITF9HRmlSN3htdDBIUXZLZE4?oc=5
+- タイトル: 「従業員エンゲージメントと投資指標の関係性」 に関する調査結果を公開 - リンクアンドモチベーション
+  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vdEdMdlZlckJRTkdSOXBmajYzMDAtUmFTbGdtWW82Z0RsNXFTU3RhS2NZN2JKX19CQUpUQjM0SndpZjdXRWxxTldQWENQWXIybWNCOVhWSzNCb29iREpkY0kyTTV3dw?oc=5
 
-- タイトル: 【従業員エンゲージメントに関する10,000人調査2026】会社の「現在」だけでなく、「未来」をも共創する従業員エンゲージメントとは - 時事ドットコム
-  URL: https://news.google.com/rss/articles/CBMia0FVX3lxTE9XR1AyOVYxQnRhM1lxOEl4TURmX1R5aDlaRlBwZWx3T0tXV0RWNUFPYzY2MEZfdlYwWWdVNDl3LUJWMENEVlhzOTZ6UXFlN1ZZc3I1emp1UVFGUFFjdzgxMjdaUVpIMEl4MFNz?oc=5
+- タイトル: 日本の従業員エンゲージメントの低さを考える - ニッセイ基礎研究所
+  URL: https://news.google.com/rss/articles/CBMib0FVX3lxTE1SaWxYMFFNZXgzWVZVS3RKYllpTnVLSUNxY2oyTDZwMEJGN29PTUNyN2ZhYUZsNkh0Y1BjMl9wcERtNGdXbXdEeXJBYUtSSGRNVnljYm1SaGZ6X3h1ekhhREMzSVhSWTQtWV9nc002SdIBf0FVX3lxTE50RHR6X2VLMEdRcHdfV084SGczSGx4V0xpWjJGb240aXBoSjV2SHBQT0Q5ODdtUm4ybVo4VTVKUEtUV2w2dVRWY3A5WS1hUm9CYThYelJFZjNYYnZvWENfcnVQS2pMam9RTm9jTE1EVXBnOHN3eWNRdk1CZlJOcTA?oc=5
 
-- タイトル: これからの経営に不可欠なエンプロイーエクスペリエンス（EX）の役割と展望 - PwC
-  URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxNVUtYbDgzYV84NEU5cThlbUZ6VkJXRV9Pel93RDV5V3hkZVZSMllLaEVYYzB1cGl6dUV2RWtVRXhHRVRTdlVlMkpHSllSaGY0OTcwUzdpenB0YXg1WDJBYUZKaHRqZWwzc3BsNGs5WkozU2E2SGNZOFlaT1J0ZlZrZHVRa0U?oc=5
+- タイトル: EX向上の取り組みのなかでジェンダーギャップを考える - 日本の人事部
+  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE43YWdXR0R4RWgzMUMtYmQyb19sR3BLTHl5SlVOWWU4Z3QyZ1BrM0hJZHdRSjRMZWJITnE0NjJmR3lJM0dMcExvbFcyWmJqTWNsNG96dVNsaF9JZVBXQU1DbWdrZFRKbW5PeHd2MW5QMDZFcVhVQmc?oc=5
 
-- タイトル: 社員の多様な想いを叶える自律的なキャリア形成 ～EX向上施策として社内異動を活性化した事例を紹介～ - 日本の人事部
-  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE0yc19uUDd6VllCeHZNWUJBZ3pmQXdnaWJITm1TUEs3SV9OalFubi04TzNiZGp2d1ZMZ0VldXgtUXBNd3hrMkZnXzRSYnlQZnJDQ1J3eW9kTWJXRkZrX0V2MlNJN0hiSkF5c3h3NWQ1TlpwYkFOenc?oc=5
+- タイトル: EX（従業員体験価値）が鍵となる次世代エクスペリエンス戦略 - Nomura Research Institute (NRI)
+  URL: https://news.google.com/rss/articles/CBMifkFVX3lxTE8wLVRSTXpwSkFEeDJ3TzBDYjZrUWFmMjd2OHByeXo0bkhWazFYMkdJb0hCSlJCUFNPQ0FLS211OFI0VGY0OEh3YzV5Rjh4ZmI5a25KclkyNVZkTHd0RVZwblpSZ0VrVGxOYXZWaXNyZzBlMURmS3Roc2I4bjVBUQ?oc=5
 
 - タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
   URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
@@ -21,11 +21,11 @@
 - タイトル: 広報担当者の悩みを解決するノウハウやツールを紹介—コーポレート・コミュニケーション カンファレンス - AdverTimes.（アドタイ） by 宣伝会議
   URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iMXFKUDJsUWZzbmMycmJTNTUtMGNwLXcwd3Y3RlAwZkRwQVRqSkFSY0M0SkUwUm9MWEpEbGtXcThiZTk1dGl6M0JDZzltUkczeU9nbU9penpoUmIwOHhF?oc=5
 
-- タイトル: 【連載 3/4】世界が試し、マクニカが磨き上げた「組織を変える日本流製造業DXとは」〜マクニカしかできない「変革」を移植する伴走とマインドの正体〜 - 株式会社マクニカ
-  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE54dGZ1emlGZDFEX0ZfSnFCM0V0Qk9GWEhMNFkyX1F6N0hySHk2YUxObzNTb0FvcHUyVGhUQ01KUEtKeHkwR0NWRW9LeHVjeWFCQlVwV3g1X0N6WlVzc3hXRFNMM0w1SHJh?oc=5
+- タイトル: デジタル時代に求められる組織文化--円滑なDXの推進を支える6つの要件 - ZDNET Japan
+  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE01d0hvWUN4LXlpWWlxVVBqbDJkYXRrMmowZTY5T0hvUkZjZmpzUFRIY2RJa0NJSzRGbjhhYXlUNU5XZmdMWURvVGJILUtnazJkallz?oc=5
 
-- タイトル: 日本DX大賞2026業務変革部門で奨励賞を受賞しました～組織変革と独自AI基盤の一体推進が評価～ - 大阪ガス
-  URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vNVVnSjZHQVJOeVE0Q0k1QzlZVEVUa1AwRzF1a1J3QnZTaUhvc3V3WG9rX1FSekFwY2h3YmRBU1V5MGQ1LUhqVmNOTFZ6T0FxbVY0UGR1TVJzbmd4b0hIdmdR?oc=5
+- タイトル: 地場コンの現場監督によるボトムアップ型DX、成功の第1歩は「仲間づくり」から：地場ゼネコンのDX（1/3 ページ） - ITmedia
+  URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE1xWGlMcGoxTktBdnJuZ0VxdFZyMElJNlQ3cGROaVpIY1FidzVwMkY5TjNqX3l5NXNXb01PTkhUZXd1VmpKWFdoQUtnSkxYcGVHQTl1NnM2S2x0Tnc1dVlVUjlBX2NmaHc3VXpKbQ?oc=5
 
 
 # Manusへの追加指示
