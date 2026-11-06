@@ -1,31 +1,31 @@
-# 本日の執筆テーマ: RFP/選定基準
+# 本日の執筆テーマ: トレンド解説
 
-- 生成日時 (JST): 2026-11-05 14:48:43
+- 生成日時 (JST): 2026-11-06 14:44:43
 
 ## 収集された最新トピック
-- タイトル: 「従業員エンゲージメントと投資指標の関係性」 に関する調査結果を公開 - リンクアンドモチベーション
-  URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vdEdMdlZlckJRTkdSOXBmajYzMDAtUmFTbGdtWW82Z0RsNXFTU3RhS2NZN2JKX19CQUpUQjM0SndpZjdXRWxxTldQWENQWXIybWNCOVhWSzNCb29iREpkY0kyTTV3dw?oc=5
+- タイトル: 大阪府門真市の「職員エンゲージメント向上支援業務委託」を受託 - PR TIMES
+  URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFBCd25ZeVRtTjVjTVhKa2NLNlFzcDV2VmRjZWlELTU1a3ZwV1ROOFpIM0ZlQm90Q1NUQ20tbXNFOFVFRWwxb2I5OUM5WTZkZ3RPZ0VQb0ZXOUFKdFNIdlJOdTZIcjB3bE9tOUE?oc=5
 
-- タイトル: 日本の従業員エンゲージメントの低さを考える - ニッセイ基礎研究所
-  URL: https://news.google.com/rss/articles/CBMib0FVX3lxTE1SaWxYMFFNZXgzWVZVS3RKYllpTnVLSUNxY2oyTDZwMEJGN29PTUNyN2ZhYUZsNkh0Y1BjMl9wcERtNGdXbXdEeXJBYUtSSGRNVnljYm1SaGZ6X3h1ekhhREMzSVhSWTQtWV9nc002SdIBf0FVX3lxTE50RHR6X2VLMEdRcHdfV084SGczSGx4V0xpWjJGb240aXBoSjV2SHBQT0Q5ODdtUm4ybVo4VTVKUEtUV2w2dVRWY3A5WS1hUm9CYThYelJFZjNYYnZvWENfcnVQS2pMam9RTm9jTE1EVXBnOHN3eWNRdk1CZlJOcTA?oc=5
+- タイトル: 営業ゲーミフィケーションソフトウェア市場は、2025年に45億6,000万米ドルと推定され、2036年までに175億1,000万米ドルに達すると予測されており、予測期間（2026年～2036年） | Panorama Data Insights Ltd. - アットプレス
+  URL: https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrOTRpRnhuZ25Zd29IajZsa1M2ZHNFSHNDUHdFelMyNGgtNVFjTWFZcENjOGpCT1ZfX0xzNVhQNnZ1bkkxRk9xaGxKcjRzQQ?oc=5
 
-- タイトル: EX向上の取り組みのなかでジェンダーギャップを考える - 日本の人事部
-  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE43YWdXR0R4RWgzMUMtYmQyb19sR3BLTHl5SlVOWWU4Z3QyZ1BrM0hJZHdRSjRMZWJITnE0NjJmR3lJM0dMcExvbFcyWmJqTWNsNG96dVNsaF9JZVBXQU1DbWdrZFRKbW5PeHd2MW5QMDZFcVhVQmc?oc=5
+- タイトル: ビジネスの成長にはEX向上が不可欠に――みずほの挑戦から学ぶ (1/2) - MarkeZine（マーケジン）
+  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE02R2ZGMzBZMUs0eWNidWUtcVZEdERfTWJMUzYyRGxBR2lWdnJib214d2ExdVpIclJicFBpRTBRU0NWeXF3ZmQxQXJlY1NpS1o0cHZr?oc=5
 
-- タイトル: EX（従業員体験価値）が鍵となる次世代エクスペリエンス戦略 - Nomura Research Institute (NRI)
-  URL: https://news.google.com/rss/articles/CBMifkFVX3lxTE8wLVRSTXpwSkFEeDJ3TzBDYjZrUWFmMjd2OHByeXo0bkhWazFYMkdJb0hCSlJCUFNPQ0FLS211OFI0VGY0OEh3YzV5Rjh4ZmI5a25KclkyNVZkTHd0RVZwblpSZ0VrVGxOYXZWaXNyZzBlMURmS3Roc2I4bjVBUQ?oc=5
+- タイトル: 『ホンダ・ステップワゴン』に新グレード登場。快適性向上のAIR EXと個性強調のSPADA BLACK EDITION - autosport web
+  URL: https://news.google.com/rss/articles/CBMic0FVX3lxTE5IZXZ2UUYyWnQzZmpGanlJTi1zZHdEOUZCVElKbXVyRWxKUTk3TC1rUHBTcjROVlhCY3BlZEx0QWFOUzZPVDJrR00tcUstRTFjczVpYk9ialpRc0ZZOHU5aWxmaUtqYVZaQ3Z3M05SNnREM1k?oc=5
+
+- タイトル: 「馬のスーツ姿が、誰かの購買行動に繋がった日」AOKIとGMOサイン中の人対談 - アドクロ
+  URL: https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yZjhRcHc1MHpBWE1IQlJvSmtIRE9oOG05dVRZLVFtRU5ia05mTnhacjBQVE54ZUJtcjd1Z3J2TndsWTVfc2R5QQ?oc=5
 
 - タイトル: 話題になった広報企画100事例（アサヒグループ、味の素、カルビー、他5社） - 宣伝会議
   URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBQcXlqX1ZwYXNURUVVN1NXMmNGM3F1UjZxSkgxa3BRUGtBTWtnVm9RT0RZc1RxZDRFdUFXUFJrZ3hWMF8yZDRna0xKRzNwYTFfeDVKQ29oLTVLMlhFUEFiZkluclE3WVhoUG51V1FVQlU?oc=5
 
-- タイトル: 広報担当者の悩みを解決するノウハウやツールを紹介—コーポレート・コミュニケーション カンファレンス - AdverTimes.（アドタイ） by 宣伝会議
-  URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iMXFKUDJsUWZzbmMycmJTNTUtMGNwLXcwd3Y3RlAwZkRwQVRqSkFSY0M0SkUwUm9MWEpEbGtXcThiZTk1dGl6M0JDZzltUkczeU9nbU9penpoUmIwOHhF?oc=5
+- タイトル: 【連載 2/4】世界が試し、マクニカが磨き上げた「組織を変える日本流製造業DXとは」〜分断・対立・不動を超え、DXをカルチャーにする仕組み〜 - 株式会社マクニカ
+  URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE94TmZJNTNrZm14SHV4Q2RkbEZLQURsd2wxaldPUS1jSjBqY1FKREgwLTVwc0hUVHNTMjR6ajloa1BtVklreDRIamh1R2Nwa3hnd25PYWQzcDh2LXo2ZWw1ZW1sT0NQTWJS?oc=5
 
-- タイトル: デジタル時代に求められる組織文化--円滑なDXの推進を支える6つの要件 - ZDNET Japan
-  URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE01d0hvWUN4LXlpWWlxVVBqbDJkYXRrMmowZTY5T0hvUkZjZmpzUFRIY2RJa0NJSzRGbjhhYXlUNU5XZmdMWURvVGJILUtnazJkallz?oc=5
-
-- タイトル: 地場コンの現場監督によるボトムアップ型DX、成功の第1歩は「仲間づくり」から：地場ゼネコンのDX（1/3 ページ） - ITmedia
-  URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE1xWGlMcGoxTktBdnJuZ0VxdFZyMElJNlQ3cGROaVpIY1FidzVwMkY5TjNqX3l5NXNXb01PTkhUZXd1VmpKWFdoQUtnSkxYcGVHQTl1NnM2S2x0Tnc1dVlVUjlBX2NmaHc3VXpKbQ?oc=5
+- タイトル: DX（デジタルトランスフォーメーション）とは - SCSK株式会社
+  URL: https://news.google.com/rss/articles/CBMidkFVX3lxTFBvZTU4Z2k4YWstTGdJTWR1MHByRHY2eGQwa21PVTl3X18ySTJCNXI2dlVOaGQ0THBQUzhmX1FxRDFEcDRIOWlJcU1mUGE4dkJNNGtJSTYybzAxSnVXaC1MRGl6cnJQOWkyLXd0clpETUdTYXBiVGc?oc=5
 
 
 # Manusへの追加指示
